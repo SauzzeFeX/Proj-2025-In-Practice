@@ -280,6 +280,40 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch10-012",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "The House passed a new farm bill, the Farm, Food, and National Security Act of 2026 (H.R. 7567), on April 30, 2026, by a vote of 224-200, after taking up 57 floor amendments. The Senate Agriculture Committee released its own draft in June 2026. No White House or USDA statement demanding an open amendment process was found.",
+    "key_dates": [
+      {
+        "date": "2026-04-30",
+        "event": "House passes H.R. 7567 after considering 57 amendments."
+      },
+      {
+        "date": "2026-06-23",
+        "event": "Senate Agriculture chairman releases a discussion draft."
+      }
+    ],
+    "closeness": "The chapter asked the White House and USDA to insist on an open process with time for amendments, including from members outside the Agriculture Committees. The House did allow dozens of floor amendments, but no push by the White House or USDA for this was found.",
+    "uncertain": "The House rule's terms and whether it limited amendments were not checked. The final bill had not passed both chambers as of the newest sources (July to September 2026).",
+    "sources": [
+      {
+        "label": "CRS R48918: The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      },
+      {
+        "label": "Farm Bill Debate Shifts to Senate Following House Passage",
+        "publisher": "California Farm Bureau",
+        "type": "advocacy",
+        "url": "https://www.cfbf.com/ag-advocacy/advocacy-updates/newsletter-content/may-8-2026/farm-bill-debate-shifts-to-senate-following-house-passage"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "No White House or USDA statement on the farm bill process was found; check the House floor rule for H.R. 7567 and any administration statement of policy."
+  },
+  {
     "id": "ch10-013",
     "status": "not-done",
     "match": "none",
@@ -414,6 +448,29 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch10-020",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change to the WIC system in which one infant formula maker wins each state's contract was found. USDA's only WIC formula rule in this period, in December 2025, corrected errors in a 2023 rule. The fiscal 2026 farm spending law, signed November 12, 2025, again says WIC money may be used for formula only under the existing cost-containment and competitive bidding rules.",
+    "closeness": "The chapter wanted the single-brand state contract system changed. Congress kept it in place for fiscal 2026, and USDA made no policy change.",
+    "uncertain": "I searched the Federal Register for WIC and infant formula actions and checked the fiscal 2026 spending law (P.L. 119-37). A WIC change in a pending child nutrition or farm bill could have been missed. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "WIC: Implementation of the Access to Baby Formula Act of 2022; Correcting Amendments",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/17/2025-23089/special-supplemental-nutrition-program-for-women-infants-and-children-wic-implementation-of-the"
+      },
+      {
+        "label": "Public Law 119-37 (continuing and FY2026 agriculture appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/html/PLAW-119publ37.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch10-021",
     "status": "under-review",
     "match": "partial",
@@ -520,6 +577,16 @@
       }
     ],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-026",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch10-027",
@@ -676,6 +743,23 @@
       }
     ],
     "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-034",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or rule requiring producers to vote at least every five years on keeping checkoff programs was found. The House-passed 2026 farm bill would instead require USDA to publish checkoff boards' audits, budgets and evaluations.",
+    "closeness": "The chapter wanted regular producer votes on checkoff programs and marketing orders. The farm bill's transparency provision is a different, smaller step and has not become law.",
+    "uncertain": "I searched the Federal Register for checkoff referendum rules, searched all 119th Congress laws, and read the CRS comparison of the House and Senate farm bills (July 2026). Final farm bill text was not available.",
+    "sources": [
+      {
+        "label": "CRS R48918: The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      }
+    ],
+    "as_of": "2026-10-27"
   },
   {
     "id": "ch10-035",
@@ -912,80 +996,6 @@
         "publisher": "Nutrition Policy Institute, University of California",
         "type": "academic",
         "url": "https://ucanr.edu/sites/default/files/2026-01/NPI%20Response%20to%20the%20New%20Dietary%20Guidelines%20for%20Americans.pdf"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch10-012",
-    "status": "under-review",
-    "match": "broader",
-    "happened": "The House passed a new farm bill, the Farm, Food, and National Security Act of 2026 (H.R. 7567), on April 30, 2026, by a vote of 224-200, after taking up 57 floor amendments. The Senate Agriculture Committee released its own draft in June 2026. No White House or USDA statement demanding an open amendment process was found.",
-    "key_dates": [
-      {
-        "date": "2026-04-30",
-        "event": "House passes H.R. 7567 after considering 57 amendments."
-      },
-      {
-        "date": "2026-06-23",
-        "event": "Senate Agriculture chairman releases a discussion draft."
-      }
-    ],
-    "closeness": "The chapter asked the White House and USDA to insist on an open process with time for amendments, including from members outside the Agriculture Committees. The House did allow dozens of floor amendments, but no push by the White House or USDA for this was found.",
-    "uncertain": "The House rule's terms and whether it limited amendments were not checked. The final bill had not passed both chambers as of the newest sources (July to September 2026).",
-    "sources": [
-      {
-        "label": "CRS R48918: The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law",
-        "publisher": "Congressional Research Service (via EveryCRSReport)",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
-      },
-      {
-        "label": "Farm Bill Debate Shifts to Senate Following House Passage",
-        "publisher": "California Farm Bureau",
-        "type": "advocacy",
-        "url": "https://www.cfbf.com/ag-advocacy/advocacy-updates/newsletter-content/may-8-2026/farm-bill-debate-shifts-to-senate-following-house-passage"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "No White House or USDA statement on the farm bill process was found; check the House floor rule for H.R. 7567 and any administration statement of policy."
-  },
-  {
-    "id": "ch10-020",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No change to the WIC system in which one infant formula maker wins each state's contract was found. USDA's only WIC formula rule in this period, in December 2025, corrected errors in a 2023 rule. The fiscal 2026 farm spending law, signed November 12, 2025, again says WIC money may be used for formula only under the existing cost-containment and competitive bidding rules.",
-    "closeness": "The chapter wanted the single-brand state contract system changed. Congress kept it in place for fiscal 2026, and USDA made no policy change.",
-    "uncertain": "I searched the Federal Register for WIC and infant formula actions and checked the fiscal 2026 spending law (P.L. 119-37). A WIC change in a pending child nutrition or farm bill could have been missed. Newest source: December 2025.",
-    "sources": [
-      {
-        "label": "WIC: Implementation of the Access to Baby Formula Act of 2022; Correcting Amendments",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/12/17/2025-23089/special-supplemental-nutrition-program-for-women-infants-and-children-wic-implementation-of-the"
-      },
-      {
-        "label": "Public Law 119-37 (continuing and FY2026 agriculture appropriations)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/html/PLAW-119publ37.htm"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch10-034",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No law or rule requiring producers to vote at least every five years on keeping checkoff programs was found. The House-passed 2026 farm bill would instead require USDA to publish checkoff boards' audits, budgets and evaluations.",
-    "closeness": "The chapter wanted regular producer votes on checkoff programs and marketing orders. The farm bill's transparency provision is a different, smaller step and has not become law.",
-    "uncertain": "I searched the Federal Register for checkoff referendum rules, searched all 119th Congress laws, and read the CRS comparison of the House and Senate farm bills (July 2026). Final farm bill text was not available.",
-    "sources": [
-      {
-        "label": "CRS R48918: The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law",
-        "publisher": "Congressional Research Service (via EveryCRSReport)",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
       }
     ],
     "as_of": "2026-10-27"

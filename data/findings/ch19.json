@@ -1,1104 +1,1182 @@
 [
- {
-  "id": "ch19-001",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "The House Transportation Committee approved the BUILD America 250 Act (H.R. 8870) on May 22, 2026. It would send more than 90% of highway money by formula and fold several competitive grant programs into one new program. It has not passed the House. Congress extended current programs through Dec 11, 2026. DOT also canceled some previously awarded discretionary grants in 2025-2026.",
-  "key_dates": [
-   {
-    "date": "May 22, 2026",
-    "event": "House committee approves BUILD America 250 Act."
-   },
-   {
-    "date": "Jul 2026",
-    "event": "DOT letter to Congress proposes consolidating competitive grants and letting 12 programs expire."
-   },
-   {
-    "date": "Sep 2, 2026",
-    "event": "Stopgap law extends surface transportation programs through Dec 11, 2026."
-   }
-  ],
-  "legal": "None for the bill.",
-  "closeness": "Consolidating grants matches the chapter's fallback option. Neither the bill nor DOT's proposal abolishes discretionary grants entirely.",
-  "uncertain": "Whether a long-term bill passes and what its final grant structure will be. Newest source: September 2026.",
-  "sources": [
-   {
-    "label": "House passes Senate CR to extend federal government funding",
-    "publisher": "AASHTO Journal",
-    "type": "news",
-    "url": "https://aashtojournal.transportation.org/?p=41360"
-   },
-   {
-    "label": "A closer look at the BUILD America 250 Act",
-    "publisher": "Holland & Knight",
-    "type": "law-firm",
-    "url": "https://www.hklaw.com/en/insights/publications/2026/05/a-closer-look-at-the-build-america-250-act"
-   },
-   {
-    "label": "DOT Secretary Duffy reiterates surface transportation reauthorization priorities",
-    "publisher": "Holland & Knight",
-    "type": "law-firm",
-    "url": "https://www.hklaw.com/en/insights/publications/2026/07/dot-secretary-duffy-reiterates-surface-transportation-reauthorization"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-002",
-  "status": "in-effect",
-  "match": "direct",
-  "happened": "DOT proposed in May 2025 to bring back its 2019 procedures for rulemaking, guidance documents and enforcement, which had been rescinded in April 2021. It finalized the rule on April 27, 2026. The rule restates that guidance documents do not bind the public.",
-  "key_dates": [
-   {
-    "date": "2025-05-16",
-    "event": "Proposed rule published"
-   },
-   {
-    "date": "2026-04-27",
-    "event": "Final rule published"
-   }
-  ],
-  "closeness": "Directly matches the recommendation to revive the 2019 \"rule on rules.\"",
-  "uncertain": "No court challenge was found; newest source is April 2026.",
-  "sources": [
-   {
-    "label": "Administrative Rulemaking, Guidance, and Enforcement Procedures (DOT final rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08144/administrative-rulemaking-guidance-and-enforcement-procedures"
-   },
-   {
-    "label": "Administrative Rulemaking, Guidance, and Enforcement Procedures (DOT proposed rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/05/16/2025-08724/administrative-rulemaking-guidance-and-enforcement-procedures"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-004",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no new rule or law requiring Build America Bureau borrowers to show positive economic value to taxpayers or to put up a minimum equity share. On July 7, 2025, the Transportation Department instead ended its practice of limiting most TIFIA loans to 33 percent of project costs, letting loans cover up to the 49 percent the law allows.",
-  "closeness": "No matching action found. Letting federal loans cover a larger share of costs moves the other way from a minimum equity requirement.",
-  "uncertain": "Searched the Federal Register for Build America Bureau and TIFIA documents since January 2025, the local copy of all laws passed by the 119th Congress through October 2026, and the web. The Transportation Department's website blocked automated access, so the Bureau's current credit guide was not read.",
-  "sources": [
-   {
-    "label": "USDOT reduces restriction on TIFIA financing",
-    "publisher": "Progressive Railroading",
-    "type": "news",
-    "url": "https://progressiverailroading.com/federal_legislation_regulation/news/USDOT-reduces-restriction-on-TIFIA-financing--74924"
-   },
-   {
-    "label": "U.S. DOT enacts ARTBA recommendation removing TIFIA roadblock",
-    "publisher": "American Road & Transportation Builders Association",
-    "type": "advocacy",
-    "url": "https://www.artba.org/news/u-s-dot-enacts-artba-recommendation-removing-tifia-roadblock/"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-005",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no new rule or law requiring Build America Bureau projects to show they can repay under different interest rates.",
-  "closeness": "No matching action found.",
-  "uncertain": "Searched the Federal Register for Build America Bureau and TIFIA documents since January 2025, and the local copy of all laws passed by the 119th Congress through October 2026. Loan underwriting rules can change in guidance that is not published there, and the Transportation Department's website blocked automated access.",
-  "sources": [],
-  "as_of": "2026-10-28",
-  "recheck": "The Transportation Department's site blocked automated access; check the Build America Bureau's credit guide and 2026 report to Congress for interest rate stress tests."
- },
- {
-  "id": "ch19-006",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no regular study of whether Build America Bureau loans replace private financing.",
-  "closeness": "No matching action found.",
-  "uncertain": "Searched the Federal Register for Build America Bureau documents since January 2025, and the local copy of all laws passed by the 119th Congress through October 2026. An internal study might not be published, and the Transportation Department's website blocked automated access.",
-  "sources": [],
-  "as_of": "2026-10-28",
-  "recheck": "The Transportation Department's site blocked automated access; check its 2026 report to Congress and GAO for a study of private financing crowd-out."
- },
- {
-  "id": "ch19-007",
-  "status": "under-review",
-  "match": "direct",
-  "happened": "In April 2025 DOT and NHTSA announced a new automated vehicle framework. Since March 2026 NHTSA has proposed changes to several vehicle safety standards so cars without manual controls can comply, most recently for lighting in October 2026. It also granted Zoox an exemption in July 2026 to deploy a vehicle without some standard features.",
-  "key_dates": [
-   {
-    "date": "2025-04",
-    "event": "AV framework announced"
-   },
-   {
-    "date": "2026-03-16",
-    "event": "First FMVSS modernization proposals for ADS vehicles"
-   },
-   {
-    "date": "2026-07-31",
-    "event": "Zoox exemption granted"
-   }
-  ],
-  "closeness": "Same idea: updating standards to remove barriers for self-driving cars. Most changes are still proposals.",
-  "uncertain": "None of the FMVSS changes were confirmed final as of October 2026.",
-  "sources": [
-   {
-    "label": "AV Framework Updates and Request for Comments on Interim Guidance (NHTSA)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance"
-   },
-   {
-    "label": "Modernization of FMVSS No. 102 To Accommodate ADS-Equipped Vehicles (proposed rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05024/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-102-to-accommodate-ads-equipped"
-   },
-   {
-    "label": "Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles (proposed rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21794/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped"
-   },
-   {
-    "label": "Zoox: Grant of Temporary Exemption From Portions of the FMVSS for an ADS-Equipped Vehicle",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15485/zoox-grant-of-temporary-exemption-from-portions-of-various-requirements-of-the-federal-motor-vehicle"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-008",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "In October 2026 FMCSA granted Aurora and other carriers running Level 4 driverless trucks a limited five-year exemption to use cab-mounted warning beacons instead of placing warning triangles by hand, a rule that assumed a human driver. No broad rewrite of FMCSA rules for driverless trucks was found.",
-  "key_dates": [
-   {
-    "date": "2026-10-09",
-    "event": "FMCSA grants Aurora exemption"
-   }
-  ],
-  "closeness": "A case-by-case exemption removes one barrier to driverless trucks, but FMCSA has not clarified its rules as a whole.",
-  "uncertain": "FMCSA's 2026 regulatory agenda lists a planned rule on testing and deploying automated driving systems in trucks, but I found no published proposal yet. NHTSA proposed in March 2026 to update a vehicle safety standard for driverless vehicles, which is related but not an FMCSA operating rule. Newest source is from October 2026.",
-  "sources": [
-   {
-    "label": "FMCSA grants limited five-year exemption to Aurora for Level 4 ADS trucks (warning devices)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20734/parts-and-accessories-necessary-for-safe-operation-application-for-exemption-from-aurora-operations"
-   },
-   {
-    "label": "FMCSA's 2026 regulatory agenda: Top trucking rules to watch",
-    "publisher": "FleetOwner",
-    "type": "news",
-    "url": "https://www.fleetowner.com/news/regulations/news/55390583/trucking-regulations-2026-inside-the-dot-fmcsa-agenda"
-   },
-   {
-    "label": "NHTSA proposed rule: Modernization of FMVSS No. 102 To Accommodate ADS-Equipped Vehicles (Mar. 16, 2026)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05024/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-102-to-accommodate-ads-equipped"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-009",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "On April 24, 2025, NHTSA amended its Standing General Order on crash reporting for automated driving systems and driver-assist systems as part of a new automated vehicle framework. The amended order, in effect from June 2025, cut some reporting requirements, but companies must still report crashes.",
-  "key_dates": [
-   {
-    "date": "2025-04-24",
-    "event": "Third amended Standing General Order issued."
-   },
-   {
-    "date": "2025-06-16",
-    "event": "Amended reporting rules take effect."
-   },
-   {
-    "date": "2026-07-31",
-    "event": "NHTSA notice summarizes the streamlined order."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "NHTSA streamlined the order instead of reversing it. Reporting is still required, not voluntary.",
-  "uncertain": "I did not compare the old and new reporting rules in detail. Newest source: July 2026.",
-  "sources": [
-   {
-    "label": "AV Framework Updates and Request for Comments on Interim Guidance",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance"
-   },
-   {
-    "label": "Incident Reporting for ADS and Level 2 ADAS; information collection notice",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04240/agency-information-collection-activities-notice-and-request-for-comment-incident-reporting-for"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-011",
-  "status": "in-effect",
-  "match": "direct",
-  "happened": "NHTSA proposed lower fuel economy (CAFE) standards in December 2025 and finalized them on Sept 28, 2026. The rule resets standards for model years 2022-2031 and projects a fleet average of about 34.9 mpg in 2031. It takes effect Nov 30, 2026. Congress had already set CAFE penalties to zero in 2025.",
-  "key_dates": [
-   {
-    "date": "Dec 2025",
-    "event": "NHTSA proposes the reset (about 34.5 mpg)."
-   },
-   {
-    "date": "Sep 28, 2026",
-    "event": "DOT releases the final rule."
-   },
-   {
-    "date": "Nov 30, 2026",
-    "event": "Rule takes effect."
-   }
-  ],
-  "legal": "I found no lawsuit or ruling yet on the final rule.",
-  "closeness": "Very close: the chapter suggested about 35 mpg at model-year-2020 levels, and the final rule projects about 34.9 mpg.",
-  "uncertain": "Whether lawsuits will be filed. The rule was not yet in effect when I checked. Newest source: late September 2026.",
-  "sources": [
-   {
-    "label": "US NHTSA resets CAFE fuel economy standards for MY 2022-2031 vehicles",
-    "publisher": "DieselNet",
-    "type": "news",
-    "url": "https://dieselnet.com/news/2026/09nhtsa.php"
-   },
-   {
-    "label": "NHTSA finalizes lower CAFE standards",
-    "publisher": "CBT News",
-    "type": "news",
-    "url": "https://www.cbtnews.com/nhtsa-finalizes-lower-cafe-standards/"
-   },
-   {
-    "label": "President Trump and Secretary Duffy finalize Freedom Means Affordable Cars",
-    "publisher": "U.S. Department of Transportation",
-    "type": "government",
-    "url": "https://www.transportation.gov/briefing-room/president-trump-transportation-secretary-duffy-finalize-freedom-means-affordable-cars"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-012",
-  "status": "in-effect-challenged",
-  "match": "partial",
-  "happened": "On Feb 12, 2026 EPA rescinded its 2009 endangerment finding and repealed federal greenhouse gas standards for cars and trucks. The repeal took effect Apr 20, 2026. That leaves DOT's fuel economy rules as the main federal standard for vehicle efficiency.",
-  "key_dates": [
-   {
-    "date": "Feb 12, 2026",
-    "event": "EPA announces the repeal."
-   },
-   {
-    "date": "Apr 20, 2026",
-    "event": "Repeal takes effect."
-   }
-  ],
-  "legal": "Health and environmental groups, and separately about two dozen states and cities, sued in the D.C. Circuit. I found no ruling.",
-  "closeness": "Goes further than the recommendation. Instead of making EPA rules work with DOT's, EPA removed its vehicle carbon limits. Same action as the project's \"endangerment-finding\" story.",
-  "uncertain": "The outcome of the D.C. Circuit cases. Newest source: March 2026 for the lawsuits.",
-  "sources": [
-   {
-    "label": "EPA rescinds 2009 endangerment finding, eliminates federal vehicle GHG standards",
-    "publisher": "Morgan Lewis",
-    "type": "law-firm",
-    "url": "https://www.morganlewis.com/pubs/2026/02/epa-rescinds-2009-endangerment-finding-eliminates-federal-vehicle-greenhouse-gas-standards"
-   },
-   {
-    "label": "Groups sue Trump's EPA over repeal",
-    "publisher": "PBS NewsHour",
-    "type": "news",
-    "url": "https://www.pbs.org/newshour/amp/politics/groups-sue-trumps-epa-over-repeal-of-rule-that-supported-climate-protections"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-013",
-  "status": "in-effect-challenged",
-  "match": "partial",
-  "happened": "In June 2025 Congress passed, and President Trump signed, resolutions under the Congressional Review Act that revoked EPA waivers for California's Advanced Clean Cars II rule (which phases out new gas car sales by 2035) and two truck rules. In June 2026 EPA tried to treat four more California waivers the same way, but a federal judge blocked that in September 2026.",
-  "key_dates": [
-   {
-    "date": "Jun 2025",
-    "event": "President signs resolutions revoking three California waivers."
-   },
-   {
-    "date": "Jun 2025",
-    "event": "California and other states sue (N.D. Cal.)."
-   },
-   {
-    "date": "Sep 2, 2026",
-    "event": "Judge Beryl Howell (D.D.C.) blocks EPA's move on four more waivers."
-   }
-  ],
-  "legal": "The states' suit over the 2025 resolutions is pending before Judge Haywood Gilliam in the Northern District of California; I found no ruling on the motion to dismiss. In D.C., Judge Howell granted a preliminary injunction on Sept 2, 2026 against EPA's reclassification of four other waivers; an appeal was reported.",
-  "closeness": "The main goal (ending California's gas-car phase-out) was reached, but through Congress rather than an EPA revocation. I did not find a separate action on California fuel economy rules.",
-  "uncertain": "Outcome of both court cases. Newest source: September 2026.",
-  "sources": [
-   {
-    "label": "Judge bars EPA effort to send California vehicle emissions rules to Congress",
-    "publisher": "Insurance Journal (Reuters)",
-    "type": "news",
-    "url": "https://amp.insurancejournal.com/news/west/2026/09/03/883831.htm"
-   },
-   {
-    "label": "Case: State of California v. United States",
-    "publisher": "Civil Rights Litigation Clearinghouse",
-    "type": "academic",
-    "url": "https://clearinghouse.net/case/46712/"
-   },
-   {
-    "label": "California will not waver in defending itself",
-    "publisher": "California Attorney General",
-    "type": "government",
-    "url": "https://oag.ca.gov/news/press-releases/california-will-not-waver-defending-itself-federal-overreach-attorney-general"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-014",
-  "status": "partly-done",
-  "match": "broader",
-  "happened": "In early 2025 the Transportation Secretary rescinded department orders tied to climate change, equity and diversity goals, and issued an order on economic analysis in March 2025. FHWA removed several old regulations in 2025. A House bill approved in committee in May 2026 would send more highway money by formula.",
-  "key_dates": [
-   {
-    "date": "2025-03-10",
-    "event": "DOT Order 2100.7 issued"
-   },
-   {
-    "date": "2026-05-22",
-    "event": "House committee approves BUILD America 250 Act"
-   }
-  ],
-  "closeness": "These steps move FHWA away from non-highway priorities in a general way, but no formal refocusing of the agency was found.",
-  "uncertain": "The reauthorization bill had not passed the House as of the newest sources.",
-  "sources": [
-   {
-    "label": "Surface Transportation Reauthorization: Public Transportation",
-    "publisher": "Congressional Research Service (via EveryCRSReport)",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/R48644.html"
-   },
-   {
-    "label": "Surface Transportation Reauthorization: Federal Highway Programs",
-    "publisher": "Congressional Research Service (via EveryCRSReport)",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/R48845.html"
-   },
-   {
-    "label": "Rescinding Regulations on Projects of National and Regional Significance Evaluation and Rating (FHWA)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/05/30/2025-09714/rescinding-regulations-on-projects-of-national-and-regional-significance-evaluation-and-rating"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-015",
-  "status": "partly-done",
-  "match": "broader",
-  "happened": "FHWA rescinded several old regulations in 2025, such as rules on the Forest Highway Program and on rating projects of national significance. A House surface transportation bill approved in committee in May 2026 would give states more money by formula and fold competitive grants into one program.",
-  "key_dates": [
-   {
-    "date": "2025-11-17",
-    "event": "Forest Highway Program rules rescinded"
-   },
-   {
-    "date": "2026-05-22",
-    "event": "House committee approves BUILD America 250 Act"
-   }
-  ],
-  "closeness": "Some rules were removed and a bill would shift power to states, but no broad reduction in federal involvement has taken effect. See ch19-001.",
-  "uncertain": "The bill is not law; newest source is September 2026.",
-  "sources": [
-   {
-    "label": "Rescinding Requirements Regarding the Forest Highway Program (FHWA)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/11/17/2025-19905/rescinding-requirements-regarding-the-forest-highway-program"
-   },
-   {
-    "label": "Rescinding Regulations on Projects of National and Regional Significance Evaluation and Rating (FHWA)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/05/30/2025-09714/rescinding-regulations-on-projects-of-national-and-regional-significance-evaluation-and-rating"
-   },
-   {
-    "label": "Surface Transportation Reauthorization: Federal Highway Programs",
-    "publisher": "Congressional Research Service (via EveryCRSReport)",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/R48845.html"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-016",
-  "status": "in-effect",
-  "match": "direct",
-  "happened": "DOT proposed in October 2025 to bring back hearing procedures for discretionary airline consumer protection rules on unfair or deceptive practices. It issued a final rule on July 1, 2026.",
-  "key_dates": [
-   {
-    "date": "2025-10-30",
-    "event": "Proposed rule published"
-   },
-   {
-    "date": "2026-07-01",
-    "event": "Final rule published"
-   }
-  ],
-  "closeness": "Matches the recommendation to restore the Trump-era process.",
-  "uncertain": "Whether the final rule copies the 2020 procedures exactly was not checked.",
-  "sources": [
-   {
-    "label": "Procedures in Regulating and Enforcing Unfair or Deceptive Practices (DOT final rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13295/procedures-in-regulating-and-enforcing-unfair-or-deceptive-practices"
-   },
-   {
-    "label": "Procedures in Regulating and Enforcing Unfair or Deceptive Practices (DOT proposed rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/10/30/2025-19692/procedures-in-regulating-and-enforcing-unfair-or-deceptive-practices"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-018",
-  "status": "not-done",
-  "match": "none",
-  "happened": "No change to foreign ownership limits on U.S. airlines was found.",
-  "closeness": "Nothing matching was found.",
-  "uncertain": "I checked the Federal Register for DOT actions and searched news for a 2025-2026 review or bill on the 25% foreign ownership cap; I found only older proposals (2003 and a later House bill), none enacted.",
-  "sources": [],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-020",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no rulemaking to change how takeoff and landing slots are given out at crowded airports. In June 2026, the FAA extended its existing slot orders at LaGuardia and JFK airports until October 2028.",
-  "closeness": "No matching action found. The FAA kept the current slot orders in place.",
-  "uncertain": "I searched the Federal Register for FAA and DOT slot rulemakings since January 2025 and found only extensions and routine notices.",
-  "sources": [
-   {
-    "label": "Operating Limitations at New York LaGuardia Airport (extension of order)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12592/operating-limitations-at-new-york-laguardia-airport"
-   },
-   {
-    "label": "Operating Limitations at John F. Kennedy International Airport (extension of order)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12591/operating-limitations-at-john-f-kennedy-international-airport"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-021",
-  "status": "not-done",
-  "match": "none",
-  "happened": "No FAA rule lowering the 1,500-hour requirement for airline copilots, or expanding simulator credit, was found.",
-  "closeness": "Nothing matching was found.",
-  "uncertain": "I checked the Federal Register for FAA pilot qualification rules and searched news for 2025-2026 changes; I found no rule, petition grant or bill moving. A news report says FAA Administrator Bryan Bedford has said he supports the 1,500-hour rule.",
-  "sources": [],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-022",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "The Essential Air Service program has not been ended. The administration's fiscal 2026 budget asked Congress to cut it, but the February 2026 spending law (P.L. 119-75) gave it about $514 million. The fiscal 2027 budget, released April 3, 2026, again proposed cutting it by about $372 million and changing eligibility; Congress has not acted on that request.",
-  "key_dates": [
-   {
-    "date": "2026-02-03",
-    "event": "FY2026 spending law funds EAS at about $514 million."
-   },
-   {
-    "date": "2026-04-03",
-    "event": "FY2027 budget proposes about $372 million cut."
-   }
-  ],
-  "closeness": "Smaller than the recommendation: the administration proposed deep cuts, not ending the program, and Congress rejected the first cut.",
-  "uncertain": "Final fiscal 2027 funding is not settled; the stopgap law for fiscal 2027 (P.L. 119-103) keeps EAS running. Newest source is from August 2026.",
-  "sources": [
-   {
-    "label": "Trump Targets Essential Air Service Again (Apr. 3, 2026)",
-    "publisher": "AirlineGeeks",
-    "type": "news",
-    "url": "https://airlinegeeks.com/2026/04/03/trump-targets-essential-air-service-again/"
-   },
-   {
-    "label": "Trump administration threatens deep cuts to program that funds air travel in rural Alaska",
-    "publisher": "Alaska Public Media",
-    "type": "news",
-    "url": "https://alaskapublic.org/news/alaska-desk/2026-08-07/trump-administration-threatens-deep-cuts-to-program-that-funds-air-travel-in-rural-alaska"
-   },
-   {
-    "label": "Public Law 119-75 (FY2026 consolidated appropriations)",
-    "publisher": "GovInfo",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-023",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "On October 9, 2025, the Transportation Department posted a proposed order to bar seven Chinese airlines from flying over Russia on passenger flights between China and the United States. U.S. airlines cannot use Russian airspace. The order would take effect 30 days after a final order.",
-  "key_dates": [
-   {
-    "date": "2025-10-09",
-    "event": "DOT posts an order to show cause proposing to bar Chinese airlines from Russian airspace on U.S. routes."
-   },
-   {
-    "date": "2025-10-14",
-    "event": "Chinese airlines, U.S. airlines and trade groups file comments."
-   }
-  ],
-  "closeness": "Same idea for China's airlines, but it does not cover other foreign airlines serving East and South Asia, such as Indian carriers. It was proposed, not final, as far as I found.",
-  "uncertain": "As of October 2026, the public docket (DOT-OST-2025-1822) listed no documents after October 16, 2025, and an October 2026 web search found only coverage of the proposal. A final order could have been issued elsewhere, but none was found.",
-  "sources": [
-   {
-    "label": "Order to Show Cause Proposing to Condition Certain Foreign Air Carrier Permits and Exemptions (Oct. 2025), docket DOT-OST-2025-1822",
-    "publisher": "U.S. Department of Transportation (via Regulations.gov)",
-    "type": "government",
-    "url": "https://www.regulations.gov/document/DOT-OST-2025-1822-0001"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-025",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "On June 6, 2025, President Trump signed two drone orders. Executive Order 14307 told DOT and the FAA to speed drone rules and start a pilot program for electric air taxis, and Executive Order 14305 created a federal task force on drone threats led by the National Security Advisor.",
-  "key_dates": [
-   {
-    "date": "2025-06-06",
-    "event": "Executive Orders 14305 and 14307 signed."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "These orders coordinate drone and air mobility policy across agencies, but I found no single interagency clearinghouse covering spectrum, drones and air mobility as recommended.",
-  "uncertain": "I did not check how the task force or pilot program has worked in practice. Newest source: June 2025.",
-  "sources": [
-   {
-    "label": "Unleashing American Drone Dominance (Executive Order 14307)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/06/11/2025-10814/unleashing-american-drone-dominance"
-   },
-   {
-    "label": "Restoring American Airspace Sovereignty (Executive Order 14305)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/06/11/2025-10803/restoring-american-airspace-sovereignty"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-026",
-  "status": "not-done",
-  "match": "none",
-  "happened": "No step ending FAA research and development was found. The February 2026 spending law (P.L. 119-75) gave the FAA $290 million for research, engineering and development for fiscal 2026.",
-  "closeness": "Nothing matching was found.",
-  "uncertain": "I checked the fiscal 2026 spending law and the Federal Register; FAA research funding continues. Budget requests for later years were not reviewed in detail.",
-  "sources": [
-   {
-    "label": "Public Law 119-75 (FY2026 consolidated appropriations)",
-    "publisher": "GovInfo",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-028",
-  "status": "not-done",
-  "match": "none",
-  "happened": "No law or formal administration proposal in 2025-2026 to separate the FAA from DOT or air traffic control from the FAA was found. In 2025 Transportation Secretary Sean Duffy rejected privatization, saying \"This is not about separating anybody,\" and the Senate's 2026 FAA spending bill said the committee does not support moving air traffic control to a private corporation.",
-  "legal": "None.",
-  "closeness": "No matching action found. The administration's focus has been funding to modernize the existing FAA system.",
-  "uncertain": "Two targeted searches (October 2026) found no 2025-2026 bill or plan that advanced; results about air traffic control corporations were from earlier efforts in 2016-2018.",
-  "sources": [
-   {
-    "label": "Trump once championed FAA privatization; now the idea appears to be off the table",
-    "publisher": "Colorado Politics",
-    "type": "news",
-    "url": "https://www.coloradopolitics.com/2025/06/09/trump-once-championed-faa-privatization-now-the-idea-appears-to-be-off-the-table/"
-   },
-   {
-    "label": "Senate ATC modernization funding bill blocks privatization",
-    "publisher": "AOPA",
-    "type": "news",
-    "url": "https://aopa.org/news-and-media/all-news/2025/july/30/senate-atc-modernization-funding-bill-blocks-privatization"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-029",
-  "status": "not-done",
-  "match": "none",
-  "happened": "No law takes FAA funding off the yearly appropriations process. The July 2025 reconciliation law gave a one-time $12.5 billion for air traffic control facilities and equipment, and the administration has asked Congress for billions more, but the FAA is still funded each year by Congress.",
-  "legal": "None.",
-  "closeness": "No matching action found. One-time modernization money is not the permanent change in how the FAA is funded that the chapter recommends.",
-  "uncertain": "Two searches (October 2026) found no proposal to move FAA funding outside annual appropriations. The project's copy of all 2025-2026 laws shows only the one-time reconciliation money and yearly spending laws.",
-  "sources": [
-   {
-    "label": "Public Law 119-21 (2025 reconciliation law), sec. 40003",
-    "publisher": "GovInfo",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
-   },
-   {
-    "label": "Trump administration needs another $19 billion to fully revamp air traffic control",
-    "publisher": "AJOT (Reuters)",
-    "type": "news",
-    "url": "https://www.ajot.com/news/trump-administration-needs-another-19-billion-to-fully-revamp-air-traffic-control"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-031",
-  "status": "not-done",
-  "match": "none",
-  "happened": "No law separating the Air Traffic Organization from the FAA or moving its headquarters out of Washington was found. The February 2026 spending law (P.L. 119-75, sec. 119G) bars using any funds to plan or carry out the privatization or separation of the FAA's air traffic functions. In 2025 the Transportation Secretary said modernization was \"not about separating anybody.\"",
-  "closeness": "Opposite direction: Congress barred spending on separating air traffic control. See ch19-028.",
-  "uncertain": "I checked every law passed by the 119th Congress through October 2026; none separates or moves the Air Traffic Organization.",
-  "sources": [
-   {
-    "label": "Trump once championed FAA privatization; now the idea appears to be off the table",
-    "publisher": "Colorado Politics",
-    "type": "news",
-    "url": "https://www.coloradopolitics.com/2025/06/09/trump-once-championed-faa-privatization-now-the-idea-appears-to-be-off-the-table/"
-   },
-   {
-    "label": "Public Law 119-75 (FY2026 consolidated appropriations)",
-    "publisher": "GovInfo",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-032",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no law or formal proposal replacing aviation taxes with air traffic service fees paid to the Air Traffic Organization.",
-  "legal": "None.",
-  "closeness": "No matching action found.",
-  "uncertain": "Two searches (October 2026) on air traffic user fees and privatization found no 2025-2026 proposal that advanced; user fees have come up mainly as part of earlier privatization plans, which Secretary Duffy rejected.",
-  "sources": [
-   {
-    "label": "Trump once championed FAA privatization; now the idea appears to be off the table",
-    "publisher": "Colorado Politics",
-    "type": "news",
-    "url": "https://www.coloradopolitics.com/2025/06/09/trump-once-championed-faa-privatization-now-the-idea-appears-to-be-off-the-table/"
-   },
-   {
-    "label": "Senate ATC modernization funding bill blocks privatization",
-    "publisher": "AOPA",
-    "type": "news",
-    "url": "https://aopa.org/news-and-media/all-news/2025/july/30/senate-atc-modernization-funding-bill-blocks-privatization"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-033",
-  "status": "not-done",
-  "match": "none",
-  "happened": "No law letting the Air Traffic Organization issue revenue bonds was found. Instead, the July 2025 reconciliation law (P.L. 119-21, sec. 40003) gave the FAA direct funding, about $12.5 billion, for air traffic control equipment, radar and telecommunications through 2029.",
-  "closeness": "Different mechanism: Congress paid for modernization directly from the Treasury rather than through bonds. See ch19-029.",
-  "uncertain": "I checked every law passed by the 119th Congress through October 2026; none authorizes air traffic control revenue bonds.",
-  "sources": [
-   {
-    "label": "Public Law 119-21 (July 2025 reconciliation law)",
-    "publisher": "GovInfo",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
-   },
-   {
-    "label": "Trump once championed FAA privatization; now the idea appears to be off the table",
-    "publisher": "Colorado Politics",
-    "type": "news",
-    "url": "https://www.coloradopolitics.com/2025/06/09/trump-once-championed-faa-privatization-now-the-idea-appears-to-be-off-the-table/"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-034",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "The July 4, 2025 reconciliation law (P.L. 119-21) created a fee on each licensed space launch and reentry starting in 2026, based on payload weight and capped at $30,000 per launch in 2026, rising in later years. The same law gave the FAA billions of dollars for air traffic control upgrades, including $4.75 billion for telecommunications modernization.",
-  "key_dates": [
-   {
-    "date": "2025-07-04",
-    "event": "P.L. 119-21 signed, creating space launch and reentry user fees and funding air traffic control upgrades."
-   }
-  ],
-  "closeness": "Congress set user fees for space launches, one of the new airspace users named. I found no fee for air taxis or drones, and no deadline after which non-digital towers lose funding.",
-  "uncertain": "Whether the FAA has begun collecting the launch fees was not checked.",
-  "sources": [
-   {
-    "label": "Public Law 119-21 (One Big Beautiful Bill Act), sections 40003 and 40004",
-    "publisher": "U.S. Government Publishing Office",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-035",
-  "status": "not-done",
-  "match": "none",
-  "happened": "No change to the legal definition of public transit to include privately provided services was found. The House surface transportation bill (H.R. 8870, introduced May 19, 2026) amends the transit definitions section but does not change the definition of public transportation.",
-  "closeness": "Nothing matching was found.",
-  "uncertain": "I read the introduced text of H.R. 8870; the committee-approved version was not available to check. The bill has not become law.",
-  "sources": [
-   {
-    "label": "H.R. 8870 (introduced text)",
-    "publisher": "GovInfo",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8870ih/html/BILLS-119hr8870ih.htm"
-   },
-   {
-    "label": "Surface Transportation Reauthorization: Public Transportation",
-    "publisher": "Congressional Research Service (via EveryCRSReport)",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/R48644.html"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-036",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "The Capital Investment Grants program was not ended. A March 10, 2025 DOT order calls for sound economic analysis in DOT programs. In November 2025 FTA changed how it rates environmental benefits of these projects, and on October 1, 2026 it proposed guidance that would raise or lower a project's federal share based mainly on its cost-effectiveness and ridership ratings, plus a boost for areas with higher birth or marriage rates.",
-  "key_dates": [
-   {
-    "date": "2025-03-10",
-    "event": "DOT Order 2100.7 issued."
-   },
-   {
-    "date": "2025-11-12",
-    "event": "FTA final guidance changes environmental benefits rating."
-   },
-   {
-    "date": "2026-10-01",
-    "event": "FTA proposes tying federal share to cost-effectiveness and ridership."
-   }
-  ],
-  "closeness": "FTA is putting more weight on cost-effectiveness, which already was one rating factor, but it has not adopted a strict cost-benefit test that each project must pass.",
-  "uncertain": "The October 2026 guidance is only proposed. The House bill H.R. 8870 would also let FTA use alternative cost-effectiveness measures. Newest source is from October 2026.",
-  "sources": [
-   {
-    "label": "Notice of Availability of Proposed Policy Guidance for the Capital Investment Grants Program (Oct. 1, 2026)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20179/notice-of-availability-of-proposed-policy-guidance-for-the-capital-investment-grants-program"
-   },
-   {
-    "label": "Notice of Availability of Final Policy Guidance for the Capital Investment Grants Program (Nov. 12, 2025)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/11/12/2025-19848/notice-of-availability-of-final-policy-guidance-for-the-capital-investment-grants-program"
-   },
-   {
-    "label": "Department of Transportation's \"Family Friendly\" Policy and Public Transit Project Funding",
-    "publisher": "Congressional Research Service (via EveryCRSReport)",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/IN12748.html"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-037",
-  "status": "not-done",
-  "match": "none",
-  "happened": "No change to how DOT applies the transit labor protections (formerly section 13(c), now 49 U.S.C. 5333(b)) was found. CRS notes private contractors have asked for changes.",
-  "closeness": "Nothing matching was found.",
-  "uncertain": "Federal Register searches found only routine Labor Department paperwork renewals for the 5333(b) program (December 2025, March 2026). The House bill H.R. 8870 makes only technical changes to section 5333(b). No reinterpretation was found.",
-  "sources": [
-   {
-    "label": "Surface Transportation Reauthorization: Public Transportation",
-    "publisher": "Congressional Research Service (via EveryCRSReport)",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/R48644.html"
-   },
-   {
-    "label": "DOL information collection: Protections for Transit Workers Under Section 5333(b) (Mar. 5, 2026)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04362/agency-information-collection-activities-submission-for-omb-review-comment-request-protections-for"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-038",
-  "status": "not-done",
-  "match": "none",
-  "happened": "The administration proposed eliminating the Highway Trust Fund's Mass Transit Account and repeated that in a July 2026 letter to Congress. The House Transportation Committee's leaders opposed it, and it was left out of the reauthorization bill the committee approved in May 2026.",
-  "key_dates": [
-   {
-    "date": "May 22, 2026",
-    "event": "House committee approves a bill without the transit account cut."
-   },
-   {
-    "date": "Jul 2026",
-    "event": "DOT letter repeats the proposal."
-   }
-  ],
-  "legal": "None.",
-  "closeness": "The proposal matches the recommendation, but Congress has not adopted it, and federal transit funding continues.",
-  "uncertain": "Whether the proposal returns in a final reauthorization law. Current programs run through Dec 11, 2026. Newest source: July 2026.",
-  "sources": [
-   {
-    "label": "DOT Secretary Duffy reiterates surface transportation reauthorization priorities",
-    "publisher": "Holland & Knight",
-    "type": "law-firm",
-    "url": "https://www.hklaw.com/en/insights/publications/2026/07/dot-secretary-duffy-reiterates-surface-transportation-reauthorization"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-039",
-  "status": "not-done",
-  "match": "none",
-  "happened": "FRA finalized a two-person train crew rule in April 2024, before this administration. It has not been withdrawn: in April 2026 FRA published railroad petitions for special approval of one-person crews under that rule, and on August 11, 2026 the Eleventh Circuit upheld the rule against a challenge by railroads.",
-  "legal": "U.S. Court of Appeals for the Eleventh Circuit upheld the 2024 rule in a 2-1 decision on August 11, 2026. Railroad groups asked for rehearing by the full court.",
-  "closeness": "Nothing matching was found. One-person crew requests are being handled under the existing rule's approval process.",
-  "uncertain": "Railroads asked the administration to repeal the rule and a House bill (Train Crew Choice Act) would do so, but I found no FRA proposal to rescind it. Newest source is from August 2026.",
-  "sources": [
-   {
-    "label": "Petitions for Special Approval of One-Person Train Crew Operations (FRA notice)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/04/14/2026-07181/petitions-for-special-approval-of-one-person-train-crew-operations"
-   },
-   {
-    "label": "Federal court upholds challenge to FRA's two-person rail crew rule (Aug. 12, 2026)",
-    "publisher": "FreightWaves",
-    "type": "news",
-    "url": "https://www.freightwaves.com/news/federal-court-upholds-challenge-to-fras-two-person-rail-crew-rule"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-040",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "In April 2025 the Association of American Railroads asked the Federal Railroad Administration to let railroads replace some visual track inspections with automated track geometry measurement. FRA issued a decision letter in December 2025. In 2026, several large railroads and Amtrak filed notices that they were starting inspections under the waiver.",
-  "key_dates": [
-   {
-    "date": "2025-05-09",
-    "event": "FRA publishes the railroads' waiver petition on visual track inspections."
-   },
-   {
-    "date": "2025-12-05",
-    "event": "FRA decision letter posted in the docket."
-   },
-   {
-    "date": "2026-06-25",
-    "event": "Decision on a rail union's request for reconsideration posted."
-   }
-  ],
-  "closeness": "This allows technology-based inspection through a waiver, not by updating the track inspection rules themselves as the chapter proposed.",
-  "uncertain": "I could not open the decision letter, so its exact terms come from the docket listing and later railroad filings. I also could not open the outcome of the union's reconsideration request.",
-  "sources": [
-   {
-    "label": "Notice of Petition for Waiver of Compliance (AAR, track inspections), May 9, 2025",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/05/09/2025-08199/notice-of-petition-for-waiver-of-compliance"
-   }
-  ],
-  "as_of": "2026-10-28",
-  "recheck": "The decision letters in docket FRA-2025-0059 still could not be opened (regulations.gov API rate limit); read the December 2025 decision and June 2026 reconsideration decision to confirm terms."
- },
- {
-  "id": "ch19-041",
-  "status": "in-effect",
-  "match": "partial",
-  "happened": "On August 31, 2026, the Federal Railroad Administration issued a final rule on brake inspections, effective September 30, 2026. It writes long-standing waivers into the rules, including longer inspection intervals for some electronic air brake systems and fewer paper recording steps.",
-  "key_dates": [
-   {
-    "date": "2025-07-01",
-    "event": "FRA proposes brake inspection changes."
-   },
-   {
-    "date": "2026-08-31",
-    "event": "Final rule published; effective September 30, 2026."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "Extends inspection intervals, as recommended. I did not confirm that it fully allows electronic tracking of brake inspections, which was the core of the rule the chapter named.",
-  "uncertain": "I did not read the full rule text on electronic records. Newest source: August 2026.",
-  "sources": [
-   {
-    "label": "Amendments to Brake System Maintenance and Inspection Requirements (final rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17784/amendments-to-brake-system-maintenance-and-inspection-requirements"
-   },
-   {
-    "label": "Amendments to Brake System Maintenance and Inspection Requirements (proposed rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/07/01/2025-12168/amendments-to-brake-system-maintenance-and-inspection-requirements"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-042",
-  "status": "under-review",
-  "match": "direct",
-  "happened": "FRA finalized a rule requiring certification of train dispatchers on May 21, 2024. On May 15, 2026, FRA proposed rescinding that rule after petitions for reconsideration, and it extended the comment period to August 13, 2026.",
-  "key_dates": [
-   {
-    "date": "2024-05-21",
-    "event": "Dispatcher certification final rule issued."
-   },
-   {
-    "date": "2026-05-15",
-    "event": "FRA proposes rescinding the rule."
-   },
-   {
-    "date": "2026-07-14",
-    "event": "Comment period extended to August 13, 2026."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "A direct match for dispatchers, but the repeal is only proposed. I did not find a certification rule for signal employees to compare.",
-  "uncertain": "No final repeal had been published as of my newest source, July 2026.",
-  "sources": [
-   {
-    "label": "Certification of Dispatchers (proposed rescission)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09791/certification-of-dispatchers"
-   },
-   {
-    "label": "Certification of Dispatchers; Extension of Comment Period",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14160/certification-of-dispatchers-extension-of-comment-period"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-043",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "FRA issued a rule in January 2024 requiring emergency escape breathing equipment for train crews. On August 7, 2025, FRA extended the compliance dates after a petition for reconsideration, but did not repeal the rule.",
-  "key_dates": [
-   {
-    "date": "2024-01-26",
-    "event": "Breathing apparatus final rule published."
-   },
-   {
-    "date": "2025-08-07",
-    "event": "FRA extends compliance dates."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "The requirement was delayed, not dropped. The chapter opposed the rule entirely.",
-  "uncertain": "I did not find a proposal to repeal the rule. Newest source: August 2025.",
-  "sources": [
-   {
-    "label": "Emergency Escape Breathing Apparatus Standards (extension of compliance dates)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/08/07/2025-15022/emergency-escape-breathing-apparatus-standards"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch19-045",
-  "status": "not-done",
-  "match": "none",
-  "happened": "The Maritime Administration remains part of DOT, and it issued rules as a DOT agency in 2025 and 2026. No law moving it or the Merchant Marine Academy to Homeland Security or Defense was found.",
-  "closeness": "Nothing matching was found.",
-  "uncertain": "A news search found no 2025-2026 bill to move MARAD or the Merchant Marine Academy, and no law passed by the 119th Congress through October 2026 does so.",
-  "sources": [
-   {
-    "label": "Tanker Security Program (MARAD final rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12547/tanker-security-program"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch19-046",
-  "status": "partly-done",
-  "match": "broader",
-  "happened": "In March 2026 the administration issued a temporary Jones Act waiver, citing high fuel prices and national security. It let foreign ships carry fuel between U.S. ports. It was extended, most recently to Nov 15, 2026. Congress has not repealed or changed the law.",
-  "key_dates": [
-   {
-    "date": "Mar 2026",
-    "event": "150-day Jones Act waiver issued."
-   },
-   {
-    "date": "Jul 1, 2026",
-    "event": "House Speaker and about 50 Republicans ask the White House to let it expire."
-   },
-   {
-    "date": "Aug 17, 2026",
-    "event": "Waiver extended through Nov 15, 2026."
-   }
-  ],
-  "legal": "No court case found.",
-  "closeness": "A temporary waiver is much smaller than the repeal or major reform the chapter discusses, which needs Congress. Repeal bills have been introduced but not passed.",
-  "uncertain": "Whether the waiver will be extended past Nov 15, 2026. I could not open the article reporting the extension, so its dates come from a search summary.",
-  "sources": [
-   {
-    "label": "House leaders call for an end to White House's Jones Act waiver",
-    "publisher": "The Maritime Executive",
-    "type": "news",
-    "url": "https://maritime-executive.com/article/house-leaders-call-for-an-end-to-white-house-s-jones-act-waiver"
-   },
-   {
-    "label": "Cato urges ending Jones Act after latest Trump waiver extension",
-    "publisher": "AJOT",
-    "type": "news",
-    "url": "https://www.ajot.com/insights/full/ai-cato-urges-ending-jones-act-after-latest-trump-waiver-extension"
-   }
-  ],
-  "as_of": "2026-10-27"
- }
+  {
+    "id": "ch19-001",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The House Transportation Committee approved the BUILD America 250 Act (H.R. 8870) on May 22, 2026. It would send more than 90% of highway money by formula and fold several competitive grant programs into one new program. It has not passed the House. Congress extended current programs through Dec 11, 2026. DOT also canceled some previously awarded discretionary grants in 2025-2026.",
+    "key_dates": [
+      {
+        "date": "May 22, 2026",
+        "event": "House committee approves BUILD America 250 Act."
+      },
+      {
+        "date": "Jul 2026",
+        "event": "DOT letter to Congress proposes consolidating competitive grants and letting 12 programs expire."
+      },
+      {
+        "date": "Sep 2, 2026",
+        "event": "Stopgap law extends surface transportation programs through Dec 11, 2026."
+      }
+    ],
+    "legal": "None for the bill.",
+    "closeness": "Consolidating grants matches the chapter's fallback option. Neither the bill nor DOT's proposal abolishes discretionary grants entirely.",
+    "uncertain": "Whether a long-term bill passes and what its final grant structure will be. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "House passes Senate CR to extend federal government funding",
+        "publisher": "AASHTO Journal",
+        "type": "news",
+        "url": "https://aashtojournal.transportation.org/?p=41360"
+      },
+      {
+        "label": "A closer look at the BUILD America 250 Act",
+        "publisher": "Holland & Knight",
+        "type": "law-firm",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/05/a-closer-look-at-the-build-america-250-act"
+      },
+      {
+        "label": "DOT Secretary Duffy reiterates surface transportation reauthorization priorities",
+        "publisher": "Holland & Knight",
+        "type": "law-firm",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/07/dot-secretary-duffy-reiterates-surface-transportation-reauthorization"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-002",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "DOT proposed in May 2025 to bring back its 2019 procedures for rulemaking, guidance documents and enforcement, which had been rescinded in April 2021. It finalized the rule on April 27, 2026. The rule restates that guidance documents do not bind the public.",
+    "key_dates": [
+      {
+        "date": "2025-05-16",
+        "event": "Proposed rule published"
+      },
+      {
+        "date": "2026-04-27",
+        "event": "Final rule published"
+      }
+    ],
+    "closeness": "Directly matches the recommendation to revive the 2019 \"rule on rules.\"",
+    "uncertain": "No court challenge was found; newest source is April 2026.",
+    "sources": [
+      {
+        "label": "Administrative Rulemaking, Guidance, and Enforcement Procedures (DOT final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08144/administrative-rulemaking-guidance-and-enforcement-procedures"
+      },
+      {
+        "label": "Administrative Rulemaking, Guidance, and Enforcement Procedures (DOT proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/16/2025-08724/administrative-rulemaking-guidance-and-enforcement-procedures"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-003",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-004",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no new rule or law requiring Build America Bureau borrowers to show positive economic value to taxpayers or to put up a minimum equity share. On July 7, 2025, the Transportation Department instead ended its practice of limiting most TIFIA loans to 33 percent of project costs, letting loans cover up to the 49 percent the law allows.",
+    "closeness": "No matching action found. Letting federal loans cover a larger share of costs moves the other way from a minimum equity requirement.",
+    "uncertain": "Searched the Federal Register for Build America Bureau and TIFIA documents since January 2025, the local copy of all laws passed by the 119th Congress through October 2026, and the web. The Transportation Department's website blocked automated access, so the Bureau's current credit guide was not read.",
+    "sources": [
+      {
+        "label": "USDOT reduces restriction on TIFIA financing",
+        "publisher": "Progressive Railroading",
+        "type": "news",
+        "url": "https://progressiverailroading.com/federal_legislation_regulation/news/USDOT-reduces-restriction-on-TIFIA-financing--74924"
+      },
+      {
+        "label": "U.S. DOT enacts ARTBA recommendation removing TIFIA roadblock",
+        "publisher": "American Road & Transportation Builders Association",
+        "type": "advocacy",
+        "url": "https://www.artba.org/news/u-s-dot-enacts-artba-recommendation-removing-tifia-roadblock/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-005",
+    "status": "no-record",
+    "match": "none",
+    "happened": "I found no new rule or law requiring Build America Bureau projects to show they can repay under different interest rates.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for Build America Bureau and TIFIA documents since January 2025, and the local copy of all laws passed by the 119th Congress through October 2026. Loan underwriting rules can change in guidance that is not published there, and the Transportation Department's website blocked automated access. No matching Federal Register document since Jan 20, 2025.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-006",
+    "status": "no-record",
+    "match": "none",
+    "happened": "I found no regular study of whether Build America Bureau loans replace private financing.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for Build America Bureau documents since January 2025, and the local copy of all laws passed by the 119th Congress through October 2026. An internal study might not be published, and the Transportation Department's website blocked automated access. No matching Federal Register document since Jan 20, 2025.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-007",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "In April 2025 DOT and NHTSA announced a new automated vehicle framework. Since March 2026 NHTSA has proposed changes to several vehicle safety standards so cars without manual controls can comply, most recently for lighting in October 2026. It also granted Zoox an exemption in July 2026 to deploy a vehicle without some standard features.",
+    "key_dates": [
+      {
+        "date": "2025-04",
+        "event": "AV framework announced"
+      },
+      {
+        "date": "2026-03-16",
+        "event": "First FMVSS modernization proposals for ADS vehicles"
+      },
+      {
+        "date": "2026-07-31",
+        "event": "Zoox exemption granted"
+      }
+    ],
+    "closeness": "Same idea: updating standards to remove barriers for self-driving cars. Most changes are still proposals.",
+    "uncertain": "None of the FMVSS changes were confirmed final as of October 2026.",
+    "sources": [
+      {
+        "label": "AV Framework Updates and Request for Comments on Interim Guidance (NHTSA)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance"
+      },
+      {
+        "label": "Modernization of FMVSS No. 102 To Accommodate ADS-Equipped Vehicles (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05024/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-102-to-accommodate-ads-equipped"
+      },
+      {
+        "label": "Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21794/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped"
+      },
+      {
+        "label": "Zoox: Grant of Temporary Exemption From Portions of the FMVSS for an ADS-Equipped Vehicle",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15485/zoox-grant-of-temporary-exemption-from-portions-of-various-requirements-of-the-federal-motor-vehicle"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-008",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In October 2026 FMCSA granted Aurora and other carriers running Level 4 driverless trucks a limited five-year exemption to use cab-mounted warning beacons instead of placing warning triangles by hand, a rule that assumed a human driver. No broad rewrite of FMCSA rules for driverless trucks was found.",
+    "key_dates": [
+      {
+        "date": "2026-10-09",
+        "event": "FMCSA grants Aurora exemption"
+      }
+    ],
+    "closeness": "A case-by-case exemption removes one barrier to driverless trucks, but FMCSA has not clarified its rules as a whole.",
+    "uncertain": "FMCSA's 2026 regulatory agenda lists a planned rule on testing and deploying automated driving systems in trucks, but I found no published proposal yet. NHTSA proposed in March 2026 to update a vehicle safety standard for driverless vehicles, which is related but not an FMCSA operating rule. Newest source is from October 2026.",
+    "sources": [
+      {
+        "label": "FMCSA grants limited five-year exemption to Aurora for Level 4 ADS trucks (warning devices)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20734/parts-and-accessories-necessary-for-safe-operation-application-for-exemption-from-aurora-operations"
+      },
+      {
+        "label": "FMCSA's 2026 regulatory agenda: Top trucking rules to watch",
+        "publisher": "FleetOwner",
+        "type": "news",
+        "url": "https://www.fleetowner.com/news/regulations/news/55390583/trucking-regulations-2026-inside-the-dot-fmcsa-agenda"
+      },
+      {
+        "label": "NHTSA proposed rule: Modernization of FMVSS No. 102 To Accommodate ADS-Equipped Vehicles (Mar. 16, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05024/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-102-to-accommodate-ads-equipped"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-009",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On April 24, 2025, NHTSA amended its Standing General Order on crash reporting for automated driving systems and driver-assist systems as part of a new automated vehicle framework. The amended order, in effect from June 2025, cut some reporting requirements, but companies must still report crashes.",
+    "key_dates": [
+      {
+        "date": "2025-04-24",
+        "event": "Third amended Standing General Order issued."
+      },
+      {
+        "date": "2025-06-16",
+        "event": "Amended reporting rules take effect."
+      },
+      {
+        "date": "2026-07-31",
+        "event": "NHTSA notice summarizes the streamlined order."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "NHTSA streamlined the order instead of reversing it. Reporting is still required, not voluntary.",
+    "uncertain": "I did not compare the old and new reporting rules in detail. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "AV Framework Updates and Request for Comments on Interim Guidance",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance"
+      },
+      {
+        "label": "Incident Reporting for ADS and Level 2 ADAS; information collection notice",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04240/agency-information-collection-activities-notice-and-request-for-comment-incident-reporting-for"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-010",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-011",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "NHTSA proposed lower fuel economy (CAFE) standards in December 2025 and finalized them on Sept 28, 2026. The rule resets standards for model years 2022-2031 and projects a fleet average of about 34.9 mpg in 2031. It takes effect Nov 30, 2026. Congress had already set CAFE penalties to zero in 2025.",
+    "key_dates": [
+      {
+        "date": "Dec 2025",
+        "event": "NHTSA proposes the reset (about 34.5 mpg)."
+      },
+      {
+        "date": "Sep 28, 2026",
+        "event": "DOT releases the final rule."
+      },
+      {
+        "date": "Nov 30, 2026",
+        "event": "Rule takes effect."
+      }
+    ],
+    "legal": "I found no lawsuit or ruling yet on the final rule.",
+    "closeness": "Very close: the chapter suggested about 35 mpg at model-year-2020 levels, and the final rule projects about 34.9 mpg.",
+    "uncertain": "Whether lawsuits will be filed. The rule was not yet in effect when I checked. Newest source: late September 2026.",
+    "sources": [
+      {
+        "label": "US NHTSA resets CAFE fuel economy standards for MY 2022-2031 vehicles",
+        "publisher": "DieselNet",
+        "type": "news",
+        "url": "https://dieselnet.com/news/2026/09nhtsa.php"
+      },
+      {
+        "label": "NHTSA finalizes lower CAFE standards",
+        "publisher": "CBT News",
+        "type": "news",
+        "url": "https://www.cbtnews.com/nhtsa-finalizes-lower-cafe-standards/"
+      },
+      {
+        "label": "President Trump and Secretary Duffy finalize Freedom Means Affordable Cars",
+        "publisher": "U.S. Department of Transportation",
+        "type": "government",
+        "url": "https://www.transportation.gov/briefing-room/president-trump-transportation-secretary-duffy-finalize-freedom-means-affordable-cars"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-012",
+    "status": "in-effect-challenged",
+    "match": "partial",
+    "happened": "On Feb 12, 2026 EPA rescinded its 2009 endangerment finding and repealed federal greenhouse gas standards for cars and trucks. The repeal took effect Apr 20, 2026. That leaves DOT's fuel economy rules as the main federal standard for vehicle efficiency.",
+    "key_dates": [
+      {
+        "date": "Feb 12, 2026",
+        "event": "EPA announces the repeal."
+      },
+      {
+        "date": "Apr 20, 2026",
+        "event": "Repeal takes effect."
+      }
+    ],
+    "legal": "Health and environmental groups, and separately about two dozen states and cities, sued in the D.C. Circuit. I found no ruling.",
+    "closeness": "Goes further than the recommendation. Instead of making EPA rules work with DOT's, EPA removed its vehicle carbon limits. Same action as the project's \"endangerment-finding\" story.",
+    "uncertain": "The outcome of the D.C. Circuit cases. Newest source: March 2026 for the lawsuits.",
+    "sources": [
+      {
+        "label": "EPA rescinds 2009 endangerment finding, eliminates federal vehicle GHG standards",
+        "publisher": "Morgan Lewis",
+        "type": "law-firm",
+        "url": "https://www.morganlewis.com/pubs/2026/02/epa-rescinds-2009-endangerment-finding-eliminates-federal-vehicle-greenhouse-gas-standards"
+      },
+      {
+        "label": "Groups sue Trump's EPA over repeal",
+        "publisher": "PBS NewsHour",
+        "type": "news",
+        "url": "https://www.pbs.org/newshour/amp/politics/groups-sue-trumps-epa-over-repeal-of-rule-that-supported-climate-protections"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-013",
+    "status": "in-effect-challenged",
+    "match": "partial",
+    "happened": "In June 2025 Congress passed, and President Trump signed, resolutions under the Congressional Review Act that revoked EPA waivers for California's Advanced Clean Cars II rule (which phases out new gas car sales by 2035) and two truck rules. In June 2026 EPA tried to treat four more California waivers the same way, but a federal judge blocked that in September 2026.",
+    "key_dates": [
+      {
+        "date": "Jun 2025",
+        "event": "President signs resolutions revoking three California waivers."
+      },
+      {
+        "date": "Jun 2025",
+        "event": "California and other states sue (N.D. Cal.)."
+      },
+      {
+        "date": "Sep 2, 2026",
+        "event": "Judge Beryl Howell (D.D.C.) blocks EPA's move on four more waivers."
+      }
+    ],
+    "legal": "The states' suit over the 2025 resolutions is pending before Judge Haywood Gilliam in the Northern District of California; I found no ruling on the motion to dismiss. In D.C., Judge Howell granted a preliminary injunction on Sept 2, 2026 against EPA's reclassification of four other waivers; an appeal was reported.",
+    "closeness": "The main goal (ending California's gas-car phase-out) was reached, but through Congress rather than an EPA revocation. I did not find a separate action on California fuel economy rules.",
+    "uncertain": "Outcome of both court cases. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Judge bars EPA effort to send California vehicle emissions rules to Congress",
+        "publisher": "Insurance Journal (Reuters)",
+        "type": "news",
+        "url": "https://amp.insurancejournal.com/news/west/2026/09/03/883831.htm"
+      },
+      {
+        "label": "Case: State of California v. United States",
+        "publisher": "Civil Rights Litigation Clearinghouse",
+        "type": "academic",
+        "url": "https://clearinghouse.net/case/46712/"
+      },
+      {
+        "label": "California will not waver in defending itself",
+        "publisher": "California Attorney General",
+        "type": "government",
+        "url": "https://oag.ca.gov/news/press-releases/california-will-not-waver-defending-itself-federal-overreach-attorney-general"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-014",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In early 2025 the Transportation Secretary rescinded department orders tied to climate change, equity and diversity goals, and issued an order on economic analysis in March 2025. FHWA removed several old regulations in 2025. A House bill approved in committee in May 2026 would send more highway money by formula.",
+    "key_dates": [
+      {
+        "date": "2025-03-10",
+        "event": "DOT Order 2100.7 issued"
+      },
+      {
+        "date": "2026-05-22",
+        "event": "House committee approves BUILD America 250 Act"
+      }
+    ],
+    "closeness": "These steps move FHWA away from non-highway priorities in a general way, but no formal refocusing of the agency was found.",
+    "uncertain": "The reauthorization bill had not passed the House as of the newest sources.",
+    "sources": [
+      {
+        "label": "Surface Transportation Reauthorization: Public Transportation",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48644.html"
+      },
+      {
+        "label": "Surface Transportation Reauthorization: Federal Highway Programs",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48845.html"
+      },
+      {
+        "label": "Rescinding Regulations on Projects of National and Regional Significance Evaluation and Rating (FHWA)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/30/2025-09714/rescinding-regulations-on-projects-of-national-and-regional-significance-evaluation-and-rating"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-015",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "FHWA rescinded several old regulations in 2025, such as rules on the Forest Highway Program and on rating projects of national significance. A House surface transportation bill approved in committee in May 2026 would give states more money by formula and fold competitive grants into one program.",
+    "key_dates": [
+      {
+        "date": "2025-11-17",
+        "event": "Forest Highway Program rules rescinded"
+      },
+      {
+        "date": "2026-05-22",
+        "event": "House committee approves BUILD America 250 Act"
+      }
+    ],
+    "closeness": "Some rules were removed and a bill would shift power to states, but no broad reduction in federal involvement has taken effect. See ch19-001.",
+    "uncertain": "The bill is not law; newest source is September 2026.",
+    "sources": [
+      {
+        "label": "Rescinding Requirements Regarding the Forest Highway Program (FHWA)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/11/17/2025-19905/rescinding-requirements-regarding-the-forest-highway-program"
+      },
+      {
+        "label": "Rescinding Regulations on Projects of National and Regional Significance Evaluation and Rating (FHWA)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/30/2025-09714/rescinding-regulations-on-projects-of-national-and-regional-significance-evaluation-and-rating"
+      },
+      {
+        "label": "Surface Transportation Reauthorization: Federal Highway Programs",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48845.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-016",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "DOT proposed in October 2025 to bring back hearing procedures for discretionary airline consumer protection rules on unfair or deceptive practices. It issued a final rule on July 1, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-10-30",
+        "event": "Proposed rule published"
+      },
+      {
+        "date": "2026-07-01",
+        "event": "Final rule published"
+      }
+    ],
+    "closeness": "Matches the recommendation to restore the Trump-era process.",
+    "uncertain": "Whether the final rule copies the 2020 procedures exactly was not checked.",
+    "sources": [
+      {
+        "label": "Procedures in Regulating and Enforcing Unfair or Deceptive Practices (DOT final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13295/procedures-in-regulating-and-enforcing-unfair-or-deceptive-practices"
+      },
+      {
+        "label": "Procedures in Regulating and Enforcing Unfair or Deceptive Practices (DOT proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/30/2025-19692/procedures-in-regulating-and-enforcing-unfair-or-deceptive-practices"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-017",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-018",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change to foreign ownership limits on U.S. airlines was found.",
+    "closeness": "Nothing matching was found.",
+    "uncertain": "I checked the Federal Register for DOT actions and searched news for a 2025-2026 review or bill on the 25% foreign ownership cap; I found only older proposals (2003 and a later House bill), none enacted.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-019",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-020",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no rulemaking to change how takeoff and landing slots are given out at crowded airports. In June 2026, the FAA extended its existing slot orders at LaGuardia and JFK airports until October 2028.",
+    "closeness": "No matching action found. The FAA kept the current slot orders in place.",
+    "uncertain": "I searched the Federal Register for FAA and DOT slot rulemakings since January 2025 and found only extensions and routine notices.",
+    "sources": [
+      {
+        "label": "Operating Limitations at New York LaGuardia Airport (extension of order)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12592/operating-limitations-at-new-york-laguardia-airport"
+      },
+      {
+        "label": "Operating Limitations at John F. Kennedy International Airport (extension of order)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12591/operating-limitations-at-john-f-kennedy-international-airport"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-021",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No FAA rule lowering the 1,500-hour requirement for airline copilots, or expanding simulator credit, was found.",
+    "closeness": "Nothing matching was found.",
+    "uncertain": "I checked the Federal Register for FAA pilot qualification rules and searched news for 2025-2026 changes; I found no rule, petition grant or bill moving. A news report says FAA Administrator Bryan Bedford has said he supports the 1,500-hour rule.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-022",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The Essential Air Service program has not been ended. The administration's fiscal 2026 budget asked Congress to cut it, but the February 2026 spending law (P.L. 119-75) gave it about $514 million. The fiscal 2027 budget, released April 3, 2026, again proposed cutting it by about $372 million and changing eligibility; Congress has not acted on that request.",
+    "key_dates": [
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 spending law funds EAS at about $514 million."
+      },
+      {
+        "date": "2026-04-03",
+        "event": "FY2027 budget proposes about $372 million cut."
+      }
+    ],
+    "closeness": "Smaller than the recommendation: the administration proposed deep cuts, not ending the program, and Congress rejected the first cut.",
+    "uncertain": "Final fiscal 2027 funding is not settled; the stopgap law for fiscal 2027 (P.L. 119-103) keeps EAS running. Newest source is from August 2026.",
+    "sources": [
+      {
+        "label": "Trump Targets Essential Air Service Again (Apr. 3, 2026)",
+        "publisher": "AirlineGeeks",
+        "type": "news",
+        "url": "https://airlinegeeks.com/2026/04/03/trump-targets-essential-air-service-again/"
+      },
+      {
+        "label": "Trump administration threatens deep cuts to program that funds air travel in rural Alaska",
+        "publisher": "Alaska Public Media",
+        "type": "news",
+        "url": "https://alaskapublic.org/news/alaska-desk/2026-08-07/trump-administration-threatens-deep-cuts-to-program-that-funds-air-travel-in-rural-alaska"
+      },
+      {
+        "label": "Public Law 119-75 (FY2026 consolidated appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-023",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "On October 9, 2025, the Transportation Department posted a proposed order to bar seven Chinese airlines from flying over Russia on passenger flights between China and the United States. U.S. airlines cannot use Russian airspace. The order would take effect 30 days after a final order.",
+    "key_dates": [
+      {
+        "date": "2025-10-09",
+        "event": "DOT posts an order to show cause proposing to bar Chinese airlines from Russian airspace on U.S. routes."
+      },
+      {
+        "date": "2025-10-14",
+        "event": "Chinese airlines, U.S. airlines and trade groups file comments."
+      }
+    ],
+    "closeness": "Same idea for China's airlines, but it does not cover other foreign airlines serving East and South Asia, such as Indian carriers. It was proposed, not final, as far as I found.",
+    "uncertain": "As of October 2026, the public docket (DOT-OST-2025-1822) listed no documents after October 16, 2025, and an October 2026 web search found only coverage of the proposal. A final order could have been issued elsewhere, but none was found.",
+    "sources": [
+      {
+        "label": "Order to Show Cause Proposing to Condition Certain Foreign Air Carrier Permits and Exemptions (Oct. 2025), docket DOT-OST-2025-1822",
+        "publisher": "U.S. Department of Transportation (via Regulations.gov)",
+        "type": "government",
+        "url": "https://www.regulations.gov/document/DOT-OST-2025-1822-0001"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-024",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-025",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On June 6, 2025, President Trump signed two drone orders. Executive Order 14307 told DOT and the FAA to speed drone rules and start a pilot program for electric air taxis, and Executive Order 14305 created a federal task force on drone threats led by the National Security Advisor.",
+    "key_dates": [
+      {
+        "date": "2025-06-06",
+        "event": "Executive Orders 14305 and 14307 signed."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "These orders coordinate drone and air mobility policy across agencies, but I found no single interagency clearinghouse covering spectrum, drones and air mobility as recommended.",
+    "uncertain": "I did not check how the task force or pilot program has worked in practice. Newest source: June 2025.",
+    "sources": [
+      {
+        "label": "Unleashing American Drone Dominance (Executive Order 14307)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/11/2025-10814/unleashing-american-drone-dominance"
+      },
+      {
+        "label": "Restoring American Airspace Sovereignty (Executive Order 14305)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/11/2025-10803/restoring-american-airspace-sovereignty"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-026",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No step ending FAA research and development was found. The February 2026 spending law (P.L. 119-75) gave the FAA $290 million for research, engineering and development for fiscal 2026.",
+    "closeness": "Nothing matching was found.",
+    "uncertain": "I checked the fiscal 2026 spending law and the Federal Register; FAA research funding continues. Budget requests for later years were not reviewed in detail.",
+    "sources": [
+      {
+        "label": "Public Law 119-75 (FY2026 consolidated appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-027",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-028",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or formal administration proposal in 2025-2026 to separate the FAA from DOT or air traffic control from the FAA was found. In 2025 Transportation Secretary Sean Duffy rejected privatization, saying \"This is not about separating anybody,\" and the Senate's 2026 FAA spending bill said the committee does not support moving air traffic control to a private corporation.",
+    "legal": "None.",
+    "closeness": "No matching action found. The administration's focus has been funding to modernize the existing FAA system.",
+    "uncertain": "Two targeted searches (October 2026) found no 2025-2026 bill or plan that advanced; results about air traffic control corporations were from earlier efforts in 2016-2018.",
+    "sources": [
+      {
+        "label": "Trump once championed FAA privatization; now the idea appears to be off the table",
+        "publisher": "Colorado Politics",
+        "type": "news",
+        "url": "https://www.coloradopolitics.com/2025/06/09/trump-once-championed-faa-privatization-now-the-idea-appears-to-be-off-the-table/"
+      },
+      {
+        "label": "Senate ATC modernization funding bill blocks privatization",
+        "publisher": "AOPA",
+        "type": "news",
+        "url": "https://aopa.org/news-and-media/all-news/2025/july/30/senate-atc-modernization-funding-bill-blocks-privatization"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-029",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law takes FAA funding off the yearly appropriations process. The July 2025 reconciliation law gave a one-time $12.5 billion for air traffic control facilities and equipment, and the administration has asked Congress for billions more, but the FAA is still funded each year by Congress.",
+    "legal": "None.",
+    "closeness": "No matching action found. One-time modernization money is not the permanent change in how the FAA is funded that the chapter recommends.",
+    "uncertain": "Two searches (October 2026) found no proposal to move FAA funding outside annual appropriations. The project's copy of all 2025-2026 laws shows only the one-time reconciliation money and yearly spending laws.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (2025 reconciliation law), sec. 40003",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Trump administration needs another $19 billion to fully revamp air traffic control",
+        "publisher": "AJOT (Reuters)",
+        "type": "news",
+        "url": "https://www.ajot.com/news/trump-administration-needs-another-19-billion-to-fully-revamp-air-traffic-control"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-030",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-031",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law separating the Air Traffic Organization from the FAA or moving its headquarters out of Washington was found. The February 2026 spending law (P.L. 119-75, sec. 119G) bars using any funds to plan or carry out the privatization or separation of the FAA's air traffic functions. In 2025 the Transportation Secretary said modernization was \"not about separating anybody.\"",
+    "closeness": "Opposite direction: Congress barred spending on separating air traffic control. See ch19-028.",
+    "uncertain": "I checked every law passed by the 119th Congress through October 2026; none separates or moves the Air Traffic Organization.",
+    "sources": [
+      {
+        "label": "Trump once championed FAA privatization; now the idea appears to be off the table",
+        "publisher": "Colorado Politics",
+        "type": "news",
+        "url": "https://www.coloradopolitics.com/2025/06/09/trump-once-championed-faa-privatization-now-the-idea-appears-to-be-off-the-table/"
+      },
+      {
+        "label": "Public Law 119-75 (FY2026 consolidated appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-032",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no law or formal proposal replacing aviation taxes with air traffic service fees paid to the Air Traffic Organization.",
+    "legal": "None.",
+    "closeness": "No matching action found.",
+    "uncertain": "Two searches (October 2026) on air traffic user fees and privatization found no 2025-2026 proposal that advanced; user fees have come up mainly as part of earlier privatization plans, which Secretary Duffy rejected.",
+    "sources": [
+      {
+        "label": "Trump once championed FAA privatization; now the idea appears to be off the table",
+        "publisher": "Colorado Politics",
+        "type": "news",
+        "url": "https://www.coloradopolitics.com/2025/06/09/trump-once-championed-faa-privatization-now-the-idea-appears-to-be-off-the-table/"
+      },
+      {
+        "label": "Senate ATC modernization funding bill blocks privatization",
+        "publisher": "AOPA",
+        "type": "news",
+        "url": "https://aopa.org/news-and-media/all-news/2025/july/30/senate-atc-modernization-funding-bill-blocks-privatization"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-033",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law letting the Air Traffic Organization issue revenue bonds was found. Instead, the July 2025 reconciliation law (P.L. 119-21, sec. 40003) gave the FAA direct funding, about $12.5 billion, for air traffic control equipment, radar and telecommunications through 2029.",
+    "closeness": "Different mechanism: Congress paid for modernization directly from the Treasury rather than through bonds. See ch19-029.",
+    "uncertain": "I checked every law passed by the 119th Congress through October 2026; none authorizes air traffic control revenue bonds.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (July 2025 reconciliation law)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Trump once championed FAA privatization; now the idea appears to be off the table",
+        "publisher": "Colorado Politics",
+        "type": "news",
+        "url": "https://www.coloradopolitics.com/2025/06/09/trump-once-championed-faa-privatization-now-the-idea-appears-to-be-off-the-table/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-034",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 4, 2025 reconciliation law (P.L. 119-21) created a fee on each licensed space launch and reentry starting in 2026, based on payload weight and capped at $30,000 per launch in 2026, rising in later years. The same law gave the FAA billions of dollars for air traffic control upgrades, including $4.75 billion for telecommunications modernization.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "P.L. 119-21 signed, creating space launch and reentry user fees and funding air traffic control upgrades."
+      }
+    ],
+    "closeness": "Congress set user fees for space launches, one of the new airspace users named. I found no fee for air taxis or drones, and no deadline after which non-digital towers lose funding.",
+    "uncertain": "Whether the FAA has begun collecting the launch fees was not checked.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), sections 40003 and 40004",
+        "publisher": "U.S. Government Publishing Office",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-035",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change to the legal definition of public transit to include privately provided services was found. The House surface transportation bill (H.R. 8870, introduced May 19, 2026) amends the transit definitions section but does not change the definition of public transportation.",
+    "closeness": "Nothing matching was found.",
+    "uncertain": "I read the introduced text of H.R. 8870; the committee-approved version was not available to check. The bill has not become law.",
+    "sources": [
+      {
+        "label": "H.R. 8870 (introduced text)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8870ih/html/BILLS-119hr8870ih.htm"
+      },
+      {
+        "label": "Surface Transportation Reauthorization: Public Transportation",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48644.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-036",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Capital Investment Grants program was not ended. A March 10, 2025 DOT order calls for sound economic analysis in DOT programs. In November 2025 FTA changed how it rates environmental benefits of these projects, and on October 1, 2026 it proposed guidance that would raise or lower a project's federal share based mainly on its cost-effectiveness and ridership ratings, plus a boost for areas with higher birth or marriage rates.",
+    "key_dates": [
+      {
+        "date": "2025-03-10",
+        "event": "DOT Order 2100.7 issued."
+      },
+      {
+        "date": "2025-11-12",
+        "event": "FTA final guidance changes environmental benefits rating."
+      },
+      {
+        "date": "2026-10-01",
+        "event": "FTA proposes tying federal share to cost-effectiveness and ridership."
+      }
+    ],
+    "closeness": "FTA is putting more weight on cost-effectiveness, which already was one rating factor, but it has not adopted a strict cost-benefit test that each project must pass.",
+    "uncertain": "The October 2026 guidance is only proposed. The House bill H.R. 8870 would also let FTA use alternative cost-effectiveness measures. Newest source is from October 2026.",
+    "sources": [
+      {
+        "label": "Notice of Availability of Proposed Policy Guidance for the Capital Investment Grants Program (Oct. 1, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20179/notice-of-availability-of-proposed-policy-guidance-for-the-capital-investment-grants-program"
+      },
+      {
+        "label": "Notice of Availability of Final Policy Guidance for the Capital Investment Grants Program (Nov. 12, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/11/12/2025-19848/notice-of-availability-of-final-policy-guidance-for-the-capital-investment-grants-program"
+      },
+      {
+        "label": "Department of Transportation's \"Family Friendly\" Policy and Public Transit Project Funding",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12748.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-037",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change to how DOT applies the transit labor protections (formerly section 13(c), now 49 U.S.C. 5333(b)) was found. CRS notes private contractors have asked for changes.",
+    "closeness": "Nothing matching was found.",
+    "uncertain": "Federal Register searches found only routine Labor Department paperwork renewals for the 5333(b) program (December 2025, March 2026). The House bill H.R. 8870 makes only technical changes to section 5333(b). No reinterpretation was found.",
+    "sources": [
+      {
+        "label": "Surface Transportation Reauthorization: Public Transportation",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48644.html"
+      },
+      {
+        "label": "DOL information collection: Protections for Transit Workers Under Section 5333(b) (Mar. 5, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04362/agency-information-collection-activities-submission-for-omb-review-comment-request-protections-for"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-038",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The administration proposed eliminating the Highway Trust Fund's Mass Transit Account and repeated that in a July 2026 letter to Congress. The House Transportation Committee's leaders opposed it, and it was left out of the reauthorization bill the committee approved in May 2026.",
+    "key_dates": [
+      {
+        "date": "May 22, 2026",
+        "event": "House committee approves a bill without the transit account cut."
+      },
+      {
+        "date": "Jul 2026",
+        "event": "DOT letter repeats the proposal."
+      }
+    ],
+    "legal": "None.",
+    "closeness": "The proposal matches the recommendation, but Congress has not adopted it, and federal transit funding continues.",
+    "uncertain": "Whether the proposal returns in a final reauthorization law. Current programs run through Dec 11, 2026. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "DOT Secretary Duffy reiterates surface transportation reauthorization priorities",
+        "publisher": "Holland & Knight",
+        "type": "law-firm",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/07/dot-secretary-duffy-reiterates-surface-transportation-reauthorization"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-039",
+    "status": "not-done",
+    "match": "none",
+    "happened": "FRA finalized a two-person train crew rule in April 2024, before this administration. It has not been withdrawn: in April 2026 FRA published railroad petitions for special approval of one-person crews under that rule, and on August 11, 2026 the Eleventh Circuit upheld the rule against a challenge by railroads.",
+    "legal": "U.S. Court of Appeals for the Eleventh Circuit upheld the 2024 rule in a 2-1 decision on August 11, 2026. Railroad groups asked for rehearing by the full court.",
+    "closeness": "Nothing matching was found. One-person crew requests are being handled under the existing rule's approval process.",
+    "uncertain": "Railroads asked the administration to repeal the rule and a House bill (Train Crew Choice Act) would do so, but I found no FRA proposal to rescind it. Newest source is from August 2026.",
+    "sources": [
+      {
+        "label": "Petitions for Special Approval of One-Person Train Crew Operations (FRA notice)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/14/2026-07181/petitions-for-special-approval-of-one-person-train-crew-operations"
+      },
+      {
+        "label": "Federal court upholds challenge to FRA's two-person rail crew rule (Aug. 12, 2026)",
+        "publisher": "FreightWaves",
+        "type": "news",
+        "url": "https://www.freightwaves.com/news/federal-court-upholds-challenge-to-fras-two-person-rail-crew-rule"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-040",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In April 2025 the Association of American Railroads asked the Federal Railroad Administration to let railroads replace some visual track inspections with automated track geometry measurement. FRA issued a decision letter in December 2025. In 2026, several large railroads and Amtrak filed notices that they were starting inspections under the waiver.",
+    "key_dates": [
+      {
+        "date": "2025-05-09",
+        "event": "FRA publishes the railroads' waiver petition on visual track inspections."
+      },
+      {
+        "date": "2025-12-05",
+        "event": "FRA decision letter posted in the docket."
+      },
+      {
+        "date": "2026-06-25",
+        "event": "Decision on a rail union's request for reconsideration posted."
+      }
+    ],
+    "closeness": "This allows technology-based inspection through a waiver, not by updating the track inspection rules themselves as the chapter proposed.",
+    "uncertain": "I could not open the decision letter, so its exact terms come from the docket listing and later railroad filings. I also could not open the outcome of the union's reconsideration request.",
+    "sources": [
+      {
+        "label": "Notice of Petition for Waiver of Compliance (AAR, track inspections), May 9, 2025",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/09/2025-08199/notice-of-petition-for-waiver-of-compliance"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "The decision letters in docket FRA-2025-0059 still could not be opened (regulations.gov API rate limit); read the December 2025 decision and June 2026 reconsideration decision to confirm terms."
+  },
+  {
+    "id": "ch19-041",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On August 31, 2026, the Federal Railroad Administration issued a final rule on brake inspections, effective September 30, 2026. It writes long-standing waivers into the rules, including longer inspection intervals for some electronic air brake systems and fewer paper recording steps.",
+    "key_dates": [
+      {
+        "date": "2025-07-01",
+        "event": "FRA proposes brake inspection changes."
+      },
+      {
+        "date": "2026-08-31",
+        "event": "Final rule published; effective September 30, 2026."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Extends inspection intervals, as recommended. I did not confirm that it fully allows electronic tracking of brake inspections, which was the core of the rule the chapter named.",
+    "uncertain": "I did not read the full rule text on electronic records. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Amendments to Brake System Maintenance and Inspection Requirements (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17784/amendments-to-brake-system-maintenance-and-inspection-requirements"
+      },
+      {
+        "label": "Amendments to Brake System Maintenance and Inspection Requirements (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/07/01/2025-12168/amendments-to-brake-system-maintenance-and-inspection-requirements"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-042",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "FRA finalized a rule requiring certification of train dispatchers on May 21, 2024. On May 15, 2026, FRA proposed rescinding that rule after petitions for reconsideration, and it extended the comment period to August 13, 2026.",
+    "key_dates": [
+      {
+        "date": "2024-05-21",
+        "event": "Dispatcher certification final rule issued."
+      },
+      {
+        "date": "2026-05-15",
+        "event": "FRA proposes rescinding the rule."
+      },
+      {
+        "date": "2026-07-14",
+        "event": "Comment period extended to August 13, 2026."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "A direct match for dispatchers, but the repeal is only proposed. I did not find a certification rule for signal employees to compare.",
+    "uncertain": "No final repeal had been published as of my newest source, July 2026.",
+    "sources": [
+      {
+        "label": "Certification of Dispatchers (proposed rescission)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09791/certification-of-dispatchers"
+      },
+      {
+        "label": "Certification of Dispatchers; Extension of Comment Period",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14160/certification-of-dispatchers-extension-of-comment-period"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-043",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "FRA issued a rule in January 2024 requiring emergency escape breathing equipment for train crews. On August 7, 2025, FRA extended the compliance dates after a petition for reconsideration, but did not repeal the rule.",
+    "key_dates": [
+      {
+        "date": "2024-01-26",
+        "event": "Breathing apparatus final rule published."
+      },
+      {
+        "date": "2025-08-07",
+        "event": "FRA extends compliance dates."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "The requirement was delayed, not dropped. The chapter opposed the rule entirely.",
+    "uncertain": "I did not find a proposal to repeal the rule. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "Emergency Escape Breathing Apparatus Standards (extension of compliance dates)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/07/2025-15022/emergency-escape-breathing-apparatus-standards"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-044",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-045",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Maritime Administration remains part of DOT, and it issued rules as a DOT agency in 2025 and 2026. No law moving it or the Merchant Marine Academy to Homeland Security or Defense was found.",
+    "closeness": "Nothing matching was found.",
+    "uncertain": "A news search found no 2025-2026 bill to move MARAD or the Merchant Marine Academy, and no law passed by the 119th Congress through October 2026 does so.",
+    "sources": [
+      {
+        "label": "Tanker Security Program (MARAD final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12547/tanker-security-program"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch19-046",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In March 2026 the administration issued a temporary Jones Act waiver, citing high fuel prices and national security. It let foreign ships carry fuel between U.S. ports. It was extended, most recently to Nov 15, 2026. Congress has not repealed or changed the law.",
+    "key_dates": [
+      {
+        "date": "Mar 2026",
+        "event": "150-day Jones Act waiver issued."
+      },
+      {
+        "date": "Jul 1, 2026",
+        "event": "House Speaker and about 50 Republicans ask the White House to let it expire."
+      },
+      {
+        "date": "Aug 17, 2026",
+        "event": "Waiver extended through Nov 15, 2026."
+      }
+    ],
+    "legal": "No court case found.",
+    "closeness": "A temporary waiver is much smaller than the repeal or major reform the chapter discusses, which needs Congress. Repeal bills have been introduced but not passed.",
+    "uncertain": "Whether the waiver will be extended past Nov 15, 2026. I could not open the article reporting the extension, so its dates come from a search summary.",
+    "sources": [
+      {
+        "label": "House leaders call for an end to White House's Jones Act waiver",
+        "publisher": "The Maritime Executive",
+        "type": "news",
+        "url": "https://maritime-executive.com/article/house-leaders-call-for-an-end-to-white-house-s-jones-act-waiver"
+      },
+      {
+        "label": "Cato urges ending Jones Act after latest Trump waiver extension",
+        "publisher": "AJOT",
+        "type": "news",
+        "url": "https://www.ajot.com/insights/full/ai-cato-urges-ending-jones-act-after-latest-trump-waiver-extension"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
 ]

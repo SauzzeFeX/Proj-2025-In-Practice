@@ -376,6 +376,35 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch11-013",
+    "status": "no-record",
+    "match": "none",
+    "happened": "Congress kept funding the special institutions in the fiscal 2026 spending law, signed February 3, 2026: $43.4 million for the American Printing House for the Blind, $92.5 million for the National Technical Institute for the Deaf, and $167.4 million for Gallaudet University and its schools. The administration's fiscal 2026 request had asked for the same amounts.",
+    "closeness": "The chapter wanted these set-asides phased out. They continue at full program levels.",
+    "uncertain": "I checked the fiscal 2026 spending law (P.L. 119-75), the fiscal 2026 budget justifications, and searched for the 2027 request; the 2027 budget summary could not be opened. Newest source: February 2026. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "sources": [
+      {
+        "label": "Public Law 119-75 (FY2026 appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "FY2026 Congressional Justification: Gallaudet University",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/media/document/fy-2026-congressional-justification-gallaudet-university-110136.pdf"
+      },
+      {
+        "label": "FY2026 Congressional Justification: American Printing House for the Blind",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/media/document/fy-2026-congressional-justification-american-printing-house-blind-110138.pdf"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch11-014",
     "status": "partly-done",
     "match": "partial",
@@ -600,6 +629,16 @@
       }
     ],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-021",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch11-022",
@@ -1039,6 +1078,51 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch11-033",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-034",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On March 28, 2025, the Education Department's Student Privacy Policy Office sent a letter to state and local school leaders, with a cover letter from Secretary Linda McMahon, listing parents' right to inspect and review their children's education records as a top priority. In a complaint letter to California, the office said FERPA gives parents full rights to their children's records until age 18.",
+    "key_dates": [
+      {
+        "date": "2025-03-28",
+        "event": "Education Department letter to schools on FERPA duties, stressing parents' right to see records."
+      }
+    ],
+    "closeness": "This matches the chapter's call for the Secretary to make clear that FERPA gives parents full access to their children's records.",
+    "uncertain": "The department told one district to expect new FERPA guidance or rules; none was found as of the newest source (June 2026 CRS report).",
+    "sources": [
+      {
+        "label": "CRS R46799: The Family Educational Rights and Privacy Act (FERPA): Legal Issues",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-06-05_R46799_ab046875ffe38de60406c87fb0aa78a0fbb1ba84.html"
+      },
+      {
+        "label": "A trio of letters from the U.S. Department of Education further shape Trump-McMahon education policy",
+        "publisher": "EdNC",
+        "type": "news",
+        "url": "https://www.ednc.org/a-trio-of-letters-from-the-u-s-department-of-education-further-shape-trump-mcmahon-education-policy/"
+      },
+      {
+        "label": "Trump administration takes on school emails as parental rights issue",
+        "publisher": "The 74",
+        "type": "news",
+        "url": "https://www.the74million.org/article/trump-administration-takes-on-school-emails-as-parental-rights-issue/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch11-035",
     "status": "in-effect",
     "match": "partial",
@@ -1165,6 +1249,16 @@
     "as_of": "2026-10-28"
   },
   {
+    "id": "ch11-039",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch11-040",
     "status": "in-effect",
     "match": "partial",
@@ -1246,6 +1340,26 @@
       }
     ],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-042",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-043",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch11-044",
@@ -1378,6 +1492,23 @@
         "publisher": "Education Week",
         "type": "news",
         "url": "https://www.edweek.org/teaching-learning/gop-renews-push-to-revoke-federal-charter-for-nations-largest-teachers-union/2025/07"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-048",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No congressional hearing on the National Education Association's use of federal money was found. In July 2025, members of Congress introduced bills to repeal or revise the union's federal charter, including H.R. 4450.",
+    "closeness": "The chapter asked for hearings. Bills were introduced instead, and none has passed.",
+    "uncertain": "I ran two targeted web searches for House or Senate hearings on the union and its charter, and searched all 119th Congress laws. Results showed only bills, such as H.R. 4450, which was referred to the House Judiciary Committee. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "H.R. 4450, National Education Association Charter Repeal Act (introduced)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4450ih/html/BILLS-119hr4450ih.htm"
       }
     ],
     "as_of": "2026-10-28"
@@ -1586,6 +1717,64 @@
     "closeness": "Nothing matching was found. Executive orders on sex and gender (see ch11-030) changed federal policy in general but did not create this protection.",
     "uncertain": "I searched for Defense Department school pronoun policies and for federal bills protecting staff who decline to use pronouns, and checked the local copy of 119th-Congress laws. I found only state-level bills.",
     "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-057",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress did not raise D.C. Opportunity Scholarship amounts in law. The fiscal 2026 spending law kept the D.C. school program's federal payment at $52.5 million, the same level as in recent years. A bill to update the program, H.R. 5181, was approved by a House committee in September 2025 but has not passed; it would let the program set a lower maximum scholarship, not raise it.",
+    "closeness": "The chapter wanted scholarship amounts raised closer to D.C. public school per-student spending. No increase has become law.",
+    "uncertain": "I read the introduced text of H.R. 5181; a committee-reported version was not posted on GovInfo. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-75 (FY2026 appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "H.R. 5181, SOAR Act Improvements Act (introduced text)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5181ih/html/BILLS-119hr5181ih.htm"
+      },
+      {
+        "label": "H.R. 5181, SOAR Act Improvements Act",
+        "publisher": "The Lobby News",
+        "type": "news",
+        "url": "https://www.thelobbynews.com/congress/bills/119/house-bill/5181"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-058",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "H.R. 5181, the SOAR Act Improvements Act, was introduced September 8, 2025, and approved by the House Oversight Committee 25-20 on September 10, 2025. It would apply the program's random-selection rule only when it does not interfere with a school's regular admission standards, and would no longer require participating schools to give a set test, letting the Institute of Education Sciences test students in its study instead. It has not passed the House.",
+    "key_dates": [
+      {
+        "date": "2025-09-10",
+        "event": "House Oversight Committee approves H.R. 5181."
+      }
+    ],
+    "closeness": "The bill would give participating private schools more control over admissions and drop the school testing requirement, matching the chapter's idea, but it is not law.",
+    "uncertain": "Based on the introduced text; a committee-reported version was not posted on GovInfo. No floor action was found as of October 2026.",
+    "sources": [
+      {
+        "label": "H.R. 5181, SOAR Act Improvements Act (introduced text)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5181ih/html/BILLS-119hr5181ih.htm"
+      },
+      {
+        "label": "H.R. 5181, SOAR Act Improvements Act",
+        "publisher": "The Lobby News",
+        "type": "news",
+        "url": "https://www.thelobbynews.com/congress/bills/119/house-bill/5181"
+      }
+    ],
     "as_of": "2026-10-28"
   },
   {
@@ -2284,6 +2473,23 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch11-080",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new Education Department rule clarifying \"regular and substantive interaction\" for competency-based or online programs was found. The department's 2025-2026 rulemaking focused on student loans, the 2025 reconciliation law, and accreditation.",
+    "closeness": "The chapter asked for new rules on teacher-student interaction in these programs. None has been proposed.",
+    "uncertain": "I searched the Federal Register for the phrase and for Education Department distance-education and competency-based actions, and searched the full text of the August 2026 accreditation proposed rule, which does not use the terms 'regular and substantive,' 'competency-based' or 'distance education.' Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Intent To Establish Negotiated Rulemaking Committee (accreditation)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01620/intent-to-establish-negotiated-rulemaking-committee"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch11-081",
     "status": "under-review",
     "match": "broader",
@@ -2315,6 +2521,29 @@
       }
     ],
     "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-082",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "On July 1, 2026, the Education Department proposed rescinding the rules for its International Education (Title VI area studies) and Fulbright-Hays programs. It said this would let it align the programs with priorities such as workforce readiness and national competitiveness.",
+    "key_dates": [
+      {
+        "date": "2026-07-01",
+        "event": "Proposal to rescind International Education and Fulbright-Hays program rules."
+      }
+    ],
+    "closeness": "The chapter wanted a rule sending at least 40 percent of area studies money to free-market international business programs, with a pledge to serve American interests. The proposal removes the existing rules to allow new priorities, but sets no 40 percent share.",
+    "uncertain": "Whether the rescission is final, and what priorities will replace the rules, are not known. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "International Education Programs and Fulbright-Hays Program; Recission of Regulations",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13248/international-education-programs-and-fulbright-hays-program-recission-of-regulations"
+      }
+    ],
+    "as_of": "2026-10-27"
   },
   {
     "id": "ch11-083",
@@ -2418,14 +2647,63 @@
   },
   {
     "id": "ch11-087",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "I found no executive order about the online list of colleges that sought religious exemptions from Title IX.",
     "closeness": "No matching action found.",
-    "uncertain": "I reviewed the 2025 education executive orders and searched the Federal Register. I did not check whether the Education Department removed the list from its website without an order.",
+    "uncertain": "I reviewed the 2025 education executive orders and searched the Federal Register. I did not check whether the Education Department removed the list from its website without an order. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-28",
-    "recheck": "The Education Department site blocked automated access; check whether the archived Title IX religious exemption list is still posted."
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-088",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Education Department has publicly announced several student privacy investigations. After its March 2025 letter it opened statewide investigations, and in late July 2026 it announced FERPA enforcement actions against school districts in Maryland and Michigan and PPRA investigations of districts in Washington and Colorado.",
+    "key_dates": [
+      {
+        "date": "2025-03-28",
+        "event": "Letter to schools on FERPA and PPRA duties; investigations follow."
+      },
+      {
+        "date": "2026-07-28",
+        "event": "Department announces FERPA actions and PPRA investigations of four districts."
+      }
+    ],
+    "closeness": "Announcing investigations makes some complaint activity public, which partly fits the chapter's call for transparency. No regular public report on all FERPA and PPRA complaints was found.",
+    "uncertain": "Dates for the July 2026 announcements come from a news report. Whether the department publishes complaint totals is not known. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Trump administration cracks down on LGBTQ policies via privacy laws",
+        "publisher": "K-12 Dive",
+        "type": "news",
+        "url": "https://www.k12dive.com/news/trump-administration-cracks-down-on-lgbtq-policies-via-privacy-laws/826411/"
+      },
+      {
+        "label": "CRS R46799: The Family Educational Rights and Privacy Act (FERPA): Legal Issues",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-06-05_R46799_ab046875ffe38de60406c87fb0aa78a0fbb1ba84.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-089",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new online portal on parents' FERPA and PPRA rights was found. The department's existing student privacy website already offers a parent guide to FERPA and PPRA guidance. In 2026 the department renewed its existing FERPA and PPRA online complaint forms without changes.",
+    "closeness": "The chapter asked for a new portal and resources, including on access to school health records. Only the pre-existing site and forms were found.",
+    "uncertain": "I ran two web searches and searched the Federal Register. When the existing site's parent pages were last updated is not known. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "FERPA and PPRA E-Complaint Forms (information collection, reinstatement without change)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07868/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+      }
+    ],
+    "as_of": "2026-10-27"
   },
   {
     "id": "ch11-090",
@@ -2698,236 +2976,6 @@
         "publisher": "Federal Register",
         "type": "government",
         "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12775/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch11-013",
-    "status": "not-done",
-    "match": "none",
-    "happened": "Congress kept funding the special institutions in the fiscal 2026 spending law, signed February 3, 2026: $43.4 million for the American Printing House for the Blind, $92.5 million for the National Technical Institute for the Deaf, and $167.4 million for Gallaudet University and its schools. The administration's fiscal 2026 request had asked for the same amounts.",
-    "closeness": "The chapter wanted these set-asides phased out. They continue at full program levels.",
-    "uncertain": "I checked the fiscal 2026 spending law (P.L. 119-75), the fiscal 2026 budget justifications, and searched for the 2027 request; the 2027 budget summary could not be opened. Newest source: February 2026.",
-    "sources": [
-      {
-        "label": "Public Law 119-75 (FY2026 appropriations)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
-      },
-      {
-        "label": "FY2026 Congressional Justification: Gallaudet University",
-        "publisher": "U.S. Department of Education",
-        "type": "government",
-        "url": "https://www.ed.gov/media/document/fy-2026-congressional-justification-gallaudet-university-110136.pdf"
-      },
-      {
-        "label": "FY2026 Congressional Justification: American Printing House for the Blind",
-        "publisher": "U.S. Department of Education",
-        "type": "government",
-        "url": "https://www.ed.gov/media/document/fy-2026-congressional-justification-american-printing-house-blind-110138.pdf"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "The FY2027 Education budget summary could not be opened; check whether it proposes phasing out these set-asides."
-  },
-  {
-    "id": "ch11-034",
-    "status": "in-effect",
-    "match": "direct",
-    "happened": "On March 28, 2025, the Education Department's Student Privacy Policy Office sent a letter to state and local school leaders, with a cover letter from Secretary Linda McMahon, listing parents' right to inspect and review their children's education records as a top priority. In a complaint letter to California, the office said FERPA gives parents full rights to their children's records until age 18.",
-    "key_dates": [
-      {
-        "date": "2025-03-28",
-        "event": "Education Department letter to schools on FERPA duties, stressing parents' right to see records."
-      }
-    ],
-    "closeness": "This matches the chapter's call for the Secretary to make clear that FERPA gives parents full access to their children's records.",
-    "uncertain": "The department told one district to expect new FERPA guidance or rules; none was found as of the newest source (June 2026 CRS report).",
-    "sources": [
-      {
-        "label": "CRS R46799: The Family Educational Rights and Privacy Act (FERPA): Legal Issues",
-        "publisher": "Congressional Research Service (via EveryCRSReport)",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/files/2026-06-05_R46799_ab046875ffe38de60406c87fb0aa78a0fbb1ba84.html"
-      },
-      {
-        "label": "A trio of letters from the U.S. Department of Education further shape Trump-McMahon education policy",
-        "publisher": "EdNC",
-        "type": "news",
-        "url": "https://www.ednc.org/a-trio-of-letters-from-the-u-s-department-of-education-further-shape-trump-mcmahon-education-policy/"
-      },
-      {
-        "label": "Trump administration takes on school emails as parental rights issue",
-        "publisher": "The 74",
-        "type": "news",
-        "url": "https://www.the74million.org/article/trump-administration-takes-on-school-emails-as-parental-rights-issue/"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch11-048",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No congressional hearing on the National Education Association's use of federal money was found. In July 2025, members of Congress introduced bills to repeal or revise the union's federal charter, including H.R. 4450.",
-    "closeness": "The chapter asked for hearings. Bills were introduced instead, and none has passed.",
-    "uncertain": "I ran two targeted web searches for House or Senate hearings on the union and its charter, and searched all 119th Congress laws. Results showed only bills, such as H.R. 4450, which was referred to the House Judiciary Committee. Newest source: October 2026.",
-    "sources": [
-      {
-        "label": "H.R. 4450, National Education Association Charter Repeal Act (introduced)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4450ih/html/BILLS-119hr4450ih.htm"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch11-057",
-    "status": "not-done",
-    "match": "none",
-    "happened": "Congress did not raise D.C. Opportunity Scholarship amounts in law. The fiscal 2026 spending law kept the D.C. school program's federal payment at $52.5 million, the same level as in recent years. A bill to update the program, H.R. 5181, was approved by a House committee in September 2025 but has not passed; it would let the program set a lower maximum scholarship, not raise it.",
-    "closeness": "The chapter wanted scholarship amounts raised closer to D.C. public school per-student spending. No increase has become law.",
-    "uncertain": "I read the introduced text of H.R. 5181; a committee-reported version was not posted on GovInfo. Newest source: October 2026.",
-    "sources": [
-      {
-        "label": "Public Law 119-75 (FY2026 appropriations)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
-      },
-      {
-        "label": "H.R. 5181, SOAR Act Improvements Act (introduced text)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5181ih/html/BILLS-119hr5181ih.htm"
-      },
-      {
-        "label": "H.R. 5181, SOAR Act Improvements Act",
-        "publisher": "The Lobby News",
-        "type": "news",
-        "url": "https://www.thelobbynews.com/congress/bills/119/house-bill/5181"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch11-058",
-    "status": "under-review",
-    "match": "partial",
-    "happened": "H.R. 5181, the SOAR Act Improvements Act, was introduced September 8, 2025, and approved by the House Oversight Committee 25-20 on September 10, 2025. It would apply the program's random-selection rule only when it does not interfere with a school's regular admission standards, and would no longer require participating schools to give a set test, letting the Institute of Education Sciences test students in its study instead. It has not passed the House.",
-    "key_dates": [
-      {
-        "date": "2025-09-10",
-        "event": "House Oversight Committee approves H.R. 5181."
-      }
-    ],
-    "closeness": "The bill would give participating private schools more control over admissions and drop the school testing requirement, matching the chapter's idea, but it is not law.",
-    "uncertain": "Based on the introduced text; a committee-reported version was not posted on GovInfo. No floor action was found as of October 2026.",
-    "sources": [
-      {
-        "label": "H.R. 5181, SOAR Act Improvements Act (introduced text)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5181ih/html/BILLS-119hr5181ih.htm"
-      },
-      {
-        "label": "H.R. 5181, SOAR Act Improvements Act",
-        "publisher": "The Lobby News",
-        "type": "news",
-        "url": "https://www.thelobbynews.com/congress/bills/119/house-bill/5181"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch11-080",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No new Education Department rule clarifying \"regular and substantive interaction\" for competency-based or online programs was found. The department's 2025-2026 rulemaking focused on student loans, the 2025 reconciliation law, and accreditation.",
-    "closeness": "The chapter asked for new rules on teacher-student interaction in these programs. None has been proposed.",
-    "uncertain": "I searched the Federal Register for the phrase and for Education Department distance-education and competency-based actions, and searched the full text of the August 2026 accreditation proposed rule, which does not use the terms 'regular and substantive,' 'competency-based' or 'distance education.' Newest source: August 2026.",
-    "sources": [
-      {
-        "label": "Intent To Establish Negotiated Rulemaking Committee (accreditation)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01620/intent-to-establish-negotiated-rulemaking-committee"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch11-082",
-    "status": "under-review",
-    "match": "broader",
-    "happened": "On July 1, 2026, the Education Department proposed rescinding the rules for its International Education (Title VI area studies) and Fulbright-Hays programs. It said this would let it align the programs with priorities such as workforce readiness and national competitiveness.",
-    "key_dates": [
-      {
-        "date": "2026-07-01",
-        "event": "Proposal to rescind International Education and Fulbright-Hays program rules."
-      }
-    ],
-    "closeness": "The chapter wanted a rule sending at least 40 percent of area studies money to free-market international business programs, with a pledge to serve American interests. The proposal removes the existing rules to allow new priorities, but sets no 40 percent share.",
-    "uncertain": "Whether the rescission is final, and what priorities will replace the rules, are not known. Newest source: July 2026.",
-    "sources": [
-      {
-        "label": "International Education Programs and Fulbright-Hays Program; Recission of Regulations",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13248/international-education-programs-and-fulbright-hays-program-recission-of-regulations"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch11-088",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "The Education Department has publicly announced several student privacy investigations. After its March 2025 letter it opened statewide investigations, and in late July 2026 it announced FERPA enforcement actions against school districts in Maryland and Michigan and PPRA investigations of districts in Washington and Colorado.",
-    "key_dates": [
-      {
-        "date": "2025-03-28",
-        "event": "Letter to schools on FERPA and PPRA duties; investigations follow."
-      },
-      {
-        "date": "2026-07-28",
-        "event": "Department announces FERPA actions and PPRA investigations of four districts."
-      }
-    ],
-    "closeness": "Announcing investigations makes some complaint activity public, which partly fits the chapter's call for transparency. No regular public report on all FERPA and PPRA complaints was found.",
-    "uncertain": "Dates for the July 2026 announcements come from a news report. Whether the department publishes complaint totals is not known. Newest source: July 2026.",
-    "sources": [
-      {
-        "label": "Trump administration cracks down on LGBTQ policies via privacy laws",
-        "publisher": "K-12 Dive",
-        "type": "news",
-        "url": "https://www.k12dive.com/news/trump-administration-cracks-down-on-lgbtq-policies-via-privacy-laws/826411/"
-      },
-      {
-        "label": "CRS R46799: The Family Educational Rights and Privacy Act (FERPA): Legal Issues",
-        "publisher": "Congressional Research Service (via EveryCRSReport)",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/files/2026-06-05_R46799_ab046875ffe38de60406c87fb0aa78a0fbb1ba84.html"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch11-089",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No new online portal on parents' FERPA and PPRA rights was found. The department's existing student privacy website already offers a parent guide to FERPA and PPRA guidance. In 2026 the department renewed its existing FERPA and PPRA online complaint forms without changes.",
-    "closeness": "The chapter asked for a new portal and resources, including on access to school health records. Only the pre-existing site and forms were found.",
-    "uncertain": "I ran two web searches and searched the Federal Register. When the existing site's parent pages were last updated is not known. Newest source: April 2026.",
-    "sources": [
-      {
-        "label": "FERPA and PPRA E-Complaint Forms (information collection, reinstatement without change)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07868/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
       }
     ],
     "as_of": "2026-10-27"

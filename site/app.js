@@ -13,13 +13,14 @@
     'under-review':         { label: 'In progress', icon: '…', cls: 's-review', group: 'progress', def: 'An agency or court has started but not finished.' },
     'ended':                { label: 'Happened, then expired or reversed', icon: '○', cls: 's-ended', group: 'ended', def: 'It took effect for a while, then lapsed or was undone.' },
     'not-done':             { label: 'No action found', icon: '–', cls: 's-notdone', group: 'notdone', def: 'We looked and found no matching action.' },
+    'no-record':            { label: 'No public record yet', icon: ' ', cls: 's-norecord', group: 'norecord', def: 'No published document shows action, and our searches found none. Unpublished action is possible; the daily watcher keeps checking.' },
     'unchecked':            { label: 'Not researched yet', icon: ' ', cls: 's-unchecked', group: 'unchecked', def: 'Not checked yet. This does not mean nothing happened.' }
   };
   // Stack order is fixed (validated for color-blind separation in this order): never reorder casually.
   var GROUPS = [
     ['done', 'Done', 'g-done'], ['partly', 'Partly done', 'g-partly'], ['progress', 'In progress', 'g-progress'],
     ['ended', 'Happened, then expired or reversed', 'g-ended'], ['blocked', 'Blocked by courts', 'g-blocked'],
-    ['notdone', 'No action found', 'g-notdone'], ['unchecked', 'Not researched yet', 'g-unchecked']
+    ['notdone', 'No action found', 'g-notdone'], ['norecord', 'No public record yet', 'g-norecord'], ['unchecked', 'Not researched yet', 'g-unchecked']
   ];
   var ACTED = ['done', 'partly']; // "carried out in full or in part"
   var MATCH = { direct: ['Direct match', 4], partial: ['Partial match', 3], broader: ['Broad overlap', 2], none: ['No match found', 0] };
@@ -465,7 +466,8 @@
   function pct(n, d) { return d ? Math.round(n / d * 100) : 0; }
   function actedShare(t) {
     var checked = 0, acted = 0;
-    GROUPS.forEach(function (g) { if (g[0] !== 'unchecked') checked += t[g[0]]; });
+    // "No public record yet" stays out of every percentage, like "not researched": it is not a confirmed result.
+    GROUPS.forEach(function (g) { if (g[0] !== 'unchecked' && g[0] !== 'norecord') checked += t[g[0]]; });
     ACTED.forEach(function (k) { acted += t[k]; });
     return { checked: checked, acted: acted, pct: pct(acted, checked) };
   }
@@ -506,11 +508,11 @@
 
     $('hero-pct').textContent = share.pct;
     $('hero-label').textContent = share.acted.toLocaleString() + ' of the ' + share.checked.toLocaleString() + ' recommendations checked so far have been carried out in full or in part, out of ' + items.length.toLocaleString() + ' in the plan.';
-    var researched = share.checked;
+    var researched = items.length - all.unchecked;
     $('prog-pct').textContent = pct(researched, items.length) + '%';
     $('prog-fill').style.width = (researched / items.length * 100) + '%';
     $('prog-label').textContent = researched.toLocaleString() + ' of ' + items.length.toLocaleString() + ' recommendations researched';
-    var majChecked = actedShare(maj).checked;
+    var majChecked = majorList.length - maj.unchecked;
     $('maj-pct').textContent = pct(majChecked, majorList.length) + '%';
     $('maj-fill').style.width = (majChecked / majorList.length * 100) + '%';
     $('maj-label').textContent = majChecked + ' of ' + majorList.length + ' major recommendations researched';

@@ -30,34 +30,52 @@
     "recheck": "The PAD re-delegation is known only from letter copies filed in a lawsuit and a House Democrats' statement; an official OMB source or court ruling confirming it is still in place was not found."
   },
   {
+    "id": "ch02-002",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch02-003",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch02-004",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "No public record was found of the OMB Director giving the President an early fiscal goal to guide budget planning.",
     "closeness": "This is an internal budget step that would rarely be public, so no match could be confirmed either way.",
-    "uncertain": "Searched existing project research and the Federal Register. Internal OMB advice to the President is usually not published, and no web search was possible.",
+    "uncertain": "Searched existing project research and the Federal Register. Internal OMB advice to the President is usually not published, and no web search was possible. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "Internal OMB advice to the President is not published; needs reporting on whether an early deficit or fiscal target guided the FY2026 or FY2027 budget."
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch02-005",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "No public record was found of OMB splitting its six Resource Management Offices into smaller offices with more political appointees.",
     "closeness": "No matching reorganization was found.",
-    "uncertain": "Searched existing project research and the Federal Register. OMB's internal structure is not always announced, and no web news search was possible.",
+    "uncertain": "Searched existing project research and the Federal Register. OMB's internal structure is not always announced, and no web news search was possible. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "Needs an OMB organization chart or news report showing whether the six Resource Management Offices or the number of PADs changed in 2025-2026."
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch02-006",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "No new order or OMB memo bringing back administrative pay-as-you-go was found. Trump's 2019 order on the policy (EO 13893) was revoked in January 2021 by EO 13992, and on January 20, 2025, EO 14148 rescinded EO 13992. A separate January 2025 order (EO 14192) caps new regulatory costs, which is a different tool (see ch02-015).",
     "closeness": "No matching action was found. The regulatory cost cap in EO 14192 limits the cost of new rules, not the budget cost of agency actions.",
-    "uncertain": "Searched the Federal Register and news. Whether rescinding EO 13992 brought EO 13893 back into force has not been stated by OMB. The temporary version of the policy in the 2023 Fiscal Responsibility Act expired at the end of 2024.",
+    "uncertain": "Searched the Federal Register and news. Whether rescinding EO 13992 brought EO 13893 back into force has not been stated by OMB. The temporary version of the policy in the 2023 Fiscal Responsibility Act expired at the end of 2024. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [
       {
         "label": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
@@ -78,8 +96,7 @@
         "url": "https://www.federalregister.gov/documents/2019/10/16/2019-22749/increasing-government-accountability-for-administrative-actions-by-reinvigorating-administrative"
       }
     ],
-    "as_of": "2026-10-27",
-    "recheck": "Not confirmed whether EO 14148's rescission of EO 13992 revived the 2019 administrative PAYGO order (EO 13893), or whether OMB applies it."
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch02-007",
@@ -132,6 +149,16 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch02-008",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch02-009",
     "status": "in-effect",
     "match": "partial",
@@ -160,6 +187,39 @@
         "publisher": "Federal Register (USDA)",
         "type": "government",
         "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13061/renewal-of-optional-form-of-2211-build-america-buy-america-waiver-request-data-collection"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-010",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The administration kept Executive Order 12866, the order that sets White House (OIRA) review of regulations, and built new orders on top of it. Executive Order 14192 (January 31, 2025) told the Treasury Secretary and the OMB Director to bring back their April 2018 agreement, which puts most tax regulations through OIRA review. A 2023 agreement had exempted tax rules from that review.",
+    "key_dates": [
+      {
+        "date": "2023-06-09",
+        "event": "Treasury-OMB agreement exempts tax regulations from OIRA review"
+      },
+      {
+        "date": "2025-01-31",
+        "event": "Executive Order 14192 orders the 2018 agreement on tax rule review reinstated"
+      }
+    ],
+    "closeness": "Both parts of the recommendation happened: EO 12866 remains in force and OIRA review of Treasury tax rules was restored. Same order as ch02-012 and ch02-015.",
+    "uncertain": "The date the 2018 agreement was formally re-signed and how many tax rules OIRA has reviewed since were not checked. Newest source: February 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14192: Unleashing Prosperity Through Deregulation",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/06/2025-02345/unleashing-prosperity-through-deregulation"
+      },
+      {
+        "label": "Trump reinstates OIRA review of tax regulations",
+        "publisher": "Grant Thornton",
+        "type": "law-firm",
+        "url": "https://www.grantthornton.com/insights/newsletters/tax/2025/hot-topics/feb-11/trump-reinstates-oira-review-of-tax-regulations"
       }
     ],
     "as_of": "2026-10-27"
@@ -242,6 +302,39 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch02-013",
+    "status": "no-record",
+    "match": "none",
+    "happened": "Congress funded the Office of Management and Budget at $129 million for fiscal year 2026, the same as in 2025. The President had asked for $146.1 million. No separate funding increase for the regulatory review office (OIRA) was found.",
+    "closeness": "No matching action was confirmed. The President asked for more money for OMB as a whole, but Congress kept OMB funding flat, and OIRA does not get its own line in the spending law.",
+    "uncertain": "Checked the FY2026 spending law text (P.L. 119-75), a CRS overview of FY2026 funding, and an October 2026 web search for OMB's budget justification. How OMB divided its money among its offices, including OIRA staff levels, was not found in public sources. Newest source is from July 2026. No matching Federal Register document since Jan 20, 2025.",
+    "sources": [
+      {
+        "label": "Financial Services and General Government (FSGG) FY2026 Appropriations: Overview (R49017)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49017.html"
+      },
+      {
+        "label": "Public Law 119-75 (FY2026 consolidated appropriations)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch02-014",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch02-015",
     "status": "partly-done",
     "match": "partial",
@@ -316,6 +409,67 @@
     "closeness": "No matching action was found.",
     "uncertain": "Two Federal Register searches of presidential documents (for 'Executive Order 12630' and 'property rights takings') found nothing. No web news search was possible.",
     "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-018",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14303 (May 23, 2025), on 'Gold Standard Science,' requires agencies to correct scientific information that breaks its standards using the procedures of the Information Quality Act, under a senior political appointee. No similar new step on the Paperwork Reduction Act or the Privacy Act was found.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "Executive Order 14303 ties scientific integrity corrections to the Information Quality Act"
+      }
+    ],
+    "closeness": "The order uses the Information Quality Act more, which is one of the three laws the chapter names. The chapter's broader push on paperwork and privacy laws and on OIRA's statistics work was not found. Related to ch02-043.",
+    "uncertain": "Searched the Federal Register for OMB actions on the Paperwork Reduction Act and Privacy Act since January 2025, read the text of EO 14303, and ran one web search; no new OMB guidance on those laws was found. Changes in how OIRA reviews paperwork requests or privacy notices would not necessarily be published. Newest source: May 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14303: Restoring Gold Standard Science",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09802/restoring-gold-standard-science"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "No OMB memos on the Paperwork Reduction Act, Privacy Act or statistical policy since 2025 were found; check OMB's memoranda page directly."
+  },
+  {
+    "id": "ch02-019",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "Executive Order 14332 (August 7, 2025) told the OMB Director to revise the federal grants rules, known as the Uniform Guidance, including to let agencies end grants that no longer serve agency priorities. On May 29, 2026, OMB proposed a broad rewrite of its Guidance for Federal Financial Assistance, with comments due July 13, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-08-07",
+        "event": "Executive Order 14332 orders revisions to the Uniform Guidance"
+      },
+      {
+        "date": "2026-05-29",
+        "event": "OMB proposes revised Guidance for Federal Financial Assistance"
+      },
+      {
+        "date": "2026-07-13",
+        "event": "Comment period closes"
+      }
+    ],
+    "closeness": "OMB is revising its grants guidance, as the chapter recommends. The proposal also clarifies the rules' regulatory status, which relates to the chapter's call to hold grant rules to regulatory review standards.",
+    "uncertain": "The rule is not final. It is not known how much OIRA led the rewrite. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "Regulation for Federal Financial Assistance (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+      },
+      {
+        "label": "Executive Order 14332: Improving Oversight of Federal Grantmaking",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/12/2025-15344/improving-oversight-of-federal-grantmaking"
+      }
+    ],
     "as_of": "2026-10-27"
   },
   {
@@ -401,6 +555,16 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch02-022",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch02-023",
     "status": "partly-done",
     "match": "partial",
@@ -431,23 +595,32 @@
     "recheck": "The May 2025 NSC overhaul is confirmed in news reports, but which directorates were eliminated, merged or created is still not confirmed."
   },
   {
+    "id": "ch02-024",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch02-025",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "No change was found giving the National Security Council its own authority and investigators to grant security clearances to its staff.",
     "closeness": "No matching action was found.",
-    "uncertain": "Searched existing project research and the Federal Register. Changes to how NSC staff clearances are handled may not be public, and no web news search was possible.",
+    "uncertain": "Searched existing project research and the Federal Register. Changes to how NSC staff clearances are handled may not be public, and no web news search was possible. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "Only the Federal Register and project research were checked; needs a news search for any change to how NSC staff security clearances are handled."
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch02-026",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "The Defense Department released a new National Defense Strategy on January 23, 2026 (see ch04-002). No public information was found on whether the NSC and OMB reviewed it or reviewed war plans and force planning, as recommended.",
     "closeness": "A new strategy was issued, but the recommendation is about White House review of defense plans, which could not be confirmed.",
-    "uncertain": "White House review of war plans and strategy documents is usually classified or internal. Searched the Federal Register and existing project research; no web search was possible.",
+    "uncertain": "White House review of war plans and strategy documents is usually classified or internal. Searched the Federal Register and existing project research; no web search was possible. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [
       {
         "label": "2026 National Defense Strategy",
@@ -456,8 +629,7 @@
         "url": "https://media.defense.gov/2026/Jan/23/2003864773/-1/-1/0/2026-NATIONAL-DEFENSE-STRATEGY.PDF"
       }
     ],
-    "as_of": "2026-10-27",
-    "recheck": "White House review of strategy and war plans is mostly internal; needs reporting on any NSC or OMB review of the 2026 National Defense Strategy."
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch02-027",
@@ -552,6 +724,36 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch02-030",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch02-031",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch02-032",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch02-033",
     "status": "not-done",
     "match": "none",
@@ -586,6 +788,65 @@
         "publisher": "Federal Register",
         "type": "government",
         "url": "https://www.federalregister.gov/documents/2025/10/06/2025-19485/continuance-of-certain-federal-advisory-committees"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-034",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch02-035",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch02-036",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch02-037",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On September 23, 2025, OMB Director Russell Vought and OSTP Director Michael Kratsios issued research priorities for the FY2027 budget. The five priorities are critical and emerging technologies (such as AI and quantum), energy dominance, national and economic security, health and biotechnology, and space.",
+    "key_dates": [
+      {
+        "date": "2025-09-23",
+        "event": "OMB and OSTP issue FY2027 research and development priorities"
+      }
+    ],
+    "closeness": "The White House reset research priorities to match its agenda. The memo does not use the 'Industries of the Future' label, and it adds areas such as energy and space, so it is not clearly a narrower list.",
+    "uncertain": "The memo's full text was not read; this is based on a news summary. Whether agency budgets followed the new priorities is not known. Newest source: September 2025.",
+    "sources": [
+      {
+        "label": "FY2027 OMB-OSTP Research and Development Priorities Memo",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2025/09/FY27-OMB-OSTP-RD-Priorites-Memo-FINALSIGNED.pdf"
+      },
+      {
+        "label": "AI and quantum among top White House R&D priorities for FY2027",
+        "publisher": "American Institute of Physics (FYI)",
+        "type": "news",
+        "url": "https://www.aip.org/fyi/ai-and-quantum-among-top-white-house-r-d-priorities-for-fy2027"
       }
     ],
     "as_of": "2026-10-27"
@@ -634,6 +895,39 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch02-039",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In April 2025, NASA canceled its contract with ICF International, the company that helped coordinate the U.S. Global Change Research Program and the National Climate Assessment. Later that month, the authors working on the next National Climate Assessment were dismissed.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "Cancellation of the ICF contract supporting the Global Change Research Program is reported."
+      },
+      {
+        "date": "2025-04-28",
+        "event": "Authors of the sixth National Climate Assessment are told their work is ended."
+      }
+    ],
+    "closeness": "Broader: the administration ended a main climate research support contract, but no joint OSTP-OMB review of contractor independence, as the chapter recommends, was found.",
+    "uncertain": "The reasons given for the cancellation and the later status of the National Climate Assessment were not fully checked. Whether any formal contractor review took place is not known. Newest source is from September 2025.",
+    "sources": [
+      {
+        "label": "U.S. National Climate Assessment Likely Dead After Contract Canceled",
+        "publisher": "Eos (American Geophysical Union)",
+        "type": "news",
+        "url": "https://eos.org/research-and-developments/u-s-national-climate-assessment-likely-dead-after-contract-canceled"
+      },
+      {
+        "label": "Trump administration dismisses all authors of major climate report (CNN, via KTVZ)",
+        "publisher": "CNN",
+        "type": "news",
+        "url": "https://ktvz.com/cnn-other/2025/04/29/trump-administration-dismisses-all-authors-of-major-climate-report-throwing-us-assessment-into-limbo/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch02-040",
     "status": "partly-done",
     "match": "partial",
@@ -674,14 +968,37 @@
   },
   {
     "id": "ch02-041",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "No order was found limiting the White House science office, the NSTC environment committee, or climate research working groups to advisory roles only. Related changes to the Global Change Research Program are covered in ch02-038.",
     "closeness": "No matching formal limit was found, though climate research groups were cut back in other ways (ch02-038).",
-    "uncertain": "Searched Federal Register presidential documents and existing project research; no web search was possible for this item.",
+    "uncertain": "Searched Federal Register presidential documents and existing project research; no web search was possible for this item. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "Only Federal Register presidential documents and project research were checked; needs a news search on whether OSTP or NSTC climate bodies' roles were limited in 2025-2026."
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch02-042",
+    "status": "in-effect",
+    "match": "broader",
+    "happened": "On May 23, 2025, President Trump signed the order \"Restoring Gold Standard Science.\" It sets rules for how agencies use and explain science, including stating uncertainty, and says these rules do not apply to the non-scientific parts of agency decisions.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "Executive order \"Restoring Gold Standard Science\" signed (published May 29, 2025)."
+      }
+    ],
+    "legal": "No court ruling on this order was found in the sources checked.",
+    "closeness": "Broader: the order separates scientific standards from the non-scientific parts of decisions, which is close in spirit, but it does not set up a formal split between risk assessment and risk management.",
+    "uncertain": "How agencies have applied the order in specific risk decisions was not checked. Court challenges were not searched. Newest source is from May 2025.",
+    "sources": [
+      {
+        "label": "Restoring Gold Standard Science (Executive Order)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09802/restoring-gold-standard-science"
+      }
+    ],
+    "as_of": "2026-10-27"
   },
   {
     "id": "ch02-043",
@@ -941,6 +1258,26 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch02-052",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch02-053",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch02-054",
     "status": "under-review",
     "match": "direct",
@@ -982,6 +1319,31 @@
       }
     ],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-055",
+    "status": "in-effect",
+    "match": "broader",
+    "happened": "On August 7, 2025, President Trump signed an order requiring senior political appointees at federal agencies to review funding announcements and discretionary grant awards to make sure they match agency priorities.",
+    "key_dates": [
+      {
+        "date": "2025-08-07",
+        "event": "Executive order \"Improving Oversight of Federal Grantmaking\" signed (published August 12, 2025)."
+      }
+    ],
+    "legal": "Court challenges to this order were not checked.",
+    "closeness": "Broader: the order applies to grantmaking across the government, not only the drug control office (ONDCP). It puts appointees in charge of grant reviews, which matches the chapter's goal of aligning grants with the President's priorities.",
+    "uncertain": "No source was found showing how ONDCP itself applied the order to its grants. An October 2026 web search found no lawsuit aimed directly at this order, though many grant cuts under earlier orders were challenged. Newest source is from August 2025.",
+    "sources": [
+      {
+        "label": "Improving Oversight of Federal Grantmaking (Executive Order)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/12/2025-15344/improving-oversight-of-federal-grantmaking"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Find ONDCP-specific grant actions (for example, changes to Drug-Free Communities or HIDTA awards) under the order."
   },
   {
     "id": "ch02-056",
@@ -1030,232 +1392,13 @@
     "as_of": "2026-10-27"
   },
   {
-    "id": "ch02-010",
-    "status": "in-effect",
-    "match": "direct",
-    "happened": "The administration kept Executive Order 12866, the order that sets White House (OIRA) review of regulations, and built new orders on top of it. Executive Order 14192 (January 31, 2025) told the Treasury Secretary and the OMB Director to bring back their April 2018 agreement, which puts most tax regulations through OIRA review. A 2023 agreement had exempted tax rules from that review.",
-    "key_dates": [
-      {
-        "date": "2023-06-09",
-        "event": "Treasury-OMB agreement exempts tax regulations from OIRA review"
-      },
-      {
-        "date": "2025-01-31",
-        "event": "Executive Order 14192 orders the 2018 agreement on tax rule review reinstated"
-      }
-    ],
-    "closeness": "Both parts of the recommendation happened: EO 12866 remains in force and OIRA review of Treasury tax rules was restored. Same order as ch02-012 and ch02-015.",
-    "uncertain": "The date the 2018 agreement was formally re-signed and how many tax rules OIRA has reviewed since were not checked. Newest source: February 2025.",
-    "sources": [
-      {
-        "label": "Executive Order 14192: Unleashing Prosperity Through Deregulation",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/02/06/2025-02345/unleashing-prosperity-through-deregulation"
-      },
-      {
-        "label": "Trump reinstates OIRA review of tax regulations",
-        "publisher": "Grant Thornton",
-        "type": "law-firm",
-        "url": "https://www.grantthornton.com/insights/newsletters/tax/2025/hot-topics/feb-11/trump-reinstates-oira-review-of-tax-regulations"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch02-018",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "Executive Order 14303 (May 23, 2025), on 'Gold Standard Science,' requires agencies to correct scientific information that breaks its standards using the procedures of the Information Quality Act, under a senior political appointee. No similar new step on the Paperwork Reduction Act or the Privacy Act was found.",
-    "key_dates": [
-      {
-        "date": "2025-05-23",
-        "event": "Executive Order 14303 ties scientific integrity corrections to the Information Quality Act"
-      }
-    ],
-    "closeness": "The order uses the Information Quality Act more, which is one of the three laws the chapter names. The chapter's broader push on paperwork and privacy laws and on OIRA's statistics work was not found. Related to ch02-043.",
-    "uncertain": "Searched the Federal Register for OMB actions on the Paperwork Reduction Act and Privacy Act since January 2025, read the text of EO 14303, and ran one web search; no new OMB guidance on those laws was found. Changes in how OIRA reviews paperwork requests or privacy notices would not necessarily be published. Newest source: May 2025.",
-    "sources": [
-      {
-        "label": "Executive Order 14303: Restoring Gold Standard Science",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09802/restoring-gold-standard-science"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "No OMB memos on the Paperwork Reduction Act, Privacy Act or statistical policy since 2025 were found; check OMB's memoranda page directly."
-  },
-  {
-    "id": "ch02-019",
-    "status": "under-review",
-    "match": "direct",
-    "happened": "Executive Order 14332 (August 7, 2025) told the OMB Director to revise the federal grants rules, known as the Uniform Guidance, including to let agencies end grants that no longer serve agency priorities. On May 29, 2026, OMB proposed a broad rewrite of its Guidance for Federal Financial Assistance, with comments due July 13, 2026.",
-    "key_dates": [
-      {
-        "date": "2025-08-07",
-        "event": "Executive Order 14332 orders revisions to the Uniform Guidance"
-      },
-      {
-        "date": "2026-05-29",
-        "event": "OMB proposes revised Guidance for Federal Financial Assistance"
-      },
-      {
-        "date": "2026-07-13",
-        "event": "Comment period closes"
-      }
-    ],
-    "closeness": "OMB is revising its grants guidance, as the chapter recommends. The proposal also clarifies the rules' regulatory status, which relates to the chapter's call to hold grant rules to regulatory review standards.",
-    "uncertain": "The rule is not final. It is not known how much OIRA led the rewrite. Newest source: May 2026.",
-    "sources": [
-      {
-        "label": "Regulation for Federal Financial Assistance (proposed rule)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
-      },
-      {
-        "label": "Executive Order 14332: Improving Oversight of Federal Grantmaking",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/08/12/2025-15344/improving-oversight-of-federal-grantmaking"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch02-037",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "On September 23, 2025, OMB Director Russell Vought and OSTP Director Michael Kratsios issued research priorities for the FY2027 budget. The five priorities are critical and emerging technologies (such as AI and quantum), energy dominance, national and economic security, health and biotechnology, and space.",
-    "key_dates": [
-      {
-        "date": "2025-09-23",
-        "event": "OMB and OSTP issue FY2027 research and development priorities"
-      }
-    ],
-    "closeness": "The White House reset research priorities to match its agenda. The memo does not use the 'Industries of the Future' label, and it adds areas such as energy and space, so it is not clearly a narrower list.",
-    "uncertain": "The memo's full text was not read; this is based on a news summary. Whether agency budgets followed the new priorities is not known. Newest source: September 2025.",
-    "sources": [
-      {
-        "label": "FY2027 OMB-OSTP Research and Development Priorities Memo",
-        "publisher": "The White House",
-        "type": "government",
-        "url": "https://www.whitehouse.gov/wp-content/uploads/2025/09/FY27-OMB-OSTP-RD-Priorites-Memo-FINALSIGNED.pdf"
-      },
-      {
-        "label": "AI and quantum among top White House R&D priorities for FY2027",
-        "publisher": "American Institute of Physics (FYI)",
-        "type": "news",
-        "url": "https://www.aip.org/fyi/ai-and-quantum-among-top-white-house-r-d-priorities-for-fy2027"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch02-013",
-    "status": "not-done",
+    "id": "ch02-058",
+    "status": "no-record",
     "match": "none",
-    "happened": "Congress funded the Office of Management and Budget at $129 million for fiscal year 2026, the same as in 2025. The President had asked for $146.1 million. No separate funding increase for the regulatory review office (OIRA) was found.",
-    "closeness": "No matching action was confirmed. The President asked for more money for OMB as a whole, but Congress kept OMB funding flat, and OIRA does not get its own line in the spending law.",
-    "uncertain": "Checked the FY2026 spending law text (P.L. 119-75), a CRS overview of FY2026 funding, and an October 2026 web search for OMB's budget justification. How OMB divided its money among its offices, including OIRA staff levels, was not found in public sources. Newest source is from July 2026.",
-    "sources": [
-      {
-        "label": "Financial Services and General Government (FSGG) FY2026 Appropriations: Overview (R49017)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/R49017.html"
-      },
-      {
-        "label": "Public Law 119-75 (FY2026 consolidated appropriations)",
-        "publisher": "GovInfo (U.S. Government Publishing Office)",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "OIRA's own funding or staff level for FY2025-2027 was not found; check OMB's budget appendix or justification tables."
-  },
-  {
-    "id": "ch02-039",
-    "status": "partly-done",
-    "match": "broader",
-    "happened": "In April 2025, NASA canceled its contract with ICF International, the company that helped coordinate the U.S. Global Change Research Program and the National Climate Assessment. Later that month, the authors working on the next National Climate Assessment were dismissed.",
-    "key_dates": [
-      {
-        "date": "2025-04-09",
-        "event": "Cancellation of the ICF contract supporting the Global Change Research Program is reported."
-      },
-      {
-        "date": "2025-04-28",
-        "event": "Authors of the sixth National Climate Assessment are told their work is ended."
-      }
-    ],
-    "closeness": "Broader: the administration ended a main climate research support contract, but no joint OSTP-OMB review of contractor independence, as the chapter recommends, was found.",
-    "uncertain": "The reasons given for the cancellation and the later status of the National Climate Assessment were not fully checked. Whether any formal contractor review took place is not known. Newest source is from September 2025.",
-    "sources": [
-      {
-        "label": "U.S. National Climate Assessment Likely Dead After Contract Canceled",
-        "publisher": "Eos (American Geophysical Union)",
-        "type": "news",
-        "url": "https://eos.org/research-and-developments/u-s-national-climate-assessment-likely-dead-after-contract-canceled"
-      },
-      {
-        "label": "Trump administration dismisses all authors of major climate report (CNN, via KTVZ)",
-        "publisher": "CNN",
-        "type": "news",
-        "url": "https://ktvz.com/cnn-other/2025/04/29/trump-administration-dismisses-all-authors-of-major-climate-report-throwing-us-assessment-into-limbo/"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch02-042",
-    "status": "in-effect",
-    "match": "broader",
-    "happened": "On May 23, 2025, President Trump signed the order \"Restoring Gold Standard Science.\" It sets rules for how agencies use and explain science, including stating uncertainty, and says these rules do not apply to the non-scientific parts of agency decisions.",
-    "key_dates": [
-      {
-        "date": "2025-05-23",
-        "event": "Executive order \"Restoring Gold Standard Science\" signed (published May 29, 2025)."
-      }
-    ],
-    "legal": "No court ruling on this order was found in the sources checked.",
-    "closeness": "Broader: the order separates scientific standards from the non-scientific parts of decisions, which is close in spirit, but it does not set up a formal split between risk assessment and risk management.",
-    "uncertain": "How agencies have applied the order in specific risk decisions was not checked. Court challenges were not searched. Newest source is from May 2025.",
-    "sources": [
-      {
-        "label": "Restoring Gold Standard Science (Executive Order)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09802/restoring-gold-standard-science"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch02-055",
-    "status": "in-effect",
-    "match": "broader",
-    "happened": "On August 7, 2025, President Trump signed an order requiring senior political appointees at federal agencies to review funding announcements and discretionary grant awards to make sure they match agency priorities.",
-    "key_dates": [
-      {
-        "date": "2025-08-07",
-        "event": "Executive order \"Improving Oversight of Federal Grantmaking\" signed (published August 12, 2025)."
-      }
-    ],
-    "legal": "Court challenges to this order were not checked.",
-    "closeness": "Broader: the order applies to grantmaking across the government, not only the drug control office (ONDCP). It puts appointees in charge of grant reviews, which matches the chapter's goal of aligning grants with the President's priorities.",
-    "uncertain": "No source was found showing how ONDCP itself applied the order to its grants. An October 2026 web search found no lawsuit aimed directly at this order, though many grant cuts under earlier orders were challenged. Newest source is from August 2025.",
-    "sources": [
-      {
-        "label": "Improving Oversight of Federal Grantmaking (Executive Order)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/08/12/2025-15344/improving-oversight-of-federal-grantmaking"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "Find ONDCP-specific grant actions (for example, changes to Drug-Free Communities or HIDTA awards) under the order."
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   }
 ]

@@ -650,6 +650,43 @@
     "as_of": "2026-10-28"
   },
   {
+    "id": "ch26-023",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The Senate confirmed William Kimmitt as Under Secretary of Commerce for International Trade on July 29, 2025, after a 14-13 party-line committee vote. He was sworn in by Commerce Secretary Howard Lutnick on August 7, 2025. Kimmitt had served as counselor to the U.S. Trade Representative in the first Trump administration.",
+    "key_dates": [
+      {
+        "date": "2025-04-29",
+        "event": "Senate Finance Committee advances the nomination 14-13."
+      },
+      {
+        "date": "2025-07-29",
+        "event": "Senate confirms Kimmitt."
+      },
+      {
+        "date": "2025-08-07",
+        "event": "Kimmitt sworn in."
+      }
+    ],
+    "closeness": "The President filled the trade Under Secretary post with his own nominee, as the recommendation describes. This finding does not judge whether the National Security Adviser and economic advisers back every part of the trade agenda.",
+    "uncertain": "Officials' positions on tariffs and trade cases were not reviewed one by one. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "William Kimmitt Sworn In as Under Secretary of Commerce for International Trade",
+        "publisher": "International Trade Administration",
+        "type": "government",
+        "url": "https://www.trade.gov/press-release/william-kimmitt-sworn-under-secretary-commerce-international-trade"
+      },
+      {
+        "label": "Results of open executive session to consider William Kimmitt and Kenneth Kies",
+        "publisher": "Senate Finance Committee",
+        "type": "government",
+        "url": "https://www.finance.senate.gov/download/results-of-open-executive-session-to-consider-william-kimmit-and-kenneth-kies&download=1"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch26-024",
     "status": "not-done",
     "match": "none",
@@ -715,6 +752,39 @@
       }
     ],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-027",
+    "status": "in-effect",
+    "match": "broader",
+    "happened": "Trade Adjustment Assistance for workers has been closed to new groups of workers since July 1, 2022, when a phaseout under a 2015 law began, before January 20, 2025. Through October 2026 Congress did not reauthorize or expand it. The fiscal 2026 appropriations law, signed February 3, 2026, kept paying benefits to workers already in the program.",
+    "key_dates": [
+      {
+        "date": "2022-07-01",
+        "event": "Phaseout begins; new worker groups can no longer qualify."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 law funds benefits for workers already enrolled."
+      }
+    ],
+    "closeness": "The program was not expanded, as this side of the chapter urged, but that is because a phaseout that began in 2022, before this administration, continued; no new decision was made. The fallback idea of paying any expansion as direct cash did not come up. Bills to reauthorize the program, such as S. 1449, did not become law.",
+    "uncertain": "Checked the local copy of all 119th Congress laws and a December 2025 CRS report. The administration's own stated position on the program was not found. 'In effect' here means the program stayed closed, not that a new step was taken.",
+    "sources": [
+      {
+        "label": "Trade Adjustment Assistance for Firms (IF12430, Dec. 2025)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12430.html"
+      },
+      {
+        "label": "Public Law 119-75 (Consolidated Appropriations Act, 2026)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch26-028",
@@ -972,6 +1042,55 @@
     "as_of": "2026-10-28"
   },
   {
+    "id": "ch26-040",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On March 17, 2026, the Department of Homeland Security issued a 60-day Jones Act waiver at the Defense Department's request during the Iran conflict. It let foreign-flagged ships carry oil, liquefied natural gas and fertilizer between U.S. ports. DHS extended it for 90 days from May 18, 2026, and again from August 17 through November 15, 2026, with new paperwork rules.",
+    "key_dates": [
+      {
+        "date": "2026-03-17",
+        "event": "DHS issues a 60-day Jones Act waiver."
+      },
+      {
+        "date": "2026-05-18",
+        "event": "First 90-day extension begins."
+      },
+      {
+        "date": "2026-08-17",
+        "event": "Second 90-day extension begins."
+      }
+    ],
+    "closeness": "The administration used its waiver power, which this side of the chapter supports, though for a national-defense reason tied to energy supply rather than as a general policy. No push to repeal the Jones Act was found.",
+    "uncertain": "The official justification was not published, and House Transportation Democrats asked for details in May 2026. Whether the waiver will be extended past November 15, 2026 is not known. Dates are confirmed by CBP's cargo notices. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "CSMS # 69519766, Updated Guidance #4: Implementation of Jones Act Waiver (Aug. 13, 2026)",
+        "publisher": "U.S. Customs and Border Protection",
+        "type": "government",
+        "url": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/424c996"
+      },
+      {
+        "label": "CSMS # 68448732, Updated Guidance #3: Implementation of Jones Act Waiver (Apr. 24, 2026)",
+        "publisher": "U.S. Customs and Border Protection",
+        "type": "government",
+        "url": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41471dc"
+      },
+      {
+        "label": "DHS Extends Jones Act Waiver Again",
+        "publisher": "Holland & Knight",
+        "type": "law-firm",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/08/dhs-extends-jones-act-waiver-again"
+      },
+      {
+        "label": "Ranking Members Larsen, Carbajal Demand Answers on Trump Administration's Waiving of the Jones Act",
+        "publisher": "House Transportation and Infrastructure Committee Democrats",
+        "type": "government",
+        "url": "https://democrats-transportation.house.gov/news/press-releases/ranking-members-larsen-carbajal-demand-answers-on-trump-administrations-waiving-of-the-jones-act"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch26-041",
     "status": "under-review",
     "match": "partial",
@@ -1036,124 +1155,5 @@
       }
     ],
     "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch26-023",
-    "status": "in-effect",
-    "match": "partial",
-    "happened": "The Senate confirmed William Kimmitt as Under Secretary of Commerce for International Trade on July 29, 2025, after a 14-13 party-line committee vote. He was sworn in by Commerce Secretary Howard Lutnick on August 7, 2025. Kimmitt had served as counselor to the U.S. Trade Representative in the first Trump administration.",
-    "key_dates": [
-      {
-        "date": "2025-04-29",
-        "event": "Senate Finance Committee advances the nomination 14-13."
-      },
-      {
-        "date": "2025-07-29",
-        "event": "Senate confirms Kimmitt."
-      },
-      {
-        "date": "2025-08-07",
-        "event": "Kimmitt sworn in."
-      }
-    ],
-    "closeness": "The President filled the trade Under Secretary post with his own nominee, as the recommendation describes. This finding does not judge whether the National Security Adviser and economic advisers back every part of the trade agenda.",
-    "uncertain": "Officials' positions on tariffs and trade cases were not reviewed one by one. Newest source: August 2025.",
-    "sources": [
-      {
-        "label": "William Kimmitt Sworn In as Under Secretary of Commerce for International Trade",
-        "publisher": "International Trade Administration",
-        "type": "government",
-        "url": "https://www.trade.gov/press-release/william-kimmitt-sworn-under-secretary-commerce-international-trade"
-      },
-      {
-        "label": "Results of open executive session to consider William Kimmitt and Kenneth Kies",
-        "publisher": "Senate Finance Committee",
-        "type": "government",
-        "url": "https://www.finance.senate.gov/download/results-of-open-executive-session-to-consider-william-kimmit-and-kenneth-kies&download=1"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch26-027",
-    "status": "in-effect",
-    "match": "broader",
-    "happened": "Trade Adjustment Assistance for workers has been closed to new groups of workers since July 1, 2022, when a phaseout under a 2015 law began, before January 20, 2025. Through October 2026 Congress did not reauthorize or expand it. The fiscal 2026 appropriations law, signed February 3, 2026, kept paying benefits to workers already in the program.",
-    "key_dates": [
-      {
-        "date": "2022-07-01",
-        "event": "Phaseout begins; new worker groups can no longer qualify."
-      },
-      {
-        "date": "2026-02-03",
-        "event": "FY2026 law funds benefits for workers already enrolled."
-      }
-    ],
-    "closeness": "The program was not expanded, as this side of the chapter urged, but that is because a phaseout that began in 2022, before this administration, continued; no new decision was made. The fallback idea of paying any expansion as direct cash did not come up. Bills to reauthorize the program, such as S. 1449, did not become law.",
-    "uncertain": "Checked the local copy of all 119th Congress laws and a December 2025 CRS report. The administration's own stated position on the program was not found. 'In effect' here means the program stayed closed, not that a new step was taken.",
-    "sources": [
-      {
-        "label": "Trade Adjustment Assistance for Firms (IF12430, Dec. 2025)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/IF12430.html"
-      },
-      {
-        "label": "Public Law 119-75 (Consolidated Appropriations Act, 2026)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch26-040",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "On March 17, 2026, the Department of Homeland Security issued a 60-day Jones Act waiver at the Defense Department's request during the Iran conflict. It let foreign-flagged ships carry oil, liquefied natural gas and fertilizer between U.S. ports. DHS extended it for 90 days from May 18, 2026, and again from August 17 through November 15, 2026, with new paperwork rules.",
-    "key_dates": [
-      {
-        "date": "2026-03-17",
-        "event": "DHS issues a 60-day Jones Act waiver."
-      },
-      {
-        "date": "2026-05-18",
-        "event": "First 90-day extension begins."
-      },
-      {
-        "date": "2026-08-17",
-        "event": "Second 90-day extension begins."
-      }
-    ],
-    "closeness": "The administration used its waiver power, which this side of the chapter supports, though for a national-defense reason tied to energy supply rather than as a general policy. No push to repeal the Jones Act was found.",
-    "uncertain": "The official justification was not published, and House Transportation Democrats asked for details in May 2026. Whether the waiver will be extended past November 15, 2026 is not known. Dates are confirmed by CBP's cargo notices. Newest source: August 2026.",
-    "sources": [
-      {
-        "label": "CSMS # 69519766, Updated Guidance #4: Implementation of Jones Act Waiver (Aug. 13, 2026)",
-        "publisher": "U.S. Customs and Border Protection",
-        "type": "government",
-        "url": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/424c996"
-      },
-      {
-        "label": "CSMS # 68448732, Updated Guidance #3: Implementation of Jones Act Waiver (Apr. 24, 2026)",
-        "publisher": "U.S. Customs and Border Protection",
-        "type": "government",
-        "url": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41471dc"
-      },
-      {
-        "label": "DHS Extends Jones Act Waiver Again",
-        "publisher": "Holland & Knight",
-        "type": "law-firm",
-        "url": "https://www.hklaw.com/en/insights/publications/2026/08/dhs-extends-jones-act-waiver-again"
-      },
-      {
-        "label": "Ranking Members Larsen, Carbajal Demand Answers on Trump Administration's Waiving of the Jones Act",
-        "publisher": "House Transportation and Infrastructure Committee Democrats",
-        "type": "government",
-        "url": "https://democrats-transportation.house.gov/news/press-releases/ranking-members-larsen-carbajal-demand-answers-on-trump-administrations-waiving-of-the-jones-act"
-      }
-    ],
-    "as_of": "2026-10-28"
   }
 ]

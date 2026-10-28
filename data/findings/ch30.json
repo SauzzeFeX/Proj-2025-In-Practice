@@ -23,6 +23,35 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch30-002",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On February 18, 2025, FTC Chairman Andrew Ferguson told staff that the 2023 Merger Guidelines, issued jointly with the Justice Department under the prior administration, stay in effect. He said guidelines that change with every administration lose their value to businesses and courts, and left room for a later careful review. The guidelines look at effects beyond price, such as on quality, innovation and workers.",
+    "key_dates": [
+      {
+        "date": "2025-02-18",
+        "event": "Ferguson memo keeps the 2023 Merger Guidelines in effect."
+      }
+    ],
+    "closeness": "The FTC kept a framework that looks past price alone, which fits part of the recommendation. No FTC statement was found that sets the same standard of proof for claimed efficiencies as for claimed harms, as the recommendation asks.",
+    "uncertain": "No revision of the 2023 guidelines was found through October 2026, but a review could be under way without public notice. Federal Register searches and a web search were used.",
+    "sources": [
+      {
+        "label": "FTC Chairman Andrew N. Ferguson Announces that the FTC and DOJ's Joint 2023 Merger Guidelines Are in Effect",
+        "publisher": "Federal Trade Commission",
+        "type": "government",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/02/ftc-chairman-andrew-n-ferguson-announces-ftc-dojs-joint-2023-merger-guidelines-are-effect"
+      },
+      {
+        "label": "Here to Stay? FTC and DOJ Announce that 2023 Merger Guidelines Remain in Effect",
+        "publisher": "WilmerHale",
+        "type": "law-firm",
+        "url": "https://www.wilmerhale.com/en/insights/client-alerts/20250228-here-to-stay-ftc-and-doj-announce-that-2023-merger-guidelines-remain-in-effect"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch30-003",
     "status": "partly-done",
     "match": "partial",
@@ -92,6 +121,40 @@
       }
     ],
     "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch30-005",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "Before January 20, 2025, in the 118th Congress, the House Judiciary Committee investigated whether ESG investing groups such as Climate Action 100+ broke antitrust laws. It sent document demands to more than 130 companies and pension funds, subpoenaed some, and released majority staff reports in June and December 2024 saying it found evidence of collusion.",
+    "key_dates": [
+      {
+        "date": "2024-06-11",
+        "event": "Committee majority releases the \"Climate Control\" interim report."
+      },
+      {
+        "date": "2024-12",
+        "event": "Second interim report released."
+      }
+    ],
+    "closeness": "Same idea: a congressional investigation of ESG practices as possible anticompetitive conduct. It took place in 2023-2024, before the current administration, and no new 2025-2026 report was found.",
+    "uncertain": "Whether the investigation continued in 2025-2026 was not confirmed; an October 2026 web search found nothing newer than 2025. The reports state the committee majority's conclusions; groups named in them, such as Climate Action 100+, disputed them. Newest source: December 2024.",
+    "sources": [
+      {
+        "label": "New Report Reveals Evidence of ESG Collusion Among Left-Wing Activists and Major Financial Institutions",
+        "publisher": "House Judiciary Committee (majority)",
+        "type": "government",
+        "url": "https://judiciary.house.gov/media/press-releases/new-report-reveals-evidence-esg-collusion-among-left-wing-activists-and-major"
+      },
+      {
+        "label": "House Judiciary ESG probe: More than 70 investors have left Climate Action 100+",
+        "publisher": "ESG Dive",
+        "type": "news",
+        "url": "https://www.esgdive.com/news/house-judiciary-esg-probe-more-than-70-investors-have-left-climate-action-100/735805/"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "No 2025-2026 House or Senate ESG antitrust action was found; confirm on judiciary.house.gov before counting this as in effect for the current period."
   },
   {
     "id": "ch30-006",
@@ -173,6 +236,26 @@
     "as_of": "2026-10-28"
   },
   {
+    "id": "ch30-009",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch30-010",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No dedicated role for working with state attorneys general was found in the FTC Chairman's office. The FTC continued to bring some cases jointly with groups of states, as it had before.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for FTC notices and the web for an announced state attorney general liaison through October 2026. An unannounced staff assignment would not appear in these sources.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch30-011",
     "status": "not-done",
     "match": "none",
@@ -196,76 +279,13 @@
     "as_of": "2026-10-27"
   },
   {
-    "id": "ch30-002",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "On February 18, 2025, FTC Chairman Andrew Ferguson told staff that the 2023 Merger Guidelines, issued jointly with the Justice Department under the prior administration, stay in effect. He said guidelines that change with every administration lose their value to businesses and courts, and left room for a later careful review. The guidelines look at effects beyond price, such as on quality, innovation and workers.",
-    "key_dates": [
-      {
-        "date": "2025-02-18",
-        "event": "Ferguson memo keeps the 2023 Merger Guidelines in effect."
-      }
-    ],
-    "closeness": "The FTC kept a framework that looks past price alone, which fits part of the recommendation. No FTC statement was found that sets the same standard of proof for claimed efficiencies as for claimed harms, as the recommendation asks.",
-    "uncertain": "No revision of the 2023 guidelines was found through October 2026, but a review could be under way without public notice. Federal Register searches and a web search were used.",
-    "sources": [
-      {
-        "label": "FTC Chairman Andrew N. Ferguson Announces that the FTC and DOJ's Joint 2023 Merger Guidelines Are in Effect",
-        "publisher": "Federal Trade Commission",
-        "type": "government",
-        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/02/ftc-chairman-andrew-n-ferguson-announces-ftc-dojs-joint-2023-merger-guidelines-are-effect"
-      },
-      {
-        "label": "Here to Stay? FTC and DOJ Announce that 2023 Merger Guidelines Remain in Effect",
-        "publisher": "WilmerHale",
-        "type": "law-firm",
-        "url": "https://www.wilmerhale.com/en/insights/client-alerts/20250228-here-to-stay-ftc-and-doj-announce-that-2023-merger-guidelines-remain-in-effect"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch30-005",
-    "status": "in-effect",
-    "match": "direct",
-    "happened": "Before January 20, 2025, in the 118th Congress, the House Judiciary Committee investigated whether ESG investing groups such as Climate Action 100+ broke antitrust laws. It sent document demands to more than 130 companies and pension funds, subpoenaed some, and released majority staff reports in June and December 2024 saying it found evidence of collusion.",
-    "key_dates": [
-      {
-        "date": "2024-06-11",
-        "event": "Committee majority releases the \"Climate Control\" interim report."
-      },
-      {
-        "date": "2024-12",
-        "event": "Second interim report released."
-      }
-    ],
-    "closeness": "Same idea: a congressional investigation of ESG practices as possible anticompetitive conduct. It took place in 2023-2024, before the current administration, and no new 2025-2026 report was found.",
-    "uncertain": "Whether the investigation continued in 2025-2026 was not confirmed; an October 2026 web search found nothing newer than 2025. The reports state the committee majority's conclusions; groups named in them, such as Climate Action 100+, disputed them. Newest source: December 2024.",
-    "sources": [
-      {
-        "label": "New Report Reveals Evidence of ESG Collusion Among Left-Wing Activists and Major Financial Institutions",
-        "publisher": "House Judiciary Committee (majority)",
-        "type": "government",
-        "url": "https://judiciary.house.gov/media/press-releases/new-report-reveals-evidence-esg-collusion-among-left-wing-activists-and-major"
-      },
-      {
-        "label": "House Judiciary ESG probe: More than 70 investors have left Climate Action 100+",
-        "publisher": "ESG Dive",
-        "type": "news",
-        "url": "https://www.esgdive.com/news/house-judiciary-esg-probe-more-than-70-investors-have-left-climate-action-100/735805/"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "No 2025-2026 House or Senate ESG antitrust action was found; confirm on judiciary.house.gov before counting this as in effect for the current period."
-  },
-  {
-    "id": "ch30-010",
-    "status": "not-done",
+    "id": "ch30-012",
+    "status": "no-record",
     "match": "none",
-    "happened": "No dedicated role for working with state attorneys general was found in the FTC Chairman's office. The FTC continued to bring some cases jointly with groups of states, as it had before.",
-    "closeness": "No matching action found.",
-    "uncertain": "Searched the Federal Register for FTC notices and the web for an announced state attorney general liaison through October 2026. An unannounced staff assignment would not appear in these sources.",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
     "sources": [],
-    "as_of": "2026-10-27"
+    "as_of": "2026-10-28"
   }
 ]

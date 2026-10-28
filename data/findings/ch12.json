@@ -381,6 +381,16 @@
     "as_of": "2026-10-28"
   },
   {
+    "id": "ch12-012",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch12-013",
     "status": "partly-done",
     "match": "broader",
@@ -735,6 +745,49 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch12-025",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "An executive order signed April 8, 2025, told the Secretary of Energy to speed up coal technologies, including uses of coal byproducts for products such as battery materials. On November 14, 2025, DOE offered up to $275 million for pilot plants that recover critical minerals from coal and industrial byproducts, and it later picked five coal-related projects to share $75 million.",
+    "key_dates": [
+      {
+        "date": "2025-04-08",
+        "event": "Executive order on coal directs DOE to support coal and coal-byproduct technologies."
+      },
+      {
+        "date": "2025-11-14",
+        "event": "DOE issues $275 million funding notice for minerals from coal and industrial byproducts"
+      },
+      {
+        "date": "2026",
+        "event": "DOE selects five coal-based projects for $75 million in negotiations"
+      }
+    ],
+    "closeness": "Close to the chapter's idea: DOE is paying for pilot plants that pull critical minerals from coal byproducts. DOE also funded smaller coal-waste mineral projects before January 20, 2025, so this continues earlier work on a larger scale.",
+    "uncertain": "The date of the five project selections and whether awards were finalized were not confirmed. Newest source: 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14261: Reinvigorating America's Beautiful Clean Coal Industry",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/14/2025-06380/reinvigorating-americas-beautiful-clean-coal-industry-and-amending-executive-order-14241"
+      },
+      {
+        "label": "Funding Notice: Mines & Metals Capacity Expansion (DE-FOA-0003583)",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/cmei/mining/funding-notice-mines-metals-capacity-expansion-piloting-product-critical-minerals-and"
+      },
+      {
+        "label": "CRS R47982: Critical Mineral Resources: National Policy and Critical Minerals List",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-01-08_R47982_65167d4c6278ab2af299deb310836ec5622fb724.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch12-026",
     "status": "partly-done",
     "match": "partial",
@@ -922,6 +975,29 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch12-032",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The fiscal 2026 energy spending law, signed January 23, 2026, took about $1.28 billion in unspent money from the civil nuclear credit program created by the 2021 infrastructure law and moved it to other DOE uses. No change to the 2021 law's hydropower incentives was found.",
+    "key_dates": [
+      {
+        "date": "2026-01-23",
+        "event": "FY2026 spending law repurposes about $1.28 billion of civil nuclear credit funds."
+      }
+    ],
+    "closeness": "Pulling most of the unspent civil nuclear credit money matches part of what the chapter suggested considering. The hydropower incentives were not touched, and the credit program itself was not repealed.",
+    "uncertain": "How much civil nuclear credit money remains, and whether DOE paid any credits, were not checked. I searched all 119th Congress laws for the hydropower sections. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-74 (FY2026 appropriations, including energy and water)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch12-033",
     "status": "partly-done",
     "match": "partial",
@@ -1103,6 +1179,23 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch12-038",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No rule requiring DOE loan applicants to certify compliance with the Uyghur Forced Labor Prevention Act, or to certify they have no other government-backed loans or bonds, was found. The July 2025 reconciliation law rewrote one DOE loan program as \"energy dominance financing\" but did not add these conditions.",
+    "closeness": "The chapter asked for two new loan conditions. Neither was found in law or rule.",
+    "uncertain": "I searched the Federal Register and read the loan section of the reconciliation law (P.L. 119-21, section 50403). An internal Loan Programs Office policy could have been missed. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch12-039",
     "status": "not-done",
     "match": "none",
@@ -1134,6 +1227,16 @@
         "url": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle"
       }
     ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-041",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
     "as_of": "2026-10-28"
   },
   {
@@ -1194,6 +1297,39 @@
         "publisher": "S&P Global Commodity Insights",
         "type": "news",
         "url": "https://www.spglobal.com/commodity-insights/en/news-research/latest-news/natural-gas/080725-us-eia-other-statistical-agencies-face-squeeze-as-staffing-reductions-mount"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-044",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-045",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No study of privatizing the Energy Information Administration was found. Congress gave the agency $135 million for fiscal 2026 in a law signed January 23, 2026. The agency lost a large share of its staff in 2025 and stopped or delayed some reports, such as its International Energy Outlook.",
+    "closeness": "The chapter suggested assessing privatization. Nothing like that was found; the agency shrank but remains a federal agency funded by Congress.",
+    "uncertain": "I searched the Federal Register, all 119th Congress laws, and the web for EIA privatization; news covered staff cuts but no privatization review. An internal DOE review would not necessarily be public. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-74 (FY2026 appropriations, including energy and water)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
+      },
+      {
+        "label": "US EIA will not release International Energy Outlook in 2025",
+        "publisher": "Argus Media",
+        "type": "news",
+        "url": "https://www.argusmedia.com/pt/news-and-insights/latest-market-news/2685395-us-eia-will-not-release-international-outlook-in-2025"
       }
     ],
     "as_of": "2026-10-28"
@@ -1284,6 +1420,46 @@
     "as_of": "2026-10-28"
   },
   {
+    "id": "ch12-050",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-051",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-052",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-053",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch12-054",
     "status": "not-done",
     "match": "none",
@@ -1299,6 +1475,50 @@
       }
     ],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-056",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "On July 1, 2026, the Nuclear Regulatory Commission proposed changing its rules for commercial low-level radioactive waste disposal sites. The proposal would let sites set their own limits based on site conditions, cover some transuranic waste, and allow disposal of higher-concentration waste.",
+    "key_dates": [
+      {
+        "date": "2026-07-01",
+        "event": "NRC proposes new rules for low-level waste disposal."
+      }
+    ],
+    "closeness": "If adopted, the rule could let commercial sites accept more kinds of waste, which could help DOE use them more. But it is an NRC rule, not a DOE decision to use commercial sites more often.",
+    "uncertain": "No DOE policy on using commercial disposal sites more was found. Whether the NRC rule is final is not known. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Integrated Low-Level Radioactive Waste Disposal (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13302/integrated-low-level-radioactive-waste-disposal"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "No DOE Environmental Management decision to use commercial disposal sites more was found in the Federal Register or one web search; check EM program updates."
+  },
+  {
+    "id": "ch12-057",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-058",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch12-059",
@@ -1510,6 +1730,49 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch12-066",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-067",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-068",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The defense authorization law for fiscal 2026, signed December 18, 2025, changed the Nuclear Weapons Council's duties. It made the council the main body for linking DOD and DOE nuclear deterrence work and gave it the job of overseeing nuclear deterrence policy and resources at DOD and the National Nuclear Security Administration.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "NDAA section 1631 expands the Nuclear Weapons Council's oversight role."
+      }
+    ],
+    "closeness": "The chapter asked for a review so the council gives fuller oversight of DOE and DOD nuclear weapons policy. Congress gave it broader oversight duties by law; no separate executive branch review was found.",
+    "uncertain": "How the council has used its new duties is not public. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-60 (NDAA FY2026), section 1631",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch12-069",
     "status": "partly-done",
     "match": "broader",
@@ -1710,6 +1973,16 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch12-076",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch12-077",
     "status": "not-done",
     "match": "none",
@@ -1832,11 +2105,11 @@
   },
   {
     "id": "ch12-081",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "I found no new FERC rule or law adding protection or pay for landowners whose land is taken for pipelines. In October 2025, FERC removed a 2020 rule that had barred pipeline construction while some rehearing requests were pending.",
     "closeness": "No matching action found. The October 2025 FERC change goes in a different direction from added landowner protections.",
-    "uncertain": "I searched the Federal Register for FERC landowner and eminent domain rules and searched GovInfo for 119th Congress pipeline eminent domain bills; the one bill found (H.R. 9838, July 2026) would speed pipeline approvals rather than add landowner protections. State actions were not checked.",
+    "uncertain": "I searched the Federal Register for FERC landowner and eminent domain rules and searched GovInfo for 119th Congress pipeline eminent domain bills; the one bill found (H.R. 9838, July 2026) would speed pipeline approvals rather than add landowner protections. State actions were not checked. No matching Federal Register document since Jan 20, 2025.",
     "sources": [
       {
         "label": "Removal of Regulations Limiting Authorizations To Proceed With Construction Activities Pending Rehearing",
@@ -1845,8 +2118,7 @@
         "url": "https://www.federalregister.gov/documents/2025/10/10/2025-19533/removal-of-regulations-limiting-authorizations-to-proceed-with-construction-activities-pending"
       }
     ],
-    "as_of": "2026-10-28",
-    "recheck": "Only one GovInfo bill search ran before its rate limit; search 119th Congress bills on Natural Gas Act landowner compensation."
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch12-082",
@@ -2029,159 +2301,6 @@
         "publisher": "Federal Register",
         "type": "government",
         "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09798/ordering-the-reform-of-the-nuclear-regulatory-commission"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch12-025",
-    "status": "in-effect",
-    "match": "direct",
-    "happened": "An executive order signed April 8, 2025, told the Secretary of Energy to speed up coal technologies, including uses of coal byproducts for products such as battery materials. On November 14, 2025, DOE offered up to $275 million for pilot plants that recover critical minerals from coal and industrial byproducts, and it later picked five coal-related projects to share $75 million.",
-    "key_dates": [
-      {
-        "date": "2025-04-08",
-        "event": "Executive order on coal directs DOE to support coal and coal-byproduct technologies."
-      },
-      {
-        "date": "2025-11-14",
-        "event": "DOE issues $275 million funding notice for minerals from coal and industrial byproducts"
-      },
-      {
-        "date": "2026",
-        "event": "DOE selects five coal-based projects for $75 million in negotiations"
-      }
-    ],
-    "closeness": "Close to the chapter's idea: DOE is paying for pilot plants that pull critical minerals from coal byproducts. DOE also funded smaller coal-waste mineral projects before January 20, 2025, so this continues earlier work on a larger scale.",
-    "uncertain": "The date of the five project selections and whether awards were finalized were not confirmed. Newest source: 2026.",
-    "sources": [
-      {
-        "label": "Executive Order 14261: Reinvigorating America's Beautiful Clean Coal Industry",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/04/14/2025-06380/reinvigorating-americas-beautiful-clean-coal-industry-and-amending-executive-order-14241"
-      },
-      {
-        "label": "Funding Notice: Mines & Metals Capacity Expansion (DE-FOA-0003583)",
-        "publisher": "U.S. Department of Energy",
-        "type": "government",
-        "url": "https://www.energy.gov/cmei/mining/funding-notice-mines-metals-capacity-expansion-piloting-product-critical-minerals-and"
-      },
-      {
-        "label": "CRS R47982: Critical Mineral Resources: National Policy and Critical Minerals List",
-        "publisher": "Congressional Research Service (via EveryCRSReport)",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/files/2026-01-08_R47982_65167d4c6278ab2af299deb310836ec5622fb724.html"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch12-032",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "The fiscal 2026 energy spending law, signed January 23, 2026, took about $1.28 billion in unspent money from the civil nuclear credit program created by the 2021 infrastructure law and moved it to other DOE uses. No change to the 2021 law's hydropower incentives was found.",
-    "key_dates": [
-      {
-        "date": "2026-01-23",
-        "event": "FY2026 spending law repurposes about $1.28 billion of civil nuclear credit funds."
-      }
-    ],
-    "closeness": "Pulling most of the unspent civil nuclear credit money matches part of what the chapter suggested considering. The hydropower incentives were not touched, and the credit program itself was not repealed.",
-    "uncertain": "How much civil nuclear credit money remains, and whether DOE paid any credits, were not checked. I searched all 119th Congress laws for the hydropower sections. Newest source: January 2026.",
-    "sources": [
-      {
-        "label": "Public Law 119-74 (FY2026 appropriations, including energy and water)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch12-038",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No rule requiring DOE loan applicants to certify compliance with the Uyghur Forced Labor Prevention Act, or to certify they have no other government-backed loans or bonds, was found. The July 2025 reconciliation law rewrote one DOE loan program as \"energy dominance financing\" but did not add these conditions.",
-    "closeness": "The chapter asked for two new loan conditions. Neither was found in law or rule.",
-    "uncertain": "I searched the Federal Register and read the loan section of the reconciliation law (P.L. 119-21, section 50403). An internal Loan Programs Office policy could have been missed. Newest source: July 2025.",
-    "sources": [
-      {
-        "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch12-045",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No study of privatizing the Energy Information Administration was found. Congress gave the agency $135 million for fiscal 2026 in a law signed January 23, 2026. The agency lost a large share of its staff in 2025 and stopped or delayed some reports, such as its International Energy Outlook.",
-    "closeness": "The chapter suggested assessing privatization. Nothing like that was found; the agency shrank but remains a federal agency funded by Congress.",
-    "uncertain": "I searched the Federal Register, all 119th Congress laws, and the web for EIA privatization; news covered staff cuts but no privatization review. An internal DOE review would not necessarily be public. Newest source: October 2026.",
-    "sources": [
-      {
-        "label": "Public Law 119-74 (FY2026 appropriations, including energy and water)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
-      },
-      {
-        "label": "US EIA will not release International Energy Outlook in 2025",
-        "publisher": "Argus Media",
-        "type": "news",
-        "url": "https://www.argusmedia.com/pt/news-and-insights/latest-market-news/2685395-us-eia-will-not-release-international-outlook-in-2025"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch12-056",
-    "status": "under-review",
-    "match": "broader",
-    "happened": "On July 1, 2026, the Nuclear Regulatory Commission proposed changing its rules for commercial low-level radioactive waste disposal sites. The proposal would let sites set their own limits based on site conditions, cover some transuranic waste, and allow disposal of higher-concentration waste.",
-    "key_dates": [
-      {
-        "date": "2026-07-01",
-        "event": "NRC proposes new rules for low-level waste disposal."
-      }
-    ],
-    "closeness": "If adopted, the rule could let commercial sites accept more kinds of waste, which could help DOE use them more. But it is an NRC rule, not a DOE decision to use commercial sites more often.",
-    "uncertain": "No DOE policy on using commercial disposal sites more was found. Whether the NRC rule is final is not known. Newest source: July 2026.",
-    "sources": [
-      {
-        "label": "Integrated Low-Level Radioactive Waste Disposal (proposed rule)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13302/integrated-low-level-radioactive-waste-disposal"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "No DOE Environmental Management decision to use commercial disposal sites more was found in the Federal Register or one web search; check EM program updates."
-  },
-  {
-    "id": "ch12-068",
-    "status": "in-effect",
-    "match": "partial",
-    "happened": "The defense authorization law for fiscal 2026, signed December 18, 2025, changed the Nuclear Weapons Council's duties. It made the council the main body for linking DOD and DOE nuclear deterrence work and gave it the job of overseeing nuclear deterrence policy and resources at DOD and the National Nuclear Security Administration.",
-    "key_dates": [
-      {
-        "date": "2025-12-18",
-        "event": "NDAA section 1631 expands the Nuclear Weapons Council's oversight role."
-      }
-    ],
-    "closeness": "The chapter asked for a review so the council gives fuller oversight of DOE and DOD nuclear weapons policy. Congress gave it broader oversight duties by law; no separate executive branch review was found.",
-    "uncertain": "How the council has used its new duties is not public. Newest source: December 2025.",
-    "sources": [
-      {
-        "label": "Public Law 119-60 (NDAA FY2026), section 1631",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
       }
     ],
     "as_of": "2026-10-27"

@@ -648,11 +648,11 @@
   },
   {
     "id": "ch22-028",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "No law has extended the two-year time limit for taxpayers to sue for damages over improper IRS collection. A Senate-passed IRS service bill (S. 3931) would extend a related deadline, the time for returning money taken by a wrongful levy, but it does not change the damages-suit deadline.",
     "closeness": "The Senate bill's wrongful-levy change is related but different: it concerns getting levied money back, not the time to sue for damages. It has not passed the House.",
-    "uncertain": "Checked the introduced text of S. 3931 (Sec. 114) and P.L. 119-21 for changes to Section 7433; none were found. The final Senate-passed text was not reviewed. Newest source: October 2026.",
+    "uncertain": "Checked the introduced text of S. 3931 (Sec. 114) and P.L. 119-21 for changes to Section 7433; none were found. The final Senate-passed text was not reviewed. Newest source: October 2026. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [
       {
         "label": "S. 3931, Taxpayer Assistance and Service Act (introduced text), Sec. 114",
@@ -667,8 +667,7 @@
         "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/10/senate-passes-tax-administration-reform-package.html"
       }
     ],
-    "as_of": "2026-10-28",
-    "recheck": "The Senate-passed text of S. 3931 was not yet posted on GovInfo in October 2026; confirm it does not change the Section 7433 time limit."
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch22-029",
@@ -1068,6 +1067,39 @@
     "as_of": "2026-10-28"
   },
   {
+    "id": "ch22-044",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "Congress let the Treasury buy more ownership in several international lenders. A funding law signed November 12, 2025 allowed up to 40,000 more paid-in shares of the European Bank for Reconstruction and Development. The appropriations law signed February 3, 2026 allowed more shares of the Inter-American Investment Corporation, a $3.2 billion U.S. pledge to the World Bank's International Development Association, and a callable capital increase at the African Development Bank.",
+    "key_dates": [
+      {
+        "date": "2025-11-12",
+        "event": "P.L. 119-37 authorizes a U.S. capital increase at the EBRD."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "P.L. 119-75 authorizes more shares in the IDB Invest and AfDB and the IDA replenishment."
+      }
+    ],
+    "closeness": "The recommendation asked the U.S. to weigh raising or lowering its stakes to gain the most leverage. These laws raised some U.S. stakes; no decision to lower a stake, and no stated leverage strategy behind these steps, was found.",
+    "uncertain": "Whether Treasury has completed the subscriptions was not checked. Treasury's reasons were not reviewed. Newest source: February 2026 law.",
+    "sources": [
+      {
+        "label": "Public Law 119-37 (continuing appropriations, Nov. 12, 2025), sec. 160",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/html/PLAW-119publ37.htm"
+      },
+      {
+        "label": "Public Law 119-75 (Consolidated Appropriations Act, 2026), sec. 7070",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch22-045",
     "status": "under-review",
     "match": "broader",
@@ -1449,14 +1481,13 @@
   },
   {
     "id": "ch22-063",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "No public notice that Treasury's Climate Hub was closed was found. Treasury did leave an international climate finance group, ended climate advisory panels, and withdrew climate risk principles for banks in 2025 (see ch22-066).",
     "closeness": "Related climate steps were taken, but closing the Climate Hub itself was not confirmed.",
-    "uncertain": "Two web searches and a Federal Register search found no notice on the Climate Hub. It may have been closed without a public notice.",
+    "uncertain": "Two web searches and a Federal Register search found no notice on the Climate Hub. It may have been closed without a public notice. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-28",
-    "recheck": "Still unconfirmed whether Treasury's Climate Hub office was closed; needs a Treasury source or news report on its status."
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch22-064",
@@ -1619,38 +1650,5 @@
       }
     ],
     "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch22-044",
-    "status": "partly-done",
-    "match": "broader",
-    "happened": "Congress let the Treasury buy more ownership in several international lenders. A funding law signed November 12, 2025 allowed up to 40,000 more paid-in shares of the European Bank for Reconstruction and Development. The appropriations law signed February 3, 2026 allowed more shares of the Inter-American Investment Corporation, a $3.2 billion U.S. pledge to the World Bank's International Development Association, and a callable capital increase at the African Development Bank.",
-    "key_dates": [
-      {
-        "date": "2025-11-12",
-        "event": "P.L. 119-37 authorizes a U.S. capital increase at the EBRD."
-      },
-      {
-        "date": "2026-02-03",
-        "event": "P.L. 119-75 authorizes more shares in the IDB Invest and AfDB and the IDA replenishment."
-      }
-    ],
-    "closeness": "The recommendation asked the U.S. to weigh raising or lowering its stakes to gain the most leverage. These laws raised some U.S. stakes; no decision to lower a stake, and no stated leverage strategy behind these steps, was found.",
-    "uncertain": "Whether Treasury has completed the subscriptions was not checked. Treasury's reasons were not reviewed. Newest source: February 2026 law.",
-    "sources": [
-      {
-        "label": "Public Law 119-37 (continuing appropriations, Nov. 12, 2025), sec. 160",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/html/PLAW-119publ37.htm"
-      },
-      {
-        "label": "Public Law 119-75 (Consolidated Appropriations Act, 2026), sec. 7070",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
-      }
-    ],
-    "as_of": "2026-10-27"
   }
 ]

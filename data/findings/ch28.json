@@ -477,6 +477,49 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch28-019",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On April 9, 2026, the White House Council on Environmental Quality issued guidance on creating, adopting and using categorical exclusions, which let low-impact projects skip detailed environmental reviews, replacing 2010 guidance. In April 2026 a broadband industry group asked the Agriculture Department, which runs the Forest Service, to adopt broadband exclusions under that guidance. A 2024 Bureau of Land Management rule, from before this administration, already set a 270-day target for deciding broadband applications.",
+    "key_dates": [
+      {
+        "date": "2024-03-28",
+        "event": "BLM broadband rule with a 270-day decision target announced."
+      },
+      {
+        "date": "2026-04-09",
+        "event": "CEQ issues new guidance on categorical exclusions."
+      },
+      {
+        "date": "2026-04-20",
+        "event": "Industry letter asks USDA to adopt broadband categorical exclusions under the new guidance."
+      }
+    ],
+    "closeness": "General White House guidance pushes faster reviews, in the direction of the recommendation. No 2025-2026 order or rule aimed at BLM or Forest Service broadband decisions was found, and the 270-day target predates this administration.",
+    "uncertain": "The CEQ guidance is confirmed by its Federal Register notice, but its full text was not read. A Federal Register search found no new Forest Service or BLM broadband exclusion through October 2026. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "Implementation of the National Environmental Policy Act Guidance (categorical exclusions, April 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07115/implementation-of-the-national-environmental-policy-act-guidance"
+      },
+      {
+        "label": "Letter to Agriculture Secretary Rollins on broadband categorical exclusions (April 20, 2026)",
+        "publisher": "USTelecom (industry group)",
+        "type": "advocacy",
+        "url": "https://ustelecom.org/wp-content/uploads/2026/04/2026.04.20-USTelecom-letter-to-Sec-Rollins-DOA.pdf"
+      },
+      {
+        "label": "Bureau of Land Management updates regulations for broadband infrastructure development on federal public lands",
+        "publisher": "National Association of Counties",
+        "type": "advocacy",
+        "url": "https://www.naco.org/news/bureau-land-management-updates-regulations-broadband-infrastructure-development-federal-public"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch28-020",
     "status": "in-effect",
     "match": "partial",
@@ -685,48 +728,5 @@
       }
     ],
     "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch28-019",
-    "status": "partly-done",
-    "match": "broader",
-    "happened": "On April 9, 2026, the White House Council on Environmental Quality issued guidance on creating, adopting and using categorical exclusions, which let low-impact projects skip detailed environmental reviews, replacing 2010 guidance. In April 2026 a broadband industry group asked the Agriculture Department, which runs the Forest Service, to adopt broadband exclusions under that guidance. A 2024 Bureau of Land Management rule, from before this administration, already set a 270-day target for deciding broadband applications.",
-    "key_dates": [
-      {
-        "date": "2024-03-28",
-        "event": "BLM broadband rule with a 270-day decision target announced."
-      },
-      {
-        "date": "2026-04-09",
-        "event": "CEQ issues new guidance on categorical exclusions."
-      },
-      {
-        "date": "2026-04-20",
-        "event": "Industry letter asks USDA to adopt broadband categorical exclusions under the new guidance."
-      }
-    ],
-    "closeness": "General White House guidance pushes faster reviews, in the direction of the recommendation. No 2025-2026 order or rule aimed at BLM or Forest Service broadband decisions was found, and the 270-day target predates this administration.",
-    "uncertain": "The CEQ guidance is confirmed by its Federal Register notice, but its full text was not read. A Federal Register search found no new Forest Service or BLM broadband exclusion through October 2026. Newest source: April 2026.",
-    "sources": [
-      {
-        "label": "Implementation of the National Environmental Policy Act Guidance (categorical exclusions, April 2026)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07115/implementation-of-the-national-environmental-policy-act-guidance"
-      },
-      {
-        "label": "Letter to Agriculture Secretary Rollins on broadband categorical exclusions (April 20, 2026)",
-        "publisher": "USTelecom (industry group)",
-        "type": "advocacy",
-        "url": "https://ustelecom.org/wp-content/uploads/2026/04/2026.04.20-USTelecom-letter-to-Sec-Rollins-DOA.pdf"
-      },
-      {
-        "label": "Bureau of Land Management updates regulations for broadband infrastructure development on federal public lands",
-        "publisher": "National Association of Counties",
-        "type": "advocacy",
-        "url": "https://www.naco.org/news/bureau-land-management-updates-regulations-broadband-infrastructure-development-federal-public"
-      }
-    ],
-    "as_of": "2026-10-28"
   }
 ]

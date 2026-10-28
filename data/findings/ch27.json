@@ -472,6 +472,16 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch27-022",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch27-023",
     "status": "not-done",
     "match": "none",
@@ -553,6 +563,40 @@
       }
     ],
     "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-027",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Effective April 9, 2025, the SEC regrouped its 10 regional offices into three regions, each reporting to a new deputy director, and reassigned the former regional directors. In May 2025 Chairman Paul Atkins told staff the agency had lost about 15% of its workforce and that he planned a targeted reorganization. In June 2025 testimony he asked Congress for a flat budget.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "Regional offices regrouped into three regions."
+      },
+      {
+        "date": "2025-06",
+        "event": "Atkins describes the reorganization in congressional testimony."
+      }
+    ],
+    "closeness": "Merging regional management fits the call to combine offices and cut layers. No public count showing fewer officials reporting directly to the Chairman, or fewer managers per employee, was found.",
+    "uncertain": "Details come from law-firm and legal-education summaries, not SEC documents. Changes after mid-2025 were not found. Newest source: June 2025.",
+    "sources": [
+      {
+        "label": "SEC Engages in Targeted, Common-Sense Reorganization",
+        "publisher": "Carlton Fields",
+        "type": "law-firm",
+        "url": "https://www.carltonfields.com/insights/publications/2025/sec-engages-in-targeted-common-sense-reorganization"
+      },
+      {
+        "label": "In congressional testimony, SEC Chairman Atkins seeks flat budget, describes reorganization and promotes regional offices",
+        "publisher": "Practising Law Institute",
+        "type": "academic",
+        "url": "https://bdia.pli.edu/index.php/2025/06/09/in-congressional-testimony-sec-chairman-atkins-seeks-flat-budget-describes-reorganization-and-promotes-regional-offices/"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Based only on law-firm and legal-education summaries; confirm with SEC announcements or Chairman Atkins' June 2025 testimony."
   },
   {
     "id": "ch27-028",
@@ -802,6 +846,16 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch27-038",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch27-039",
     "status": "not-done",
     "match": "none",
@@ -822,6 +876,26 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch27-041",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-042",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch27-043",
     "status": "not-done",
     "match": "none",
@@ -830,6 +904,16 @@
     "uncertain": "Checked the list of laws enacted through October 2026 and the House-passed INVEST Act. Newest source: October 2026.",
     "sources": [],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-044",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch27-045",
@@ -1051,39 +1135,5 @@
       }
     ],
     "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch27-027",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "Effective April 9, 2025, the SEC regrouped its 10 regional offices into three regions, each reporting to a new deputy director, and reassigned the former regional directors. In May 2025 Chairman Paul Atkins told staff the agency had lost about 15% of its workforce and that he planned a targeted reorganization. In June 2025 testimony he asked Congress for a flat budget.",
-    "key_dates": [
-      {
-        "date": "2025-04-09",
-        "event": "Regional offices regrouped into three regions."
-      },
-      {
-        "date": "2025-06",
-        "event": "Atkins describes the reorganization in congressional testimony."
-      }
-    ],
-    "closeness": "Merging regional management fits the call to combine offices and cut layers. No public count showing fewer officials reporting directly to the Chairman, or fewer managers per employee, was found.",
-    "uncertain": "Details come from law-firm and legal-education summaries, not SEC documents. Changes after mid-2025 were not found. Newest source: June 2025.",
-    "sources": [
-      {
-        "label": "SEC Engages in Targeted, Common-Sense Reorganization",
-        "publisher": "Carlton Fields",
-        "type": "law-firm",
-        "url": "https://www.carltonfields.com/insights/publications/2025/sec-engages-in-targeted-common-sense-reorganization"
-      },
-      {
-        "label": "In congressional testimony, SEC Chairman Atkins seeks flat budget, describes reorganization and promotes regional offices",
-        "publisher": "Practising Law Institute",
-        "type": "academic",
-        "url": "https://bdia.pli.edu/index.php/2025/06/09/in-congressional-testimony-sec-chairman-atkins-seeks-flat-budget-describes-reorganization-and-promotes-regional-offices/"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "Based only on law-firm and legal-education summaries; confirm with SEC announcements or Chairman Atkins' June 2025 testimony."
   }
 ]

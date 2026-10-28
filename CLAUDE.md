@@ -32,3 +32,6 @@ A plain-language, source-cited tracker comparing Project 2025 (Heritage Foundati
 - Unresearched items were left out on purpose rather than guessed (see rule 2 in docs/research-brief.md). Never fill them with unchecked "not-done" findings.
 - Next steps, in order: (1) clear `recheck` flags, starting with major items; (2) research the remaining ~400 items; (3) "case against" for skipped majors that have a sourceable case (e.g. mandatory E-Verify, border adjustment tax, warhead and pit production, LNG climate review); (4) re-verify time-sensitive court statuses.
 - Free sources that don't use web search: see "Researching when web search is scarce" in docs/research-brief.md, including the local copy of all 119th-Congress laws in reference/public-laws-119/.
+
+## Agents
+- Use the cheapest model that can do the job: `haiku` for mechanical work (digest review against `docs/update-brief.md`, data fixes, link repair), `sonnet` for research that needs judgment and sourcing. Prefer `npm run watch` (zero tokens) over any agent for finding new actions.

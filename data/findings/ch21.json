@@ -154,14 +154,23 @@
   },
   {
     "id": "ch21-007",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "No public information was found on whether the Commerce Secretary's office was fully staffed with political appointees or whether detailees were sent back to their bureaus.",
     "closeness": "No match found; internal staffing changes are rarely published.",
-    "uncertain": "Commerce staffing data were not available through the sources that could be searched.",
+    "uncertain": "Commerce staffing data were not available through the sources that could be searched. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-28",
-    "recheck": "Commerce Office of the Secretary staffing (political appointees and returned detailees) in 2025-2026 still needs a source."
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-008",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch21-009",
@@ -187,12 +196,129 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch21-010",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Senate confirmed William Kimmitt as Under Secretary of Commerce for International Trade, the head of the International Trade Administration, on July 29, 2025; he was sworn in August 7, 2025. David Fogel was sworn in as Assistant Secretary for Global Markets on October 15, 2025, and Steven Haines as Assistant Secretary for Industry and Analysis on June 3, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-07-29",
+        "event": "Senate confirms Kimmitt."
+      },
+      {
+        "date": "2025-08-07",
+        "event": "Kimmitt sworn in."
+      },
+      {
+        "date": "2025-10-15",
+        "event": "Fogel sworn in as Assistant Secretary for Global Markets."
+      },
+      {
+        "date": "2026-06-03",
+        "event": "Haines sworn in as Assistant Secretary for Industry and Analysis."
+      }
+    ],
+    "closeness": "The recommendation was to fill the agency's Assistant Secretary and Deputy Assistant Secretary posts quickly. The top post took about six months and two Assistant Secretary posts took nine months to more than a year. Same appointment as ch26-023.",
+    "uncertain": "The Enforcement and Compliance Assistant Secretary nominee was listed as awaiting confirmation in one source, and Deputy Assistant Secretary posts, which are not Senate-confirmed, were not checked. A June 2025 CRS report says the travel and tourism Assistant Secretary post has been vacant since it was created. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "William Kimmitt Sworn In as Under Secretary of Commerce for International Trade",
+        "publisher": "International Trade Administration",
+        "type": "government",
+        "url": "https://www.trade.gov/press-release/william-kimmitt-sworn-under-secretary-commerce-international-trade"
+      },
+      {
+        "label": "David L. Fogel sworn in as Assistant Secretary of Commerce",
+        "publisher": "International Trade Administration",
+        "type": "government",
+        "url": "https://www.trade.gov/press-release/david-l-fogel-sworn-assistant-secretary-commerce"
+      },
+      {
+        "label": "Steven Haines sworn in as Assistant Secretary of Commerce",
+        "publisher": "International Trade Administration",
+        "type": "government",
+        "url": "https://www.trade.gov/press-release/steven-haines-sworn-assistant-secretary-commerce"
+      },
+      {
+        "label": "International Trade Administration: Overview and Issues (IF13048)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13048.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-011",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-013",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On Aug 29, 2025, the Justice Department and the Department of Homeland Security launched a Trade Fraud Task Force to pursue importers and others who evade tariffs and duties, including antidumping and countervailing duties. In July 2026 the department said the task force had passed $1 billion in recoveries, penalties, forfeitures and charged losses, and it created a Global Trade & Commerce Enforcement Section. Large customs-duty settlements followed, such as a $549.5 million settlement in May 2026.",
+    "key_dates": [
+      {
+        "date": "Aug 29, 2025",
+        "event": "DOJ and DHS launch the Trade Fraud Task Force."
+      },
+      {
+        "date": "May 12, 2026",
+        "event": "$549.5 million False Claims Act settlement over evaded customs duties announced."
+      },
+      {
+        "date": "Jul 14, 2026",
+        "event": "DOJ reports task force passed $1 billion in recoveries and charged losses."
+      }
+    ],
+    "legal": "Individual cases are in the courts; I found no ruling against the task force itself.",
+    "closeness": "Matches the goal of collecting unpaid duties aggressively. The announced partners are Justice and Homeland Security (which includes Customs); the releases I read do not describe a leading role for Commerce or Treasury.",
+    "uncertain": "How much of the $1 billion is unpaid antidumping and countervailing duties versus other customs fraud. Newest source is from July 2026.",
+    "sources": [
+      {
+        "label": "Departments of Justice and Homeland Security Partnering on Cross-Agency Trade Fraud Task Force",
+        "publisher": "U.S. Department of Justice",
+        "type": "government",
+        "url": "https://www.justice.gov/opa/pr/departments-justice-and-homeland-security-partnering-cross-agency-trade-fraud-task-force"
+      },
+      {
+        "label": "Trade Fraud Task Force Surpasses $1 Billion in Recoveries and Charged Losses in Less Than One Year",
+        "publisher": "U.S. Department of Justice",
+        "type": "government",
+        "url": "https://www.justice.gov/opa/pr/trade-fraud-task-force-surpasses-1-billion-recoveries-and-charged-losses-less-one-year"
+      },
+      {
+        "label": "Perfectus Aluminum Inc. and Related Companies Agree to Pay $549.5M to Settle False Claims Act Allegations Relating to Evaded Customs Duties",
+        "publisher": "U.S. Department of Justice",
+        "type": "government",
+        "url": "https://www.justice.gov/opa/pr/perfectus-aluminum-inc-and-related-companies-agree-pay-5495m-settle-false-claims-act"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch21-014",
     "status": "not-done",
     "match": "none",
     "happened": "No rule was found requiring foreign importers of goods under antidumping or countervailing duties to pay large cash deposits, register U.S. assets, or be barred from importing.",
     "closeness": "No match.",
     "uncertain": "Federal Register searches of Commerce and CBP documents and a news search found no 2025-2026 rule requiring larger deposits, U.S. asset registration or import bans for foreign importers of goods under duty orders.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-015",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
     "sources": [],
     "as_of": "2026-10-28"
   },
@@ -211,6 +337,59 @@
         "url": "https://www.federalregister.gov/documents/2025/06/04/2025-10158/determining-and-applying-unaffiliated-reseller-assessment-rates-modification-or-removal-of"
       }
     ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-017",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-018",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No antidumping or countervailing duty investigation started by Commerce on its own was found in 2025-2026; new investigations found were started on industry petitions. Commerce last did this in November 2017, during the first Trump administration, when it started cases on aluminum sheet from China. It did start some narrower inquiries on its own, such as an October 2026 inquiry into whether Chinese aluminum products were getting around existing duty orders.",
+    "closeness": "No matching action found. Self-started circumvention inquiries enforce existing orders; they are not new duty cases.",
+    "uncertain": "Searched the Federal Register for self-initiated investigations by the International Trade Administration and ran a web search; both found only the 2017 cases and petition-based cases in 2025-2026. No general policy or process for self-initiation was found either.",
+    "sources": [
+      {
+        "label": "Common Alloy Aluminum Sheet From China: Initiation of Circumvention Inquiry",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20256/common-alloy-aluminum-sheet-from-the-peoples-republic-of-china-initiation-of-circumvention-inquiry-of-the"
+      },
+      {
+        "label": "In rare move, Trump's Commerce Secretary self-initiates Chinese aluminum trade remedy cases (2017)",
+        "publisher": "Kelley Drye & Warren",
+        "type": "law-firm",
+        "url": "https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/in-rare-move-trumps-commerce-secretary-self-initiates-chinese-aluminum-trade-remedy-cases"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-019",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-020",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
     "as_of": "2026-10-28"
   },
   {
@@ -238,6 +417,36 @@
         "url": "https://www.everycrsreport.com/reports/IF13048.html"
       }
     ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-023",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-024",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-025",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
     "as_of": "2026-10-28"
   },
   {
@@ -357,6 +566,16 @@
         "url": "https://www.morganlewis.com/pubs/2026/01/bis-revises-export-review-policy-for-advanced-ai-chips-destined-for-china-and-macau"
       }
     ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-032",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
     "as_of": "2026-10-28"
   },
   {
@@ -804,6 +1023,79 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch21-055",
+    "status": "not-done",
+    "match": "none",
+    "happened": "NOAA's Office of Marine and Aviation Operations was not broken up. It remained one of NOAA's six line offices in 2026, and the President's fiscal 2027 budget request asked for less money for most NOAA offices but not for this one.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked CRS reports on NOAA's fiscal 2026 and 2027 budgets (March and July 2026). Transfers of single ships or aircraft were not checked.",
+    "sources": [
+      {
+        "label": "NOAA FY2027 Budget Request and Appropriations (IF13275)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13275.html"
+      },
+      {
+        "label": "NOAA FY2026 Budget Request and Appropriations (IF13024)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13024.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-056",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-057",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "Executive Order 14335, signed Aug 13, 2025, told the Commerce Secretary to move the Office of Space Commerce into the Office of the Secretary within 60 days. House appropriators have kept the office's funding within NOAA, and Federal Register notices from the office as late as August 2026 still list it as part of NOAA.",
+    "key_dates": [
+      {
+        "date": "Aug 13, 2025",
+        "event": "Executive Order 14335 orders the move within 60 days."
+      },
+      {
+        "date": "Aug 20, 2026",
+        "event": "Office of Space Commerce notice still lists it under NOAA."
+      }
+    ],
+    "legal": "None found.",
+    "closeness": "The order is exactly what the recommendation asked for, but I could not confirm the move has been completed. Same order as ch21-058.",
+    "uncertain": "No announcement that the move was completed was found in Federal Register or web searches; whether it is stalled by appropriations language is not clear. Newest source is from August 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14335: Enabling Competition in the Commercial Space Industry",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/19/2025-15822/enabling-competition-in-the-commercial-space-industry"
+      },
+      {
+        "label": "Notice of Mission Authorization Pilot Program (Office of Space Commerce, NOAA)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17016/notice-of-mission-authorization-pilot-program"
+      },
+      {
+        "label": "House appropriators continue to reject elevating NOAA's Office of Space Commerce to department level",
+        "publisher": "SpacePolicyOnline",
+        "type": "news",
+        "url": "https://spacepolicyonline.com/news/house-appropriators-continue-to-reject-elevating-noaas-office-of-space-commerce-to-department-level/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch21-058",
     "status": "partly-done",
     "match": "partial",
@@ -838,11 +1130,11 @@
   },
   {
     "id": "ch21-059",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "No public action was found giving the Census Bureau more political appointee positions. In June 2026 the Bureau named two new deputy directors: Michael Lachanski, who came from a senior advisor job in the Commerce Department, and John Studds, the Bureau's chief information officer.",
     "closeness": "No match found.",
-    "uncertain": "The June 2026 announcement does not say whether either deputy post is a political appointment. Searched the Federal Register and the web twice for added Census appointee positions; none was confirmed. Newest source is June 2026.",
+    "uncertain": "The June 2026 announcement does not say whether either deputy post is a political appointment. Searched the Federal Register and the web twice for added Census appointee positions; none was confirmed. Newest source is June 2026. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [
       {
         "label": "Census Bureau Announces Appointment of Two New Deputy Directors (June 12, 2026)",
@@ -851,8 +1143,37 @@
         "url": "https://www.census.gov/newsroom/press-releases/2026/two-new-deputy-directors-appointed.html"
       }
     ],
-    "as_of": "2026-10-28",
-    "recheck": "Confirm whether the June 2026 Census deputy director posts (Lachanski, Studds) are political appointee positions; if so, this is not 'not-done'."
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-060",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-061",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-063",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch21-064",
@@ -962,6 +1283,72 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch21-067",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No question-by-question review of the American Community Survey for usefulness or intrusiveness was found. Census Bureau notices in December 2025 and May 2026 renewing the survey kept the average household time at 40 minutes. The 2025 survey added three questions (on sewers, electric vehicles and solar panels) and reworded four, based on a content test run from 2020 to 2024.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for American Community Survey notices since January 2025, ran a web search, and read an October 2026 Census Bureau webinar transcript on 2025 content changes. A review that did not lead to a published change would not appear in these sources.",
+    "sources": [
+      {
+        "label": "American Community Survey and Puerto Rico Community Survey (comment request, Dec. 19, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/19/2025-23329/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      },
+      {
+        "label": "Understanding 2025 American Community Survey Content Changes (webinar transcript, Oct. 15, 2026)",
+        "publisher": "U.S. Census Bureau",
+        "type": "government",
+        "url": "https://www2.census.gov/about/training-workshops/2026/2026-10-15-understanding-acs-content-changes-transcript.pdf"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-069",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In July 2026, the Census Bureau said the Bureau of Labor Statistics had found errors in the poverty thresholds used for the Supplemental Poverty Measure, caused by method changes made in 2021. BLS published corrected thresholds for 2019-2024, and Census re-released revised estimates in August 2026. In September 2026 it reported a 13.1% supplemental poverty rate for 2025.",
+    "key_dates": [
+      {
+        "date": "2026-07-17",
+        "event": "Census Bureau announces errors found in SPM thresholds"
+      },
+      {
+        "date": "2026-08",
+        "event": "Census releases revised SPM estimates for 2019-2024"
+      },
+      {
+        "date": "2026-09-15",
+        "event": "Census publishes 2025 poverty report"
+      }
+    ],
+    "closeness": "The agencies checked and corrected one technical part of the measure, which touches on its accuracy, but this was an error fix, not the broad review of the measure the chapter asked for.",
+    "uncertain": "Whether the errors raised or lowered past poverty rates was not stated in the July 2026 statement; a Census blog said the corrections did not change year-to-year trends. No broader review was found. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Statement on the Supplemental Poverty Measure (July 17, 2026)",
+        "publisher": "U.S. Census Bureau",
+        "type": "government",
+        "url": "https://www.census.gov/newsroom/press-releases/2026/statement-on-supplemental-poverty-measure.html"
+      },
+      {
+        "label": "Revising Supplemental Poverty Measure Estimates from 2019 to 2024 (working paper)",
+        "publisher": "U.S. Census Bureau",
+        "type": "government",
+        "url": "https://www.census.gov/library/working-papers/2026/demo/sehsd-wp2026-17.html"
+      },
+      {
+        "label": "Poverty in 2025 (IN12737)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12737.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch21-070",
     "status": "in-effect",
     "match": "direct",
@@ -993,6 +1380,101 @@
       }
     ],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-071",
+    "status": "not-done",
+    "match": "none",
+    "happened": "EDA's grant decisions were not moved to the Assistant Secretary's office. A 2026 reorganization added offices required by a 2024 law and a headquarters grants management office, but EDA's six regional offices still run its main grant programs. After the change, the Assistant Secretary's office oversees only research and technical assistance programs.",
+    "closeness": "No matching action found. The reorganization added some central oversight of grant procedures but did not centralize funding decisions.",
+    "uncertain": "Based on an August 2026 CRS report that summarizes EDA's plan; how funding decisions are approved in practice was not confirmed.",
+    "sources": [
+      {
+        "label": "Economic Development Administration: An Overview of Roles (R49311)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49311.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-072",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law (P.L. 119-21, section 70421) made the Opportunity Zones tax incentive permanent. It sets new rounds of zone designations every 10 years, starting from July 1, 2026, and tightens the income test for which census tracts qualify.",
+    "key_dates": [
+      {
+        "date": "Jul 4, 2025",
+        "event": "P.L. 119-21 makes Opportunity Zones permanent."
+      }
+    ],
+    "legal": "None found.",
+    "closeness": "Congress built on Opportunity Zones through tax law. The recommendation asked the Economic Development Administration to build its own programs on them; I found no EDA program tied to the zones.",
+    "uncertain": "Whether EDA changed its grant priorities to favor Opportunity Zones. I checked the law's text, not EDA grant notices.",
+    "sources": [
+      {
+        "label": "Public Law 119-21, sec. 70421 (Permanent renewal and enhancement of opportunity zones)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-073",
+    "status": "not-done",
+    "match": "none",
+    "happened": "MBDA was not turned into a research office on free markets and regulation. Instead, a March 14, 2025 executive order told it to shrink to the minimum the law requires. A federal court in Rhode Island blocked that order for MBDA in May 2025, and Congress gave MBDA $50 million for fiscal 2026 to keep supporting minority businesses.",
+    "key_dates": [
+      {
+        "date": "2025-03-14",
+        "event": "Executive Order 14238 orders MBDA reduced to its legal minimum."
+      },
+      {
+        "date": "2025-05-13",
+        "event": "Federal court in Rhode Island issues a preliminary injunction."
+      },
+      {
+        "date": "2026-01-23",
+        "event": "FY2026 law provides $50 million for MBDA."
+      }
+    ],
+    "legal": "Rhode Island v. Trump: the U.S. District Court for the District of Rhode Island issued a preliminary injunction in May 2025 blocking the order's cuts at MBDA and other agencies. The government appealed; later rulings were not confirmed.",
+    "closeness": "No matching action found. The administration tried to shrink MBDA rather than give it a new research role.",
+    "uncertain": "The appeal's status and any later final ruling were not confirmed. Newest source: January 2026 law.",
+    "sources": [
+      {
+        "label": "Continuing the Reduction of the Federal Bureaucracy (EO 14238)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/"
+      },
+      {
+        "label": "Judge blocks Trump order against three federal agencies",
+        "publisher": "Wisconsin Examiner (States Newsroom)",
+        "type": "news",
+        "url": "https://wisconsinexaminer.com/2025/05/06/judge-blocks-trump-order-against-three-federal-agencies/"
+      },
+      {
+        "label": "Public Law 119-74 (FY2026 appropriations, including Commerce)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-074",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch21-076",
@@ -1045,6 +1527,60 @@
         "url": "https://www.hklaw.com/en/insights/publications/2026/07/is-the-4th-time-a-charm-congress-revisits-patent-eligibility-reform"
       }
     ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-077",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "On Oct 17, 2025, the Patent and Trademark Office proposed new rules for when the Patent Trial and Appeal Board will agree to hear inter partes review challenges to patents, and withdrew a different 2024 proposal on the same topic. The comment period was extended in November 2025. In May 2026 the office extended and changed its pilot program for fast-tracking appeals to the Board. I found no final inter partes review rule as of October 2026.",
+    "key_dates": [
+      {
+        "date": "Oct 17, 2025",
+        "event": "Proposed rule on instituting inter partes review published."
+      },
+      {
+        "date": "Nov 7, 2025",
+        "event": "Comment period extended."
+      },
+      {
+        "date": "May 6, 2026",
+        "event": "Fast-Track Appeals Pilot Program extended and modified."
+      }
+    ],
+    "legal": "None found for the proposed rule.",
+    "closeness": "The proposal changes how the Board handles patent challenges, which the recommendation addressed. The recommendation asked for a balanced approach and fast, open processing; I found no data on processing speed, and whether the proposal is balanced is debated.",
+    "uncertain": "A Federal Register search through October 2026 found no final rule. Data on Board processing times was not found. Newest source is from May 2026.",
+    "sources": [
+      {
+        "label": "Revision to Rules of Practice Before the Patent Trial and Appeal Board (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/17/2025-19580/revision-to-rules-of-practice-before-the-patent-trial-and-appeal-board"
+      },
+      {
+        "label": "Revision to Rules of Practice Before the Patent Trial and Appeal Board (comment period extension)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19817/revision-to-rules-of-practice-before-the-patent-trial-and-appeal-board"
+      },
+      {
+        "label": "Extension and Modification of the Fast-Track Appeals Pilot Program",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08798/extension-and-modification-of-the-fast-track-appeals-pilot-program"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-078",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
     "as_of": "2026-10-28"
   },
   {
@@ -1134,6 +1670,49 @@
     "as_of": "2026-10-28"
   },
   {
+    "id": "ch21-082",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "On December 11, 2025, the Commerce Department announced that the Alliance for Performance Excellence and the Baldrige Foundation would take over most operations of the Baldrige Performance Excellence Program starting with the 2026 award cycle. They will run the award process, the Quest for Excellence conference, updates to the Baldrige framework and the fellows program. NIST keeps final legal responsibility for the award.",
+    "key_dates": [
+      {
+        "date": "2025-12-11",
+        "event": "Commerce announces transfer of most Baldrige operations to the Alliance and the Baldrige Foundation"
+      },
+      {
+        "date": "2026",
+        "event": "Transition begins with the 2026 award cycle"
+      }
+    ],
+    "closeness": "This is the handoff to the Baldrige Foundation the chapter recommends, but it is not complete: NIST and Commerce keep ultimate responsibility, and a partner group, the Alliance for Performance Excellence, shares the work. Whether the program now runs only on fees was not confirmed.",
+    "uncertain": "How the program is funded after the transition and whether any NIST staff remain were not confirmed. NIST's Board of Overseers still met in 2026. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Department of Commerce Announces Transition of Baldrige Performance Excellence Program",
+        "publisher": "National Institute of Standards and Technology",
+        "type": "government",
+        "url": "https://www.nist.gov/node/1900811"
+      },
+      {
+        "label": "Board of Overseers of the Malcolm Baldrige National Quality Award (meeting notice, Apr. 2, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06419/board-of-overseers-of-the-malcolm-baldrige-national-quality-award"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-083",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch21-084",
     "status": "partly-done",
     "match": "partial",
@@ -1165,6 +1744,29 @@
       }
     ],
     "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-085",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The National Technical Information Service still operates as its own Commerce Department unit. It issued its own Federal Register notices in 2026, and the FY2026 appropriations law (signed Jan 23, 2026) still contains rules addressed to it.",
+    "closeness": "No move of its functions into NIST was found.",
+    "uncertain": "I searched the Federal Register for 2025-2026 NTIS documents and any transfer to NIST, and the text of all public laws of the 119th Congress through October 2026.",
+    "sources": [
+      {
+        "label": "Request for Information Regarding the Digitization and Modernization of the National Technical Reports Library (NTIS, Sept 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20023/request-for-information-rfi-regarding-the-digitization-and-modernization-of-the-national-technical"
+      },
+      {
+        "label": "Public Law 119-74 (FY2026 appropriations), Commerce sec. 108",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
   },
   {
     "id": "ch21-086",
@@ -1256,6 +1858,26 @@
     "as_of": "2026-10-28"
   },
   {
+    "id": "ch21-089",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-090",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch21-091",
     "status": "partly-done",
     "match": "partial",
@@ -1287,440 +1909,6 @@
       }
     ],
     "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch21-013",
-    "status": "in-effect",
-    "match": "partial",
-    "happened": "On Aug 29, 2025, the Justice Department and the Department of Homeland Security launched a Trade Fraud Task Force to pursue importers and others who evade tariffs and duties, including antidumping and countervailing duties. In July 2026 the department said the task force had passed $1 billion in recoveries, penalties, forfeitures and charged losses, and it created a Global Trade & Commerce Enforcement Section. Large customs-duty settlements followed, such as a $549.5 million settlement in May 2026.",
-    "key_dates": [
-      {
-        "date": "Aug 29, 2025",
-        "event": "DOJ and DHS launch the Trade Fraud Task Force."
-      },
-      {
-        "date": "May 12, 2026",
-        "event": "$549.5 million False Claims Act settlement over evaded customs duties announced."
-      },
-      {
-        "date": "Jul 14, 2026",
-        "event": "DOJ reports task force passed $1 billion in recoveries and charged losses."
-      }
-    ],
-    "legal": "Individual cases are in the courts; I found no ruling against the task force itself.",
-    "closeness": "Matches the goal of collecting unpaid duties aggressively. The announced partners are Justice and Homeland Security (which includes Customs); the releases I read do not describe a leading role for Commerce or Treasury.",
-    "uncertain": "How much of the $1 billion is unpaid antidumping and countervailing duties versus other customs fraud. Newest source is from July 2026.",
-    "sources": [
-      {
-        "label": "Departments of Justice and Homeland Security Partnering on Cross-Agency Trade Fraud Task Force",
-        "publisher": "U.S. Department of Justice",
-        "type": "government",
-        "url": "https://www.justice.gov/opa/pr/departments-justice-and-homeland-security-partnering-cross-agency-trade-fraud-task-force"
-      },
-      {
-        "label": "Trade Fraud Task Force Surpasses $1 Billion in Recoveries and Charged Losses in Less Than One Year",
-        "publisher": "U.S. Department of Justice",
-        "type": "government",
-        "url": "https://www.justice.gov/opa/pr/trade-fraud-task-force-surpasses-1-billion-recoveries-and-charged-losses-less-one-year"
-      },
-      {
-        "label": "Perfectus Aluminum Inc. and Related Companies Agree to Pay $549.5M to Settle False Claims Act Allegations Relating to Evaded Customs Duties",
-        "publisher": "U.S. Department of Justice",
-        "type": "government",
-        "url": "https://www.justice.gov/opa/pr/perfectus-aluminum-inc-and-related-companies-agree-pay-5495m-settle-false-claims-act"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch21-057",
-    "status": "under-review",
-    "match": "direct",
-    "happened": "Executive Order 14335, signed Aug 13, 2025, told the Commerce Secretary to move the Office of Space Commerce into the Office of the Secretary within 60 days. House appropriators have kept the office's funding within NOAA, and Federal Register notices from the office as late as August 2026 still list it as part of NOAA.",
-    "key_dates": [
-      {
-        "date": "Aug 13, 2025",
-        "event": "Executive Order 14335 orders the move within 60 days."
-      },
-      {
-        "date": "Aug 20, 2026",
-        "event": "Office of Space Commerce notice still lists it under NOAA."
-      }
-    ],
-    "legal": "None found.",
-    "closeness": "The order is exactly what the recommendation asked for, but I could not confirm the move has been completed. Same order as ch21-058.",
-    "uncertain": "No announcement that the move was completed was found in Federal Register or web searches; whether it is stalled by appropriations language is not clear. Newest source is from August 2026.",
-    "sources": [
-      {
-        "label": "Executive Order 14335: Enabling Competition in the Commercial Space Industry",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/08/19/2025-15822/enabling-competition-in-the-commercial-space-industry"
-      },
-      {
-        "label": "Notice of Mission Authorization Pilot Program (Office of Space Commerce, NOAA)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17016/notice-of-mission-authorization-pilot-program"
-      },
-      {
-        "label": "House appropriators continue to reject elevating NOAA's Office of Space Commerce to department level",
-        "publisher": "SpacePolicyOnline",
-        "type": "news",
-        "url": "https://spacepolicyonline.com/news/house-appropriators-continue-to-reject-elevating-noaas-office-of-space-commerce-to-department-level/"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch21-072",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "The July 2025 reconciliation law (P.L. 119-21, section 70421) made the Opportunity Zones tax incentive permanent. It sets new rounds of zone designations every 10 years, starting from July 1, 2026, and tightens the income test for which census tracts qualify.",
-    "key_dates": [
-      {
-        "date": "Jul 4, 2025",
-        "event": "P.L. 119-21 makes Opportunity Zones permanent."
-      }
-    ],
-    "legal": "None found.",
-    "closeness": "Congress built on Opportunity Zones through tax law. The recommendation asked the Economic Development Administration to build its own programs on them; I found no EDA program tied to the zones.",
-    "uncertain": "Whether EDA changed its grant priorities to favor Opportunity Zones. I checked the law's text, not EDA grant notices.",
-    "sources": [
-      {
-        "label": "Public Law 119-21, sec. 70421 (Permanent renewal and enhancement of opportunity zones)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch21-085",
-    "status": "not-done",
-    "match": "none",
-    "happened": "The National Technical Information Service still operates as its own Commerce Department unit. It issued its own Federal Register notices in 2026, and the FY2026 appropriations law (signed Jan 23, 2026) still contains rules addressed to it.",
-    "closeness": "No move of its functions into NIST was found.",
-    "uncertain": "I searched the Federal Register for 2025-2026 NTIS documents and any transfer to NIST, and the text of all public laws of the 119th Congress through October 2026.",
-    "sources": [
-      {
-        "label": "Request for Information Regarding the Digitization and Modernization of the National Technical Reports Library (NTIS, Sept 2026)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20023/request-for-information-rfi-regarding-the-digitization-and-modernization-of-the-national-technical"
-      },
-      {
-        "label": "Public Law 119-74 (FY2026 appropriations), Commerce sec. 108",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch21-077",
-    "status": "under-review",
-    "match": "broader",
-    "happened": "On Oct 17, 2025, the Patent and Trademark Office proposed new rules for when the Patent Trial and Appeal Board will agree to hear inter partes review challenges to patents, and withdrew a different 2024 proposal on the same topic. The comment period was extended in November 2025. In May 2026 the office extended and changed its pilot program for fast-tracking appeals to the Board. I found no final inter partes review rule as of October 2026.",
-    "key_dates": [
-      {
-        "date": "Oct 17, 2025",
-        "event": "Proposed rule on instituting inter partes review published."
-      },
-      {
-        "date": "Nov 7, 2025",
-        "event": "Comment period extended."
-      },
-      {
-        "date": "May 6, 2026",
-        "event": "Fast-Track Appeals Pilot Program extended and modified."
-      }
-    ],
-    "legal": "None found for the proposed rule.",
-    "closeness": "The proposal changes how the Board handles patent challenges, which the recommendation addressed. The recommendation asked for a balanced approach and fast, open processing; I found no data on processing speed, and whether the proposal is balanced is debated.",
-    "uncertain": "A Federal Register search through October 2026 found no final rule. Data on Board processing times was not found. Newest source is from May 2026.",
-    "sources": [
-      {
-        "label": "Revision to Rules of Practice Before the Patent Trial and Appeal Board (proposed rule)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/10/17/2025-19580/revision-to-rules-of-practice-before-the-patent-trial-and-appeal-board"
-      },
-      {
-        "label": "Revision to Rules of Practice Before the Patent Trial and Appeal Board (comment period extension)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19817/revision-to-rules-of-practice-before-the-patent-trial-and-appeal-board"
-      },
-      {
-        "label": "Extension and Modification of the Fast-Track Appeals Pilot Program",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08798/extension-and-modification-of-the-fast-track-appeals-pilot-program"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch21-010",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "The Senate confirmed William Kimmitt as Under Secretary of Commerce for International Trade, the head of the International Trade Administration, on July 29, 2025; he was sworn in August 7, 2025. David Fogel was sworn in as Assistant Secretary for Global Markets on October 15, 2025, and Steven Haines as Assistant Secretary for Industry and Analysis on June 3, 2026.",
-    "key_dates": [
-      {
-        "date": "2025-07-29",
-        "event": "Senate confirms Kimmitt."
-      },
-      {
-        "date": "2025-08-07",
-        "event": "Kimmitt sworn in."
-      },
-      {
-        "date": "2025-10-15",
-        "event": "Fogel sworn in as Assistant Secretary for Global Markets."
-      },
-      {
-        "date": "2026-06-03",
-        "event": "Haines sworn in as Assistant Secretary for Industry and Analysis."
-      }
-    ],
-    "closeness": "The recommendation was to fill the agency's Assistant Secretary and Deputy Assistant Secretary posts quickly. The top post took about six months and two Assistant Secretary posts took nine months to more than a year. Same appointment as ch26-023.",
-    "uncertain": "The Enforcement and Compliance Assistant Secretary nominee was listed as awaiting confirmation in one source, and Deputy Assistant Secretary posts, which are not Senate-confirmed, were not checked. A June 2025 CRS report says the travel and tourism Assistant Secretary post has been vacant since it was created. Newest source: June 2026.",
-    "sources": [
-      {
-        "label": "William Kimmitt Sworn In as Under Secretary of Commerce for International Trade",
-        "publisher": "International Trade Administration",
-        "type": "government",
-        "url": "https://www.trade.gov/press-release/william-kimmitt-sworn-under-secretary-commerce-international-trade"
-      },
-      {
-        "label": "David L. Fogel sworn in as Assistant Secretary of Commerce",
-        "publisher": "International Trade Administration",
-        "type": "government",
-        "url": "https://www.trade.gov/press-release/david-l-fogel-sworn-assistant-secretary-commerce"
-      },
-      {
-        "label": "Steven Haines sworn in as Assistant Secretary of Commerce",
-        "publisher": "International Trade Administration",
-        "type": "government",
-        "url": "https://www.trade.gov/press-release/steven-haines-sworn-assistant-secretary-commerce"
-      },
-      {
-        "label": "International Trade Administration: Overview and Issues (IF13048)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/IF13048.html"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch21-018",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No antidumping or countervailing duty investigation started by Commerce on its own was found in 2025-2026; new investigations found were started on industry petitions. Commerce last did this in November 2017, during the first Trump administration, when it started cases on aluminum sheet from China. It did start some narrower inquiries on its own, such as an October 2026 inquiry into whether Chinese aluminum products were getting around existing duty orders.",
-    "closeness": "No matching action found. Self-started circumvention inquiries enforce existing orders; they are not new duty cases.",
-    "uncertain": "Searched the Federal Register for self-initiated investigations by the International Trade Administration and ran a web search; both found only the 2017 cases and petition-based cases in 2025-2026. No general policy or process for self-initiation was found either.",
-    "sources": [
-      {
-        "label": "Common Alloy Aluminum Sheet From China: Initiation of Circumvention Inquiry",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20256/common-alloy-aluminum-sheet-from-the-peoples-republic-of-china-initiation-of-circumvention-inquiry-of-the"
-      },
-      {
-        "label": "In rare move, Trump's Commerce Secretary self-initiates Chinese aluminum trade remedy cases (2017)",
-        "publisher": "Kelley Drye & Warren",
-        "type": "law-firm",
-        "url": "https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/in-rare-move-trumps-commerce-secretary-self-initiates-chinese-aluminum-trade-remedy-cases"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch21-055",
-    "status": "not-done",
-    "match": "none",
-    "happened": "NOAA's Office of Marine and Aviation Operations was not broken up. It remained one of NOAA's six line offices in 2026, and the President's fiscal 2027 budget request asked for less money for most NOAA offices but not for this one.",
-    "closeness": "No matching action found.",
-    "uncertain": "Checked CRS reports on NOAA's fiscal 2026 and 2027 budgets (March and July 2026). Transfers of single ships or aircraft were not checked.",
-    "sources": [
-      {
-        "label": "NOAA FY2027 Budget Request and Appropriations (IF13275)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/IF13275.html"
-      },
-      {
-        "label": "NOAA FY2026 Budget Request and Appropriations (IF13024)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/IF13024.html"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch21-067",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No question-by-question review of the American Community Survey for usefulness or intrusiveness was found. Census Bureau notices in December 2025 and May 2026 renewing the survey kept the average household time at 40 minutes. The 2025 survey added three questions (on sewers, electric vehicles and solar panels) and reworded four, based on a content test run from 2020 to 2024.",
-    "closeness": "No matching action found.",
-    "uncertain": "Searched the Federal Register for American Community Survey notices since January 2025, ran a web search, and read an October 2026 Census Bureau webinar transcript on 2025 content changes. A review that did not lead to a published change would not appear in these sources.",
-    "sources": [
-      {
-        "label": "American Community Survey and Puerto Rico Community Survey (comment request, Dec. 19, 2025)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/12/19/2025-23329/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
-      },
-      {
-        "label": "Understanding 2025 American Community Survey Content Changes (webinar transcript, Oct. 15, 2026)",
-        "publisher": "U.S. Census Bureau",
-        "type": "government",
-        "url": "https://www2.census.gov/about/training-workshops/2026/2026-10-15-understanding-acs-content-changes-transcript.pdf"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch21-069",
-    "status": "partly-done",
-    "match": "broader",
-    "happened": "In July 2026, the Census Bureau said the Bureau of Labor Statistics had found errors in the poverty thresholds used for the Supplemental Poverty Measure, caused by method changes made in 2021. BLS published corrected thresholds for 2019-2024, and Census re-released revised estimates in August 2026. In September 2026 it reported a 13.1% supplemental poverty rate for 2025.",
-    "key_dates": [
-      {
-        "date": "2026-07-17",
-        "event": "Census Bureau announces errors found in SPM thresholds"
-      },
-      {
-        "date": "2026-08",
-        "event": "Census releases revised SPM estimates for 2019-2024"
-      },
-      {
-        "date": "2026-09-15",
-        "event": "Census publishes 2025 poverty report"
-      }
-    ],
-    "closeness": "The agencies checked and corrected one technical part of the measure, which touches on its accuracy, but this was an error fix, not the broad review of the measure the chapter asked for.",
-    "uncertain": "Whether the errors raised or lowered past poverty rates was not stated in the July 2026 statement; a Census blog said the corrections did not change year-to-year trends. No broader review was found. Newest source: September 2026.",
-    "sources": [
-      {
-        "label": "Statement on the Supplemental Poverty Measure (July 17, 2026)",
-        "publisher": "U.S. Census Bureau",
-        "type": "government",
-        "url": "https://www.census.gov/newsroom/press-releases/2026/statement-on-supplemental-poverty-measure.html"
-      },
-      {
-        "label": "Revising Supplemental Poverty Measure Estimates from 2019 to 2024 (working paper)",
-        "publisher": "U.S. Census Bureau",
-        "type": "government",
-        "url": "https://www.census.gov/library/working-papers/2026/demo/sehsd-wp2026-17.html"
-      },
-      {
-        "label": "Poverty in 2025 (IN12737)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/IN12737.html"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch21-071",
-    "status": "not-done",
-    "match": "none",
-    "happened": "EDA's grant decisions were not moved to the Assistant Secretary's office. A 2026 reorganization added offices required by a 2024 law and a headquarters grants management office, but EDA's six regional offices still run its main grant programs. After the change, the Assistant Secretary's office oversees only research and technical assistance programs.",
-    "closeness": "No matching action found. The reorganization added some central oversight of grant procedures but did not centralize funding decisions.",
-    "uncertain": "Based on an August 2026 CRS report that summarizes EDA's plan; how funding decisions are approved in practice was not confirmed.",
-    "sources": [
-      {
-        "label": "Economic Development Administration: An Overview of Roles (R49311)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/R49311.html"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch21-073",
-    "status": "not-done",
-    "match": "none",
-    "happened": "MBDA was not turned into a research office on free markets and regulation. Instead, a March 14, 2025 executive order told it to shrink to the minimum the law requires. A federal court in Rhode Island blocked that order for MBDA in May 2025, and Congress gave MBDA $50 million for fiscal 2026 to keep supporting minority businesses.",
-    "key_dates": [
-      {
-        "date": "2025-03-14",
-        "event": "Executive Order 14238 orders MBDA reduced to its legal minimum."
-      },
-      {
-        "date": "2025-05-13",
-        "event": "Federal court in Rhode Island issues a preliminary injunction."
-      },
-      {
-        "date": "2026-01-23",
-        "event": "FY2026 law provides $50 million for MBDA."
-      }
-    ],
-    "legal": "Rhode Island v. Trump: the U.S. District Court for the District of Rhode Island issued a preliminary injunction in May 2025 blocking the order's cuts at MBDA and other agencies. The government appealed; later rulings were not confirmed.",
-    "closeness": "No matching action found. The administration tried to shrink MBDA rather than give it a new research role.",
-    "uncertain": "The appeal's status and any later final ruling were not confirmed. Newest source: January 2026 law.",
-    "sources": [
-      {
-        "label": "Continuing the Reduction of the Federal Bureaucracy (EO 14238)",
-        "publisher": "The White House",
-        "type": "government",
-        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/"
-      },
-      {
-        "label": "Judge blocks Trump order against three federal agencies",
-        "publisher": "Wisconsin Examiner (States Newsroom)",
-        "type": "news",
-        "url": "https://wisconsinexaminer.com/2025/05/06/judge-blocks-trump-order-against-three-federal-agencies/"
-      },
-      {
-        "label": "Public Law 119-74 (FY2026 appropriations, including Commerce)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch21-082",
-    "status": "partly-done",
-    "match": "direct",
-    "happened": "On December 11, 2025, the Commerce Department announced that the Alliance for Performance Excellence and the Baldrige Foundation would take over most operations of the Baldrige Performance Excellence Program starting with the 2026 award cycle. They will run the award process, the Quest for Excellence conference, updates to the Baldrige framework and the fellows program. NIST keeps final legal responsibility for the award.",
-    "key_dates": [
-      {
-        "date": "2025-12-11",
-        "event": "Commerce announces transfer of most Baldrige operations to the Alliance and the Baldrige Foundation"
-      },
-      {
-        "date": "2026",
-        "event": "Transition begins with the 2026 award cycle"
-      }
-    ],
-    "closeness": "This is the handoff to the Baldrige Foundation the chapter recommends, but it is not complete: NIST and Commerce keep ultimate responsibility, and a partner group, the Alliance for Performance Excellence, shares the work. Whether the program now runs only on fees was not confirmed.",
-    "uncertain": "How the program is funded after the transition and whether any NIST staff remain were not confirmed. NIST's Board of Overseers still met in 2026. Newest source: January 2026.",
-    "sources": [
-      {
-        "label": "Department of Commerce Announces Transition of Baldrige Performance Excellence Program",
-        "publisher": "National Institute of Standards and Technology",
-        "type": "government",
-        "url": "https://www.nist.gov/node/1900811"
-      },
-      {
-        "label": "Board of Overseers of the Malcolm Baldrige National Quality Award (meeting notice, Apr. 2, 2026)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06419/board-of-overseers-of-the-malcolm-baldrige-national-quality-award"
-      }
-    ],
-    "as_of": "2026-10-28"
   },
   {
     "id": "ch21-092",

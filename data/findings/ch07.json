@@ -40,6 +40,26 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch07-003",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No revised version of Executive Order 12333, the order that sets intelligence agencies' roles, was published, so no new order spelled out federal cyber roles as recommended (see ch07-002).",
+    "closeness": "Nothing matching found. The recommendation depends on a revised order that was not issued.",
+    "uncertain": "Searched the Federal Register for presidential documents mentioning Executive Order 12333 since January 2025. Classified guidance on cyber roles, if any, would not be public.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-004",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch07-005",
     "status": "not-done",
     "match": "none",
@@ -55,6 +75,16 @@
       }
     ],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-006",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch07-007",
@@ -78,6 +108,16 @@
       }
     ],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-008",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch07-009",
@@ -129,36 +169,53 @@
   },
   {
     "id": "ch07-011",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "I found no public report that new CIA leaders stopped specific programs or operations as inconsistent with the President's agenda.",
     "closeness": "No matching action found in public sources.",
-    "uncertain": "Most CIA operations are classified, so such decisions may not be public. No targeted search was done.",
+    "uncertain": "Most CIA operations are classified, so such decisions may not be public. No targeted search was done. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "No targeted search done yet (web search ran out again); check for reporting on CIA programs halted by new leadership in 2025."
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-012",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch07-013",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "I found no public announcement of new leaders for the CIA's directorates and mission centers.",
     "closeness": "No matching action found.",
-    "uncertain": "No targeted search was done; CIA personnel moves are often not public.",
+    "uncertain": "No targeted search was done; CIA personnel moves are often not public. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "No targeted search done yet (web search ran out again); check for reporting on 2025 CIA directorate leadership changes."
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-014",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch07-015",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "I found no plan to move CIA directorates out of Virginia or open campuses outside the Washington area.",
     "closeness": "No matching action found.",
-    "uncertain": "No targeted search was done.",
+    "uncertain": "No targeted search was done. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "Only a Federal Register check so far (no results); still needs a news search for any CIA relocation plan in 2025-2026."
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch07-016",
@@ -190,37 +247,74 @@
     "recheck": "Still needs later rulings in the CIA/ODNI DEI officer case (Eastern District of Virginia and Fourth Circuit); web search ran out in this pass."
   },
   {
+    "id": "ch07-017",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch07-018",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "I found no public decision to use the Defense Department's full capabilities to support covert actions.",
     "closeness": "No matching action found in public sources.",
-    "uncertain": "Such decisions are usually classified. No targeted search was done.",
+    "uncertain": "Such decisions are usually classified. No targeted search was done. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "No targeted search done yet (web search ran out again); check for public reporting on DOD support to covert action in 2025-2026."
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-019",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch07-020",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "I found no public report that the National Security Council reviewed all covert action findings within 60 days.",
     "closeness": "No matching action found in public sources.",
-    "uncertain": "Covert action findings are classified, so a review may have happened without public notice. No targeted search was done.",
+    "uncertain": "Covert action findings are classified, so a review may have happened without public notice. No targeted search was done. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "No targeted search done yet (web search ran out again); check for reporting on an NSC review of covert action findings."
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-021",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch07-022",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "I found no rule requiring senior intelligence officers to sign mobility agreements.",
     "closeness": "No matching action found.",
-    "uncertain": "No targeted search was done.",
+    "uncertain": "No targeted search was done. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "Only a Federal Register check so far (no results); still needs a search for ODNI or CIA mobility agreements for senior officers."
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-023",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch07-024",
@@ -435,6 +529,39 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch07-030",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-031",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No required political neutrality course for National Intelligence University programs was found. In August 2025 the DNI announced plans to close the university as a standalone school. The Defense Secretary approved moving it to the National Defense University on March 11, 2026, and it became NDU's National Intelligence College on July 1, 2026.",
+    "closeness": "Nothing matching found. The school the chapter wanted to add a course to was moved into the National Defense University and renamed instead.",
+    "uncertain": "Searched for the university's 2025-2026 status; no new required neutrality course was found in the earlier pass or in sources on the move. A course added inside an agency's own training would not necessarily be public. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "Fact Sheet: ODNI 2.0 Launch",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
+      },
+      {
+        "label": "National Intelligence College joins National Defense University",
+        "publisher": "National Defense University",
+        "type": "government",
+        "url": "https://www.ndu.edu/News/Article-View/Article/4530659/national-intelligence-college-joins-national-defense-university/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch07-032",
     "status": "ended",
     "match": "partial",
@@ -630,6 +757,16 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch07-039",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch07-040",
     "status": "not-done",
     "match": "none",
@@ -637,6 +774,45 @@
     "closeness": "No matching action found.",
     "uncertain": "Searched the Federal Register for FARA rules and proposed rules and the laws passed by the 119th Congress; none changed the law. Reports say a February 2025 Attorney General memo narrowed criminal FARA charges, which was not confirmed here.",
     "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-041",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-042",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On August 20, 2025, Director of National Intelligence Tulsi Gabbard announced a reorganization called \"ODNI 2.0.\" It said the National Counterintelligence and Security Center would focus on security clearance reform, deterring counterintelligence threats, and overseeing investigations of leaks of classified information. No executive order or change to the Counterintelligence Enhancement Act on the center's role was found.",
+    "key_dates": [
+      {
+        "date": "2025-08-20",
+        "event": "ODNI 2.0 announced, including a new focus for the counterintelligence center."
+      }
+    ],
+    "closeness": "The center's role was reset by an internal DNI reorganization, not by an executive order or law as the chapter suggested. Its new focus is on clearances, threats and leak cases rather than strategy, policy and outreach. No new agency was created, which matches the chapter. Same reorganization as ch07-001.",
+    "uncertain": "How far the changes have been carried out is not public. I searched the Federal Register and the fiscal 2026 intelligence authorization law (in P.L. 119-60) and found no executive order or statutory change to the center's role. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "DNI Gabbard Launches ODNI 2.0",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://www.odni.gov/index.php/newsroom/press-releases/press-releases-2025/4100-pr-24-25"
+      },
+      {
+        "label": "Fact Sheet: ODNI 2.0 Launch",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
+      }
+    ],
     "as_of": "2026-10-27"
   },
   {
@@ -660,6 +836,72 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch07-045",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The National Security Higher Education Advisory Board, which the FBI ended in 2018, was not brought back, and no revived National Security Business Alliance Council was found.",
+    "closeness": "Nothing matching found.",
+    "uncertain": "Searched the Federal Register and the web for 2025-2026 notices or announcements about either board. A board could meet informally without a public notice.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-046",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The August 2025 \"ODNI 2.0\" fact sheet said the National Counterterrorism Center is building ways to increase two-way information sharing between federal, state and local law enforcement. No public statement was found that the center stopped analysis that overlaps with the FBI or CIA.",
+    "key_dates": [
+      {
+        "date": "2025-08-20",
+        "event": "ODNI 2.0 fact sheet describes the counterterrorism center's information-sharing focus."
+      }
+    ],
+    "closeness": "Information sharing is a kind of integration work, which the chapter favors. But the chapter's main point, cutting analysis that duplicates other agencies, was not publicly addressed. Same reorganization as ch07-001 and ch07-042.",
+    "uncertain": "Internal changes to the center's analytic work are not public. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "Fact Sheet: ODNI 2.0 Launch",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-047",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The fiscal 2026 Intelligence Authorization Act, part of the defense law signed December 18, 2025, requires yearly surveys of intelligence analysts about bias and politicization, including whether they raised concerns with an analytic ombudsman. It also requires yearly training on analytic standards. Separately, in August 2025 the DNI eliminated the Strategic Futures Group, which wrote the long-range \"Global Trends\" reports.",
+    "key_dates": [
+      {
+        "date": "2025-08-20",
+        "event": "ODNI 2.0 eliminates the Strategic Futures Group."
+      },
+      {
+        "date": "2025-12-18",
+        "event": "Law requiring analytic objectivity surveys and training is signed (P.L. 119-60, sections 6305-6306)."
+      }
+    ],
+    "closeness": "The objectivity surveys and training match part of the chapter's call to act on the ombudsman's work. Closing the long-range forecasting group points away from the chapter's call for more strategic analysis. No change to the priorities framework or Daily Brief to signal demand for strategic work was found.",
+    "uncertain": "Whether the surveys have been done, and what replaced the Strategic Futures Group's work, is not known. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-60 (NDAA FY2026; Division F, Intelligence Authorization Act)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      },
+      {
+        "label": "Fact Sheet: ODNI 2.0 Launch",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch07-048",
     "status": "not-done",
     "match": "none",
@@ -670,167 +912,22 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch07-049",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
     "id": "ch07-050",
     "status": "not-done",
     "match": "none",
     "happened": "I found no new order revising the classification system, which is set by Executive Order 13526.",
     "closeness": "No matching action found.",
     "uncertain": "Searched presidential documents in the Federal Register since January 2025 and the laws passed by the 119th Congress; none revised Executive Order 13526. Bills introduced but not passed were not checked.",
-    "sources": [],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch07-054",
-    "status": "not-done",
-    "match": "none",
-    "happened": "I found no order suspending parts of Executive Order 14086. The EU-U.S. Data Privacy Framework that relies on it was still running in 2026, with Commerce Department notices about company sign-ups.",
-    "closeness": "Not done; the framework built on EO 14086 continues.",
-    "uncertain": "Searched the Federal Register for 14086 (no results) and for the Data Privacy Framework (2026 notices show it operating). An internal study may have happened without public notice.",
-    "sources": [
-      {
-        "label": "Commerce notice: Self-Certifications Under the Data Privacy Framework Program (2026)",
-        "publisher": "Federal Register (Commerce Department)",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/02/23/2026-03469/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch07-055",
-    "status": "not-done",
-    "match": "none",
-    "happened": "I found no public U.S. demand that the EU resolve the data privacy dispute or lose intelligence sharing. The Data Privacy Framework stayed in place in 2026.",
-    "closeness": "No matching action found.",
-    "uncertain": "No targeted search was done beyond Federal Register notices showing the framework still operating.",
-    "sources": [
-      {
-        "label": "Commerce notice: Self-Certifications Under the Data Privacy Framework Program (2026)",
-        "publisher": "Federal Register (Commerce Department)",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/02/23/2026-03469/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
-      }
-    ],
-    "as_of": "2026-10-27",
-    "recheck": "Still needs a check of State Department or White House statements on EU data transfers; web search ran out in this pass."
-  },
-  {
-    "id": "ch07-058",
-    "status": "not-done",
-    "match": "none",
-    "happened": "I found no rule requiring that half of the National Intelligence Council come from outside the CIA. DNI Gabbard fired the council's acting chair and deputy in May 2025, but who replaced them was not checked.",
-    "closeness": "No matching action found; the 2025 firings are a different step (see ch07-025).",
-    "uncertain": "No targeted search was done on NIC staffing rules.",
-    "sources": [
-      {
-        "label": "Gabbard fires heads of National Intelligence Council",
-        "publisher": "Fox News",
-        "type": "news",
-        "url": "https://www.foxnews.com/politics/gabbard-fires-deep-state-heads-national-intelligence-council-root-out-politicization-intel"
-      }
-    ],
-    "as_of": "2026-10-27",
-    "recheck": "Still needs NIC leadership and staffing changes in 2025-2026; web search ran out in this pass."
-  },
-  {
-    "id": "ch07-060",
-    "status": "in-effect",
-    "match": "partial",
-    "happened": "On June 22, 2026, President Trump signed Executive Order 14412 on quantum-resistant encryption. It tells agencies to move high-value and high-impact systems to post-quantum encryption for key exchange by the end of 2030 and for digital signatures by the end of 2031.",
-    "key_dates": [
-      {
-        "date": "2026-06-22",
-        "event": "Executive Order 14412 signed."
-      }
-    ],
-    "legal": "No court ruling.",
-    "closeness": "Same goal: the order moves deadlines earlier than the 2035 goal for many civilian systems. It came about 17 months into the term, not immediately, and it excludes national security systems.",
-    "uncertain": "I did not check whether the 2022 national security memo itself was revised, or whether agencies are on schedule. Newest source: June 2026.",
-    "sources": [
-      {
-        "label": "Executive Order 14412, Securing the Nation Against Advanced Cryptographic Attacks",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12909/securing-the-nation-against-advanced-cryptographic-attacks"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch07-064",
-    "status": "partly-done",
-    "match": "broader",
-    "happened": "On January 27, 2025, President Trump ordered a next-generation missile defense shield, later called Golden Dome, including space-based parts. A December 18, 2025 order on space superiority tells the defense secretary, working with the DNI, to report on gaps in air and missile defense and to counter threats in space.",
-    "key_dates": [
-      {
-        "date": "2025-01-27",
-        "event": "Iron Dome for America order signed."
-      },
-      {
-        "date": "2025-12-18",
-        "event": "Executive Order 14369 on space superiority signed."
-      }
-    ],
-    "legal": "No court ruling.",
-    "closeness": "Only the general direction matches: more space defense with some intelligence role. I found no specific joint intelligence-DOD space programs or combined use of authorities as the text describes.",
-    "uncertain": "Joint intelligence and defense space programs are often classified. Newest source: December 2025.",
-    "sources": [
-      {
-        "label": "Executive Order: The Iron Dome for America",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02182/the-iron-dome-for-america"
-      },
-      {
-        "label": "Executive Order 14369, Ensuring American Space Superiority",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23845/ensuring-american-space-superiority"
-      }
-    ],
-    "as_of": "2026-10-27",
-    "recheck": "Still needs public details on joint NRO/Space Force or intelligence-DOD space programs started in 2025-2026; web search ran out in this pass."
-  },
-  {
-    "id": "ch07-003",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No revised version of Executive Order 12333, the order that sets intelligence agencies' roles, was published, so no new order spelled out federal cyber roles as recommended (see ch07-002).",
-    "closeness": "Nothing matching found. The recommendation depends on a revised order that was not issued.",
-    "uncertain": "Searched the Federal Register for presidential documents mentioning Executive Order 12333 since January 2025. Classified guidance on cyber roles, if any, would not be public.",
-    "sources": [],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch07-031",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No required political neutrality course for National Intelligence University programs was found. In August 2025 the DNI announced plans to close the university as a standalone school. The Defense Secretary approved moving it to the National Defense University on March 11, 2026, and it became NDU's National Intelligence College on July 1, 2026.",
-    "closeness": "Nothing matching found. The school the chapter wanted to add a course to was moved into the National Defense University and renamed instead.",
-    "uncertain": "Searched for the university's 2025-2026 status; no new required neutrality course was found in the earlier pass or in sources on the move. A course added inside an agency's own training would not necessarily be public. Newest source: June 2026.",
-    "sources": [
-      {
-        "label": "Fact Sheet: ODNI 2.0 Launch",
-        "publisher": "Office of the Director of National Intelligence",
-        "type": "government",
-        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
-      },
-      {
-        "label": "National Intelligence College joins National Defense University",
-        "publisher": "National Defense University",
-        "type": "government",
-        "url": "https://www.ndu.edu/News/Article-View/Article/4530659/national-intelligence-college-joins-national-defense-university/"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch07-045",
-    "status": "not-done",
-    "match": "none",
-    "happened": "The National Security Higher Education Advisory Board, which the FBI ended in 2018, was not brought back, and no revived National Security Business Alliance Council was found.",
-    "closeness": "Nothing matching found.",
-    "uncertain": "Searched the Federal Register and the web for 2025-2026 notices or announcements about either board. A board could meet informally without a public notice.",
     "sources": [],
     "as_of": "2026-10-27"
   },
@@ -859,6 +956,180 @@
         "publisher": "Boston Globe",
         "type": "news",
         "url": "https://www.bostonglobe.com/2025/06/10/nation/gabbard-ai-jfk-files-trump/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-052",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-053",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-054",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no order suspending parts of Executive Order 14086. The EU-U.S. Data Privacy Framework that relies on it was still running in 2026, with Commerce Department notices about company sign-ups.",
+    "closeness": "Not done; the framework built on EO 14086 continues.",
+    "uncertain": "Searched the Federal Register for 14086 (no results) and for the Data Privacy Framework (2026 notices show it operating). An internal study may have happened without public notice.",
+    "sources": [
+      {
+        "label": "Commerce notice: Self-Certifications Under the Data Privacy Framework Program (2026)",
+        "publisher": "Federal Register (Commerce Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/23/2026-03469/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-055",
+    "status": "no-record",
+    "match": "none",
+    "happened": "I found no public U.S. demand that the EU resolve the data privacy dispute or lose intelligence sharing. The Data Privacy Framework stayed in place in 2026.",
+    "closeness": "No matching action found.",
+    "uncertain": "No targeted search was done beyond Federal Register notices showing the framework still operating. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "sources": [
+      {
+        "label": "Commerce notice: Self-Certifications Under the Data Privacy Framework Program (2026)",
+        "publisher": "Federal Register (Commerce Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/23/2026-03469/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-056",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In April 2025, CNN reported that the administration had tightly limited who receives the President's Daily Brief. At first White House Chief of Staff Susie Wiles personally approved each person with access; later DNI Tulsi Gabbard took over that decision.",
+    "key_dates": [
+      {
+        "date": "2025-04-10",
+        "event": "CNN reports tight limits on who receives the President's Daily Brief."
+      }
+    ],
+    "closeness": "This matches the chapter's call for much narrower distribution and a review of who gets the brief.",
+    "uncertain": "The recipient list is classified, so the number of recipients is not public. Details come from news reports citing unnamed officials. Newest source: April 2025.",
+    "sources": [
+      {
+        "label": "Trump administration has tightly restricted access to president's daily intelligence brief",
+        "publisher": "CNN (via KTVZ)",
+        "type": "news",
+        "url": "https://ktvz.com/politics/cnn-us-politics/2025/04/10/trump-administration-has-tightly-restricted-access-to-presidents-daily-intelligence-brief/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-057",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In May 2025, DNI Tulsi Gabbard moved the staff who produce the President's Daily Brief from CIA headquarters to the ODNI campus, Fox News reported. The same week she also moved the National Intelligence Council.",
+    "key_dates": [
+      {
+        "date": "2025-05",
+        "event": "Daily Brief staff physically moved from CIA to ODNI."
+      }
+    ],
+    "closeness": "Moving Daily Brief staff to ODNI matches half of the chapter's idea. No report was found on whether briefers now come from agencies other than the CIA.",
+    "uncertain": "Whether the staff were formally transferred or only relocated, and who now delivers the brief, are not confirmed. Details come from news reports. Newest source: May 2025.",
+    "sources": [
+      {
+        "label": "Gabbard moves presidential daily intelligence brief staff from CIA to ODNI",
+        "publisher": "Fox News",
+        "type": "news",
+        "url": "https://www.foxnews.com/politics/gabbard-moves-presidential-daily-intelligence-brief-staff-from-cia-odni.amp"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-058",
+    "status": "no-record",
+    "match": "none",
+    "happened": "I found no rule requiring that half of the National Intelligence Council come from outside the CIA. DNI Gabbard fired the council's acting chair and deputy in May 2025, but who replaced them was not checked.",
+    "closeness": "No matching action found; the 2025 firings are a different step (see ch07-025).",
+    "uncertain": "No targeted search was done on NIC staffing rules. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "sources": [
+      {
+        "label": "Gabbard fires heads of National Intelligence Council",
+        "publisher": "Fox News",
+        "type": "news",
+        "url": "https://www.foxnews.com/politics/gabbard-fires-deep-state-heads-national-intelligence-council-root-out-politicization-intel"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-059",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-060",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On June 22, 2026, President Trump signed Executive Order 14412 on quantum-resistant encryption. It tells agencies to move high-value and high-impact systems to post-quantum encryption for key exchange by the end of 2030 and for digital signatures by the end of 2031.",
+    "key_dates": [
+      {
+        "date": "2026-06-22",
+        "event": "Executive Order 14412 signed."
+      }
+    ],
+    "legal": "No court ruling.",
+    "closeness": "Same goal: the order moves deadlines earlier than the 2035 goal for many civilian systems. It came about 17 months into the term, not immediately, and it excludes national security systems.",
+    "uncertain": "I did not check whether the 2022 national security memo itself was revised, or whether agencies are on schedule. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14412, Securing the Nation Against Advanced Cryptographic Attacks",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12909/securing-the-nation-against-advanced-cryptographic-attacks"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-061",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The August 2025 \"ODNI 2.0\" fact sheet said DNI Tulsi Gabbard told the Intelligence Advanced Research Projects Activity (IARPA) to invest in solutions to near-term gaps in the intelligence community rather than long-term concepts. It also said the DNI issued guidance to speed purchases of commercially available technology.",
+    "key_dates": [
+      {
+        "date": "2025-08-20",
+        "event": "ODNI 2.0 fact sheet describes new direction for IARPA."
+      }
+    ],
+    "closeness": "Leaning on commercial technology fits the chapter's wish not to duplicate private-sector work. But the chapter wants research focused on hard problems, while the new direction stresses near-term needs. No change at the CIA's science and technology directorate was found.",
+    "uncertain": "Which IARPA programs changed is not public. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "Fact Sheet: ODNI 2.0 Launch",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
       }
     ],
     "as_of": "2026-10-27"
@@ -922,157 +1193,58 @@
     "as_of": "2026-10-27"
   },
   {
-    "id": "ch07-042",
+    "id": "ch07-064",
     "status": "partly-done",
-    "match": "partial",
-    "happened": "On August 20, 2025, Director of National Intelligence Tulsi Gabbard announced a reorganization called \"ODNI 2.0.\" It said the National Counterintelligence and Security Center would focus on security clearance reform, deterring counterintelligence threats, and overseeing investigations of leaks of classified information. No executive order or change to the Counterintelligence Enhancement Act on the center's role was found.",
+    "match": "broader",
+    "happened": "On January 27, 2025, President Trump ordered a next-generation missile defense shield, later called Golden Dome, including space-based parts. A December 18, 2025 order on space superiority tells the defense secretary, working with the DNI, to report on gaps in air and missile defense and to counter threats in space.",
     "key_dates": [
       {
-        "date": "2025-08-20",
-        "event": "ODNI 2.0 announced, including a new focus for the counterintelligence center."
-      }
-    ],
-    "closeness": "The center's role was reset by an internal DNI reorganization, not by an executive order or law as the chapter suggested. Its new focus is on clearances, threats and leak cases rather than strategy, policy and outreach. No new agency was created, which matches the chapter. Same reorganization as ch07-001.",
-    "uncertain": "How far the changes have been carried out is not public. I searched the Federal Register and the fiscal 2026 intelligence authorization law (in P.L. 119-60) and found no executive order or statutory change to the center's role. Newest source: August 2025.",
-    "sources": [
-      {
-        "label": "DNI Gabbard Launches ODNI 2.0",
-        "publisher": "Office of the Director of National Intelligence",
-        "type": "government",
-        "url": "https://www.odni.gov/index.php/newsroom/press-releases/press-releases-2025/4100-pr-24-25"
-      },
-      {
-        "label": "Fact Sheet: ODNI 2.0 Launch",
-        "publisher": "Office of the Director of National Intelligence",
-        "type": "government",
-        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch07-046",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "The August 2025 \"ODNI 2.0\" fact sheet said the National Counterterrorism Center is building ways to increase two-way information sharing between federal, state and local law enforcement. No public statement was found that the center stopped analysis that overlaps with the FBI or CIA.",
-    "key_dates": [
-      {
-        "date": "2025-08-20",
-        "event": "ODNI 2.0 fact sheet describes the counterterrorism center's information-sharing focus."
-      }
-    ],
-    "closeness": "Information sharing is a kind of integration work, which the chapter favors. But the chapter's main point, cutting analysis that duplicates other agencies, was not publicly addressed. Same reorganization as ch07-001 and ch07-042.",
-    "uncertain": "Internal changes to the center's analytic work are not public. Newest source: August 2025.",
-    "sources": [
-      {
-        "label": "Fact Sheet: ODNI 2.0 Launch",
-        "publisher": "Office of the Director of National Intelligence",
-        "type": "government",
-        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch07-047",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "The fiscal 2026 Intelligence Authorization Act, part of the defense law signed December 18, 2025, requires yearly surveys of intelligence analysts about bias and politicization, including whether they raised concerns with an analytic ombudsman. It also requires yearly training on analytic standards. Separately, in August 2025 the DNI eliminated the Strategic Futures Group, which wrote the long-range \"Global Trends\" reports.",
-    "key_dates": [
-      {
-        "date": "2025-08-20",
-        "event": "ODNI 2.0 eliminates the Strategic Futures Group."
+        "date": "2025-01-27",
+        "event": "Iron Dome for America order signed."
       },
       {
         "date": "2025-12-18",
-        "event": "Law requiring analytic objectivity surveys and training is signed (P.L. 119-60, sections 6305-6306)."
+        "event": "Executive Order 14369 on space superiority signed."
       }
     ],
-    "closeness": "The objectivity surveys and training match part of the chapter's call to act on the ombudsman's work. Closing the long-range forecasting group points away from the chapter's call for more strategic analysis. No change to the priorities framework or Daily Brief to signal demand for strategic work was found.",
-    "uncertain": "Whether the surveys have been done, and what replaced the Strategic Futures Group's work, is not known. Newest source: December 2025.",
+    "legal": "No court ruling.",
+    "closeness": "Only the general direction matches: more space defense with some intelligence role. I found no specific joint intelligence-DOD space programs or combined use of authorities as the text describes.",
+    "uncertain": "Joint intelligence and defense space programs are often classified. Newest source: December 2025.",
     "sources": [
       {
-        "label": "Public Law 119-60 (NDAA FY2026; Division F, Intelligence Authorization Act)",
-        "publisher": "GovInfo",
+        "label": "Executive Order: The Iron Dome for America",
+        "publisher": "Federal Register",
         "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02182/the-iron-dome-for-america"
       },
       {
-        "label": "Fact Sheet: ODNI 2.0 Launch",
-        "publisher": "Office of the Director of National Intelligence",
+        "label": "Executive Order 14369, Ensuring American Space Superiority",
+        "publisher": "Federal Register",
         "type": "government",
-        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
+        "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23845/ensuring-american-space-superiority"
       }
     ],
-    "as_of": "2026-10-27"
+    "as_of": "2026-10-27",
+    "recheck": "Still needs public details on joint NRO/Space Force or intelligence-DOD space programs started in 2025-2026; web search ran out in this pass."
   },
   {
-    "id": "ch07-056",
-    "status": "in-effect",
-    "match": "direct",
-    "happened": "In April 2025, CNN reported that the administration had tightly limited who receives the President's Daily Brief. At first White House Chief of Staff Susie Wiles personally approved each person with access; later DNI Tulsi Gabbard took over that decision.",
-    "key_dates": [
-      {
-        "date": "2025-04-10",
-        "event": "CNN reports tight limits on who receives the President's Daily Brief."
-      }
-    ],
-    "closeness": "This matches the chapter's call for much narrower distribution and a review of who gets the brief.",
-    "uncertain": "The recipient list is classified, so the number of recipients is not public. Details come from news reports citing unnamed officials. Newest source: April 2025.",
-    "sources": [
-      {
-        "label": "Trump administration has tightly restricted access to president's daily intelligence brief",
-        "publisher": "CNN (via KTVZ)",
-        "type": "news",
-        "url": "https://ktvz.com/politics/cnn-us-politics/2025/04/10/trump-administration-has-tightly-restricted-access-to-presidents-daily-intelligence-brief/"
-      }
-    ],
-    "as_of": "2026-10-27"
+    "id": "ch07-065",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
-    "id": "ch07-057",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "In May 2025, DNI Tulsi Gabbard moved the staff who produce the President's Daily Brief from CIA headquarters to the ODNI campus, Fox News reported. The same week she also moved the National Intelligence Council.",
-    "key_dates": [
-      {
-        "date": "2025-05",
-        "event": "Daily Brief staff physically moved from CIA to ODNI."
-      }
-    ],
-    "closeness": "Moving Daily Brief staff to ODNI matches half of the chapter's idea. No report was found on whether briefers now come from agencies other than the CIA.",
-    "uncertain": "Whether the staff were formally transferred or only relocated, and who now delivers the brief, are not confirmed. Details come from news reports. Newest source: May 2025.",
-    "sources": [
-      {
-        "label": "Gabbard moves presidential daily intelligence brief staff from CIA to ODNI",
-        "publisher": "Fox News",
-        "type": "news",
-        "url": "https://www.foxnews.com/politics/gabbard-moves-presidential-daily-intelligence-brief-staff-from-cia-odni.amp"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch07-061",
-    "status": "partly-done",
-    "match": "broader",
-    "happened": "The August 2025 \"ODNI 2.0\" fact sheet said DNI Tulsi Gabbard told the Intelligence Advanced Research Projects Activity (IARPA) to invest in solutions to near-term gaps in the intelligence community rather than long-term concepts. It also said the DNI issued guidance to speed purchases of commercially available technology.",
-    "key_dates": [
-      {
-        "date": "2025-08-20",
-        "event": "ODNI 2.0 fact sheet describes new direction for IARPA."
-      }
-    ],
-    "closeness": "Leaning on commercial technology fits the chapter's wish not to duplicate private-sector work. But the chapter wants research focused on hard problems, while the new direction stresses near-term needs. No change at the CIA's science and technology directorate was found.",
-    "uncertain": "Which IARPA programs changed is not public. Newest source: August 2025.",
-    "sources": [
-      {
-        "label": "Fact Sheet: ODNI 2.0 Launch",
-        "publisher": "Office of the Director of National Intelligence",
-        "type": "government",
-        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
-      }
-    ],
-    "as_of": "2026-10-27"
+    "id": "ch07-066",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   }
 ]

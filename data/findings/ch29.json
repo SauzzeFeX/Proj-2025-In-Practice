@@ -1,5 +1,71 @@
 [
   {
+    "id": "ch29-001",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "Three Republican commissioners left the FEC: Sean Cooksey (January 2025), Allen Dickerson (April 2025) and Trey Trainor (October 2025). This left the commission without a quorum. On February 11, 2026, President Trump nominated two Republicans, Andrew Woodson and Ashley Stow, to replace Dickerson and Trainor. In late October 2026 the FEC's website still listed only two commissioners, so the nominees had not taken office.",
+    "key_dates": [
+      {
+        "date": "2025-04-30",
+        "event": "Dickerson leaves; the FEC loses its four-member quorum."
+      },
+      {
+        "date": "2025-10-03",
+        "event": "Trainor resigns, leaving two commissioners."
+      },
+      {
+        "date": "2026-02-11",
+        "event": "President Trump nominates Andrew Woodson and Ashley Stow."
+      }
+    ],
+    "closeness": "Matches the step of naming Republican replacements. Whether the nominees share the departing commissioners' views on regulating political activity was not confirmed, and no nominee for Cooksey's former seat was found.",
+    "uncertain": "No Senate hearing or vote was found; the newest detailed source is a March 2026 CRS report, and the FEC's commissioner page was checked in October 2026. Woodson works at the Wiley Rein law firm and Stow worked with Trainor, according to news reports.",
+    "sources": [
+      {
+        "label": "Federal Election Commission: Membership and Policymaking Quorum, In Brief (R45160, March 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-03-02_R45160_e64878f666318626489a9bbc59380f35ba6972bd.html"
+      },
+      {
+        "label": "All Commissioners",
+        "publisher": "Federal Election Commission",
+        "type": "government",
+        "url": "https://www.fec.gov/about/leadership-and-structure/commissioners/"
+      },
+      {
+        "label": "Trump Nominates Two Republicans to FEC, Paving Path to End Monthslong 'Shutdown'",
+        "publisher": "NOTUS",
+        "type": "news",
+        "url": "https://www.notus.org/money/federal-election-commission-donald-trump-commissioner-nomination-quorum"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch29-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No Democratic FEC nominee was named in 2025-2026, so there was no nominee to negotiate over. On February 11, 2026, President Trump nominated two Republicans, and Senate Democrats objected that no Democrat was paired with them. Democratic Commissioner Ellen Weintraub left the commission in February 2025; CRS calls that vacancy disputed.",
+    "closeness": "No matching action found. The administration nominated only Republicans instead of negotiating over a Democratic pick.",
+    "uncertain": "Searched a March 2026 CRS report, the FEC's commissioner list (October 2026) and news for any Democratic nominee or talks with the Senate Democratic leader. Private talks would not show up in these sources.",
+    "sources": [
+      {
+        "label": "Federal Election Commission: Membership and Policymaking Quorum, In Brief (R45160, March 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-03-02_R45160_e64878f666318626489a9bbc59380f35ba6972bd.html"
+      },
+      {
+        "label": "Padilla, Schumer, Colleagues Blast Trump for Nominating Only Republican Commissioners to Bipartisan FEC",
+        "publisher": "Office of Sen. Alex Padilla",
+        "type": "government",
+        "url": "https://www.padilla.senate.gov/?p=87606"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch29-003",
     "status": "not-done",
     "match": "none",
@@ -44,6 +110,23 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch29-006",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No case was found in which the Justice Department stepped in to defend the FEC. In Senate Majority PAC v. FEC, filed in February 2026, the FEC told the court in April 2026 that it lacked a quorum to defend the case. The National Republican Senatorial Committee joined as a defendant and won dismissal in federal district court in Washington, D.C., on September 15, 2026.",
+    "closeness": "No matching action found. In at least one case the FEC could not defend itself and a private party, not the Justice Department, took on the defense.",
+    "uncertain": "Searched the FEC's litigation press releases and the web for Justice Department filings on the FEC's behalf. Court dockets in other cases were not reviewed one by one. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Court grants dismissal in SMP v. FEC (26-336)",
+        "publisher": "Federal Election Commission",
+        "type": "government",
+        "url": "https://www.fec.gov/updates/court-grants-dismissal-in-smp-v-fec-26-336/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch29-007",
     "status": "not-done",
     "match": "none",
@@ -59,6 +142,29 @@
       }
     ],
     "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch29-008",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No FEC or Justice Department guidance listing campaign finance laws or rules that courts have struck down or changed was found. The FEC has lacked a policymaking quorum since April 30, 2025. On June 30, 2026, the Supreme Court ruled in NRSC v. FEC that limits on political parties' coordinated spending violate the First Amendment.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for FEC and Justice Department notices and the FEC's press releases (through October 2026). Guidance posted only on a web page might have been missed.",
+    "sources": [
+      {
+        "label": "Supreme Court issues opinion in National Republican Senatorial Committee, et al. v. FEC, et al.",
+        "publisher": "Federal Election Commission",
+        "type": "government",
+        "url": "https://www.fec.gov/updates/supreme-court-issues-opinion-in-national-republican-senatorial-committee-et-al-v-fec-et-al/"
+      },
+      {
+        "label": "Federal Election Commission: Membership and Policymaking Quorum, In Brief (R45160, March 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-03-02_R45160_e64878f666318626489a9bbc59380f35ba6972bd.html"
+      }
+    ],
+    "as_of": "2026-10-27"
   },
   {
     "id": "ch29-009",
@@ -171,112 +277,6 @@
         "publisher": "Federal Register",
         "type": "government",
         "url": "https://www.federalregister.gov/documents/2026/03/03/2026-04137/price-index-adjustments-for-contribution-and-expenditure-limitations-and-lobbyist-bundling"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch29-001",
-    "status": "under-review",
-    "match": "partial",
-    "happened": "Three Republican commissioners left the FEC: Sean Cooksey (January 2025), Allen Dickerson (April 2025) and Trey Trainor (October 2025). This left the commission without a quorum. On February 11, 2026, President Trump nominated two Republicans, Andrew Woodson and Ashley Stow, to replace Dickerson and Trainor. In late October 2026 the FEC's website still listed only two commissioners, so the nominees had not taken office.",
-    "key_dates": [
-      {
-        "date": "2025-04-30",
-        "event": "Dickerson leaves; the FEC loses its four-member quorum."
-      },
-      {
-        "date": "2025-10-03",
-        "event": "Trainor resigns, leaving two commissioners."
-      },
-      {
-        "date": "2026-02-11",
-        "event": "President Trump nominates Andrew Woodson and Ashley Stow."
-      }
-    ],
-    "closeness": "Matches the step of naming Republican replacements. Whether the nominees share the departing commissioners' views on regulating political activity was not confirmed, and no nominee for Cooksey's former seat was found.",
-    "uncertain": "No Senate hearing or vote was found; the newest detailed source is a March 2026 CRS report, and the FEC's commissioner page was checked in October 2026. Woodson works at the Wiley Rein law firm and Stow worked with Trainor, according to news reports.",
-    "sources": [
-      {
-        "label": "Federal Election Commission: Membership and Policymaking Quorum, In Brief (R45160, March 2026)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/files/2026-03-02_R45160_e64878f666318626489a9bbc59380f35ba6972bd.html"
-      },
-      {
-        "label": "All Commissioners",
-        "publisher": "Federal Election Commission",
-        "type": "government",
-        "url": "https://www.fec.gov/about/leadership-and-structure/commissioners/"
-      },
-      {
-        "label": "Trump Nominates Two Republicans to FEC, Paving Path to End Monthslong 'Shutdown'",
-        "publisher": "NOTUS",
-        "type": "news",
-        "url": "https://www.notus.org/money/federal-election-commission-donald-trump-commissioner-nomination-quorum"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch29-002",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No Democratic FEC nominee was named in 2025-2026, so there was no nominee to negotiate over. On February 11, 2026, President Trump nominated two Republicans, and Senate Democrats objected that no Democrat was paired with them. Democratic Commissioner Ellen Weintraub left the commission in February 2025; CRS calls that vacancy disputed.",
-    "closeness": "No matching action found. The administration nominated only Republicans instead of negotiating over a Democratic pick.",
-    "uncertain": "Searched a March 2026 CRS report, the FEC's commissioner list (October 2026) and news for any Democratic nominee or talks with the Senate Democratic leader. Private talks would not show up in these sources.",
-    "sources": [
-      {
-        "label": "Federal Election Commission: Membership and Policymaking Quorum, In Brief (R45160, March 2026)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/files/2026-03-02_R45160_e64878f666318626489a9bbc59380f35ba6972bd.html"
-      },
-      {
-        "label": "Padilla, Schumer, Colleagues Blast Trump for Nominating Only Republican Commissioners to Bipartisan FEC",
-        "publisher": "Office of Sen. Alex Padilla",
-        "type": "government",
-        "url": "https://www.padilla.senate.gov/?p=87606"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch29-006",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No case was found in which the Justice Department stepped in to defend the FEC. In Senate Majority PAC v. FEC, filed in February 2026, the FEC told the court in April 2026 that it lacked a quorum to defend the case. The National Republican Senatorial Committee joined as a defendant and won dismissal in federal district court in Washington, D.C., on September 15, 2026.",
-    "closeness": "No matching action found. In at least one case the FEC could not defend itself and a private party, not the Justice Department, took on the defense.",
-    "uncertain": "Searched the FEC's litigation press releases and the web for Justice Department filings on the FEC's behalf. Court dockets in other cases were not reviewed one by one. Newest source: September 2026.",
-    "sources": [
-      {
-        "label": "Court grants dismissal in SMP v. FEC (26-336)",
-        "publisher": "Federal Election Commission",
-        "type": "government",
-        "url": "https://www.fec.gov/updates/court-grants-dismissal-in-smp-v-fec-26-336/"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch29-008",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No FEC or Justice Department guidance listing campaign finance laws or rules that courts have struck down or changed was found. The FEC has lacked a policymaking quorum since April 30, 2025. On June 30, 2026, the Supreme Court ruled in NRSC v. FEC that limits on political parties' coordinated spending violate the First Amendment.",
-    "closeness": "No matching action found.",
-    "uncertain": "Searched the Federal Register for FEC and Justice Department notices and the FEC's press releases (through October 2026). Guidance posted only on a web page might have been missed.",
-    "sources": [
-      {
-        "label": "Supreme Court issues opinion in National Republican Senatorial Committee, et al. v. FEC, et al.",
-        "publisher": "Federal Election Commission",
-        "type": "government",
-        "url": "https://www.fec.gov/updates/supreme-court-issues-opinion-in-national-republican-senatorial-committee-et-al-v-fec-et-al/"
-      },
-      {
-        "label": "Federal Election Commission: Membership and Policymaking Quorum, In Brief (R45160, March 2026)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/files/2026-03-02_R45160_e64878f666318626489a9bbc59380f35ba6972bd.html"
       }
     ],
     "as_of": "2026-10-27"

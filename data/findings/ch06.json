@@ -1,5 +1,135 @@
 [
   {
+    "id": "ch06-001",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No policy of placing State Department nominees into their jobs before Senate confirmation was found.",
+    "closeness": "Nothing matching found.",
+    "uncertain": "Web search was unavailable during this research; only Federal Register API checks were possible. Individual nominees serving in acting or \"senior bureau official\" roles could not be checked. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch06-002",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "No count showing more political appointees at the State Department was found. Government-wide, a 2026 rule created \"Schedule Policy/Career,\" which makes many career policy jobs easier to fire, and a March 2025 executive order ended union bargaining at State.",
+    "key_dates": [
+      {
+        "date": "Mar 27, 2025",
+        "event": "Executive Order 14251 ends union bargaining at State."
+      },
+      {
+        "date": "Feb 2026",
+        "event": "Schedule Policy/Career final rule published."
+      }
+    ],
+    "closeness": "Only the general direction matches. These steps increase political control over career staff but do not add political appointees to deputy assistant secretary jobs.",
+    "uncertain": "Web search was unavailable during this research; only Federal Register API checks were possible. State Department appointee numbers were not found.",
+    "sources": [
+      {
+        "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges (LSB11412)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11412.html"
+      },
+      {
+        "label": "Exclusions from Federal Labor-Management Relations Programs (EO 14251)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/exclusions-from-federal-labor-management-relations-programs/"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs data on the number of political appointees at State in 2025-2026; web search ran out in this pass."
+  },
+  {
+    "id": "ch06-003",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No source was found describing a full replacement of State Department leadership on January 20, 2025.",
+    "closeness": "Nothing confirmed.",
+    "uncertain": "Web search was unavailable during this research; only Federal Register API checks were possible. Day-one staffing at State could not be checked. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch06-004",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch06-005",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Most politically appointed ambassadors left their posts in the early months of President Trump's second term, according to AP. In December 2025, the administration told career ambassadors and other chiefs of mission in at least 29 countries that their tours would end in January 2026.",
+    "key_dates": [
+      {
+        "date": "2025-01",
+        "event": "Political appointee ambassadors from the prior administration leave in the early months of the term"
+      },
+      {
+        "date": "2025-12-22",
+        "event": "AP reports that nearly 30 career chiefs of mission were told their tours would end in January 2026"
+      }
+    ],
+    "closeness": "Political ambassadors left, as the chapter recommends. The review of career ambassadors came about 11 months into the term, not right away, and led to recalls from about 29 countries rather than a public review of every post. See also ch06-006.",
+    "uncertain": "No official list of recalled ambassadors was released, and the State Department did not confirm names or numbers. The early departure of political ambassadors comes from AP reporting, not an official list. It is not known whether a formal review of every career ambassador took place. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Trump recalls nearly 30 career diplomats from ambassadorial and embassy posts (AP)",
+        "publisher": "PBS NewsHour",
+        "type": "news",
+        "url": "https://www.pbs.org/newshour/nation/trump-recalls-nearly-30-career-diplomats-from-ambassadorial-and-embassy-posts"
+      },
+      {
+        "label": "The Trump administration is recalling about 30 career diplomats",
+        "publisher": "WRVO (NPR)",
+        "type": "news",
+        "url": "https://www.wrvo.org/2025-12-23/the-trump-administration-is-recalling-about-30-career-diplomats"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-006",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In mid-December 2025, the State Department told chiefs of mission in at least 29 countries, all of whom took their posts under President Biden, that their tours would end in January 2026. Thirteen were in Africa. The department called it a standard process and said ambassadors should advance the President's 'America First' agenda.",
+    "key_dates": [
+      {
+        "date": "2025-12-22",
+        "event": "AP reports the recall of nearly 30 career chiefs of mission"
+      },
+      {
+        "date": "2026-01",
+        "event": "Recalled ambassadors' tours end"
+      }
+    ],
+    "closeness": "Ambassadors were recalled, as the chapter recommends, but about 11 months into the term rather than immediately. The recalled posts were mostly smaller countries, not ones chosen publicly because of policy shifts or open hostility. Related to ch06-005.",
+    "uncertain": "No official list was released, so the exact count and names are not confirmed. The reasons for choosing each post were not made public. It is not known who replaced the recalled ambassadors. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Trump recalls nearly 30 career diplomats from ambassadorial and embassy posts (AP)",
+        "publisher": "PBS NewsHour",
+        "type": "news",
+        "url": "https://www.pbs.org/newshour/nation/trump-recalls-nearly-30-career-diplomats-from-ambassadorial-and-embassy-posts"
+      },
+      {
+        "label": "The Trump administration is recalling about 30 career diplomats",
+        "publisher": "WRVO (NPR)",
+        "type": "news",
+        "url": "https://www.wrvo.org/2025-12-23/the-trump-administration-is-recalling-about-30-career-diplomats"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch06-007",
     "status": "ended",
     "match": "partial",
@@ -50,6 +180,49 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch06-008",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 20, 2025, an executive order told the Secretary of State to stop negotiating the WHO Pandemic Agreement and changes to the International Health Regulations. A February 2025 order told the Secretary to review all treaties and conventions the U.S. has joined; a January 2026 memo used that review to leave 66 organizations and agreements. No order pausing all ongoing treaty talks was found.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Order stops WHO pandemic agreement talks."
+      },
+      {
+        "date": "2025-02-04",
+        "event": "Executive Order 14199 orders a review of all treaties and international organizations."
+      },
+      {
+        "date": "2026-01-07",
+        "event": "Memo withdraws the U.S. from organizations and agreements found contrary to U.S. interests."
+      }
+    ],
+    "closeness": "Partial. One set of talks was stopped, and existing treaties were reviewed against the new policy, but there was no blanket pause of every ongoing negotiation.",
+    "uncertain": "Whether the State Department paused other negotiations without public notice is not known. Checked presidential documents in the Federal Register.",
+    "sources": [
+      {
+        "label": "Withdrawing the United States From the World Health Organization (Executive Order 14155)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01957/withdrawing-the-united-states-from-the-world-health-organization"
+      },
+      {
+        "label": "Executive Order 14199, Withdrawing the United States From and Ending Funding to Certain United Nations Organizations and Reviewing United States Support to All International Organizations",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/10/2025-02504/withdrawing-the-united-states-from-and-ending-funding-to-certain-united-nations-organizations-and"
+      },
+      {
+        "label": "Withdrawing the United States From International Organizations, Conventions, and Treaties That Are Contrary to the Interests of the United States",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/16/2026-00976/withdrawing-the-united-states-from-international-organizations-conventions-and-treaties-that-are"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch06-009",
     "status": "partly-done",
     "match": "broader",
@@ -85,6 +258,147 @@
         "publisher": "Lawfare",
         "type": "academic",
         "url": "https://www.lawfaremedia.org/article/trump-orders-u.s.-withdrawal-from-international-organizations-and-treaties"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-010",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The U.S. left the Paris climate agreement, which the Senate never approved, under a January 2025 executive order. No agreements were sent to the Senate for approval as treaties.",
+    "key_dates": [
+      {
+        "date": "Jan 20, 2025",
+        "event": "Executive Order 14162 orders withdrawal from the Paris Agreement."
+      },
+      {
+        "date": "Jan 7, 2026",
+        "event": "Memo orders withdrawal from 66 organizations and treaties."
+      }
+    ],
+    "closeness": "Only the general direction matches: the U.S. stopped taking part in some unratified agreements, but it did not send them to the Senate. See ch06-009.",
+    "uncertain": "No review identifying \"treaty-like\" agreements was found.",
+    "sources": [
+      {
+        "label": "Executive Order 14162, Putting America First in International Environmental Agreements",
+        "publisher": "Federal Register (GovInfo)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2025-01-30/html/2025-02010.htm"
+      },
+      {
+        "label": "Fact Sheet: President Trump withdraws the U.S. from international organizations",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-011",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No withdrawal of treaties that have been pending before the Senate for 20 years or more was found.",
+    "closeness": "Nothing matching found.",
+    "uncertain": "Checked presidential documents in the Federal Register. Web search was unavailable during this research; only Federal Register API checks were possible. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch06-012",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No revocation of other agencies' Circular 175 authority was found. In June 2026 the Secretary of State issued a new delegation letting senior State officials negotiate and authorize international agreements, replacing a 2008 delegation.",
+    "closeness": "Nothing matching found. The 2026 delegation changes which State officials can approve agreements; it does not take authority away from other agencies.",
+    "uncertain": "Searched the Federal Register for Circular 175 and 22 CFR part 181 changes; only the June 2026 delegation turned up. Circular 175 approvals for other agencies are internal and usually not published.",
+    "sources": [
+      {
+        "label": "Delegation of Authority No. 620: Negotiation, conclusion, and termination of treaties and other international agreements",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13350/negotiation-conclusion-and-termination-of-treaties-and-other-international-agreements"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-013",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch06-014",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch06-015",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new policy of strict visa reciprocity with all countries was found. The State Department did create a visa bond program, first as a pilot in August 2025 and made permanent in August 2026, for visitors from some countries with high overstay rates.",
+    "closeness": "Nothing matching found. Visa bonds and travel bans are based on overstays and security, not reciprocity.",
+    "uncertain": "Web search was unavailable during this research; only Federal Register API checks were possible. Routine updates to reciprocity schedules are not published in the Federal Register.",
+    "sources": [
+      {
+        "label": "Visas: Visa Bond Program (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Web search ran out again; still needs a check of State Department reciprocity schedule changes (for example cuts in visa validity for some countries in 2025)."
+  },
+  {
+    "id": "ch06-016",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "A January 20, 2025 executive order told the State and Homeland Security Secretaries to use section 243(d) visa sanctions against countries that refuse deportees. The June and December 2025 travel proclamations cited refusals to take back nationals, for example Cuba and South Sudan, among reasons for limiting entry.",
+    "key_dates": [
+      {
+        "date": "Jan 20, 2025",
+        "event": "Executive Order 14159 directs 243(d) sanctions."
+      },
+      {
+        "date": "Jun 4, 2025",
+        "event": "Proclamation 10949 limits entry from 19 countries."
+      },
+      {
+        "date": "Dec 16, 2025",
+        "event": "Proclamation 10998 expands the list."
+      }
+    ],
+    "closeness": "Same goal. The travel limits use a different law (section 212(f)), and which countries faced formal 243(d) sanctions was not confirmed. Same order as ch05-140.",
+    "uncertain": "Formal 243(d) visa suspensions are not usually published in the Federal Register.",
+    "sources": [
+      {
+        "label": "Executive Order 14159, Protecting the American People Against Invasion",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-02006/protecting-the-american-people-against-invasion"
+      },
+      {
+        "label": "Proclamation 10949, Restricting the Entry of Foreign Nationals (June 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/10/2025-10669/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and"
+      },
+      {
+        "label": "Proclamation 10998, Restricting and Limiting the Entry of Foreign Nationals (December 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/19/2025-23570/restricting-and-limiting-the-entry-of-foreign-nationals-to-protect-the-security-of-the-united-states"
       }
     ],
     "as_of": "2026-10-27"
@@ -187,6 +501,105 @@
     ],
     "as_of": "2026-10-27",
     "recheck": "Still missing: DHS, CBP or court data on how many people, if any, were returned to Mexico under the 2025 restart."
+  },
+  {
+    "id": "ch06-019",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On June 26, 2025, Homeland Security Secretary Kristi Noem said she had signed agreements with Guatemala and Honduras under which those countries would take in people seeking asylum in the United States. Officials in both countries denied signing new asylum deals, but Guatemala and DHS did publicly sign a security agreement that lets U.S. Customs and Border Protection officers work at Guatemala City's airport. The State Department had made separate deals with El Salvador and Guatemala in February 2025.",
+    "key_dates": [
+      {
+        "date": "2025-02",
+        "event": "Secretary of State Rubio reaches migration agreements with El Salvador and Guatemala"
+      },
+      {
+        "date": "2025-06-26",
+        "event": "DHS Secretary Noem announces agreements with Guatemala and Honduras; DHS and Guatemala sign an airport security agreement"
+      }
+    ],
+    "closeness": "DHS did negotiate at least one security agreement with another country, which fits the chapter's exception for DHS. What was signed on asylum is disputed, and no formal order giving or confirming DHS's authority to negotiate such agreements was found.",
+    "uncertain": "The text of the June 2025 agreements was not found, and Honduras and Guatemala disputed Noem's account of the asylum deals. Whether DHS used State Department approval under its treaty rules (Circular 175; see ch06-012) is not known. Newest source: June 2025.",
+    "sources": [
+      {
+        "label": "US signs agreements with Guatemala and Honduras to take asylum seekers",
+        "publisher": "KRGV (AP)",
+        "type": "news",
+        "url": "https://www.krgv.com/news/us-signs-agreements-with-guatemala-and-honduras-to-take-asylum-seekers"
+      },
+      {
+        "label": "US signs agreements to have Guatemala and Honduras offer refuge to asylum seekers, Noem says",
+        "publisher": "KPRC Click2Houston (AP)",
+        "type": "news",
+        "url": "https://www.click2houston.com/news/world/2025/06/26/us-signs-agreements-with-guatemala-and-honduras-to-take-asylum-seekers-noem-says/"
+      },
+      {
+        "label": "Guatemala and Honduras deny signing US immigration deals despite Noem claims",
+        "publisher": "bne IntelliNews",
+        "type": "news",
+        "url": "https://www.intellinews.com/guatemala-and-honduras-deny-signing-us-immigration-deals-despite-noem-claims-388633"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch06-020",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In March 2026 the State Department finished a rule adding identity and fraud checks to the Diversity Visa lottery, and DHS paused lottery green card cases in December 2025. A DHS rule in July 2026 ended open-ended \"duration of status\" admission for F and J visa holders, replacing it with fixed periods.",
+    "key_dates": [
+      {
+        "date": "Dec 19, 2025",
+        "event": "DHS pauses diversity visa green card cases."
+      },
+      {
+        "date": "Mar 11, 2026",
+        "event": "Diversity Visa vetting rule published."
+      },
+      {
+        "date": "Jul 17, 2026",
+        "event": "Fixed admission period rule for F and J visas published."
+      }
+    ],
+    "closeness": "Close: the named programs were reviewed and tightened. The changes are new rules rather than a single evaluation report.",
+    "uncertain": "Whether the diversity visa pause is still in effect was not confirmed (see ch05-058).",
+    "sources": [
+      {
+        "label": "Visas: Enhancing vetting and combatting fraud in the Diversity Immigrant Visa Program",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/11/2026-04737/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program"
+      },
+      {
+        "label": "Establishing a fixed time period of admission for F, J and I nonimmigrants",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant"
+      },
+      {
+        "label": "Update on USCIS strengthened screening and vetting",
+        "publisher": "U.S. Citizenship and Immigration Services",
+        "type": "government",
+        "url": "https://www.uscis.gov/newsroom/alerts/update-on-uscis-strengthened-screening-and-vetting"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-021",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No State Department or National Security Council \"Article X\"-style strategy paper on China was found. The administration described its China approach in the December 2025 National Security Strategy and the January 2026 National Defense Strategy, which seek a \"balance of power\" and \"stable peace\" with China.",
+    "closeness": "Nothing matching found. The 2025-2026 strategy documents are broad and partly conciliatory toward China, unlike the long-term containment-style paper the chapter describes.",
+    "uncertain": "A classified strategy could exist without public notice. Based on a CRS summary from September 2026.",
+    "sources": [
+      {
+        "label": "China Primer: U.S.-China Relations (IF10119)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10119.html"
+      }
+    ],
+    "as_of": "2026-10-27"
   },
   {
     "id": "ch06-022",
@@ -295,459 +708,6 @@
     "as_of": "2026-10-27"
   },
   {
-    "id": "ch06-028",
-    "status": "in-effect",
-    "match": "direct",
-    "happened": "In February 2025, President Trump signed a national security memo restoring \"maximum pressure\" on Iran, including sanctions aimed at cutting its oil exports to zero. In September 2025, UN sanctions on Iran returned through the \"snapback\" process. The Treasury Department kept adding sanctions in 2026, including a wide campaign starting in August 2026.",
-    "key_dates": [
-      {
-        "date": "2025-02-04",
-        "event": "National Security Presidential Memorandum 2 restores maximum pressure on Iran."
-      },
-      {
-        "date": "2025-09-28",
-        "event": "UN sanctions on Iran reimposed through snapback."
-      },
-      {
-        "date": "2026-08-24",
-        "event": "Treasury starts a new sanctions campaign and adds secondary sanctions in five more sectors."
-      }
-    ],
-    "legal": "None found.",
-    "closeness": "Same idea and mechanism: reinstating and expanding Trump-era sanctions. U.S. actions later went far beyond sanctions, including a war with Iran that began with U.S. and Israeli strikes in February 2026; that is outside this recommendation.",
-    "uncertain": "Ceasefire talks in 2026 discussed possible sanctions relief; I found no sign relief was given, but this could change. Sanctions details for 2026 come from a law-firm roundup. Newest source: October 2026.",
-    "sources": [
-      {
-        "label": "Fact Sheet: President Donald J. Trump Restores Maximum Pressure on Iran",
-        "publisher": "The White House",
-        "type": "government",
-        "url": "https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-maximum-pressure-on-iran/"
-      },
-      {
-        "label": "Snapback UN sanctions on Iran go into effect",
-        "publisher": "JNS",
-        "type": "news",
-        "url": "https://www.jns.org/snapback-un-sanctions-on-iran-go-into-effect"
-      },
-      {
-        "label": "September 2026 U.S. sanctions roundup",
-        "publisher": "Foley & Lardner",
-        "type": "law-firm",
-        "url": "https://www.foley.com/es/insights/publications/2026/10/september-2026-u-s-sanctions-roundup-operation-economic-outcast-intensifies-against-iran-cuba-rules-tighten-and-ofac-overhauls-its-regulations/"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-046",
-    "status": "in-effect",
-    "match": "direct",
-    "happened": "In February 2025, President Trump ordered a review of all international organizations the U.S. belongs to. On January 7, 2026, he signed a memo ordering the U.S. to leave 66 of them, 31 linked to the UN and 35 others, and to stop funding them. The U.S. also left the World Health Organization in January 2026.",
-    "key_dates": [
-      {
-        "date": "2025-02-04",
-        "event": "Executive Order 14199 orders a review of international organizations."
-      },
-      {
-        "date": "2026-01-07",
-        "event": "Memo orders withdrawal from 66 international organizations."
-      },
-      {
-        "date": "2026-01-22",
-        "event": "U.S. withdrawal from WHO takes effect."
-      }
-    ],
-    "legal": "No court ruling found.",
-    "closeness": "Same idea: review membership and leave groups judged not to serve U.S. interests. The scale, 66 groups at once, is larger than the recommendation spelled out. See ch06-052 and ch06-009.",
-    "uncertain": "For UN bodies, the memo says withdrawal is \"to the extent permitted by law,\" so how fully each exit happens is unclear. Congress kept funding for international organization dues roughly level in fiscal 2026. Newest source: July 2026.",
-    "sources": [
-      {
-        "label": "Fact Sheet: President Trump withdraws the U.S. from international organizations",
-        "publisher": "The White House",
-        "type": "government",
-        "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/"
-      },
-      {
-        "label": "United States announces withdrawal from 66 international organizations",
-        "publisher": "American Society of International Law",
-        "type": "academic",
-        "url": "https://asil.org/ilib/united-states-announces-withdrawal-66-international-organizations/"
-      },
-      {
-        "label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-051",
-    "status": "in-effect",
-    "match": "direct",
-    "happened": "On January 24, 2025, President Trump brought back the Mexico City Policy, which bars foreign aid groups from providing or promoting abortion. That month the U.S. also rejoined the Geneva Consensus Declaration, a group of countries opposed to a right to abortion. In January 2026, the State Department issued rules applying the policy to most non-military foreign aid, starting February 26, 2026.",
-    "key_dates": [
-      {
-        "date": "2025-01-24",
-        "event": "Presidential memo reinstates the Mexico City Policy."
-      },
-      {
-        "date": "2025-01",
-        "event": "U.S. rejoins the Geneva Consensus Declaration."
-      },
-      {
-        "date": "2026-01-27",
-        "event": "State Department publishes rules expanding the policy to most foreign aid."
-      }
-    ],
-    "legal": "No court ruling found.",
-    "closeness": "Very close: no U.S. funding for abortion through foreign programs, plus a coalition of like-minded countries. The 2026 rules go further, also covering diversity programs and gender identity. See ch09-023 and ch09-024.",
-    "uncertain": "Searches in October 2026 and law-firm summaries from January-March 2026 found no lawsuit against the 2026 rules. A bill to write the policy into law (Promoting Human Flourishing in Foreign Assistance Act) was introduced but not passed. Newest source: March 2026.",
-    "sources": [
-      {
-        "label": "The Mexico City Policy: An Explainer",
-        "publisher": "KFF",
-        "type": "academic",
-        "url": "https://www.kff.org/global-health-policy/the-mexico-city-policy-an-explainer/"
-      },
-      {
-        "label": "Promoting Human Flourishing in Foreign Assistance rules",
-        "publisher": "Federal Register (GovInfo)",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-27/pdf/2026-01519.pdf"
-      },
-      {
-        "label": "State Department issues final Mexico City Policy",
-        "publisher": "Arnold & Porter",
-        "type": "law-firm",
-        "url": "https://www.arnoldporter.com/en/perspectives/advisories/2026/03/state-department-issues-final-mexico-city-policy"
-      },
-      {
-        "label": "Trump administration rejoins pro-life Geneva Consensus Declaration",
-        "publisher": "Catholic News Agency",
-        "type": "news",
-        "url": "https://catholicnewsagency.com/amp/news/261927/trump-administration-rejoins-pro-life-geneva-consensus-declaration"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-052",
-    "status": "in-effect",
-    "match": "partial",
-    "happened": "On January 20, 2025, President Trump ordered the U.S. to leave the World Health Organization. After the required one-year notice, the withdrawal took effect on January 22, 2026. It ended U.S. membership, participation and funding.",
-    "key_dates": [
-      {
-        "date": "2025-01-20",
-        "event": "Executive Order 14155 starts withdrawal from WHO."
-      },
-      {
-        "date": "2026-01-22",
-        "event": "U.S. withdrawal from WHO takes effect."
-      }
-    ],
-    "legal": "No court ruling found. Some legal scholars argue that leaving WHO needs an act of Congress, because Congress authorized joining.",
-    "closeness": "Bigger than the recommendation, which called for limiting WHO funding until it changed its policies. The U.S. left entirely. See ch06-046.",
-    "uncertain": "Unpaid U.S. dues are reported at $130 million to $260 million; whether they will be paid is unclear. Newest source: January 2026.",
-    "sources": [
-      {
-        "label": "United States completes WHO withdrawal",
-        "publisher": "U.S. Department of Health and Human Services",
-        "type": "government",
-        "url": "https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html"
-      },
-      {
-        "label": "HHS Fact Sheet: U.S. Withdrawal from the World Health Organization",
-        "publisher": "CDC",
-        "type": "government",
-        "url": "https://cdc.gov/global-health/resources/us-withdrawal-who.html"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-001",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No policy of placing State Department nominees into their jobs before Senate confirmation was found.",
-    "closeness": "Nothing matching found.",
-    "uncertain": "Web search was unavailable during this research; only Federal Register API checks were possible. Individual nominees serving in acting or \"senior bureau official\" roles could not be checked.",
-    "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "Web search ran out again in this pass; still needs a news search on State nominees serving in jobs before Senate confirmation."
-  },
-  {
-    "id": "ch06-002",
-    "status": "partly-done",
-    "match": "broader",
-    "happened": "No count showing more political appointees at the State Department was found. Government-wide, a 2026 rule created \"Schedule Policy/Career,\" which makes many career policy jobs easier to fire, and a March 2025 executive order ended union bargaining at State.",
-    "key_dates": [
-      {
-        "date": "Mar 27, 2025",
-        "event": "Executive Order 14251 ends union bargaining at State."
-      },
-      {
-        "date": "Feb 2026",
-        "event": "Schedule Policy/Career final rule published."
-      }
-    ],
-    "closeness": "Only the general direction matches. These steps increase political control over career staff but do not add political appointees to deputy assistant secretary jobs.",
-    "uncertain": "Web search was unavailable during this research; only Federal Register API checks were possible. State Department appointee numbers were not found.",
-    "sources": [
-      {
-        "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges (LSB11412)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/LSB11412.html"
-      },
-      {
-        "label": "Exclusions from Federal Labor-Management Relations Programs (EO 14251)",
-        "publisher": "The White House",
-        "type": "government",
-        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/exclusions-from-federal-labor-management-relations-programs/"
-      }
-    ],
-    "as_of": "2026-10-27",
-    "recheck": "Still needs data on the number of political appointees at State in 2025-2026; web search ran out in this pass."
-  },
-  {
-    "id": "ch06-003",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No source was found describing a full replacement of State Department leadership on January 20, 2025.",
-    "closeness": "Nothing confirmed.",
-    "uncertain": "Web search was unavailable during this research; only Federal Register API checks were possible. Day-one staffing at State could not be checked.",
-    "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "Still needs a source on who led the State Department on January 20, 2025; web search ran out in this pass."
-  },
-  {
-    "id": "ch06-008",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "On January 20, 2025, an executive order told the Secretary of State to stop negotiating the WHO Pandemic Agreement and changes to the International Health Regulations. A February 2025 order told the Secretary to review all treaties and conventions the U.S. has joined; a January 2026 memo used that review to leave 66 organizations and agreements. No order pausing all ongoing treaty talks was found.",
-    "key_dates": [
-      {
-        "date": "2025-01-20",
-        "event": "Order stops WHO pandemic agreement talks."
-      },
-      {
-        "date": "2025-02-04",
-        "event": "Executive Order 14199 orders a review of all treaties and international organizations."
-      },
-      {
-        "date": "2026-01-07",
-        "event": "Memo withdraws the U.S. from organizations and agreements found contrary to U.S. interests."
-      }
-    ],
-    "closeness": "Partial. One set of talks was stopped, and existing treaties were reviewed against the new policy, but there was no blanket pause of every ongoing negotiation.",
-    "uncertain": "Whether the State Department paused other negotiations without public notice is not known. Checked presidential documents in the Federal Register.",
-    "sources": [
-      {
-        "label": "Withdrawing the United States From the World Health Organization (Executive Order 14155)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01957/withdrawing-the-united-states-from-the-world-health-organization"
-      },
-      {
-        "label": "Executive Order 14199, Withdrawing the United States From and Ending Funding to Certain United Nations Organizations and Reviewing United States Support to All International Organizations",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/02/10/2025-02504/withdrawing-the-united-states-from-and-ending-funding-to-certain-united-nations-organizations-and"
-      },
-      {
-        "label": "Withdrawing the United States From International Organizations, Conventions, and Treaties That Are Contrary to the Interests of the United States",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/01/16/2026-00976/withdrawing-the-united-states-from-international-organizations-conventions-and-treaties-that-are"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-010",
-    "status": "partly-done",
-    "match": "broader",
-    "happened": "The U.S. left the Paris climate agreement, which the Senate never approved, under a January 2025 executive order. No agreements were sent to the Senate for approval as treaties.",
-    "key_dates": [
-      {
-        "date": "Jan 20, 2025",
-        "event": "Executive Order 14162 orders withdrawal from the Paris Agreement."
-      },
-      {
-        "date": "Jan 7, 2026",
-        "event": "Memo orders withdrawal from 66 organizations and treaties."
-      }
-    ],
-    "closeness": "Only the general direction matches: the U.S. stopped taking part in some unratified agreements, but it did not send them to the Senate. See ch06-009.",
-    "uncertain": "No review identifying \"treaty-like\" agreements was found.",
-    "sources": [
-      {
-        "label": "Executive Order 14162, Putting America First in International Environmental Agreements",
-        "publisher": "Federal Register (GovInfo)",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/FR-2025-01-30/html/2025-02010.htm"
-      },
-      {
-        "label": "Fact Sheet: President Trump withdraws the U.S. from international organizations",
-        "publisher": "The White House",
-        "type": "government",
-        "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-011",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No withdrawal of treaties that have been pending before the Senate for 20 years or more was found.",
-    "closeness": "Nothing matching found.",
-    "uncertain": "Checked presidential documents in the Federal Register. Web search was unavailable during this research; only Federal Register API checks were possible.",
-    "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "Still needs a check of the Senate treaty calendar or congress.gov for treaties withdrawn by the President in 2025-2026; web search ran out and congress.gov was not reachable."
-  },
-  {
-    "id": "ch06-012",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No revocation of other agencies' Circular 175 authority was found. In June 2026 the Secretary of State issued a new delegation letting senior State officials negotiate and authorize international agreements, replacing a 2008 delegation.",
-    "closeness": "Nothing matching found. The 2026 delegation changes which State officials can approve agreements; it does not take authority away from other agencies.",
-    "uncertain": "Searched the Federal Register for Circular 175 and 22 CFR part 181 changes; only the June 2026 delegation turned up. Circular 175 approvals for other agencies are internal and usually not published.",
-    "sources": [
-      {
-        "label": "Delegation of Authority No. 620: Negotiation, conclusion, and termination of treaties and other international agreements",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13350/negotiation-conclusion-and-termination-of-treaties-and-other-international-agreements"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-015",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No new policy of strict visa reciprocity with all countries was found. The State Department did create a visa bond program, first as a pilot in August 2025 and made permanent in August 2026, for visitors from some countries with high overstay rates.",
-    "closeness": "Nothing matching found. Visa bonds and travel bans are based on overstays and security, not reciprocity.",
-    "uncertain": "Web search was unavailable during this research; only Federal Register API checks were possible. Routine updates to reciprocity schedules are not published in the Federal Register.",
-    "sources": [
-      {
-        "label": "Visas: Visa Bond Program (final rule)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program"
-      }
-    ],
-    "as_of": "2026-10-27",
-    "recheck": "Web search ran out again; still needs a check of State Department reciprocity schedule changes (for example cuts in visa validity for some countries in 2025)."
-  },
-  {
-    "id": "ch06-016",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "A January 20, 2025 executive order told the State and Homeland Security Secretaries to use section 243(d) visa sanctions against countries that refuse deportees. The June and December 2025 travel proclamations cited refusals to take back nationals, for example Cuba and South Sudan, among reasons for limiting entry.",
-    "key_dates": [
-      {
-        "date": "Jan 20, 2025",
-        "event": "Executive Order 14159 directs 243(d) sanctions."
-      },
-      {
-        "date": "Jun 4, 2025",
-        "event": "Proclamation 10949 limits entry from 19 countries."
-      },
-      {
-        "date": "Dec 16, 2025",
-        "event": "Proclamation 10998 expands the list."
-      }
-    ],
-    "closeness": "Same goal. The travel limits use a different law (section 212(f)), and which countries faced formal 243(d) sanctions was not confirmed. Same order as ch05-140.",
-    "uncertain": "Formal 243(d) visa suspensions are not usually published in the Federal Register.",
-    "sources": [
-      {
-        "label": "Executive Order 14159, Protecting the American People Against Invasion",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-02006/protecting-the-american-people-against-invasion"
-      },
-      {
-        "label": "Proclamation 10949, Restricting the Entry of Foreign Nationals (June 2025)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/06/10/2025-10669/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and"
-      },
-      {
-        "label": "Proclamation 10998, Restricting and Limiting the Entry of Foreign Nationals (December 2025)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/12/19/2025-23570/restricting-and-limiting-the-entry-of-foreign-nationals-to-protect-the-security-of-the-united-states"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-020",
-    "status": "in-effect",
-    "match": "partial",
-    "happened": "In March 2026 the State Department finished a rule adding identity and fraud checks to the Diversity Visa lottery, and DHS paused lottery green card cases in December 2025. A DHS rule in July 2026 ended open-ended \"duration of status\" admission for F and J visa holders, replacing it with fixed periods.",
-    "key_dates": [
-      {
-        "date": "Dec 19, 2025",
-        "event": "DHS pauses diversity visa green card cases."
-      },
-      {
-        "date": "Mar 11, 2026",
-        "event": "Diversity Visa vetting rule published."
-      },
-      {
-        "date": "Jul 17, 2026",
-        "event": "Fixed admission period rule for F and J visas published."
-      }
-    ],
-    "closeness": "Close: the named programs were reviewed and tightened. The changes are new rules rather than a single evaluation report.",
-    "uncertain": "Whether the diversity visa pause is still in effect was not confirmed (see ch05-058).",
-    "sources": [
-      {
-        "label": "Visas: Enhancing vetting and combatting fraud in the Diversity Immigrant Visa Program",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/03/11/2026-04737/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program"
-      },
-      {
-        "label": "Establishing a fixed time period of admission for F, J and I nonimmigrants",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant"
-      },
-      {
-        "label": "Update on USCIS strengthened screening and vetting",
-        "publisher": "U.S. Citizenship and Immigration Services",
-        "type": "government",
-        "url": "https://www.uscis.gov/newsroom/alerts/update-on-uscis-strengthened-screening-and-vetting"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-021",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No State Department or National Security Council \"Article X\"-style strategy paper on China was found. The administration described its China approach in the December 2025 National Security Strategy and the January 2026 National Defense Strategy, which seek a \"balance of power\" and \"stable peace\" with China.",
-    "closeness": "Nothing matching found. The 2025-2026 strategy documents are broad and partly conciliatory toward China, unlike the long-term containment-style paper the chapter describes.",
-    "uncertain": "A classified strategy could exist without public notice. Based on a CRS summary from September 2026.",
-    "sources": [
-      {
-        "label": "China Primer: U.S.-China Relations (IF10119)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/IF10119.html"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
     "id": "ch06-025",
     "status": "partly-done",
     "match": "partial",
@@ -820,6 +780,50 @@
         "publisher": "Congressional Research Service",
         "type": "government",
         "url": "https://www.everycrsreport.com/reports/R48960.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-028",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In February 2025, President Trump signed a national security memo restoring \"maximum pressure\" on Iran, including sanctions aimed at cutting its oil exports to zero. In September 2025, UN sanctions on Iran returned through the \"snapback\" process. The Treasury Department kept adding sanctions in 2026, including a wide campaign starting in August 2026.",
+    "key_dates": [
+      {
+        "date": "2025-02-04",
+        "event": "National Security Presidential Memorandum 2 restores maximum pressure on Iran."
+      },
+      {
+        "date": "2025-09-28",
+        "event": "UN sanctions on Iran reimposed through snapback."
+      },
+      {
+        "date": "2026-08-24",
+        "event": "Treasury starts a new sanctions campaign and adds secondary sanctions in five more sectors."
+      }
+    ],
+    "legal": "None found.",
+    "closeness": "Same idea and mechanism: reinstating and expanding Trump-era sanctions. U.S. actions later went far beyond sanctions, including a war with Iran that began with U.S. and Israeli strikes in February 2026; that is outside this recommendation.",
+    "uncertain": "Ceasefire talks in 2026 discussed possible sanctions relief; I found no sign relief was given, but this could change. Sanctions details for 2026 come from a law-firm roundup. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Fact Sheet: President Donald J. Trump Restores Maximum Pressure on Iran",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-maximum-pressure-on-iran/"
+      },
+      {
+        "label": "Snapback UN sanctions on Iran go into effect",
+        "publisher": "JNS",
+        "type": "news",
+        "url": "https://www.jns.org/snapback-un-sanctions-on-iran-go-into-effect"
+      },
+      {
+        "label": "September 2026 U.S. sanctions roundup",
+        "publisher": "Foley & Lardner",
+        "type": "law-firm",
+        "url": "https://www.foley.com/es/insights/publications/2026/10/september-2026-u-s-sanctions-roundup-operation-economic-outcast-intensifies-against-iran-cuba-rules-tighten-and-ofac-overhauls-its-regulations/"
       }
     ],
     "as_of": "2026-10-27"
@@ -908,6 +912,49 @@
     "recheck": "Confirm whether any country joined the Abraham Accords in 2025-2026; web search ran out in this pass."
   },
   {
+    "id": "ch06-031",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In February 2025, as part of the broad freeze on foreign aid, the administration stopped funding Palestinian Authority security forces, according to reports citing The Washington Post. A CRS report from April 2025 says the aid review led to cuts or delays in aid for the West Bank and Gaza. The fiscal 2026 foreign aid law, signed February 3, 2026, again bars economic aid funds from going to the Palestinian Authority unless the President waives the ban, while still allowing some West Bank and Gaza aid under conditions.",
+    "key_dates": [
+      {
+        "date": "2018-03-23",
+        "event": "Taylor Force Act limits most economic aid that directly benefits the Palestinian Authority"
+      },
+      {
+        "date": "2025-02-19",
+        "event": "Reports say the U.S. halted funding for Palestinian Authority security forces"
+      },
+      {
+        "date": "2026-02-03",
+        "event": "Fiscal 2026 law repeats the ban on economic aid to the Palestinian Authority"
+      }
+    ],
+    "closeness": "Funding to the Palestinian Authority was cut further, which matches the chapter's goal. The ban in the 2026 law is a long-standing yearly provision with a waiver, not a new law ending all funding.",
+    "uncertain": "The security-funding halt is known from news reports citing The Washington Post, not an official statement. Whether any aid resumed in 2026 was not found.",
+    "sources": [
+      {
+        "label": "The Palestinians: Overview, Aid, and U.S. Policy Issues (IF10644, April 2025)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10644.html"
+      },
+      {
+        "label": "Public Law 119-75, secs. 7039-7040 (fiscal 2026 appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "US halts funding for Palestinian security forces amid foreign aid freeze",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://www.aa.com.tr/en/americas/us-halts-funding-for-palestinian-security-forces-amid-foreign-aid-freeze-report/3487020"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch06-032",
     "status": "not-done",
     "match": "none",
@@ -970,6 +1017,23 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch06-034",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No State Department 'digital hygiene' template program to help African countries protect their communications networks from Chinese spying was found. The State Department's May 2025 Africa strategy focused on commercial deals.",
+    "closeness": "No matching program was found. CRS reports that the administration's main focus in Africa has been business advocacy and deal-making.",
+    "uncertain": "Searched the Federal Register and an August 2026 CRS report on China and Africa, which discusses Chinese telecom networks in Africa but mentions no such U.S. program. Smaller programs run through embassies may not appear in these sources.",
+    "sources": [
+      {
+        "label": "China-Sub-Saharan Africa Ties and U.S. Policy (R49080, August 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49080.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch06-035",
     "status": "not-done",
     "match": "none",
@@ -985,6 +1049,44 @@
       }
     ],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-036",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The U.S. kept training, equipping and advising Somali forces, including the special operations unit Danab, and carried out over 130 airstrikes in Somalia in 2025 and nearly 70 in the first half of 2026. At the same time, most U.S. aid programs in Somalia were cut, and the administration reportedly planned to end support for the UN office that backs the African Union mission there.",
+    "key_dates": [
+      {
+        "date": "2025",
+        "event": "More than 130 U.S. airstrikes in Somalia, coordinated with Somalia's government"
+      },
+      {
+        "date": "2026-07-21",
+        "event": "CRS reports continued U.S. support for Somali forces alongside aid cuts"
+      }
+    ],
+    "closeness": "Military support for African forces fighting terrorism continued, as the chapter recommends, at least in Somalia. Broader aid cuts and the planned end of UN support for the African Union mission go the other way. Only Somalia was checked.",
+    "uncertain": "Country-by-country data on U.S. security aid to Africa after the 2025 aid cuts was not found. Only one CRS report, on Somalia, was checked. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Somalia (IF10155, July 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10155.html"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Only Somalia was checked; look for Africa-wide security assistance data for FY2025-2026."
+  },
+  {
+    "id": "ch06-037",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch06-038",
@@ -1097,6 +1199,93 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch06-041",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On May 8, 2025, the U.S. and the United Kingdom announced the Economic Prosperity Deal. Executive Order 14309, signed June 16, 2025, put parts of it into effect, including a lower tariff on a set number of British cars and no tariffs on British civil aircraft parts.",
+    "key_dates": [
+      {
+        "date": "2025-05-08",
+        "event": "U.S.-U.K. Economic Prosperity Deal announced"
+      },
+      {
+        "date": "2025-06-16",
+        "event": "Executive Order 14309 puts parts of the deal into effect"
+      },
+      {
+        "date": "2025-06-30",
+        "event": "Commerce notice sets rules for U.K. car and aircraft imports under the order"
+      }
+    ],
+    "closeness": "The administration built new trade terms with the post-Brexit U.K., as the chapter recommends. The deal is a limited tariff agreement, not a full free trade agreement.",
+    "uncertain": "This finding does not track later changes to the deal or how a February 2026 Supreme Court ruling on emergency tariffs (see ch06-040) affected it. Newest source: June 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14309: Implementing the General Terms of the U.S.-U.K. Economic Prosperity Deal",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/23/2025-11473/implementing-the-general-terms-of-the-united-states-of-america-united-kingdom-economic-prosperity"
+      },
+      {
+        "label": "Imports of Automobiles, Automobile Parts, Civil Aircraft and Civil Aircraft Parts From the United Kingdom Under Executive Order 14309",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/30/2025-12060/imports-of-automobiles-automobile-parts-civil-aircraft-and-civil-aircraft-parts-from-the-united"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-042",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No 'Quad-Plus' expansion or new South Asia strategy was found. CRS reports that during the second Trump term the Quad has met only below the leader level, an expected 2025 summit did not happen, and the 2026 National Defense Strategy did not mention India or the Quad.",
+    "closeness": "The administration did not expand the Quad or lead a new South Asia strategy. Quad meetings continued at lower levels.",
+    "uncertain": "Searched the Federal Register and a May 2026 CRS report on India-U.S. relations. Quiet diplomatic talks with other countries about joining Quad work would not show up in these sources.",
+    "sources": [
+      {
+        "label": "India-U.S. Relations: Issues for Congress (R47597, May 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47597.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-043",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In February 2026, NATO Secretary General Mark Rutte announced Arctic Sentry, a new NATO activity led by Joint Force Command Norfolk to counter Russian military activity and Chinese interest in the Arctic. It followed President Trump's January 2026 statement that he and Rutte had formed a 'framework' on Greenland and the Arctic.",
+    "key_dates": [
+      {
+        "date": "2026-01-21",
+        "event": "Trump says he and Rutte formed a framework on Greenland and the Arctic"
+      },
+      {
+        "date": "2026-02",
+        "event": "NATO launches Arctic Sentry"
+      }
+    ],
+    "closeness": "NATO increased its Arctic role, which matches the chapter's direction. No formal NATO Arctic strategy limiting Russia's use of Arctic waters and resources was found; Arctic Sentry mainly coordinates exercises.",
+    "uncertain": "It is not known whether NATO adopted or is drafting a written Arctic strategy, or what the July 2026 summit decided on the Arctic. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "NATO: Issues for the July 2026 Ankara Summit (R49018)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49018.html"
+      },
+      {
+        "label": "Russia's Arctic Military Posture: Considerations for Congress (R49487, October 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49487.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch06-044",
     "status": "partly-done",
     "match": "partial",
@@ -1135,6 +1324,94 @@
         "publisher": "U.S. Department of Homeland Security",
         "type": "government",
         "url": "https://www.dhs.gov/news/2025/03/08/national-coordinators-icebreaker-collaboration-effort-ice-pact-meet-helsinki"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-045",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "From late 2025, President Trump pressed for U.S. control of Greenland. In January 2026 he threatened, then dropped, tariffs on European allies over the issue. On September 22, 2026, the U.S., Denmark and Greenland signed a defense agreement in New York that adds to a 1951 treaty, expands U.S. military access, bars non-NATO countries from military bases in Greenland, and sets up screening of investment from outside NATO. It still needs approval by the Danish and Greenlandic parliaments.",
+    "key_dates": [
+      {
+        "date": "2026-01-17",
+        "event": "Trump announces tariffs on eight European countries over Greenland, later dropped"
+      },
+      {
+        "date": "2026-01-21",
+        "event": "Trump says he will not use force and announces a 'framework' with NATO"
+      },
+      {
+        "date": "2026-09-22",
+        "event": "U.S., Denmark and Greenland sign a security agreement in New York"
+      }
+    ],
+    "closeness": "The agreement adds some economic ties, such as investment screening, but it is mainly a security deal. The administration's push for control of Greenland goes beyond the chapter's call for closer economic ties.",
+    "uncertain": "The official text was not found; reports differ on how far the investment rules go, and one analysis says Greenland's own authorities run the screening. Parliamentary approval is pending. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Greenland, Denmark, and U.S. Relations (IN12643, January 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12643.html"
+      },
+      {
+        "label": "Greenland's New US Deal: A Bet on the High North",
+        "publisher": "Center for European Policy Analysis",
+        "type": "academic",
+        "url": "https://cepa.org/article/greenlands-new-us-deal-a-bet-on-the-high-north/"
+      },
+      {
+        "label": "US signs 'tremendous' security deal with Denmark and Greenland",
+        "publisher": "Al Jazeera",
+        "type": "news",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Official text of the September 2026 agreement not found; confirm its investment-screening and purchasing terms."
+  },
+  {
+    "id": "ch06-046",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In February 2025, President Trump ordered a review of all international organizations the U.S. belongs to. On January 7, 2026, he signed a memo ordering the U.S. to leave 66 of them, 31 linked to the UN and 35 others, and to stop funding them. The U.S. also left the World Health Organization in January 2026.",
+    "key_dates": [
+      {
+        "date": "2025-02-04",
+        "event": "Executive Order 14199 orders a review of international organizations."
+      },
+      {
+        "date": "2026-01-07",
+        "event": "Memo orders withdrawal from 66 international organizations."
+      },
+      {
+        "date": "2026-01-22",
+        "event": "U.S. withdrawal from WHO takes effect."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Same idea: review membership and leave groups judged not to serve U.S. interests. The scale, 66 groups at once, is larger than the recommendation spelled out. See ch06-052 and ch06-009.",
+    "uncertain": "For UN bodies, the memo says withdrawal is \"to the extent permitted by law,\" so how fully each exit happens is unclear. Congress kept funding for international organization dues roughly level in fiscal 2026. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Fact Sheet: President Trump withdraws the U.S. from international organizations",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/"
+      },
+      {
+        "label": "United States announces withdrawal from 66 international organizations",
+        "publisher": "American Society of International Law",
+        "type": "academic",
+        "url": "https://asil.org/ilib/united-states-announces-withdrawal-66-international-organizations/"
+      },
+      {
+        "label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
       }
     ],
     "as_of": "2026-10-27"
@@ -1240,6 +1517,90 @@
         "publisher": "KFF",
         "type": "academic",
         "url": "https://www.kff.org/global-health-policy/the-mexico-city-policy-an-explainer/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-051",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 24, 2025, President Trump brought back the Mexico City Policy, which bars foreign aid groups from providing or promoting abortion. That month the U.S. also rejoined the Geneva Consensus Declaration, a group of countries opposed to a right to abortion. In January 2026, the State Department issued rules applying the policy to most non-military foreign aid, starting February 26, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-01-24",
+        "event": "Presidential memo reinstates the Mexico City Policy."
+      },
+      {
+        "date": "2025-01",
+        "event": "U.S. rejoins the Geneva Consensus Declaration."
+      },
+      {
+        "date": "2026-01-27",
+        "event": "State Department publishes rules expanding the policy to most foreign aid."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Very close: no U.S. funding for abortion through foreign programs, plus a coalition of like-minded countries. The 2026 rules go further, also covering diversity programs and gender identity. See ch09-023 and ch09-024.",
+    "uncertain": "Searches in October 2026 and law-firm summaries from January-March 2026 found no lawsuit against the 2026 rules. A bill to write the policy into law (Promoting Human Flourishing in Foreign Assistance Act) was introduced but not passed. Newest source: March 2026.",
+    "sources": [
+      {
+        "label": "The Mexico City Policy: An Explainer",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/global-health-policy/the-mexico-city-policy-an-explainer/"
+      },
+      {
+        "label": "Promoting Human Flourishing in Foreign Assistance rules",
+        "publisher": "Federal Register (GovInfo)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-27/pdf/2026-01519.pdf"
+      },
+      {
+        "label": "State Department issues final Mexico City Policy",
+        "publisher": "Arnold & Porter",
+        "type": "law-firm",
+        "url": "https://www.arnoldporter.com/en/perspectives/advisories/2026/03/state-department-issues-final-mexico-city-policy"
+      },
+      {
+        "label": "Trump administration rejoins pro-life Geneva Consensus Declaration",
+        "publisher": "Catholic News Agency",
+        "type": "news",
+        "url": "https://catholicnewsagency.com/amp/news/261927/trump-administration-rejoins-pro-life-geneva-consensus-declaration"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-052",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On January 20, 2025, President Trump ordered the U.S. to leave the World Health Organization. After the required one-year notice, the withdrawal took effect on January 22, 2026. It ended U.S. membership, participation and funding.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14155 starts withdrawal from WHO."
+      },
+      {
+        "date": "2026-01-22",
+        "event": "U.S. withdrawal from WHO takes effect."
+      }
+    ],
+    "legal": "No court ruling found. Some legal scholars argue that leaving WHO needs an act of Congress, because Congress authorized joining.",
+    "closeness": "Bigger than the recommendation, which called for limiting WHO funding until it changed its policies. The U.S. left entirely. See ch06-046.",
+    "uncertain": "Unpaid U.S. dues are reported at $130 million to $260 million; whether they will be paid is unclear. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "United States completes WHO withdrawal",
+        "publisher": "U.S. Department of Health and Human Services",
+        "type": "government",
+        "url": "https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html"
+      },
+      {
+        "label": "HHS Fact Sheet: U.S. Withdrawal from the World Health Organization",
+        "publisher": "CDC",
+        "type": "government",
+        "url": "https://cdc.gov/global-health/resources/us-withdrawal-who.html"
       }
     ],
     "as_of": "2026-10-27"
@@ -1367,353 +1728,6 @@
     "as_of": "2026-10-27"
   },
   {
-    "id": "ch06-058",
-    "status": "partly-done",
-    "match": "broader",
-    "happened": "On March 6, 2026, the White House released a Cyber Strategy for America. Its first pillar calls for using all tools of U.S. power to identify, disrupt and overcome cyber adversaries. No specific State Department step to help the military take offensive cyber action was found.",
-    "key_dates": [
-      {
-        "date": "2026-03-06",
-        "event": "Cyber Strategy for America released."
-      }
-    ],
-    "closeness": "Only the general direction matches. The strategy points toward disrupting adversaries but does not set a State Department role in offensive military cyber operations.",
-    "uncertain": "The strategy's action plan had not been released as of March 2026. Classified cyber policies are not public.",
-    "sources": [
-      {
-        "label": "The Trump Administration's Cyber Strategy (IN12667)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/IN12667.html"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-005",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "Most politically appointed ambassadors left their posts in the early months of President Trump's second term, according to AP. In December 2025, the administration told career ambassadors and other chiefs of mission in at least 29 countries that their tours would end in January 2026.",
-    "key_dates": [
-      {
-        "date": "2025-01",
-        "event": "Political appointee ambassadors from the prior administration leave in the early months of the term"
-      },
-      {
-        "date": "2025-12-22",
-        "event": "AP reports that nearly 30 career chiefs of mission were told their tours would end in January 2026"
-      }
-    ],
-    "closeness": "Political ambassadors left, as the chapter recommends. The review of career ambassadors came about 11 months into the term, not right away, and led to recalls from about 29 countries rather than a public review of every post. See also ch06-006.",
-    "uncertain": "No official list of recalled ambassadors was released, and the State Department did not confirm names or numbers. The early departure of political ambassadors comes from AP reporting, not an official list. It is not known whether a formal review of every career ambassador took place. Newest source: December 2025.",
-    "sources": [
-      {
-        "label": "Trump recalls nearly 30 career diplomats from ambassadorial and embassy posts (AP)",
-        "publisher": "PBS NewsHour",
-        "type": "news",
-        "url": "https://www.pbs.org/newshour/nation/trump-recalls-nearly-30-career-diplomats-from-ambassadorial-and-embassy-posts"
-      },
-      {
-        "label": "The Trump administration is recalling about 30 career diplomats",
-        "publisher": "WRVO (NPR)",
-        "type": "news",
-        "url": "https://www.wrvo.org/2025-12-23/the-trump-administration-is-recalling-about-30-career-diplomats"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-006",
-    "status": "in-effect",
-    "match": "partial",
-    "happened": "In mid-December 2025, the State Department told chiefs of mission in at least 29 countries, all of whom took their posts under President Biden, that their tours would end in January 2026. Thirteen were in Africa. The department called it a standard process and said ambassadors should advance the President's 'America First' agenda.",
-    "key_dates": [
-      {
-        "date": "2025-12-22",
-        "event": "AP reports the recall of nearly 30 career chiefs of mission"
-      },
-      {
-        "date": "2026-01",
-        "event": "Recalled ambassadors' tours end"
-      }
-    ],
-    "closeness": "Ambassadors were recalled, as the chapter recommends, but about 11 months into the term rather than immediately. The recalled posts were mostly smaller countries, not ones chosen publicly because of policy shifts or open hostility. Related to ch06-005.",
-    "uncertain": "No official list was released, so the exact count and names are not confirmed. The reasons for choosing each post were not made public. It is not known who replaced the recalled ambassadors. Newest source: December 2025.",
-    "sources": [
-      {
-        "label": "Trump recalls nearly 30 career diplomats from ambassadorial and embassy posts (AP)",
-        "publisher": "PBS NewsHour",
-        "type": "news",
-        "url": "https://www.pbs.org/newshour/nation/trump-recalls-nearly-30-career-diplomats-from-ambassadorial-and-embassy-posts"
-      },
-      {
-        "label": "The Trump administration is recalling about 30 career diplomats",
-        "publisher": "WRVO (NPR)",
-        "type": "news",
-        "url": "https://www.wrvo.org/2025-12-23/the-trump-administration-is-recalling-about-30-career-diplomats"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-019",
-    "status": "in-effect",
-    "match": "partial",
-    "happened": "On June 26, 2025, Homeland Security Secretary Kristi Noem said she had signed agreements with Guatemala and Honduras under which those countries would take in people seeking asylum in the United States. Officials in both countries denied signing new asylum deals, but Guatemala and DHS did publicly sign a security agreement that lets U.S. Customs and Border Protection officers work at Guatemala City's airport. The State Department had made separate deals with El Salvador and Guatemala in February 2025.",
-    "key_dates": [
-      {
-        "date": "2025-02",
-        "event": "Secretary of State Rubio reaches migration agreements with El Salvador and Guatemala"
-      },
-      {
-        "date": "2025-06-26",
-        "event": "DHS Secretary Noem announces agreements with Guatemala and Honduras; DHS and Guatemala sign an airport security agreement"
-      }
-    ],
-    "closeness": "DHS did negotiate at least one security agreement with another country, which fits the chapter's exception for DHS. What was signed on asylum is disputed, and no formal order giving or confirming DHS's authority to negotiate such agreements was found.",
-    "uncertain": "The text of the June 2025 agreements was not found, and Honduras and Guatemala disputed Noem's account of the asylum deals. Whether DHS used State Department approval under its treaty rules (Circular 175; see ch06-012) is not known. Newest source: June 2025.",
-    "sources": [
-      {
-        "label": "US signs agreements with Guatemala and Honduras to take asylum seekers",
-        "publisher": "KRGV (AP)",
-        "type": "news",
-        "url": "https://www.krgv.com/news/us-signs-agreements-with-guatemala-and-honduras-to-take-asylum-seekers"
-      },
-      {
-        "label": "US signs agreements to have Guatemala and Honduras offer refuge to asylum seekers, Noem says",
-        "publisher": "KPRC Click2Houston (AP)",
-        "type": "news",
-        "url": "https://www.click2houston.com/news/world/2025/06/26/us-signs-agreements-with-guatemala-and-honduras-to-take-asylum-seekers-noem-says/"
-      },
-      {
-        "label": "Guatemala and Honduras deny signing US immigration deals despite Noem claims",
-        "publisher": "bne IntelliNews",
-        "type": "news",
-        "url": "https://www.intellinews.com/guatemala-and-honduras-deny-signing-us-immigration-deals-despite-noem-claims-388633"
-      }
-    ],
-    "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch06-031",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "In February 2025, as part of the broad freeze on foreign aid, the administration stopped funding Palestinian Authority security forces, according to reports citing The Washington Post. A CRS report from April 2025 says the aid review led to cuts or delays in aid for the West Bank and Gaza. The fiscal 2026 foreign aid law, signed February 3, 2026, again bars economic aid funds from going to the Palestinian Authority unless the President waives the ban, while still allowing some West Bank and Gaza aid under conditions.",
-    "key_dates": [
-      {
-        "date": "2018-03-23",
-        "event": "Taylor Force Act limits most economic aid that directly benefits the Palestinian Authority"
-      },
-      {
-        "date": "2025-02-19",
-        "event": "Reports say the U.S. halted funding for Palestinian Authority security forces"
-      },
-      {
-        "date": "2026-02-03",
-        "event": "Fiscal 2026 law repeats the ban on economic aid to the Palestinian Authority"
-      }
-    ],
-    "closeness": "Funding to the Palestinian Authority was cut further, which matches the chapter's goal. The ban in the 2026 law is a long-standing yearly provision with a waiver, not a new law ending all funding.",
-    "uncertain": "The security-funding halt is known from news reports citing The Washington Post, not an official statement. Whether any aid resumed in 2026 was not found.",
-    "sources": [
-      {
-        "label": "The Palestinians: Overview, Aid, and U.S. Policy Issues (IF10644, April 2025)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/IF10644.html"
-      },
-      {
-        "label": "Public Law 119-75, secs. 7039-7040 (fiscal 2026 appropriations)",
-        "publisher": "GovInfo",
-        "type": "government",
-        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
-      },
-      {
-        "label": "US halts funding for Palestinian security forces amid foreign aid freeze",
-        "publisher": "Anadolu Agency",
-        "type": "news",
-        "url": "https://www.aa.com.tr/en/americas/us-halts-funding-for-palestinian-security-forces-amid-foreign-aid-freeze-report/3487020"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-034",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No State Department 'digital hygiene' template program to help African countries protect their communications networks from Chinese spying was found. The State Department's May 2025 Africa strategy focused on commercial deals.",
-    "closeness": "No matching program was found. CRS reports that the administration's main focus in Africa has been business advocacy and deal-making.",
-    "uncertain": "Searched the Federal Register and an August 2026 CRS report on China and Africa, which discusses Chinese telecom networks in Africa but mentions no such U.S. program. Smaller programs run through embassies may not appear in these sources.",
-    "sources": [
-      {
-        "label": "China-Sub-Saharan Africa Ties and U.S. Policy (R49080, August 2026)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/R49080.html"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-036",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "The U.S. kept training, equipping and advising Somali forces, including the special operations unit Danab, and carried out over 130 airstrikes in Somalia in 2025 and nearly 70 in the first half of 2026. At the same time, most U.S. aid programs in Somalia were cut, and the administration reportedly planned to end support for the UN office that backs the African Union mission there.",
-    "key_dates": [
-      {
-        "date": "2025",
-        "event": "More than 130 U.S. airstrikes in Somalia, coordinated with Somalia's government"
-      },
-      {
-        "date": "2026-07-21",
-        "event": "CRS reports continued U.S. support for Somali forces alongside aid cuts"
-      }
-    ],
-    "closeness": "Military support for African forces fighting terrorism continued, as the chapter recommends, at least in Somalia. Broader aid cuts and the planned end of UN support for the African Union mission go the other way. Only Somalia was checked.",
-    "uncertain": "Country-by-country data on U.S. security aid to Africa after the 2025 aid cuts was not found. Only one CRS report, on Somalia, was checked. Newest source: July 2026.",
-    "sources": [
-      {
-        "label": "Somalia (IF10155, July 2026)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/IF10155.html"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "Only Somalia was checked; look for Africa-wide security assistance data for FY2025-2026."
-  },
-  {
-    "id": "ch06-041",
-    "status": "in-effect",
-    "match": "direct",
-    "happened": "On May 8, 2025, the U.S. and the United Kingdom announced the Economic Prosperity Deal. Executive Order 14309, signed June 16, 2025, put parts of it into effect, including a lower tariff on a set number of British cars and no tariffs on British civil aircraft parts.",
-    "key_dates": [
-      {
-        "date": "2025-05-08",
-        "event": "U.S.-U.K. Economic Prosperity Deal announced"
-      },
-      {
-        "date": "2025-06-16",
-        "event": "Executive Order 14309 puts parts of the deal into effect"
-      },
-      {
-        "date": "2025-06-30",
-        "event": "Commerce notice sets rules for U.K. car and aircraft imports under the order"
-      }
-    ],
-    "closeness": "The administration built new trade terms with the post-Brexit U.K., as the chapter recommends. The deal is a limited tariff agreement, not a full free trade agreement.",
-    "uncertain": "This finding does not track later changes to the deal or how a February 2026 Supreme Court ruling on emergency tariffs (see ch06-040) affected it. Newest source: June 2025.",
-    "sources": [
-      {
-        "label": "Executive Order 14309: Implementing the General Terms of the U.S.-U.K. Economic Prosperity Deal",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/06/23/2025-11473/implementing-the-general-terms-of-the-united-states-of-america-united-kingdom-economic-prosperity"
-      },
-      {
-        "label": "Imports of Automobiles, Automobile Parts, Civil Aircraft and Civil Aircraft Parts From the United Kingdom Under Executive Order 14309",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/06/30/2025-12060/imports-of-automobiles-automobile-parts-civil-aircraft-and-civil-aircraft-parts-from-the-united"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-042",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No 'Quad-Plus' expansion or new South Asia strategy was found. CRS reports that during the second Trump term the Quad has met only below the leader level, an expected 2025 summit did not happen, and the 2026 National Defense Strategy did not mention India or the Quad.",
-    "closeness": "The administration did not expand the Quad or lead a new South Asia strategy. Quad meetings continued at lower levels.",
-    "uncertain": "Searched the Federal Register and a May 2026 CRS report on India-U.S. relations. Quiet diplomatic talks with other countries about joining Quad work would not show up in these sources.",
-    "sources": [
-      {
-        "label": "India-U.S. Relations: Issues for Congress (R47597, May 2026)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/R47597.html"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-043",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "In February 2026, NATO Secretary General Mark Rutte announced Arctic Sentry, a new NATO activity led by Joint Force Command Norfolk to counter Russian military activity and Chinese interest in the Arctic. It followed President Trump's January 2026 statement that he and Rutte had formed a 'framework' on Greenland and the Arctic.",
-    "key_dates": [
-      {
-        "date": "2026-01-21",
-        "event": "Trump says he and Rutte formed a framework on Greenland and the Arctic"
-      },
-      {
-        "date": "2026-02",
-        "event": "NATO launches Arctic Sentry"
-      }
-    ],
-    "closeness": "NATO increased its Arctic role, which matches the chapter's direction. No formal NATO Arctic strategy limiting Russia's use of Arctic waters and resources was found; Arctic Sentry mainly coordinates exercises.",
-    "uncertain": "It is not known whether NATO adopted or is drafting a written Arctic strategy, or what the July 2026 summit decided on the Arctic. Newest source: October 2026.",
-    "sources": [
-      {
-        "label": "NATO: Issues for the July 2026 Ankara Summit (R49018)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/R49018.html"
-      },
-      {
-        "label": "Russia's Arctic Military Posture: Considerations for Congress (R49487, October 2026)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/R49487.html"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch06-045",
-    "status": "under-review",
-    "match": "partial",
-    "happened": "From late 2025, President Trump pressed for U.S. control of Greenland. In January 2026 he threatened, then dropped, tariffs on European allies over the issue. On September 22, 2026, the U.S., Denmark and Greenland signed a defense agreement in New York that adds to a 1951 treaty, expands U.S. military access, bars non-NATO countries from military bases in Greenland, and sets up screening of investment from outside NATO. It still needs approval by the Danish and Greenlandic parliaments.",
-    "key_dates": [
-      {
-        "date": "2026-01-17",
-        "event": "Trump announces tariffs on eight European countries over Greenland, later dropped"
-      },
-      {
-        "date": "2026-01-21",
-        "event": "Trump says he will not use force and announces a 'framework' with NATO"
-      },
-      {
-        "date": "2026-09-22",
-        "event": "U.S., Denmark and Greenland sign a security agreement in New York"
-      }
-    ],
-    "closeness": "The agreement adds some economic ties, such as investment screening, but it is mainly a security deal. The administration's push for control of Greenland goes beyond the chapter's call for closer economic ties.",
-    "uncertain": "The official text was not found; reports differ on how far the investment rules go, and one analysis says Greenland's own authorities run the screening. Parliamentary approval is pending. Newest source: September 2026.",
-    "sources": [
-      {
-        "label": "Greenland, Denmark, and U.S. Relations (IN12643, January 2026)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/IN12643.html"
-      },
-      {
-        "label": "Greenland's New US Deal: A Bet on the High North",
-        "publisher": "Center for European Policy Analysis",
-        "type": "academic",
-        "url": "https://cepa.org/article/greenlands-new-us-deal-a-bet-on-the-high-north/"
-      },
-      {
-        "label": "US signs 'tremendous' security deal with Denmark and Greenland",
-        "publisher": "Al Jazeera",
-        "type": "news",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "Official text of the September 2026 agreement not found; confirm its investment-screening and purchasing terms."
-  },
-  {
     "id": "ch06-057",
     "status": "not-done",
     "match": "none",
@@ -1735,5 +1749,28 @@
       }
     ],
     "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch06-058",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On March 6, 2026, the White House released a Cyber Strategy for America. Its first pillar calls for using all tools of U.S. power to identify, disrupt and overcome cyber adversaries. No specific State Department step to help the military take offensive cyber action was found.",
+    "key_dates": [
+      {
+        "date": "2026-03-06",
+        "event": "Cyber Strategy for America released."
+      }
+    ],
+    "closeness": "Only the general direction matches. The strategy points toward disrupting adversaries but does not set a State Department role in offensive military cyber operations.",
+    "uncertain": "The strategy's action plan had not been released as of March 2026. Classified cyber policies are not public.",
+    "sources": [
+      {
+        "label": "The Trump Administration's Cyber Strategy (IN12667)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12667.html"
+      }
+    ],
+    "as_of": "2026-10-27"
   }
 ]

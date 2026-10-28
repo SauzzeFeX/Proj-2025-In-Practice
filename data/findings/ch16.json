@@ -1,1720 +1,1749 @@
 [
- {
-  "id": "ch16-001",
-  "status": "in-effect",
-  "match": "direct",
-  "happened": "On Jan 20, 2025 President Trump revoked dozens of Biden executive orders, including the climate orders behind Interior's Secretarial Order 3398. On Feb 3, 2025 Interior Secretary Doug Burgum signed six orders, including SO 3418, \"Unleashing American Energy.\" It ended Interior actions tied to the revoked orders and told officials to plan to suspend, revise or rescind a list of rules and orders, naming SO 3398.",
-  "key_dates": [
-   {
-    "date": "Jan 20, 2025",
-    "event": "Executive Orders 14148 (revocations) and 14154 (Unleashing American Energy)."
-   },
-   {
-    "date": "Feb 3, 2025",
-    "event": "Burgum signs Secretarial Orders 3417-3422."
-   }
-  ],
-  "legal": "No court ruling against the secretarial orders themselves was found. Many individual actions taken under them face separate lawsuits.",
-  "closeness": "Matches the recommendation's mechanism: revoke Biden orders and restore an \"energy dominance\" agenda by secretarial order. SO 3398 is named for rescission through officials' action plans.",
-  "uncertain": "SO 3418 lists SO 3398 for suspension, revision or rescission; I did not confirm a later document formally rescinding it. Newest source: February 2025.",
-  "sources": [
-   {
-    "label": "Secretary Doug Burgum signs first round of Secretary's Orders to unleash American energy",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/secretary-doug-burgum-signs-first-round-secretarys-orders-unleash-american-energy"
-   },
-   {
-    "label": "Secretary's Order 3418: Unleashing American Energy",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/sites/default/files/document_secretarys_orders/so-3418-signed.pdf"
-   },
-   {
-    "label": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions"
-   },
-   {
-    "label": "Secretary Burgum's first wave of orders",
-    "publisher": "Arnold & Porter",
-    "type": "law-firm",
-    "url": "https://www.arnoldporter.com/en/perspectives/blogs/environmental-edge/2025/02/secretary-burgum-first-wave-of-orders"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-002",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "On February 3, 2025, Interior Secretary Doug Burgum signed Secretary's Order 3418. It ended actions tied to revoked Biden orders and directed a review of Biden-era Interior orders, including Order 3398, which had revoked many Trump-era orders. On April 15, 2025, BLM ended its study of keeping the old coal leasing moratorium. Executive Order 14153 (January 2025) also reinstated a 2017 order on Alaska's petroleum reserve.",
-  "key_dates": [
-   {
-    "date": "2025-01-20",
-    "event": "Executive Order 14153 signed."
-   },
-   {
-    "date": "2025-02-03",
-    "event": "Secretary's Order 3418 signed."
-   },
-   {
-    "date": "2025-04-15",
-    "event": "BLM ends its review of the coal leasing moratorium."
-   }
-  ],
-  "legal": "I found no court ruling against the orders themselves.",
-  "closeness": "The administration revived parts of the Trump-era approach. I could not confirm that each of the dozen orders the chapter lists was formally reinstated. Related to ch16-001.",
-  "uncertain": "Order 3418 orders a review of Order 3398 but does not itself reinstate the Trump-era orders; I found no later order reinstating the dozen the chapter lists. Newest source is from April 2025.",
-  "sources": [
-   {
-    "label": "Secretary's Order 3418: Unleashing American Energy",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/sites/default/files/document_secretarys_orders/so-3418-signed.pdf"
-   },
-   {
-    "label": "Rescission and Termination of the EIS on Maintaining Secretary Jewell's Coal Leasing Moratorium (Apr. 15, 2025)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06388/rescission-and-termination-of-the-environmental-impact-statement-analyzing-the-potential"
-   },
-   {
-    "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
-   }
-  ],
-  "as_of": "2026-10-28",
-  "recheck": "Check whether Interior formally reinstated each Trump-era order the chapter lists after reviewing Order 3398."
- },
- {
-  "id": "ch16-003",
-  "status": "in-effect",
-  "match": "direct",
-  "happened": "The July 2025 reconciliation law (the One Big Beautiful Bill Act) requires the Bureau of Land Management to hold quarterly onshore oil and gas lease sales and lowered the royalty rate to 12.5%. BLM held sales across producing states in 2026, reporting $592.7 million in the first quarter and $4.1 billion in the second quarter.",
-  "key_dates": [
-   {
-    "date": "Jul 4, 2025",
-    "event": "Reconciliation law signed, requiring quarterly sales."
-   },
-   {
-    "date": "Jan-Mar 2026",
-    "event": "First-quarter sales bring in $592.7 million."
-   },
-   {
-    "date": "Apr-Jun 2026",
-    "event": "Second-quarter sales bring in $4.1 billion, mostly in New Mexico."
-   }
-  ],
-  "legal": "No court ruling against the quarterly sale requirement was found.",
-  "closeness": "Quarterly sales match the recommendation, and are now required by law rather than set by Interior policy. I did not check whether public notice and comment were expanded, as the chapter also asks.",
-  "uncertain": "Results for the third quarter of 2026 and whether every producing state had a sale each quarter. Newest source: mid-2026 BLM releases.",
-  "sources": [
-   {
-    "label": "BLM first quarter 2026 oil and gas sales generate nearly $600 million",
-    "publisher": "Bureau of Land Management",
-    "type": "government",
-    "url": "https://www.blm.gov/press-release/blm-first-quarter-2026-oil-and-gas-sales-generate-nearly-600-million"
-   },
-   {
-    "label": "BLM's second-quarter 2026 oil and gas lease sales generate $4.1 billion",
-    "publisher": "Bureau of Land Management",
-    "type": "government",
-    "url": "https://www.blm.gov/press-release/blms-second-quarter-2026-oil-and-gas-lease-sales-generate-41-billion"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-004",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "The July 2025 reconciliation law told Interior to resume quarterly onshore oil and gas lease sales, an idea from the Lease Now Act. On June 11, 2026, Senators Barrasso and Lummis introduced the Let America Build Act, which includes a section on \"cooperative federalism\" in oil and gas permitting and state authority over fracking rules.",
-  "key_dates": [
-   {
-    "date": "2025-07-04",
-    "event": "Reconciliation law (P.L. 119-21) requires quarterly onshore lease sales."
-   },
-   {
-    "date": "2026-06-11",
-    "event": "Let America Build Act (S. 4765) introduced in the Senate."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "The lease-sale part became law. The part giving states a bigger role in permitting on federal land is only in a bill that has been introduced, not passed.",
-  "uncertain": "I did not find bills named the Lease Now Act or ONSHORE Act in the 119th Congress, or whether the White House backed S. 4765. Newest source: June 2026.",
-  "sources": [
-   {
-    "label": "Public Law 119-21, sec. 50101 (onshore oil and gas leasing)",
-    "publisher": "U.S. Government Publishing Office",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
-   },
-   {
-    "label": "S. 4765, Let America Build Act of 2026 (introduced)",
-    "publisher": "U.S. Government Publishing Office",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4765is/pdf/BILLS-119s4765is.pdf"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-005",
-  "status": "in-effect",
-  "match": "partial",
-  "happened": "The July 2025 reconciliation law requires 30 Gulf of America lease sales and at least six in Alaska's Cook Inlet. The first, \"Big Beautiful Gulf 1,\" was held Dec 10, 2025 and drew about $300 million in high bids. In November 2025 Interior also proposed a new 2026-2031 offshore program with up to 34 sales to replace the Biden-era program.",
-  "key_dates": [
-   {
-    "date": "Jul 4, 2025",
-    "event": "Reconciliation law requires 36 offshore sales."
-   },
-   {
-    "date": "Nov 24, 2025",
-    "event": "Draft proposed 11th National OCS program published (up to 34 sales)."
-   },
-   {
-    "date": "Dec 10, 2025",
-    "event": "Big Beautiful Gulf 1 lease sale held."
-   }
-  ],
-  "legal": "No court ruling blocking these sales was found.",
-  "closeness": "Bigger than the recommendation. Instead of maximizing sales under the existing program, Congress required many sales by law and Interior moved to replace the program.",
-  "uncertain": "Whether the March 2026 Gulf and Cook Inlet sales took place as scheduled, and whether the new national program was finalized. Newest source: early 2026.",
-  "sources": [
-   {
-    "label": "Interior advances offshore energy with first lease sale under the One Big Beautiful Bill Act",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/energy-dominance-first-lease-sale-one-big"
-   },
-   {
-    "label": "BOEM advances first two OBBBA offshore lease sales",
-    "publisher": "Bureau of Ocean Energy Management",
-    "type": "government",
-    "url": "https://www.boem.gov/newsroom/press-releases/boem-advances-first-two-obbba-offshore-lease-sales"
-   },
-   {
-    "label": "Interior launches 11th National Offshore Leasing Program",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/interior-launches-expansive-11th-national-offshore-leasing-program-advance-us-energy"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-006",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "In November 2025, Interior released a draft proposed 11th offshore oil and gas leasing program to replace the Biden-era plan, and in January 2026 asked for nominations for California sales. Separately, the July 2025 reconciliation law requires 30 Gulf of America lease sales and at least six in Alaska's Cook Inlet on a set schedule.",
-  "key_dates": [
-   {
-    "date": "2025-07-04",
-    "event": "Reconciliation law sets a schedule of offshore lease sales."
-   },
-   {
-    "date": "2025-11-24",
-    "event": "Draft proposed 11th offshore leasing program released."
-   }
-  ],
-  "legal": "I found no court ruling on the new program.",
-  "closeness": "Interior is writing a new five-year plan, as recommended. The law's fixed sale schedule works somewhat like regular sales, but Congress has not replaced five-year plans with rolling sales. Related to ch16-005.",
-  "uncertain": "When the new program will be final is not known. Newest source is from July 2026.",
-  "sources": [
-   {
-    "label": "Notice of Availability of the 11th National OCS Oil and Gas Leasing Draft Proposed Program",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/11/24/2025-20760/notice-of-availability-of-the-11th-national-outer-continental-shelf-oil-and-gas-leasing-draft"
-   },
-   {
-    "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
-    "publisher": "GovInfo (U.S. Government Publishing Office)",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-007",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "In December 2025, Congress used the Congressional Review Act to cancel the November 2024 Miles City, Montana plan amendment and the 2022 Alaska petroleum reserve plan. In May 2026, BLM fully rescinded the 2024 Public Lands (Conservation and Landscape Health) Rule. BLM also started revising western Oregon plans and changed sage-grouse plan amendments.",
-  "key_dates": [
-   {
-    "date": "2025-12-05",
-    "event": "Resolution canceling the 2022 Alaska petroleum reserve plan signed."
-   },
-   {
-    "date": "2025-12-11",
-    "event": "Resolution canceling the 2024 Miles City plan amendment signed."
-   },
-   {
-    "date": "2026-05-12",
-    "event": "BLM rescinds the Public Lands Rule."
-   }
-  ],
-  "legal": "I found no court ruling on these steps.",
-  "closeness": "Several recent plans were undone or reopened, in line with the chapter. I could not confirm a review of every plan finished in the past four years. The \"30 by 30\" order was revoked (see ch16-028).",
-  "uncertain": "How many other recent plans are being revised could not be confirmed. Newest source is from June 2026.",
-  "sources": [
-   {
-    "label": "Termination of the RMP Amendment for the Miles City Field Office, Montana",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11149/termination-of-the-resource-management-plan-amendment-for-the-miles-city-field-office-montana-and-an"
-   },
-   {
-    "label": "Rescission of Conservation and Landscape Health Rule (final rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/05/12/2026-09386/rescission-of-conservation-and-landscape-health-rule"
-   },
-   {
-    "label": "Notice of Availability of the 2025 Record of Decision for the NPR-A Integrated Activity Plan",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/02/25/2026-03784/notice-of-availability-of-the-2025-record-of-decision-for-the-final-environmental-impact-statement"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-008",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "The July 2025 reconciliation law repealed the Inflation Reduction Act's higher onshore oil and gas royalty rate, returning it to 12.5%, and cut the federal coal royalty to no more than 7% through 2034. On June 24, 2026, BLM proposed returning minimum bond amounts for oil and gas leases to levels before its 2024 rule.",
-  "key_dates": [
-   {
-    "date": "2025-07-04",
-    "event": "Reconciliation law lowers royalty rates."
-   },
-   {
-    "date": "2026-06-24",
-    "event": "BLM proposes lower minimum bond amounts."
-   }
-  ],
-  "legal": "I found no court ruling.",
-  "closeness": "Royalties are now at or below the levels the chapter named, and bonding changes are proposed. I could not confirm changes to rental rates.",
-  "uncertain": "Whether rents were changed, and the final bonding rule, are not known. Newest source is from June 2026.",
-  "sources": [
-   {
-    "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
-    "publisher": "GovInfo (U.S. Government Publishing Office)",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
-   },
-   {
-    "label": "Oil and Gas Leasing (proposed rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12734/oil-and-gas-leasing"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-009",
-  "status": "in-effect-challenged",
-  "match": "direct",
-  "happened": "On Oct 23, 2025 BLM issued a decision reinstating the Coastal Plain oil and gas leasing program and making all 1.56 million acres available. The July 2025 reconciliation law requires four lease sales there over ten years. BLM held the first sale on June 5, 2026, awarding five leases for $3.74 million.",
-  "key_dates": [
-   {
-    "date": "Jul 4, 2025",
-    "event": "Reconciliation law requires four Coastal Plain sales."
-   },
-   {
-    "date": "Oct 23, 2025",
-    "event": "Record of Decision reinstates the leasing program."
-   },
-   {
-    "date": "Jun 5, 2026",
-    "event": "First lease sale; five leases awarded."
-   }
-  ],
-  "legal": "Environmental groups have a pending case in the U.S. District Court for the District of Alaska challenging the 2020 and 2025 decisions (amended complaint January 2026). I found no ruling.",
-  "closeness": "Same idea and mechanism: a competitive leasing program in the Coastal Plain.",
-  "uncertain": "The outcome of the Alaska lawsuit. Newest source: CRS, August 2026.",
-  "sources": [
-   {
-    "label": "Arctic National Wildlife Refuge: Status of Oil and Gas Program",
-    "publisher": "Congressional Research Service",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/IF12006.html"
-   },
-   {
-    "label": "BLM auctions five oil and gas leases in Arctic refuge",
-    "publisher": "Offshore Technology",
-    "type": "news",
-    "url": "https://www.offshore-technology.com/news/blm-auction-arctic-refuge-five-oil-gas-leases/"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-010",
-  "status": "in-effect",
-  "match": "direct",
-  "happened": "The July 2025 reconciliation law required Interior to offer more land for coal leasing. In September 2025, Interior made about 13.1 million acres available and cut the coal royalty rate. BLM held coal lease sales in Montana, Utah and Alabama in fall 2025. Congress also canceled a 2024 Montana plan amendment that would have ended new coal leasing there.",
-  "key_dates": [
-   {
-    "date": "2025-07-04",
-    "event": "Reconciliation law requires more coal leasing."
-   },
-   {
-    "date": "2025-09-29",
-    "event": "Interior opens 13.1 million acres for coal leasing."
-   },
-   {
-    "date": "2025-10-06",
-    "event": "Coal lease sale for Montana's Spring Creek Mine."
-   },
-   {
-    "date": "2025-12-11",
-    "event": "Resolution canceling the Miles City plan amendment signed."
-   }
-  ],
-  "legal": "I found no court ruling blocking the restart.",
-  "closeness": "Coal leasing restarted, including in Montana. I could not confirm a separate formal end to the program review or specific talks with Wyoming and Montana leaders.",
-  "uncertain": "Results of each sale were not checked. Newest source is from June 2026.",
-  "sources": [
-   {
-    "label": "Interior unleashes American coal power",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/interior-unleashes-american-coal-power-bold-move-advance-trump-administration"
-   },
-   {
-    "label": "Implementing Section 50203 of the One Big Beautiful Bill Act",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/10/02/2025-19237/implementing-section-50203-of-the-one-big-beautiful-bill-act"
-   },
-   {
-    "label": "Lease for Sale: Spring Creek Mine Federal Coal Lease-by-Application, Montana",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/09/15/2025-17752/lease-for-sale-navajo-transitional-energy-company-spring-creek-mine-federal-coal"
-   },
-   {
-    "label": "Termination of the RMP Amendment for the Miles City Field Office, Montana",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11149/termination-of-the-resource-management-plan-amendment-for-the-miles-city-field-office-montana-and-an"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-011",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "All three closures were finished before 2025. On April 27, 2026, President Trump signed H.J. Res. 140, a Congressional Review Act measure that cancels the 20-year mining ban near the Boundary Waters. On March 31, 2026, the Bureau of Land Management proposed revoking the 10-mile leasing ban around Chaco Culture National Historical Park; that decision was still pending in mid-2026.",
-  "key_dates": [
-   {
-    "date": "2026-01-21",
-    "event": "House passes H.J. Res. 140 on the Boundary Waters withdrawal."
-   },
-   {
-    "date": "2026-03-31",
-    "event": "BLM proposes revoking the Chaco 10-mile withdrawal."
-   },
-   {
-    "date": "2026-04-27",
-    "event": "President signs H.J. Res. 140 into law."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "The Boundary Waters ban was reversed by Congress, and the Chaco ban is under review with options to keep, shrink to 5 miles, or revoke it. I found no action on the Thompson Divide withdrawal.",
-  "uncertain": "I searched the web and the Federal Register. As of late July 2026, BLM had not set a date for a final Chaco decision, and I found no action on the Thompson Divide withdrawal. Newest source is from July 2026.",
-  "sources": [
-   {
-    "label": "Trump ends ban on mining near the Boundary Waters",
-    "publisher": "MPR News",
-    "type": "news",
-    "url": "https://www.mprnews.org/story/2026/04/27/trump-ends-ban-on-mining-near-the-boundary-waters"
-   },
-   {
-    "label": "In search of oil and gas, Trump could axe Biden-era buffer around Chaco Canyon",
-    "publisher": "KUNC",
-    "type": "news",
-    "url": "https://www.kunc.org/regional-news/2026-07-27/in-search-of-oil-and-gas-trump-could-axe-biden-era-buffer-around-chaco-canyon"
-   },
-   {
-    "label": "N.M. Delegation statement on Chaco Canyon leasing review",
-    "publisher": "U.S. Senate Energy and Natural Resources Committee",
-    "type": "government",
-    "url": "https://www.energy.senate.gov/2026/4/n-m-delegation-denounces-trump-admin-s-reckless-race-to-allow-drilling-in-chaco-canyon"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch16-012",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "On April 23, 2025, Interior adopted emergency permitting procedures for energy and critical minerals projects, saying reviews that took years would take 28 days at most. In August 2025, BLM changed its drilling-permit rules to match the July 2025 reconciliation law.",
-  "key_dates": [
-   {
-    "date": "2025-04-23",
-    "event": "Interior announces emergency permitting procedures."
-   },
-   {
-    "date": "2025-08-01",
-    "event": "BLM direct final rule on drilling-permit approvals under the reconciliation law."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "Same goal of faster permits, but by emergency procedures and law, not by a standard tying regional offices to state permit times.",
-  "uncertain": "I did not find data comparing federal and state permit times after these changes. Newest source: August 2025.",
-  "sources": [
-   {
-    "label": "Department of the Interior Implements Emergency Permitting Procedures to Strengthen Domestic Energy Supply",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/department-interior-implements-emergency-permitting-procedures-strengthen-domestic"
-   },
-   {
-    "label": "Revision to Regulations Regarding Approval of Operations; Valid Period of Approved Application for Permit To Drill",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/08/01/2025-14642/revision-to-regulations-regarding-approval-of-operations-valid-period-of-approved-application-for"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-013",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "Interior brought back a 2017 legal opinion in April 2025 saying the Migratory Bird Treaty Act does not cover accidental bird deaths. CEQ removed all its NEPA rules (final Jan 2026), and Interior cut most of its own NEPA rules (Feb 2026). In July 2026 the Fish and Wildlife Service finalized new rules on critical habitat exclusions. BLM proposed rolling back most of the 2024 methane waste rule but had not finalized it.",
-  "key_dates": [
-   {
-    "date": "Apr 11, 2025",
-    "event": "Interior reinstates Solicitor's Opinion M-37050 on bird deaths."
-   },
-   {
-    "date": "Jan 8, 2026",
-    "event": "CEQ finalizes removal of its NEPA regulations."
-   },
-   {
-    "date": "Feb 24, 2026",
-    "event": "Interior final rule rescinds most of its NEPA regulations."
-   },
-   {
-    "date": "Jul 21, 2026",
-    "event": "FWS final rule on critical habitat exclusions (effective Aug 20)."
-   }
-  ],
-  "legal": "State attorneys general sued in September 2026 over the critical habitat exclusion rule and a related rule. I found no ruling. I found no lawsuit over the bird opinion or the NEPA changes.",
-  "closeness": "Partly matches. The bird opinion is a direct match. The NEPA action goes further than restoring the 2020 rules: CEQ's rules were removed entirely. The methane rollback is only proposed. The habitat rule revives earlier Trump-era policy in a new form.",
-  "uncertain": "Whether the methane waste rollback has been finalized (newest source June 2026) and the outcome of the critical habitat lawsuit.",
-  "sources": [
-   {
-    "label": "The pendulum swings back again on incidental take under the MBTA",
-    "publisher": "Hunton Andrews Kurth",
-    "type": "law-firm",
-    "url": "https://www.hunton.com/the-nickel-report/the-pendulum-swings-back-again-on-prohibition-of-incidental-take-under-the-migratory-bird-treaty-act"
-   },
-   {
-    "label": "CEQ formally rescinds its NEPA implementing regulations",
-    "publisher": "Venable LLP",
-    "type": "law-firm",
-    "url": "https://www.venable.com/insights/publications/2026/01/ceq-formally-rescinds-its-nepa-implementing"
-   },
-   {
-    "label": "FWS resurrects ESA rules on threatened species protections and critical habitat exclusions",
-    "publisher": "Beveridge & Diamond",
-    "type": "law-firm",
-    "url": "https://www.bdlaw.com/publications/fws-resurrects-esa-rules-on-threatened-species-protections-and-critical-habitat-exclusions/"
-   },
-   {
-    "label": "BLM methane waste prevention rule tracker",
-    "publisher": "Harvard Environmental & Energy Law Program",
-    "type": "academic",
-    "url": "https://eelp.law.harvard.edu/tracker/bam-methane-waste-prevention-rule"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-014",
-  "status": "in-effect-challenged",
-  "match": "direct",
-  "happened": "The July 2025 reconciliation law told Interior to lease the National Petroleum Reserve in Alaska under the 2020 plan. On Dec 22, 2025 Interior signed a decision adopting that plan, reopening about 82% of the reserve. BLM held a lease sale on Mar 18, 2026 that drew about $163.7 million in high bids on 187 tracts.",
-  "key_dates": [
-   {
-    "date": "Jul 4, 2025",
-    "event": "Reconciliation law directs leasing under the 2020 plan."
-   },
-   {
-    "date": "Dec 5, 2025",
-    "event": "Congress overturns the 2022 NPR-A rule (Public Law 119-47)."
-   },
-   {
-    "date": "Dec 22, 2025",
-    "event": "Record of Decision adopts the 2020 plan (Alternative E)."
-   },
-   {
-    "date": "Mar 18, 2026",
-    "event": "Record NPR-A lease sale."
-   }
-  ],
-  "legal": "At least two lawsuits challenge the new plan, including one by a coalition with an Inupiat organization. I found no ruling.",
-  "closeness": "Same as the recommendation: reinstating the 2020 plan that opens most of the reserve.",
-  "uncertain": "The outcome of the lawsuits. Newest source: CRS, August 2026.",
-  "sources": [
-   {
-    "label": "National Petroleum Reserve in Alaska (NPR-A): A Summary",
-    "publisher": "Congressional Research Service",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/files/2026-08-24_IF13119_755505d3f1709f2d054899a70a6d3d5e3896180a.html"
-   },
-   {
-    "label": "Arctic Alaska oil and gas lease sale draws record bidding, despite legal clouds",
-    "publisher": "Alaska Beacon",
-    "type": "news",
-    "url": "https://alaskabeacon.com/2026/03/19/arctic-alaska-oil-and-gas-lease-sale-draws-record-bidding-despite-legal-clouds/"
-   },
-   {
-    "label": "Public Law 119-47",
-    "publisher": "GovInfo",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ47/html/PLAW-119publ47.htm"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-015",
-  "status": "in-effect-challenged",
-  "match": "direct",
-  "happened": "The administration created \"Schedule Policy/Career,\" a version of Schedule F. The Office of Personnel Management finalized the rule in early 2026, and a June 2026 executive order moved about 8,000 federal employees into it.",
-  "key_dates": [
-   {
-    "date": "Jan 20, 2025",
-    "event": "Executive Order 14171 restores the Schedule F approach."
-   },
-   {
-    "date": "Mar 2026",
-    "event": "OPM final rule takes effect."
-   },
-   {
-    "date": "Jun 3, 2026",
-    "event": "Executive order moves about 8,000 employees into the new category."
-   }
-  ],
-  "legal": "At least three lawsuits are pending (NTEU in D.C., a Protect Democracy case, and a union and watchdog case in Maryland). I found no merits ruling or injunction.",
-  "closeness": "Government-wide action matching the recommendation. Same action as the project's \"schedule-f\" story.",
-  "uncertain": "How many Interior or Office of Surface Mining positions were moved into the new category. I did not find an agency-by-agency list.",
-  "sources": [
-   {
-    "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges",
-    "publisher": "Congressional Research Service",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/LSB11412.html"
-   },
-   {
-    "label": "Executive Order 14171",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02095/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce"
-   },
-   {
-    "label": "Employee groups revive lawsuit to block Schedule F",
-    "publisher": "Government Executive",
-    "type": "news",
-    "url": "https://www.govexec.com/workforce/2026/03/employee-groups-revive-lawsuit-block-schedule-f/411962/"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-016",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "On February 18, 2026, Interior amended its cooperative agreement with West Virginia so the state regulates mining of federally owned coal leased by BLM. On May 11, 2026, Interior approved the first tribal energy resource agreement, with the Southern Ute Indian Tribe.",
-  "key_dates": [
-   {
-    "date": "2026-02-18",
-    "event": "Interior and West Virginia sign amended coal agreement."
-   },
-   {
-    "date": "2026-05-11",
-    "event": "Interior approves Southern Ute tribal energy resource agreement."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "These are examples of expanded state and tribal agreements, as recommended. I did not check for a broader program across Interior.",
-  "uncertain": "I found only these two examples on Interior's news page and did not look for others. Newest source: May 2026.",
-  "sources": [
-   {
-    "label": "Department of the Interior and West Virginia Sign Agreement Expanding State Oversight of Coal Mining on Federal Land",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/department-interior-and-west-virginia-sign-agreement-expanding-state-oversight-coal"
-   },
-   {
-    "label": "Interior Enters into Nation's First-Ever Tribal Energy Agreement",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/interior-enters-nations-first-ever-tribal-energy-agreement"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-017",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no 2025-2026 decision to move BLM's headquarters back to the West. BLM's headquarters moved to Grand Junction, Colorado, in 2019-2020, before January 20, 2025, then returned to Washington, D.C., in 2021, with Grand Junction kept as a 'western headquarters.'",
-  "closeness": "No matching action found since January 20, 2025. The earlier move West happened during the first Trump administration.",
-  "uncertain": "I ran three web searches for a 2025-2026 BLM headquarters move and checked Interior's news page; none showed one.",
-  "sources": [
-   {
-    "label": "Secretary Haaland Outlines Next Steps to Rebuild Bureau of Land Management (2021)",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/secretary-haaland-outlines-next-steps-rebuild-bureau-land-management"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch16-019",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no law letting BLM put down excess wild horses and burros. The fiscal 2026 Interior spending law (P.L. 119-74, January 2026) kept the long-standing rule that no funds may be used to destroy healthy, unadopted wild horses or burros.",
-  "closeness": "No matching law found. Congress renewed the opposite rule.",
-  "uncertain": "I searched the Federal Register, Interior press releases, and the local copy of 119th Congress laws. Introduced bills could not be fully checked.",
-  "sources": [
-   {
-    "label": "Public Law 119-74 (FY2026 consolidated appropriations, including Interior)",
-    "publisher": "U.S. Government Publishing Office",
-    "type": "government",
-    "url": "https://www.govinfo.gov/app/details/PLAW-119publ74"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch16-020",
-  "status": "partly-done",
-  "match": "direct",
-  "happened": "Executive Order 14153 (January 2025) told Interior to evaluate revoking Public Land Order 5150 and review other orders blocking Alaska Native land selections. In February 2026, Public Land Order 7966 partly revoked PLOs 5150 and 5180 on about 2.1 million acres in the Dalton Utility Corridor. In May 2026, Interior conveyed about 1.4 million acres there to Alaska.",
-  "key_dates": [
-   {
-    "date": "2025-01-20",
-    "event": "Executive Order 14153 signed."
-   },
-   {
-    "date": "2026-02-25",
-    "event": "Public Land Order 7966 partly revokes PLO 5150."
-   },
-   {
-    "date": "2026-05-06",
-    "event": "Interior conveys 1.4 million acres to Alaska."
-   }
-  ],
-  "legal": "I found no court ruling.",
-  "closeness": "This starts with PLO 5150, as the chapter recommends. It is a partial revocation, and I could not confirm that all other old orders were revoked.",
-  "uncertain": "The status of other old land orders could not be confirmed. Newest source is from May 2026.",
-  "sources": [
-   {
-    "label": "Public Land Order No. 7966: Partial Revocation of PLOs 5150 and 5180",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/02/25/2026-03777/public-land-order-no-7966-partial-revocation-of-public-land-order-nos-5150-and-5180-as-amended"
-   },
-   {
-    "label": "Interior transfers 1.4 million acres in Dalton Utility Corridor to the State of Alaska",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/interior-transfers-14-million-acres-dalton-utility-corridor-state-alaska"
-   },
-   {
-    "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-021",
-  "status": "in-effect-challenged",
-  "match": "direct",
-  "happened": "Executive Order 14153 (January 20, 2025) ordered Interior to reinstate the 2019 Arctic refuge environmental impact statement and 2020 decision, and to rescind lease cancellations. On October 23, 2025, Interior reopened the Coastal Plain for oil and gas leasing. BLM held a lease sale there in June 2026.",
-  "key_dates": [
-   {
-    "date": "2025-01-20",
-    "event": "Executive Order 14153 signed."
-   },
-   {
-    "date": "2025-10-23",
-    "event": "Interior reopens the Coastal Plain for leasing."
-   },
-   {
-    "date": "2026-06-05",
-    "event": "Coastal Plain lease sale held."
-   }
-  ],
-  "legal": "Environmental groups have a pending case in the U.S. District Court for the District of Alaska. I found no ruling.",
-  "closeness": "The 2020 study and decision were reinstated as recommended, by executive order and agency decision rather than a secretarial order. Related to ch16-009.",
-  "uncertain": "Whether every earlier lease suspension was formally lifted could not be confirmed. Newest source is from 2026.",
-  "sources": [
-   {
-    "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
-   },
-   {
-    "label": "Interior takes bold steps to expand energy, local control and land access in Alaska",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/interior-takes-bold-steps-expand-energy-local-control-and-land-access-alaska"
-   },
-   {
-    "label": "Arctic National Wildlife Refuge: Status of Oil and Gas Program",
-    "publisher": "Congressional Research Service (via EveryCRSReport)",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/IF12006.html"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-022",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "In October 2020, before January 20, 2025, Interior approved Willow with five drilling pads, but a federal court threw out that approval in 2021. The Biden administration approved Willow in March 2023 with three pads, with a fourth to be considered later. In June 2025, the Ninth Circuit upheld that approval. I found no federal approval of more pads since then.",
-  "key_dates": [
-   {
-    "date": "2023-03-13",
-    "event": "Interior approves Willow with three pads."
-   },
-   {
-    "date": "2025-06",
-    "event": "Ninth Circuit upholds the approval."
-   }
-  ],
-  "legal": "U.S. Court of Appeals for the Ninth Circuit, June 2025: upheld BLM's approval in a split decision, finding a minor flaw in how BLM handled the three-pad choice that did not require undoing the approval.",
-  "closeness": "Willow was approved, but before 2025 and with three pads instead of the five the chapter wanted. The five-pad plan was approved in 2020 and then vacated by a court.",
-  "uncertain": "I searched the web and found no 2026 decision on added pads. ConocoPhillips expects first oil in 2029. Newest source is from January 2026.",
-  "sources": [
-   {
-    "label": "Interior Department Substantially Reduces Scope of Willow Project",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://doi.gov/pressreleases/interior-department-substantially-reduces-scope-willow-project"
-   },
-   {
-    "label": "Appeals court upholds approval of Willow project on Alaska's North Slope",
-    "publisher": "Alaska Beacon",
-    "type": "news",
-    "url": "https://alaskabeacon.com/2025/06/13/appeals-court-upholds-approval-of-willow-project-on-alaskas-north-slope/"
-   },
-   {
-    "label": "ConocoPhillips outlines plans to expand Arctic drilling",
-    "publisher": "E&E News",
-    "type": "news",
-    "url": "https://www.eenews.net/articles/conocophillips-outlines-plans-to-expand-arctic-drilling/"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch16-023",
-  "status": "in-effect-challenged",
-  "match": "direct",
-  "happened": "On October 6, 2025, President Trump approved the appeal for the Ambler Road under the Alaska lands law. By October 23, 2025, BLM, the National Park Service and the Army Corps of Engineers had reissued the permits for the road.",
-  "key_dates": [
-   {
-    "date": "2025-10-06",
-    "event": "President approves the Ambler Road."
-   },
-   {
-    "date": "2025-10-23",
-    "event": "Interior announces reissued right-of-way permits."
-   }
-  ],
-  "legal": "In January 2026, ten groups filed an amended complaint in the U.S. District Court for Alaska challenging the October 2025 approval and permits. A separate suit by tribal governments is also pending. I found no ruling as of April 2026; the court has allowed pre-construction work.",
-  "closeness": "The road was approved, as the chapter recommends, but lawsuits are pending.",
-  "uncertain": "Whether the court has ruled since April 2026, and construction progress, are not known.",
-  "sources": [
-   {
-    "label": "Decision of the President and Statement of Reasons (Ambler Road)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/10/08/2025-19510/decision-of-the-president-and-statement-of-reasons"
-   },
-   {
-    "label": "Interior takes bold steps to expand energy, local control and land access in Alaska",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/interior-takes-bold-steps-expand-energy-local-control-and-land-access-alaska"
-   },
-   {
-    "label": "Groups challenge Trump approval of Ambler Road (January 2026 press release)",
-    "publisher": "Trustees for Alaska",
-    "type": "advocacy",
-    "url": "https://trustees.org/wp-content/uploads/2026/01/2026GroupsChallengeTrumpApprovalAmblerRoad-FINAL-3.pdf"
-   },
-   {
-    "label": "Court filings provide mixed picture of Ambler Road progress",
-    "publisher": "Alaska Beacon",
-    "type": "news",
-    "url": "https://alaskabeacon.com/briefs/court-filings-provide-mixed-picture-of-ambler-road-progress/"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch16-024",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "On October 19, 2026, the National Park Service published a final rule removing its 2015, 2017 and 2024 Alaska hunting rules and restoring the earlier framework that defers more to state hunting law in national preserves. The rule takes effect November 18, 2026.",
-  "key_dates": [
-   {
-    "date": "2026-03-10",
-    "event": "NPS proposed rule published."
-   },
-   {
-    "date": "2026-10-19",
-    "event": "NPS final rule published; effective November 18, 2026."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "Matches the Park Service half of the recommendation. I did not confirm a matching Fish and Wildlife Service action on Alaska refuges.",
-  "uncertain": "I did not check for lawsuits against the final rule or for a Fish and Wildlife Service rule. Newest source: October 2026.",
-  "sources": [
-   {
-    "label": "Alaska; Wildlife, Harvest, and Access (final rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21299/alaska-wildlife-harvest-and-access"
-   },
-   {
-    "label": "Interior Finalizes Rule Restoring Alaska-Specific Management Framework for National Parks and Preserves",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/interior-finalizes-rule-restoring-alaska-specific-management-framework-national-parks"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-025",
-  "status": "in-effect",
-  "match": "partial",
-  "happened": "Executive Order 14153 told Interior to restore a 2020 National Park Service rule on hunting in Alaska's national preserves and to consult Alaska before rules affecting hunting and fishing. On October 19, 2026, the Park Service issued a final rule restoring its earlier Alaska framework, which recognizes the State's role in managing harvest.",
-  "key_dates": [
-   {
-    "date": "2025-01-20",
-    "event": "Executive Order 14153 signed."
-   },
-   {
-    "date": "2026-03-10",
-    "event": "Park Service proposes restoring state-aligned hunting rules."
-   },
-   {
-    "date": "2026-10-19",
-    "event": "Final rule published."
-   }
-  ],
-  "legal": "I found no court ruling; the rule is very new.",
-  "closeness": "The rule gives the State a larger role in Park Service lands. It does not recognize state authority over fish and game on all federal lands in Alaska.",
-  "uncertain": "Whether the rule will be challenged is not known. Newest source is from October 2026.",
-  "sources": [
-   {
-    "label": "Alaska; Wildlife, Harvest, and Access (final rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21299/alaska-wildlife-harvest-and-access"
-   },
-   {
-    "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-026",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "Executive Order 14153 told Interior to review Alaska's waterways and prepare documents giving up federal claims to lands under navigable waters where appropriate. In 2026, BLM published applications for such disclaimers for portions of several rivers, including the Kwethluk, Delta and Unuk.",
-  "key_dates": [
-   {
-    "date": "2025-01-20",
-    "event": "Executive Order 14153 signed."
-   },
-   {
-    "date": "2026-01-07",
-    "event": "BLM publishes disclaimer applications for several rivers."
-   }
-  ],
-  "legal": "I found no court ruling.",
-  "closeness": "This moves toward state ownership river by river. It is not a single order declaring all navigable waters state-owned, and does not shift the burden of proof as the chapter wanted.",
-  "uncertain": "How many disclaimers have been approved is not known. Newest source is from March 2026.",
-  "sources": [
-   {
-    "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
-   },
-   {
-    "label": "Application for a Recordable Disclaimer of Interest: Kwethluk River, Alaska",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/01/07/2026-00041/application-for-a-recordable-disclaimer-of-interest-for-lands-underlying-portions-of-the-kwethluk"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-027",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "Executive Order 14153 told the Agriculture Department to pause the 2023 rule restoring roadless protections on Alaska's national forests. On August 20, 2026, the Agriculture Department proposed rescinding the 2001 Roadless Rule nationwide, which would also lift its limits on the Tongass National Forest.",
-  "key_dates": [
-   {
-    "date": "2025-01-20",
-    "event": "Executive Order 14153 signed."
-   },
-   {
-    "date": "2025-08-29",
-    "event": "Agriculture Department announces plan to rescind the Roadless Rule."
-   },
-   {
-    "date": "2026-08-20",
-    "event": "Proposed rescission published."
-   }
-  ],
-  "legal": "None; the rescission is not final.",
-  "closeness": "The proposal would remove roadless limits on the Tongass, which goes further than reinstating the 2020 Alaska rule. The action comes from the Agriculture Department, not Interior.",
-  "uncertain": "The final rule and any lawsuits are not known. Newest source is from September 2026.",
-  "sources": [
-   {
-    "label": "Special Areas; Roadless Area Conservation (proposed rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16965/special-areas-roadless-area-conservation"
-   },
-   {
-    "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-028",
-  "status": "in-effect",
-  "match": "direct",
-  "happened": "On Jan 20, 2025 President Trump signed Executive Order 14148, which revoked Executive Order 14008, the order that set the \"30 by 30\" conservation goal.",
-  "key_dates": [
-   {
-    "date": "Jan 20, 2025",
-    "event": "Executive Order 14148 revokes Executive Order 14008."
-   }
-  ],
-  "legal": "No court case found.",
-  "closeness": "Matches the recommendation to vacate the 30 by 30 order. I did not find a separate Interior action ending the \"America the Beautiful\" program by name.",
-  "uncertain": "What Interior did specifically to wind down 30 by 30 programs. Newest source: 2025.",
-  "sources": [
-   {
-    "label": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions"
-   },
-   {
-    "label": "Trump Administration rescinds batch of Biden-era executive orders",
-    "publisher": "Sabin Center, Columbia Law School",
-    "type": "academic",
-    "url": "https://climate.law.columbia.edu/content/trump-administration-rescinds-batch-biden-era-executive-orders"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-029",
-  "status": "in-effect",
-  "match": "direct",
-  "happened": "In early September 2025, Interior Secretary Doug Burgum signed Secretary's Order 3442 on the Land and Water Conservation Fund. It requires written support from the state governor and local county officials before federal land purchases with the fund. It also limits BLM purchases and changes other program priorities.",
-  "key_dates": [
-   {
-    "date": "2025-09",
-    "event": "Secretary's Order 3442 signed."
-   }
-  ],
-  "legal": "I found no court ruling.",
-  "closeness": "Matches the call to require state and local approval for fund purchases. The order goes further, also limiting BLM buys and nonprofit roles.",
-  "uncertain": "I could not open the order itself; its terms come from news and conservation group summaries. Newest source is from September 2025.",
-  "sources": [
-   {
-    "label": "Interior Department changing conservation funding rules, what it can go toward and who can participate",
-    "publisher": "Colorado Public Radio",
-    "type": "news",
-    "url": "https://www.cpr.org/2025/09/10/interior-department-conservation-funding-changes-lwcf-public-lands-blm/"
-   },
-   {
-    "label": "DOI Secretary's Order 3442 to Guide Implementation of LWCF",
-    "publisher": "Wildlife Management Institute",
-    "type": "advocacy",
-    "url": "https://wildlifemanagement.institute/node/1765"
-   }
-  ],
-  "as_of": "2026-10-28",
-  "recheck": "Confirm the terms of Secretary's Order 3442 from the order text on doi.gov."
- },
- {
-  "id": "ch16-030",
-  "status": "in-effect-challenged",
-  "match": "partial",
-  "happened": "In July 2026 President Trump signed proclamations shrinking Bears Ears National Monument to about 121,000 acres and Grand Staircase-Escalante to about 182,000 acres. In June 2025 the Justice Department said the President may abolish monuments. I found no action on the Maine or Oregon monuments the chapter names.",
-  "key_dates": [
-   {
-    "date": "Jun 2025",
-    "event": "Justice Department says the President can abolish monuments."
-   },
-   {
-    "date": "Jul 2026",
-    "event": "Proclamations shrink Bears Ears and Grand Staircase-Escalante."
-   },
-   {
-    "date": "Sep 2, 2026",
-    "event": "Conservation groups and others file suits."
-   }
-  ],
-  "legal": "Tribes, conservation groups and Patagonia have sued. In mid-October 2026 a federal judge revived the 2017 lawsuits and ordered 48 hours' notice before ground-disturbing work on the removed lands. No ruling on the merits yet.",
-  "closeness": "Matches the idea of reducing monuments, but the monuments cut are in Utah, not the Maine and Oregon examples in the chapter.",
-  "uncertain": "Whether any other monuments (such as Katahdin Woods and Waters or Cascade-Siskiyou) are under review. Exact acreage awaits official maps. Newest source: October 16, 2026.",
-  "sources": [
-   {
-    "label": "Lawsuits filed over reduction of 2 Utah national monuments",
-    "publisher": "KSL",
-    "type": "news",
-    "url": "https://www.ksl.com/article/51619363/lawsuits-filed-over-reduction-of-2-utah-national-monuments-rekindling-legal-battle"
-   },
-   {
-    "label": "Judge revives suit over efforts to shrink Bears Ears, Grand Staircase-Escalante",
-    "publisher": "KJZZ",
-    "type": "news",
-    "url": "https://www.kjzz.org/politics/2026-10-16/judge-revives-suit-over-efforts-to-shrink-bears-ears-grand-staircase-escalante-national-monuments"
-   },
-   {
-    "label": "Justice Department says Trump can cancel national monuments",
-    "publisher": "KJZZ (AP)",
-    "type": "news",
-    "url": "https://www.kjzz.org/politics/2025-06-10/justice-department-says-trump-can-cancel-national-monuments-that-protect-landscapes"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-031",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no request from the administration asking Congress to repeal the Antiquities Act. Members of Congress introduced a bill in January 2025 to remove the President's power to create monuments, but I found no vote on it.",
-  "legal": "None.",
-  "closeness": "A congressional bill has the same goal, but it has not passed and I found no administration push for it.",
-  "uncertain": "Searched for 2025-2026 repeal bills and administration statements. The bill's committee status could not be confirmed.",
-  "sources": [
-   {
-    "label": "Lee, Curtis introduce bill to modernize outdated Antiquities Act",
-    "publisher": "Senate Energy and Natural Resources Committee",
-    "type": "government",
-    "url": "https://www.energy.senate.gov/2025/1/lee-curtis-introduce-bill-to-modernize-outdated-antiquities-act"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-032",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "On February 19, 2026, BLM announced it will revise its western Oregon resource management plans, citing the 1937 O&C Act and wildfire threats. The July 2025 reconciliation law also requires BLM to sell 20 million more board-feet of timber each year than the year before, through 2034.",
-  "key_dates": [
-   {
-    "date": "2025-07-04",
-    "event": "Reconciliation law requires rising BLM timber sales."
-   },
-   {
-    "date": "2026-02-19",
-    "event": "BLM announces revision of western Oregon plans."
-   }
-  ],
-  "legal": "None; the plans are not final.",
-  "closeness": "Both steps move toward more timber harvest on O&C lands. I could not confirm that the new plans will manage the lands mainly for timber production.",
-  "uncertain": "The content of the revised plans is not known. Newest source is from February 2026.",
-  "sources": [
-   {
-    "label": "Notice of Intent To Revise Western Oregon Resource Management Plans",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/02/19/2026-03290/notice-of-intent-to-revise-resource-management-plans-for-northwestern-and-coastal-oregon-and"
-   },
-   {
-    "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
-    "publisher": "GovInfo (U.S. Government Publishing Office)",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-033",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "In July 2025 and February 2026, Interior replaced most of its NEPA regulations with a shorter rule and a department handbook meant to speed reviews. The February 2026 rule says the handbook carries out the page limits and deadlines for environmental reviews that Congress put into law in 2023.",
-  "key_dates": [
-   {
-    "date": "2025-07-03",
-    "event": "Interior interim NEPA rule published."
-   },
-   {
-    "date": "2026-02-24",
-    "event": "Interior final NEPA rule published."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "Same goal of shorter, faster reviews, with page and time limits now coming from the 2023 law and Interior's handbook rather than reinstated Trump-era orders. A rule that each document list its cost on page one was not found.",
-  "uncertain": "The handbook itself was not read; its page limits are known from the final rule's description, which does not mention listing costs on the first page. Newest source: February 2026.",
-  "sources": [
-   {
-    "label": "National Environmental Policy Act Implementing Regulations (final rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/02/24/2026-03708/national-environmental-policy-act-implementing-regulations"
-   },
-   {
-    "label": "Trump Administration Delivers Historic NEPA Reform, Unleashing Resources on America's Public Lands",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/trump-administration-delivers-historic-nepa-reform-unleashing-resources-americas"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch16-034",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "The House passed the SPEED Act in December 2025 by 221-196. It would shorten NEPA review and limit lawsuits, including a 150-day window to sue. On Sept 30, 2026 Senate negotiators announced a bipartisan permitting bill, the Bipartisan American Affordability and Jobs Act of 2026. It also sets a 150-day window to sue, limits who can sue, and makes sending a decision back to the agency the only court remedy. A Senate procedural vote was expected on Nov 9, 2026.",
-  "key_dates": [
-   {
-    "date": "Dec 18, 2025",
-    "event": "House passes the SPEED Act (H.R. 4776)."
-   },
-   {
-    "date": "Sep 30, 2026",
-    "event": "Senate negotiators agree on bipartisan permitting text."
-   }
-  ],
-  "legal": "None; no law has passed.",
-  "closeness": "Same goal of NEPA reform with limits on lawsuits. Neither bill ends court review entirely, as the chapter suggests considering.",
-  "uncertain": "Whether the Senate vote happens and whether a law passes. Sen. Whitehouse said talks with the administration were ongoing; I found no formal White House position. Newest source: October 9, 2026.",
-  "sources": [
-   {
-    "label": "Amending NEPA: Analysis of the SPEED Act (H.R. 4776)",
-    "publisher": "Congressional Research Service",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/R49485.html"
-   },
-   {
-    "label": "Senate negotiators reach agreement on permitting reform text",
-    "publisher": "Greenberg Traurig",
-    "type": "law-firm",
-    "url": "https://www.gtlaw.com/en/insights/2026/10/senate-negotiators-reach-agreement-on-permitting-reform-text"
-   },
-   {
-    "label": "House backs bill to speed permitting reviews",
-    "publisher": "Bangor Daily News (AP)",
-    "type": "news",
-    "url": "https://www.bangordailynews.com/2025/12/18/nation/house-backs-bill-to-speed-permitting-reviews-for-new-energy-and-infrastructure-projects/"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-035",
-  "status": "in-effect",
-  "match": "direct",
-  "happened": "On June 23, 2025, Interior Secretary Burgum signed Order 3433. It reinstates the 2018 order on settlement transparency, cancels the 2022 order that revoked it, and calls for a public litigation webpage listing settlements and attorney fee payments.",
-  "key_dates": [
-   {
-    "date": "2025-06-23",
-    "event": "Secretary's Order 3433 signed."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "Directly restores the policy the chapter named.",
-  "uncertain": "I did not confirm that the public litigation webpage is live and up to date. Newest source: June 2025.",
-  "sources": [
-   {
-    "label": "Secretary's Order 3433: Restoring and Modernizing Transparency and Accountability in Consent Decrees, Settlement Agreements, and Litigation Payments",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/sites/default/files/document_secretarys_orders/so-draft-litigation-payments_recission-of-3408_signed_source-508.pdf"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-036",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "The House Natural Resources Committee advanced the ESA Amendments Act of 2025 (H.R. 1897) in December 2025. House leaders scheduled a floor vote in April 2026 but pulled it after objections from members of both parties. I found no later vote.",
-  "key_dates": [
-   {
-    "date": "Dec 17, 2025",
-    "event": "House committee advances H.R. 1897."
-   },
-   {
-    "date": "Apr 22, 2026",
-    "event": "House adopts the rule for debate, then cancels the floor vote."
-   }
-  ],
-  "legal": "None; no law has passed. Separately, the agencies changed ESA rules by regulation (see ch16-013).",
-  "closeness": "A bill with the same general goal exists, but it has not passed the House or Senate.",
-  "uncertain": "Whether the bill will return to the floor. Newest source: late April 2026.",
-  "sources": [
-   {
-    "label": "House Natural Resources Committee advances the ESA Amendments Act of 2025",
-    "publisher": "NACo",
-    "type": "advocacy",
-    "url": "https://www.naco.org/news/house-natural-resources-committee-advances-endangered-species-act-amendments-act-2025"
-   },
-   {
-    "label": "House cancels floor vote on ESA Amendments Act",
-    "publisher": "Rural County Representatives of California",
-    "type": "advocacy",
-    "url": "https://www.rcrcnet.org/general/house-cancels-floor-vote-on-esa-amendments-act/"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-037",
-  "status": "not-done",
-  "match": "none",
-  "happened": "Grizzly bears have not been removed from the endangered species list. On July 14, 2026, Interior instead announced a revised proposal that keeps grizzlies listed but gives states more room to manage them in areas that met recovery goals.",
-  "key_dates": [
-   {
-    "date": "2026-07-17",
-    "event": "Fish and Wildlife Service publishes revised grizzly bear proposal."
-   }
-  ],
-  "closeness": "The chapter wanted grizzlies taken off the list. The proposal keeps them listed while easing some protections.",
-  "uncertain": "Whether the Service will later propose delisting is not known. Newest source is from July 2026.",
-  "sources": [
-   {
-    "label": "Grizzly Bear Listing With a Revised Section 4(d) Rule (proposed rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14450/endangered-and-threatened-wildlife-and-plants-grizzly-bear-listing-on-the-list-of-endangered-and"
-   },
-   {
-    "label": "Secretary Burgum returns management of grizzly bears to the West",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/secretary-burgum-returns-management-grizzly-bears-west"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-038",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "On December 18, 2025, the House voted 211-204 to pass a bill delisting the gray wolf in the lower 48 states and blocking court review. In August 2026, a senator's objection blocked a quick Senate vote. A September 2026 executive order told the Interior Secretary to decide within 90 days whether gray wolves meet recovery goals and, if so, start delisting.",
-  "key_dates": [
-   {
-    "date": "2025-12-18",
-    "event": "House passes the Pet and Livestock Protection Act (H.R. 845)."
-   },
-   {
-    "date": "2026-08",
-    "event": "Senate unanimous-consent request blocked."
-   },
-   {
-    "date": "2026-09-10",
-    "event": "Executive Order 14425, Supporting America's Ranchers, published."
-   }
-  ],
-  "legal": "No new court ruling found. Wolves outside the northern Rockies remain listed.",
-  "closeness": "Same goal. The wolf is not yet delisted; the House bill and the executive order's review are both unfinished.",
-  "uncertain": "The executive order's 90-day deadline falls in December 2026, so Interior's finding is not yet known. Newest source: September 2026.",
-  "sources": [
-   {
-    "label": "Supporting America's Ranchers (Executive Order 14425)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18571/supporting-americas-ranchers"
-   },
-   {
-    "label": "House Votes to Delist Gray Wolves",
-    "publisher": "DTN Progressive Farmer",
-    "type": "news",
-    "url": "https://www.dtnpf.com/agriculture/web/AG/livestock/article/2025/12/22/house-passes-bill-remove-gray-wolves"
-   },
-   {
-    "label": "Senate Dem blocks Republican bill to delist gray wolf",
-    "publisher": "E&E News",
-    "type": "news",
-    "url": "https://www.eenews.net/articles/senate-dem-blocks-republican-bill-to-delist-gray-wolf/"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-039",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "On September 3, 2025, BLM proposed changes to its greater sage-grouse plan amendments for Idaho, Montana and the Dakotas, Nevada and California, Utah and Wyoming to better align with state policies and plans. A final BLM Utah decision dated December 2025 appears on BLM's planning site. Colorado and Oregon decisions were signed in January 2025, before January 20, under the earlier plan.",
-  "key_dates": [
-   {
-    "date": "2025-09-03",
-    "event": "BLM proposes changes to sage-grouse plan amendments."
-   },
-   {
-    "date": "2025-12",
-    "event": "BLM Utah final decision (date from document cover)."
-   }
-  ],
-  "legal": "I found no court ruling.",
-  "closeness": "The changes move federal plans closer to state plans. They do not hand authority over sage-grouse to the states.",
-  "uncertain": "I could not open the Utah decision or confirm final decisions for the other states. Newest source is from December 2025.",
-  "sources": [
-   {
-    "label": "Changes to the Proposed RMP Amendment for Greater Sage-Grouse Rangewide Planning",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/09/03/2025-16886/opportunity-to-comment-on-changes-to-the-proposed-resource-management-plan-amendment-for-the-greater"
-   },
-   {
-    "label": "BLM Utah Proposes Increased Flexibility and Access in Sage-Grouse Plans",
-    "publisher": "Bureau of Land Management",
-    "type": "government",
-    "url": "https://www.blm.gov/press-release/blm-utah-proposes-increased-flexibility-and-access-sage-grouse-plans"
-   }
-  ],
-  "as_of": "2026-10-28",
-  "recheck": "Confirm which states' final sage-grouse records of decision were signed after September 2025 (a Utah decision dated December 2025 was listed but not opened)."
- },
- {
-  "id": "ch16-040",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no Fish and Wildlife Service rule that stops placing \"experimental\" species populations outside their historic range. The 2023 rule that allows this was still in place, and in April 2026 the Service asked for public input on Colorado's handling of its experimental gray wolf population.",
-  "closeness": "No matching action found. The April 2026 request for information about Colorado wolves reviews one existing population; it does not change the rule on where experimental populations may go.",
-  "uncertain": "Searched the Federal Register for Service documents on experimental populations and section 10(j) since January 2025, and ran a web search for a repeal or revision of the 2023 rule. The ESA rule changes the Service finalized in July 2026 did not cover section 10(j), as far as I found.",
-  "sources": [
-   {
-    "label": "Request for Information on Implementation of the Gray Wolf Nonessential Experimental Population Rule in Colorado (Apr. 6, 2026)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06638/endangered-and-threatened-wildlife-and-plants-request-for-information-on-implementation-of-the-gray"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-042",
-  "status": "partly-done",
-  "match": "broader",
-  "happened": "On May 23, 2025, President Trump signed Executive Order 14303, \"Restoring Gold Standard Science.\" It tells all agencies to make public the data, analyses and models behind the important scientific information they use in decisions, where the law allows.",
-  "key_dates": [
-   {
-    "date": "2025-05-23",
-    "event": "Executive Order 14303 signed."
-   }
-  ],
-  "legal": "I found no court ruling on the order.",
-  "closeness": "The order is government-wide and points the same way, but I found no Fish and Wildlife Service policy requiring that all data behind Endangered Species Act decisions be published with few or no exceptions. Same order as ch13-001.",
-  "uncertain": "How the Service has applied the order in specific listing decisions was not checked. Newest source is the May 2025 order.",
-  "sources": [
-   {
-    "label": "Executive Order 14303: Restoring Gold Standard Science",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09802/restoring-gold-standard-science"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-043",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no action abolishing the U.S. Geological Survey's biological research programs. The fiscal 2026 Interior spending law (P.L. 119-74, January 2026) still funds USGS surveys and research covering biology.",
-  "closeness": "No matching action was found, so there is nothing to compare.",
-  "uncertain": "I searched the Federal Register, Interior press releases, and the text of P.L. 119-74. Budget request details for USGS ecosystems programs were not checked.",
-  "sources": [
-   {
-    "label": "Public Law 119-74 (FY2026 consolidated appropriations, including Interior)",
-    "publisher": "U.S. Government Publishing Office",
-    "type": "government",
-    "url": "https://www.govinfo.gov/app/details/PLAW-119publ74"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch16-045",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no move of the Office of Surface Mining's headquarters to Pittsburgh. It still lists its headquarters in Washington, D.C., with a regional office in Pittsburgh. A June 2025 Senate bill to move a federal office to Pittsburgh (S. 2044) covers a Department of Energy office, not the Office of Surface Mining.",
-  "closeness": "No matching action found.",
-  "uncertain": "I searched the Federal Register and ran three web searches for an OSMRE headquarters move or relocation bill in 2025-2026 and found none.",
-  "sources": [
-   {
-    "label": "Offices and Organization",
-    "publisher": "Office of Surface Mining Reclamation and Enforcement",
-    "type": "government",
-    "url": "https://www.osmre.gov/node/285"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch16-047",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no change opening the Office of Surface Mining's training program to coal company workers. In June 2025 the office renewed the nomination form for its national technical training courses and listed only state and tribal governments as the people who use it.",
-  "closeness": "No matching action found.",
-  "uncertain": "Searched the Federal Register for Office of Surface Mining notices about its training program since January 2025 and read the program's web page in October 2026, which describes courses for OSMRE, state and tribal staff and pays travel for students from agencies working under the surface mining law. No opening to company employees was found.",
-  "sources": [
-   {
-    "label": "Information Collection: Nomination and Request for Payment Form for OSMRE's National Technical Training Courses (June 16, 2025)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/06/16/2025-10871/agency-information-collection-activities-nomination-and-request-for-payment-form-for-osmres-national"
-   },
-   {
-    "label": "National Technical Training Program",
-    "publisher": "Office of Surface Mining Reclamation and Enforcement",
-    "type": "government",
-    "url": "https://www.osmre.gov/programs/national-technical-training-program"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch16-048",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no federal change to the Applicant Violator System that lets regulators weigh extenuating circumstances. Federal Register items since 2025 that mention the system are approvals of individual state mining programs, such as Montana's in 2026.",
-  "closeness": "No matching action found.",
-  "uncertain": "Searched the Federal Register for Office of Surface Mining documents on the Applicant Violator System since January 2025, and ran a web search for a 2025 or 2026 rule change. Changes to the database itself might not appear in the Federal Register.",
-  "sources": [],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-049",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "The July 2025 reconciliation law gave the Bureau of Reclamation $1 billion to expand water conveyance and surface storage. In January 2026, Interior approved federal cost-sharing for California's Sites Reservoir, and in March 2026 it announced $889 million for storage and conveyance projects in six western states.",
-  "key_dates": [
-   {
-    "date": "2025-07-04",
-    "event": "Reconciliation law funds Reclamation storage (sec. 50501)."
-   },
-   {
-    "date": "2026-01-23",
-    "event": "Record of Decision for Sites Reservoir."
-   },
-   {
-    "date": "2026-03-17",
-    "event": "Interior announces $889 million for western water projects."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "Matches the storage part. I did not check dam manual updates or real-time monitoring.",
-  "uncertain": "I did not confirm how much new storage these projects add or their timelines. Newest source: March 2026.",
-  "sources": [
-   {
-    "label": "Interior Announces $889 Million Investment in Western Water Infrastructure",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/interior-announces-889-million-investment-western-water-infrastructure-through"
-   },
-   {
-    "label": "Interior Approves Sites Reservoir Project",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/interior-advances-president-trumps-executive-order-14181-priorities-approves-sites"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-052",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no law or rule changing the Water Infrastructure Finance and Innovation Act to match other federal infrastructure loan programs. The 2026 spending law funded the loan program but did not rewrite it.",
-  "closeness": "No matching action found.",
-  "uncertain": "Searched the local copy of all laws passed by the 119th Congress through October 2026 and the Federal Register for documents on the program since January 2025; the only Federal Register items were routine funding notices. Bills that were introduced but not passed were not checked.",
-  "sources": [],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-053",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "On January 20, 2025, President Trump signed a memorandum telling the Commerce and Interior Secretaries to restart the work from his first term to send more water from the Sacramento-San Joaquin Delta to other parts of California. Days later, Executive Order 14181 ordered steps to increase water supply in California.",
-  "key_dates": [
-   {
-    "date": "2025-01-20",
-    "event": "Memorandum \"Putting People Over Fish\" signed."
-   },
-   {
-    "date": "2025-01-24",
-    "event": "Executive Order 14181 on California water signed."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "Revives the first-term California water effort, but neither document names or formally reinstates the 2018 memorandum, and both focus on California rather than the whole West.",
-  "uncertain": "I did not confirm whether the 2018 memorandum itself was formally reinstated. Newest source: January 2025.",
-  "sources": [
-   {
-    "label": "Putting People Over Fish: Stopping Radical Environmentalism To Provide Water to Southern California",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02041/putting-people-over-fish-stopping-radical-environ-mentalism-to-provide-water-to-southern-california"
-   },
-   {
-    "label": "Emergency Measures To Provide Water Resources in California and Improve Disaster Response in Certain Areas",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02174/emergency-measures-to-provide-water-resources-in-california-and-improve-disaster-response-in-certain"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-054",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "On May 11, 2026, Interior approved the first tribal energy resource agreement, with the Southern Ute Indian Tribe. It lets the tribe approve its own energy leases, rights-of-way and business deals without Interior signing off on each one.",
-  "key_dates": [
-   {
-    "date": "2026-05-11",
-    "event": "First tribal energy resource agreement approved."
-   }
-  ],
-  "legal": "I found no court ruling.",
-  "closeness": "This supports energy development on tribal land, as the chapter recommends. It is one agreement, not a broad program.",
-  "uncertain": "Other steps to support tribal energy and minerals could not be checked. Newest source is from May 2026.",
-  "sources": [
-   {
-    "label": "Interior enters into nation's first-ever tribal energy agreement",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/interior-enters-nations-first-ever-tribal-energy-agreement"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-055",
-  "status": "in-effect-challenged",
-  "match": "partial",
-  "happened": "The July 2025 reconciliation law ended federal tax credits for new and used electric vehicles on Sept 30, 2025. In June 2025 Congress and the President revoked California's waiver for its rule phasing out gas car sales. In February 2026 EPA repealed federal vehicle greenhouse gas standards, and in September 2026 DOT lowered fuel economy standards.",
-  "key_dates": [
-   {
-    "date": "Jun 2025",
-    "event": "Congressional Review Act resolutions revoke California vehicle waivers."
-   },
-   {
-    "date": "Sep 30, 2025",
-    "event": "Federal EV tax credits end."
-   },
-   {
-    "date": "Feb 12, 2026",
-    "event": "EPA repeals vehicle greenhouse gas standards."
-   }
-  ],
-  "legal": "California and other states have a pending suit in the Northern District of California over the waiver resolutions. Challenges to EPA's repeal are pending in the D.C. Circuit. No ruling has reversed these actions.",
-  "closeness": "Close to the recommendation across several agencies and Congress. I did not check every federal EV program (for example, charging-station grants). See ch19-011, ch19-012 and ch19-013.",
-  "uncertain": "Status of EV charger funding and other smaller programs, and outcomes of the lawsuits. Newest source: September 2026.",
-  "sources": [
-   {
-    "label": "Official: US tax credit for EVs to end in September",
-    "publisher": "electrive",
-    "type": "news",
-    "url": "https://www.electrive.com/2025/07/07/official-us-tax-credit-for-evs-to-end-in-september"
-   },
-   {
-    "label": "EPA rescinds 2009 endangerment finding and eliminates vehicle GHG standards",
-    "publisher": "DLA Piper",
-    "type": "law-firm",
-    "url": "https://www.dlapiper.com/en-us/insights/publications/2026/02/epa-rescinds-endangerment-finding-and-eliminates-mobile-source-ghg-emissions-standards"
-   },
-   {
-    "label": "Judge bars EPA effort to send California vehicle emissions rules to Congress",
-    "publisher": "Insurance Journal (Reuters)",
-    "type": "news",
-    "url": "https://amp.insurancejournal.com/news/west/2026/09/03/883831.htm"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-057",
-  "status": "partly-done",
-  "match": "broader",
-  "happened": "On January 20, 2026, Interior released a new Strategic Direction for the Bureau of Indian Education with performance goals through 2030. Interior also announced that graduation rates at bureau-funded schools rose to 79 percent in 2025.",
-  "key_dates": [
-   {
-    "date": "2026-01-20",
-    "event": "BIE Strategic Direction released."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "A new plan for the bureau, in the general direction of reform. I did not confirm parent-focused changes or new reporting of student test data.",
-  "uncertain": "I did not read the full Strategic Direction. Newest source: January 2026.",
-  "sources": [
-   {
-    "label": "Interior Unveils Bureau of Indian Education Strategic Direction",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/pressreleases/interior-unveils-bureau-indian-education-strategic-direction-drive-student-success"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch16-058",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no 2025-2026 bill or administration request to reauthorize the Land Buy-Back Program for Tribal Nations, which used Cobell settlement money and ended in 2022.",
-  "closeness": "No matching action found.",
-  "uncertain": "I searched the Federal Register and the web for reauthorization bills or requests and found none.",
-  "sources": [
-   {
-    "label": "Program History, Land Buy-Back Program for Tribal Nations",
-    "publisher": "U.S. Department of the Interior",
-    "type": "government",
-    "url": "https://www.doi.gov/buybackprogram/program-history-land-buy-back-program-tribal-nations"
-   }
-  ],
-  "as_of": "2026-10-28",
-  "recheck": "Check congress.gov or GovInfo for a 119th Congress Land Buy-Back reauthorization bill."
- }
+  {
+    "id": "ch16-001",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On Jan 20, 2025 President Trump revoked dozens of Biden executive orders, including the climate orders behind Interior's Secretarial Order 3398. On Feb 3, 2025 Interior Secretary Doug Burgum signed six orders, including SO 3418, \"Unleashing American Energy.\" It ended Interior actions tied to the revoked orders and told officials to plan to suspend, revise or rescind a list of rules and orders, naming SO 3398.",
+    "key_dates": [
+      {
+        "date": "Jan 20, 2025",
+        "event": "Executive Orders 14148 (revocations) and 14154 (Unleashing American Energy)."
+      },
+      {
+        "date": "Feb 3, 2025",
+        "event": "Burgum signs Secretarial Orders 3417-3422."
+      }
+    ],
+    "legal": "No court ruling against the secretarial orders themselves was found. Many individual actions taken under them face separate lawsuits.",
+    "closeness": "Matches the recommendation's mechanism: revoke Biden orders and restore an \"energy dominance\" agenda by secretarial order. SO 3398 is named for rescission through officials' action plans.",
+    "uncertain": "SO 3418 lists SO 3398 for suspension, revision or rescission; I did not confirm a later document formally rescinding it. Newest source: February 2025.",
+    "sources": [
+      {
+        "label": "Secretary Doug Burgum signs first round of Secretary's Orders to unleash American energy",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/secretary-doug-burgum-signs-first-round-secretarys-orders-unleash-american-energy"
+      },
+      {
+        "label": "Secretary's Order 3418: Unleashing American Energy",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/sites/default/files/document_secretarys_orders/so-3418-signed.pdf"
+      },
+      {
+        "label": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions"
+      },
+      {
+        "label": "Secretary Burgum's first wave of orders",
+        "publisher": "Arnold & Porter",
+        "type": "law-firm",
+        "url": "https://www.arnoldporter.com/en/perspectives/blogs/environmental-edge/2025/02/secretary-burgum-first-wave-of-orders"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-002",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On February 3, 2025, Interior Secretary Doug Burgum signed Secretary's Order 3418. It ended actions tied to revoked Biden orders and directed a review of Biden-era Interior orders, including Order 3398, which had revoked many Trump-era orders. On April 15, 2025, BLM ended its study of keeping the old coal leasing moratorium. Executive Order 14153 (January 2025) also reinstated a 2017 order on Alaska's petroleum reserve.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14153 signed."
+      },
+      {
+        "date": "2025-02-03",
+        "event": "Secretary's Order 3418 signed."
+      },
+      {
+        "date": "2025-04-15",
+        "event": "BLM ends its review of the coal leasing moratorium."
+      }
+    ],
+    "legal": "I found no court ruling against the orders themselves.",
+    "closeness": "The administration revived parts of the Trump-era approach. I could not confirm that each of the dozen orders the chapter lists was formally reinstated. Related to ch16-001.",
+    "uncertain": "Order 3418 orders a review of Order 3398 but does not itself reinstate the Trump-era orders; I found no later order reinstating the dozen the chapter lists. Newest source is from April 2025.",
+    "sources": [
+      {
+        "label": "Secretary's Order 3418: Unleashing American Energy",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/sites/default/files/document_secretarys_orders/so-3418-signed.pdf"
+      },
+      {
+        "label": "Rescission and Termination of the EIS on Maintaining Secretary Jewell's Coal Leasing Moratorium (Apr. 15, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06388/rescission-and-termination-of-the-environmental-impact-statement-analyzing-the-potential"
+      },
+      {
+        "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Check whether Interior formally reinstated each Trump-era order the chapter lists after reviewing Order 3398."
+  },
+  {
+    "id": "ch16-003",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The July 2025 reconciliation law (the One Big Beautiful Bill Act) requires the Bureau of Land Management to hold quarterly onshore oil and gas lease sales and lowered the royalty rate to 12.5%. BLM held sales across producing states in 2026, reporting $592.7 million in the first quarter and $4.1 billion in the second quarter.",
+    "key_dates": [
+      {
+        "date": "Jul 4, 2025",
+        "event": "Reconciliation law signed, requiring quarterly sales."
+      },
+      {
+        "date": "Jan-Mar 2026",
+        "event": "First-quarter sales bring in $592.7 million."
+      },
+      {
+        "date": "Apr-Jun 2026",
+        "event": "Second-quarter sales bring in $4.1 billion, mostly in New Mexico."
+      }
+    ],
+    "legal": "No court ruling against the quarterly sale requirement was found.",
+    "closeness": "Quarterly sales match the recommendation, and are now required by law rather than set by Interior policy. I did not check whether public notice and comment were expanded, as the chapter also asks.",
+    "uncertain": "Results for the third quarter of 2026 and whether every producing state had a sale each quarter. Newest source: mid-2026 BLM releases.",
+    "sources": [
+      {
+        "label": "BLM first quarter 2026 oil and gas sales generate nearly $600 million",
+        "publisher": "Bureau of Land Management",
+        "type": "government",
+        "url": "https://www.blm.gov/press-release/blm-first-quarter-2026-oil-and-gas-sales-generate-nearly-600-million"
+      },
+      {
+        "label": "BLM's second-quarter 2026 oil and gas lease sales generate $4.1 billion",
+        "publisher": "Bureau of Land Management",
+        "type": "government",
+        "url": "https://www.blm.gov/press-release/blms-second-quarter-2026-oil-and-gas-lease-sales-generate-41-billion"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-004",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law told Interior to resume quarterly onshore oil and gas lease sales, an idea from the Lease Now Act. On June 11, 2026, Senators Barrasso and Lummis introduced the Let America Build Act, which includes a section on \"cooperative federalism\" in oil and gas permitting and state authority over fracking rules.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law (P.L. 119-21) requires quarterly onshore lease sales."
+      },
+      {
+        "date": "2026-06-11",
+        "event": "Let America Build Act (S. 4765) introduced in the Senate."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "The lease-sale part became law. The part giving states a bigger role in permitting on federal land is only in a bill that has been introduced, not passed.",
+    "uncertain": "I did not find bills named the Lease Now Act or ONSHORE Act in the 119th Congress, or whether the White House backed S. 4765. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-21, sec. 50101 (onshore oil and gas leasing)",
+        "publisher": "U.S. Government Publishing Office",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "S. 4765, Let America Build Act of 2026 (introduced)",
+        "publisher": "U.S. Government Publishing Office",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4765is/pdf/BILLS-119s4765is.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-005",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law requires 30 Gulf of America lease sales and at least six in Alaska's Cook Inlet. The first, \"Big Beautiful Gulf 1,\" was held Dec 10, 2025 and drew about $300 million in high bids. In November 2025 Interior also proposed a new 2026-2031 offshore program with up to 34 sales to replace the Biden-era program.",
+    "key_dates": [
+      {
+        "date": "Jul 4, 2025",
+        "event": "Reconciliation law requires 36 offshore sales."
+      },
+      {
+        "date": "Nov 24, 2025",
+        "event": "Draft proposed 11th National OCS program published (up to 34 sales)."
+      },
+      {
+        "date": "Dec 10, 2025",
+        "event": "Big Beautiful Gulf 1 lease sale held."
+      }
+    ],
+    "legal": "No court ruling blocking these sales was found.",
+    "closeness": "Bigger than the recommendation. Instead of maximizing sales under the existing program, Congress required many sales by law and Interior moved to replace the program.",
+    "uncertain": "Whether the March 2026 Gulf and Cook Inlet sales took place as scheduled, and whether the new national program was finalized. Newest source: early 2026.",
+    "sources": [
+      {
+        "label": "Interior advances offshore energy with first lease sale under the One Big Beautiful Bill Act",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/energy-dominance-first-lease-sale-one-big"
+      },
+      {
+        "label": "BOEM advances first two OBBBA offshore lease sales",
+        "publisher": "Bureau of Ocean Energy Management",
+        "type": "government",
+        "url": "https://www.boem.gov/newsroom/press-releases/boem-advances-first-two-obbba-offshore-lease-sales"
+      },
+      {
+        "label": "Interior launches 11th National Offshore Leasing Program",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-launches-expansive-11th-national-offshore-leasing-program-advance-us-energy"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-006",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "In November 2025, Interior released a draft proposed 11th offshore oil and gas leasing program to replace the Biden-era plan, and in January 2026 asked for nominations for California sales. Separately, the July 2025 reconciliation law requires 30 Gulf of America lease sales and at least six in Alaska's Cook Inlet on a set schedule.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law sets a schedule of offshore lease sales."
+      },
+      {
+        "date": "2025-11-24",
+        "event": "Draft proposed 11th offshore leasing program released."
+      }
+    ],
+    "legal": "I found no court ruling on the new program.",
+    "closeness": "Interior is writing a new five-year plan, as recommended. The law's fixed sale schedule works somewhat like regular sales, but Congress has not replaced five-year plans with rolling sales. Related to ch16-005.",
+    "uncertain": "When the new program will be final is not known. Newest source is from July 2026.",
+    "sources": [
+      {
+        "label": "Notice of Availability of the 11th National OCS Oil and Gas Leasing Draft Proposed Program",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/11/24/2025-20760/notice-of-availability-of-the-11th-national-outer-continental-shelf-oil-and-gas-leasing-draft"
+      },
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-007",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In December 2025, Congress used the Congressional Review Act to cancel the November 2024 Miles City, Montana plan amendment and the 2022 Alaska petroleum reserve plan. In May 2026, BLM fully rescinded the 2024 Public Lands (Conservation and Landscape Health) Rule. BLM also started revising western Oregon plans and changed sage-grouse plan amendments.",
+    "key_dates": [
+      {
+        "date": "2025-12-05",
+        "event": "Resolution canceling the 2022 Alaska petroleum reserve plan signed."
+      },
+      {
+        "date": "2025-12-11",
+        "event": "Resolution canceling the 2024 Miles City plan amendment signed."
+      },
+      {
+        "date": "2026-05-12",
+        "event": "BLM rescinds the Public Lands Rule."
+      }
+    ],
+    "legal": "I found no court ruling on these steps.",
+    "closeness": "Several recent plans were undone or reopened, in line with the chapter. I could not confirm a review of every plan finished in the past four years. The \"30 by 30\" order was revoked (see ch16-028).",
+    "uncertain": "How many other recent plans are being revised could not be confirmed. Newest source is from June 2026.",
+    "sources": [
+      {
+        "label": "Termination of the RMP Amendment for the Miles City Field Office, Montana",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11149/termination-of-the-resource-management-plan-amendment-for-the-miles-city-field-office-montana-and-an"
+      },
+      {
+        "label": "Rescission of Conservation and Landscape Health Rule (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/12/2026-09386/rescission-of-conservation-and-landscape-health-rule"
+      },
+      {
+        "label": "Notice of Availability of the 2025 Record of Decision for the NPR-A Integrated Activity Plan",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/25/2026-03784/notice-of-availability-of-the-2025-record-of-decision-for-the-final-environmental-impact-statement"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-008",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law repealed the Inflation Reduction Act's higher onshore oil and gas royalty rate, returning it to 12.5%, and cut the federal coal royalty to no more than 7% through 2034. On June 24, 2026, BLM proposed returning minimum bond amounts for oil and gas leases to levels before its 2024 rule.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law lowers royalty rates."
+      },
+      {
+        "date": "2026-06-24",
+        "event": "BLM proposes lower minimum bond amounts."
+      }
+    ],
+    "legal": "I found no court ruling.",
+    "closeness": "Royalties are now at or below the levels the chapter named, and bonding changes are proposed. I could not confirm changes to rental rates.",
+    "uncertain": "Whether rents were changed, and the final bonding rule, are not known. Newest source is from June 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Oil and Gas Leasing (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12734/oil-and-gas-leasing"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-009",
+    "status": "in-effect-challenged",
+    "match": "direct",
+    "happened": "On Oct 23, 2025 BLM issued a decision reinstating the Coastal Plain oil and gas leasing program and making all 1.56 million acres available. The July 2025 reconciliation law requires four lease sales there over ten years. BLM held the first sale on June 5, 2026, awarding five leases for $3.74 million.",
+    "key_dates": [
+      {
+        "date": "Jul 4, 2025",
+        "event": "Reconciliation law requires four Coastal Plain sales."
+      },
+      {
+        "date": "Oct 23, 2025",
+        "event": "Record of Decision reinstates the leasing program."
+      },
+      {
+        "date": "Jun 5, 2026",
+        "event": "First lease sale; five leases awarded."
+      }
+    ],
+    "legal": "Environmental groups have a pending case in the U.S. District Court for the District of Alaska challenging the 2020 and 2025 decisions (amended complaint January 2026). I found no ruling.",
+    "closeness": "Same idea and mechanism: a competitive leasing program in the Coastal Plain.",
+    "uncertain": "The outcome of the Alaska lawsuit. Newest source: CRS, August 2026.",
+    "sources": [
+      {
+        "label": "Arctic National Wildlife Refuge: Status of Oil and Gas Program",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12006.html"
+      },
+      {
+        "label": "BLM auctions five oil and gas leases in Arctic refuge",
+        "publisher": "Offshore Technology",
+        "type": "news",
+        "url": "https://www.offshore-technology.com/news/blm-auction-arctic-refuge-five-oil-gas-leases/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-010",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The July 2025 reconciliation law required Interior to offer more land for coal leasing. In September 2025, Interior made about 13.1 million acres available and cut the coal royalty rate. BLM held coal lease sales in Montana, Utah and Alabama in fall 2025. Congress also canceled a 2024 Montana plan amendment that would have ended new coal leasing there.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law requires more coal leasing."
+      },
+      {
+        "date": "2025-09-29",
+        "event": "Interior opens 13.1 million acres for coal leasing."
+      },
+      {
+        "date": "2025-10-06",
+        "event": "Coal lease sale for Montana's Spring Creek Mine."
+      },
+      {
+        "date": "2025-12-11",
+        "event": "Resolution canceling the Miles City plan amendment signed."
+      }
+    ],
+    "legal": "I found no court ruling blocking the restart.",
+    "closeness": "Coal leasing restarted, including in Montana. I could not confirm a separate formal end to the program review or specific talks with Wyoming and Montana leaders.",
+    "uncertain": "Results of each sale were not checked. Newest source is from June 2026.",
+    "sources": [
+      {
+        "label": "Interior unleashes American coal power",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-unleashes-american-coal-power-bold-move-advance-trump-administration"
+      },
+      {
+        "label": "Implementing Section 50203 of the One Big Beautiful Bill Act",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/02/2025-19237/implementing-section-50203-of-the-one-big-beautiful-bill-act"
+      },
+      {
+        "label": "Lease for Sale: Spring Creek Mine Federal Coal Lease-by-Application, Montana",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/15/2025-17752/lease-for-sale-navajo-transitional-energy-company-spring-creek-mine-federal-coal"
+      },
+      {
+        "label": "Termination of the RMP Amendment for the Miles City Field Office, Montana",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11149/termination-of-the-resource-management-plan-amendment-for-the-miles-city-field-office-montana-and-an"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-011",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "All three closures were finished before 2025. On April 27, 2026, President Trump signed H.J. Res. 140, a Congressional Review Act measure that cancels the 20-year mining ban near the Boundary Waters. On March 31, 2026, the Bureau of Land Management proposed revoking the 10-mile leasing ban around Chaco Culture National Historical Park; that decision was still pending in mid-2026.",
+    "key_dates": [
+      {
+        "date": "2026-01-21",
+        "event": "House passes H.J. Res. 140 on the Boundary Waters withdrawal."
+      },
+      {
+        "date": "2026-03-31",
+        "event": "BLM proposes revoking the Chaco 10-mile withdrawal."
+      },
+      {
+        "date": "2026-04-27",
+        "event": "President signs H.J. Res. 140 into law."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "The Boundary Waters ban was reversed by Congress, and the Chaco ban is under review with options to keep, shrink to 5 miles, or revoke it. I found no action on the Thompson Divide withdrawal.",
+    "uncertain": "I searched the web and the Federal Register. As of late July 2026, BLM had not set a date for a final Chaco decision, and I found no action on the Thompson Divide withdrawal. Newest source is from July 2026.",
+    "sources": [
+      {
+        "label": "Trump ends ban on mining near the Boundary Waters",
+        "publisher": "MPR News",
+        "type": "news",
+        "url": "https://www.mprnews.org/story/2026/04/27/trump-ends-ban-on-mining-near-the-boundary-waters"
+      },
+      {
+        "label": "In search of oil and gas, Trump could axe Biden-era buffer around Chaco Canyon",
+        "publisher": "KUNC",
+        "type": "news",
+        "url": "https://www.kunc.org/regional-news/2026-07-27/in-search-of-oil-and-gas-trump-could-axe-biden-era-buffer-around-chaco-canyon"
+      },
+      {
+        "label": "N.M. Delegation statement on Chaco Canyon leasing review",
+        "publisher": "U.S. Senate Energy and Natural Resources Committee",
+        "type": "government",
+        "url": "https://www.energy.senate.gov/2026/4/n-m-delegation-denounces-trump-admin-s-reckless-race-to-allow-drilling-in-chaco-canyon"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-012",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On April 23, 2025, Interior adopted emergency permitting procedures for energy and critical minerals projects, saying reviews that took years would take 28 days at most. In August 2025, BLM changed its drilling-permit rules to match the July 2025 reconciliation law.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Interior announces emergency permitting procedures."
+      },
+      {
+        "date": "2025-08-01",
+        "event": "BLM direct final rule on drilling-permit approvals under the reconciliation law."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Same goal of faster permits, but by emergency procedures and law, not by a standard tying regional offices to state permit times.",
+    "uncertain": "I did not find data comparing federal and state permit times after these changes. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "Department of the Interior Implements Emergency Permitting Procedures to Strengthen Domestic Energy Supply",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/department-interior-implements-emergency-permitting-procedures-strengthen-domestic"
+      },
+      {
+        "label": "Revision to Regulations Regarding Approval of Operations; Valid Period of Approved Application for Permit To Drill",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/01/2025-14642/revision-to-regulations-regarding-approval-of-operations-valid-period-of-approved-application-for"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-013",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Interior brought back a 2017 legal opinion in April 2025 saying the Migratory Bird Treaty Act does not cover accidental bird deaths. CEQ removed all its NEPA rules (final Jan 2026), and Interior cut most of its own NEPA rules (Feb 2026). In July 2026 the Fish and Wildlife Service finalized new rules on critical habitat exclusions. BLM proposed rolling back most of the 2024 methane waste rule but had not finalized it.",
+    "key_dates": [
+      {
+        "date": "Apr 11, 2025",
+        "event": "Interior reinstates Solicitor's Opinion M-37050 on bird deaths."
+      },
+      {
+        "date": "Jan 8, 2026",
+        "event": "CEQ finalizes removal of its NEPA regulations."
+      },
+      {
+        "date": "Feb 24, 2026",
+        "event": "Interior final rule rescinds most of its NEPA regulations."
+      },
+      {
+        "date": "Jul 21, 2026",
+        "event": "FWS final rule on critical habitat exclusions (effective Aug 20)."
+      }
+    ],
+    "legal": "State attorneys general sued in September 2026 over the critical habitat exclusion rule and a related rule. I found no ruling. I found no lawsuit over the bird opinion or the NEPA changes.",
+    "closeness": "Partly matches. The bird opinion is a direct match. The NEPA action goes further than restoring the 2020 rules: CEQ's rules were removed entirely. The methane rollback is only proposed. The habitat rule revives earlier Trump-era policy in a new form.",
+    "uncertain": "Whether the methane waste rollback has been finalized (newest source June 2026) and the outcome of the critical habitat lawsuit.",
+    "sources": [
+      {
+        "label": "The pendulum swings back again on incidental take under the MBTA",
+        "publisher": "Hunton Andrews Kurth",
+        "type": "law-firm",
+        "url": "https://www.hunton.com/the-nickel-report/the-pendulum-swings-back-again-on-prohibition-of-incidental-take-under-the-migratory-bird-treaty-act"
+      },
+      {
+        "label": "CEQ formally rescinds its NEPA implementing regulations",
+        "publisher": "Venable LLP",
+        "type": "law-firm",
+        "url": "https://www.venable.com/insights/publications/2026/01/ceq-formally-rescinds-its-nepa-implementing"
+      },
+      {
+        "label": "FWS resurrects ESA rules on threatened species protections and critical habitat exclusions",
+        "publisher": "Beveridge & Diamond",
+        "type": "law-firm",
+        "url": "https://www.bdlaw.com/publications/fws-resurrects-esa-rules-on-threatened-species-protections-and-critical-habitat-exclusions/"
+      },
+      {
+        "label": "BLM methane waste prevention rule tracker",
+        "publisher": "Harvard Environmental & Energy Law Program",
+        "type": "academic",
+        "url": "https://eelp.law.harvard.edu/tracker/bam-methane-waste-prevention-rule"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-014",
+    "status": "in-effect-challenged",
+    "match": "direct",
+    "happened": "The July 2025 reconciliation law told Interior to lease the National Petroleum Reserve in Alaska under the 2020 plan. On Dec 22, 2025 Interior signed a decision adopting that plan, reopening about 82% of the reserve. BLM held a lease sale on Mar 18, 2026 that drew about $163.7 million in high bids on 187 tracts.",
+    "key_dates": [
+      {
+        "date": "Jul 4, 2025",
+        "event": "Reconciliation law directs leasing under the 2020 plan."
+      },
+      {
+        "date": "Dec 5, 2025",
+        "event": "Congress overturns the 2022 NPR-A rule (Public Law 119-47)."
+      },
+      {
+        "date": "Dec 22, 2025",
+        "event": "Record of Decision adopts the 2020 plan (Alternative E)."
+      },
+      {
+        "date": "Mar 18, 2026",
+        "event": "Record NPR-A lease sale."
+      }
+    ],
+    "legal": "At least two lawsuits challenge the new plan, including one by a coalition with an Inupiat organization. I found no ruling.",
+    "closeness": "Same as the recommendation: reinstating the 2020 plan that opens most of the reserve.",
+    "uncertain": "The outcome of the lawsuits. Newest source: CRS, August 2026.",
+    "sources": [
+      {
+        "label": "National Petroleum Reserve in Alaska (NPR-A): A Summary",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-08-24_IF13119_755505d3f1709f2d054899a70a6d3d5e3896180a.html"
+      },
+      {
+        "label": "Arctic Alaska oil and gas lease sale draws record bidding, despite legal clouds",
+        "publisher": "Alaska Beacon",
+        "type": "news",
+        "url": "https://alaskabeacon.com/2026/03/19/arctic-alaska-oil-and-gas-lease-sale-draws-record-bidding-despite-legal-clouds/"
+      },
+      {
+        "label": "Public Law 119-47",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ47/html/PLAW-119publ47.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-015",
+    "status": "in-effect-challenged",
+    "match": "direct",
+    "happened": "The administration created \"Schedule Policy/Career,\" a version of Schedule F. The Office of Personnel Management finalized the rule in early 2026, and a June 2026 executive order moved about 8,000 federal employees into it.",
+    "key_dates": [
+      {
+        "date": "Jan 20, 2025",
+        "event": "Executive Order 14171 restores the Schedule F approach."
+      },
+      {
+        "date": "Mar 2026",
+        "event": "OPM final rule takes effect."
+      },
+      {
+        "date": "Jun 3, 2026",
+        "event": "Executive order moves about 8,000 employees into the new category."
+      }
+    ],
+    "legal": "At least three lawsuits are pending (NTEU in D.C., a Protect Democracy case, and a union and watchdog case in Maryland). I found no merits ruling or injunction.",
+    "closeness": "Government-wide action matching the recommendation. Same action as the project's \"schedule-f\" story.",
+    "uncertain": "How many Interior or Office of Surface Mining positions were moved into the new category. I did not find an agency-by-agency list.",
+    "sources": [
+      {
+        "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11412.html"
+      },
+      {
+        "label": "Executive Order 14171",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02095/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce"
+      },
+      {
+        "label": "Employee groups revive lawsuit to block Schedule F",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/workforce/2026/03/employee-groups-revive-lawsuit-block-schedule-f/411962/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-016",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On February 18, 2026, Interior amended its cooperative agreement with West Virginia so the state regulates mining of federally owned coal leased by BLM. On May 11, 2026, Interior approved the first tribal energy resource agreement, with the Southern Ute Indian Tribe.",
+    "key_dates": [
+      {
+        "date": "2026-02-18",
+        "event": "Interior and West Virginia sign amended coal agreement."
+      },
+      {
+        "date": "2026-05-11",
+        "event": "Interior approves Southern Ute tribal energy resource agreement."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "These are examples of expanded state and tribal agreements, as recommended. I did not check for a broader program across Interior.",
+    "uncertain": "I found only these two examples on Interior's news page and did not look for others. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "Department of the Interior and West Virginia Sign Agreement Expanding State Oversight of Coal Mining on Federal Land",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/department-interior-and-west-virginia-sign-agreement-expanding-state-oversight-coal"
+      },
+      {
+        "label": "Interior Enters into Nation's First-Ever Tribal Energy Agreement",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-enters-nations-first-ever-tribal-energy-agreement"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-017",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no 2025-2026 decision to move BLM's headquarters back to the West. BLM's headquarters moved to Grand Junction, Colorado, in 2019-2020, before January 20, 2025, then returned to Washington, D.C., in 2021, with Grand Junction kept as a 'western headquarters.'",
+    "closeness": "No matching action found since January 20, 2025. The earlier move West happened during the first Trump administration.",
+    "uncertain": "I ran three web searches for a 2025-2026 BLM headquarters move and checked Interior's news page; none showed one.",
+    "sources": [
+      {
+        "label": "Secretary Haaland Outlines Next Steps to Rebuild Bureau of Land Management (2021)",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/secretary-haaland-outlines-next-steps-rebuild-bureau-land-management"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-019",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no law letting BLM put down excess wild horses and burros. The fiscal 2026 Interior spending law (P.L. 119-74, January 2026) kept the long-standing rule that no funds may be used to destroy healthy, unadopted wild horses or burros.",
+    "closeness": "No matching law found. Congress renewed the opposite rule.",
+    "uncertain": "I searched the Federal Register, Interior press releases, and the local copy of 119th Congress laws. Introduced bills could not be fully checked.",
+    "sources": [
+      {
+        "label": "Public Law 119-74 (FY2026 consolidated appropriations, including Interior)",
+        "publisher": "U.S. Government Publishing Office",
+        "type": "government",
+        "url": "https://www.govinfo.gov/app/details/PLAW-119publ74"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-020",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "Executive Order 14153 (January 2025) told Interior to evaluate revoking Public Land Order 5150 and review other orders blocking Alaska Native land selections. In February 2026, Public Land Order 7966 partly revoked PLOs 5150 and 5180 on about 2.1 million acres in the Dalton Utility Corridor. In May 2026, Interior conveyed about 1.4 million acres there to Alaska.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14153 signed."
+      },
+      {
+        "date": "2026-02-25",
+        "event": "Public Land Order 7966 partly revokes PLO 5150."
+      },
+      {
+        "date": "2026-05-06",
+        "event": "Interior conveys 1.4 million acres to Alaska."
+      }
+    ],
+    "legal": "I found no court ruling.",
+    "closeness": "This starts with PLO 5150, as the chapter recommends. It is a partial revocation, and I could not confirm that all other old orders were revoked.",
+    "uncertain": "The status of other old land orders could not be confirmed. Newest source is from May 2026.",
+    "sources": [
+      {
+        "label": "Public Land Order No. 7966: Partial Revocation of PLOs 5150 and 5180",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/25/2026-03777/public-land-order-no-7966-partial-revocation-of-public-land-order-nos-5150-and-5180-as-amended"
+      },
+      {
+        "label": "Interior transfers 1.4 million acres in Dalton Utility Corridor to the State of Alaska",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-transfers-14-million-acres-dalton-utility-corridor-state-alaska"
+      },
+      {
+        "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-021",
+    "status": "in-effect-challenged",
+    "match": "direct",
+    "happened": "Executive Order 14153 (January 20, 2025) ordered Interior to reinstate the 2019 Arctic refuge environmental impact statement and 2020 decision, and to rescind lease cancellations. On October 23, 2025, Interior reopened the Coastal Plain for oil and gas leasing. BLM held a lease sale there in June 2026.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14153 signed."
+      },
+      {
+        "date": "2025-10-23",
+        "event": "Interior reopens the Coastal Plain for leasing."
+      },
+      {
+        "date": "2026-06-05",
+        "event": "Coastal Plain lease sale held."
+      }
+    ],
+    "legal": "Environmental groups have a pending case in the U.S. District Court for the District of Alaska. I found no ruling.",
+    "closeness": "The 2020 study and decision were reinstated as recommended, by executive order and agency decision rather than a secretarial order. Related to ch16-009.",
+    "uncertain": "Whether every earlier lease suspension was formally lifted could not be confirmed. Newest source is from 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
+      },
+      {
+        "label": "Interior takes bold steps to expand energy, local control and land access in Alaska",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-takes-bold-steps-expand-energy-local-control-and-land-access-alaska"
+      },
+      {
+        "label": "Arctic National Wildlife Refuge: Status of Oil and Gas Program",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12006.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-022",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In October 2020, before January 20, 2025, Interior approved Willow with five drilling pads, but a federal court threw out that approval in 2021. The Biden administration approved Willow in March 2023 with three pads, with a fourth to be considered later. In June 2025, the Ninth Circuit upheld that approval. I found no federal approval of more pads since then.",
+    "key_dates": [
+      {
+        "date": "2023-03-13",
+        "event": "Interior approves Willow with three pads."
+      },
+      {
+        "date": "2025-06",
+        "event": "Ninth Circuit upholds the approval."
+      }
+    ],
+    "legal": "U.S. Court of Appeals for the Ninth Circuit, June 2025: upheld BLM's approval in a split decision, finding a minor flaw in how BLM handled the three-pad choice that did not require undoing the approval.",
+    "closeness": "Willow was approved, but before 2025 and with three pads instead of the five the chapter wanted. The five-pad plan was approved in 2020 and then vacated by a court.",
+    "uncertain": "I searched the web and found no 2026 decision on added pads. ConocoPhillips expects first oil in 2029. Newest source is from January 2026.",
+    "sources": [
+      {
+        "label": "Interior Department Substantially Reduces Scope of Willow Project",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://doi.gov/pressreleases/interior-department-substantially-reduces-scope-willow-project"
+      },
+      {
+        "label": "Appeals court upholds approval of Willow project on Alaska's North Slope",
+        "publisher": "Alaska Beacon",
+        "type": "news",
+        "url": "https://alaskabeacon.com/2025/06/13/appeals-court-upholds-approval-of-willow-project-on-alaskas-north-slope/"
+      },
+      {
+        "label": "ConocoPhillips outlines plans to expand Arctic drilling",
+        "publisher": "E&E News",
+        "type": "news",
+        "url": "https://www.eenews.net/articles/conocophillips-outlines-plans-to-expand-arctic-drilling/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-023",
+    "status": "in-effect-challenged",
+    "match": "direct",
+    "happened": "On October 6, 2025, President Trump approved the appeal for the Ambler Road under the Alaska lands law. By October 23, 2025, BLM, the National Park Service and the Army Corps of Engineers had reissued the permits for the road.",
+    "key_dates": [
+      {
+        "date": "2025-10-06",
+        "event": "President approves the Ambler Road."
+      },
+      {
+        "date": "2025-10-23",
+        "event": "Interior announces reissued right-of-way permits."
+      }
+    ],
+    "legal": "In January 2026, ten groups filed an amended complaint in the U.S. District Court for Alaska challenging the October 2025 approval and permits. A separate suit by tribal governments is also pending. I found no ruling as of April 2026; the court has allowed pre-construction work.",
+    "closeness": "The road was approved, as the chapter recommends, but lawsuits are pending.",
+    "uncertain": "Whether the court has ruled since April 2026, and construction progress, are not known.",
+    "sources": [
+      {
+        "label": "Decision of the President and Statement of Reasons (Ambler Road)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/08/2025-19510/decision-of-the-president-and-statement-of-reasons"
+      },
+      {
+        "label": "Interior takes bold steps to expand energy, local control and land access in Alaska",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-takes-bold-steps-expand-energy-local-control-and-land-access-alaska"
+      },
+      {
+        "label": "Groups challenge Trump approval of Ambler Road (January 2026 press release)",
+        "publisher": "Trustees for Alaska",
+        "type": "advocacy",
+        "url": "https://trustees.org/wp-content/uploads/2026/01/2026GroupsChallengeTrumpApprovalAmblerRoad-FINAL-3.pdf"
+      },
+      {
+        "label": "Court filings provide mixed picture of Ambler Road progress",
+        "publisher": "Alaska Beacon",
+        "type": "news",
+        "url": "https://alaskabeacon.com/briefs/court-filings-provide-mixed-picture-of-ambler-road-progress/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-024",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On October 19, 2026, the National Park Service published a final rule removing its 2015, 2017 and 2024 Alaska hunting rules and restoring the earlier framework that defers more to state hunting law in national preserves. The rule takes effect November 18, 2026.",
+    "key_dates": [
+      {
+        "date": "2026-03-10",
+        "event": "NPS proposed rule published."
+      },
+      {
+        "date": "2026-10-19",
+        "event": "NPS final rule published; effective November 18, 2026."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Matches the Park Service half of the recommendation. I did not confirm a matching Fish and Wildlife Service action on Alaska refuges.",
+    "uncertain": "I did not check for lawsuits against the final rule or for a Fish and Wildlife Service rule. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Alaska; Wildlife, Harvest, and Access (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21299/alaska-wildlife-harvest-and-access"
+      },
+      {
+        "label": "Interior Finalizes Rule Restoring Alaska-Specific Management Framework for National Parks and Preserves",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-finalizes-rule-restoring-alaska-specific-management-framework-national-parks"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-025",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "Executive Order 14153 told Interior to restore a 2020 National Park Service rule on hunting in Alaska's national preserves and to consult Alaska before rules affecting hunting and fishing. On October 19, 2026, the Park Service issued a final rule restoring its earlier Alaska framework, which recognizes the State's role in managing harvest.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14153 signed."
+      },
+      {
+        "date": "2026-03-10",
+        "event": "Park Service proposes restoring state-aligned hunting rules."
+      },
+      {
+        "date": "2026-10-19",
+        "event": "Final rule published."
+      }
+    ],
+    "legal": "I found no court ruling; the rule is very new.",
+    "closeness": "The rule gives the State a larger role in Park Service lands. It does not recognize state authority over fish and game on all federal lands in Alaska.",
+    "uncertain": "Whether the rule will be challenged is not known. Newest source is from October 2026.",
+    "sources": [
+      {
+        "label": "Alaska; Wildlife, Harvest, and Access (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21299/alaska-wildlife-harvest-and-access"
+      },
+      {
+        "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-026",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "Executive Order 14153 told Interior to review Alaska's waterways and prepare documents giving up federal claims to lands under navigable waters where appropriate. In 2026, BLM published applications for such disclaimers for portions of several rivers, including the Kwethluk, Delta and Unuk.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14153 signed."
+      },
+      {
+        "date": "2026-01-07",
+        "event": "BLM publishes disclaimer applications for several rivers."
+      }
+    ],
+    "legal": "I found no court ruling.",
+    "closeness": "This moves toward state ownership river by river. It is not a single order declaring all navigable waters state-owned, and does not shift the burden of proof as the chapter wanted.",
+    "uncertain": "How many disclaimers have been approved is not known. Newest source is from March 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
+      },
+      {
+        "label": "Application for a Recordable Disclaimer of Interest: Kwethluk River, Alaska",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/07/2026-00041/application-for-a-recordable-disclaimer-of-interest-for-lands-underlying-portions-of-the-kwethluk"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-027",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "Executive Order 14153 told the Agriculture Department to pause the 2023 rule restoring roadless protections on Alaska's national forests. On August 20, 2026, the Agriculture Department proposed rescinding the 2001 Roadless Rule nationwide, which would also lift its limits on the Tongass National Forest.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14153 signed."
+      },
+      {
+        "date": "2025-08-29",
+        "event": "Agriculture Department announces plan to rescind the Roadless Rule."
+      },
+      {
+        "date": "2026-08-20",
+        "event": "Proposed rescission published."
+      }
+    ],
+    "legal": "None; the rescission is not final.",
+    "closeness": "The proposal would remove roadless limits on the Tongass, which goes further than reinstating the 2020 Alaska rule. The action comes from the Agriculture Department, not Interior.",
+    "uncertain": "The final rule and any lawsuits are not known. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "Special Areas; Roadless Area Conservation (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16965/special-areas-roadless-area-conservation"
+      },
+      {
+        "label": "Executive Order 14153: Unleashing Alaska's Extraordinary Resource Potential",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-028",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On Jan 20, 2025 President Trump signed Executive Order 14148, which revoked Executive Order 14008, the order that set the \"30 by 30\" conservation goal.",
+    "key_dates": [
+      {
+        "date": "Jan 20, 2025",
+        "event": "Executive Order 14148 revokes Executive Order 14008."
+      }
+    ],
+    "legal": "No court case found.",
+    "closeness": "Matches the recommendation to vacate the 30 by 30 order. I did not find a separate Interior action ending the \"America the Beautiful\" program by name.",
+    "uncertain": "What Interior did specifically to wind down 30 by 30 programs. Newest source: 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions"
+      },
+      {
+        "label": "Trump Administration rescinds batch of Biden-era executive orders",
+        "publisher": "Sabin Center, Columbia Law School",
+        "type": "academic",
+        "url": "https://climate.law.columbia.edu/content/trump-administration-rescinds-batch-biden-era-executive-orders"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-029",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In early September 2025, Interior Secretary Doug Burgum signed Secretary's Order 3442 on the Land and Water Conservation Fund. It requires written support from the state governor and local county officials before federal land purchases with the fund. It also limits BLM purchases and changes other program priorities.",
+    "key_dates": [
+      {
+        "date": "2025-09",
+        "event": "Secretary's Order 3442 signed."
+      }
+    ],
+    "legal": "I found no court ruling.",
+    "closeness": "Matches the call to require state and local approval for fund purchases. The order goes further, also limiting BLM buys and nonprofit roles.",
+    "uncertain": "I could not open the order itself; its terms come from news and conservation group summaries. Newest source is from September 2025.",
+    "sources": [
+      {
+        "label": "Interior Department changing conservation funding rules, what it can go toward and who can participate",
+        "publisher": "Colorado Public Radio",
+        "type": "news",
+        "url": "https://www.cpr.org/2025/09/10/interior-department-conservation-funding-changes-lwcf-public-lands-blm/"
+      },
+      {
+        "label": "DOI Secretary's Order 3442 to Guide Implementation of LWCF",
+        "publisher": "Wildlife Management Institute",
+        "type": "advocacy",
+        "url": "https://wildlifemanagement.institute/node/1765"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Confirm the terms of Secretary's Order 3442 from the order text on doi.gov."
+  },
+  {
+    "id": "ch16-030",
+    "status": "in-effect-challenged",
+    "match": "partial",
+    "happened": "In July 2026 President Trump signed proclamations shrinking Bears Ears National Monument to about 121,000 acres and Grand Staircase-Escalante to about 182,000 acres. In June 2025 the Justice Department said the President may abolish monuments. I found no action on the Maine or Oregon monuments the chapter names.",
+    "key_dates": [
+      {
+        "date": "Jun 2025",
+        "event": "Justice Department says the President can abolish monuments."
+      },
+      {
+        "date": "Jul 2026",
+        "event": "Proclamations shrink Bears Ears and Grand Staircase-Escalante."
+      },
+      {
+        "date": "Sep 2, 2026",
+        "event": "Conservation groups and others file suits."
+      }
+    ],
+    "legal": "Tribes, conservation groups and Patagonia have sued. In mid-October 2026 a federal judge revived the 2017 lawsuits and ordered 48 hours' notice before ground-disturbing work on the removed lands. No ruling on the merits yet.",
+    "closeness": "Matches the idea of reducing monuments, but the monuments cut are in Utah, not the Maine and Oregon examples in the chapter.",
+    "uncertain": "Whether any other monuments (such as Katahdin Woods and Waters or Cascade-Siskiyou) are under review. Exact acreage awaits official maps. Newest source: October 16, 2026.",
+    "sources": [
+      {
+        "label": "Lawsuits filed over reduction of 2 Utah national monuments",
+        "publisher": "KSL",
+        "type": "news",
+        "url": "https://www.ksl.com/article/51619363/lawsuits-filed-over-reduction-of-2-utah-national-monuments-rekindling-legal-battle"
+      },
+      {
+        "label": "Judge revives suit over efforts to shrink Bears Ears, Grand Staircase-Escalante",
+        "publisher": "KJZZ",
+        "type": "news",
+        "url": "https://www.kjzz.org/politics/2026-10-16/judge-revives-suit-over-efforts-to-shrink-bears-ears-grand-staircase-escalante-national-monuments"
+      },
+      {
+        "label": "Justice Department says Trump can cancel national monuments",
+        "publisher": "KJZZ (AP)",
+        "type": "news",
+        "url": "https://www.kjzz.org/politics/2025-06-10/justice-department-says-trump-can-cancel-national-monuments-that-protect-landscapes"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-031",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no request from the administration asking Congress to repeal the Antiquities Act. Members of Congress introduced a bill in January 2025 to remove the President's power to create monuments, but I found no vote on it.",
+    "legal": "None.",
+    "closeness": "A congressional bill has the same goal, but it has not passed and I found no administration push for it.",
+    "uncertain": "Searched for 2025-2026 repeal bills and administration statements. The bill's committee status could not be confirmed.",
+    "sources": [
+      {
+        "label": "Lee, Curtis introduce bill to modernize outdated Antiquities Act",
+        "publisher": "Senate Energy and Natural Resources Committee",
+        "type": "government",
+        "url": "https://www.energy.senate.gov/2025/1/lee-curtis-introduce-bill-to-modernize-outdated-antiquities-act"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-032",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "On February 19, 2026, BLM announced it will revise its western Oregon resource management plans, citing the 1937 O&C Act and wildfire threats. The July 2025 reconciliation law also requires BLM to sell 20 million more board-feet of timber each year than the year before, through 2034.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law requires rising BLM timber sales."
+      },
+      {
+        "date": "2026-02-19",
+        "event": "BLM announces revision of western Oregon plans."
+      }
+    ],
+    "legal": "None; the plans are not final.",
+    "closeness": "Both steps move toward more timber harvest on O&C lands. I could not confirm that the new plans will manage the lands mainly for timber production.",
+    "uncertain": "The content of the revised plans is not known. Newest source is from February 2026.",
+    "sources": [
+      {
+        "label": "Notice of Intent To Revise Western Oregon Resource Management Plans",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/19/2026-03290/notice-of-intent-to-revise-resource-management-plans-for-northwestern-and-coastal-oregon-and"
+      },
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-033",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In July 2025 and February 2026, Interior replaced most of its NEPA regulations with a shorter rule and a department handbook meant to speed reviews. The February 2026 rule says the handbook carries out the page limits and deadlines for environmental reviews that Congress put into law in 2023.",
+    "key_dates": [
+      {
+        "date": "2025-07-03",
+        "event": "Interior interim NEPA rule published."
+      },
+      {
+        "date": "2026-02-24",
+        "event": "Interior final NEPA rule published."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Same goal of shorter, faster reviews, with page and time limits now coming from the 2023 law and Interior's handbook rather than reinstated Trump-era orders. A rule that each document list its cost on page one was not found.",
+    "uncertain": "The handbook itself was not read; its page limits are known from the final rule's description, which does not mention listing costs on the first page. Newest source: February 2026.",
+    "sources": [
+      {
+        "label": "National Environmental Policy Act Implementing Regulations (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/24/2026-03708/national-environmental-policy-act-implementing-regulations"
+      },
+      {
+        "label": "Trump Administration Delivers Historic NEPA Reform, Unleashing Resources on America's Public Lands",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/trump-administration-delivers-historic-nepa-reform-unleashing-resources-americas"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-034",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The House passed the SPEED Act in December 2025 by 221-196. It would shorten NEPA review and limit lawsuits, including a 150-day window to sue. On Sept 30, 2026 Senate negotiators announced a bipartisan permitting bill, the Bipartisan American Affordability and Jobs Act of 2026. It also sets a 150-day window to sue, limits who can sue, and makes sending a decision back to the agency the only court remedy. A Senate procedural vote was expected on Nov 9, 2026.",
+    "key_dates": [
+      {
+        "date": "Dec 18, 2025",
+        "event": "House passes the SPEED Act (H.R. 4776)."
+      },
+      {
+        "date": "Sep 30, 2026",
+        "event": "Senate negotiators agree on bipartisan permitting text."
+      }
+    ],
+    "legal": "None; no law has passed.",
+    "closeness": "Same goal of NEPA reform with limits on lawsuits. Neither bill ends court review entirely, as the chapter suggests considering.",
+    "uncertain": "Whether the Senate vote happens and whether a law passes. Sen. Whitehouse said talks with the administration were ongoing; I found no formal White House position. Newest source: October 9, 2026.",
+    "sources": [
+      {
+        "label": "Amending NEPA: Analysis of the SPEED Act (H.R. 4776)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49485.html"
+      },
+      {
+        "label": "Senate negotiators reach agreement on permitting reform text",
+        "publisher": "Greenberg Traurig",
+        "type": "law-firm",
+        "url": "https://www.gtlaw.com/en/insights/2026/10/senate-negotiators-reach-agreement-on-permitting-reform-text"
+      },
+      {
+        "label": "House backs bill to speed permitting reviews",
+        "publisher": "Bangor Daily News (AP)",
+        "type": "news",
+        "url": "https://www.bangordailynews.com/2025/12/18/nation/house-backs-bill-to-speed-permitting-reviews-for-new-energy-and-infrastructure-projects/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-035",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On June 23, 2025, Interior Secretary Burgum signed Order 3433. It reinstates the 2018 order on settlement transparency, cancels the 2022 order that revoked it, and calls for a public litigation webpage listing settlements and attorney fee payments.",
+    "key_dates": [
+      {
+        "date": "2025-06-23",
+        "event": "Secretary's Order 3433 signed."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Directly restores the policy the chapter named.",
+    "uncertain": "I did not confirm that the public litigation webpage is live and up to date. Newest source: June 2025.",
+    "sources": [
+      {
+        "label": "Secretary's Order 3433: Restoring and Modernizing Transparency and Accountability in Consent Decrees, Settlement Agreements, and Litigation Payments",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/sites/default/files/document_secretarys_orders/so-draft-litigation-payments_recission-of-3408_signed_source-508.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-036",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The House Natural Resources Committee advanced the ESA Amendments Act of 2025 (H.R. 1897) in December 2025. House leaders scheduled a floor vote in April 2026 but pulled it after objections from members of both parties. I found no later vote.",
+    "key_dates": [
+      {
+        "date": "Dec 17, 2025",
+        "event": "House committee advances H.R. 1897."
+      },
+      {
+        "date": "Apr 22, 2026",
+        "event": "House adopts the rule for debate, then cancels the floor vote."
+      }
+    ],
+    "legal": "None; no law has passed. Separately, the agencies changed ESA rules by regulation (see ch16-013).",
+    "closeness": "A bill with the same general goal exists, but it has not passed the House or Senate.",
+    "uncertain": "Whether the bill will return to the floor. Newest source: late April 2026.",
+    "sources": [
+      {
+        "label": "House Natural Resources Committee advances the ESA Amendments Act of 2025",
+        "publisher": "NACo",
+        "type": "advocacy",
+        "url": "https://www.naco.org/news/house-natural-resources-committee-advances-endangered-species-act-amendments-act-2025"
+      },
+      {
+        "label": "House cancels floor vote on ESA Amendments Act",
+        "publisher": "Rural County Representatives of California",
+        "type": "advocacy",
+        "url": "https://www.rcrcnet.org/general/house-cancels-floor-vote-on-esa-amendments-act/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-037",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Grizzly bears have not been removed from the endangered species list. On July 14, 2026, Interior instead announced a revised proposal that keeps grizzlies listed but gives states more room to manage them in areas that met recovery goals.",
+    "key_dates": [
+      {
+        "date": "2026-07-17",
+        "event": "Fish and Wildlife Service publishes revised grizzly bear proposal."
+      }
+    ],
+    "closeness": "The chapter wanted grizzlies taken off the list. The proposal keeps them listed while easing some protections.",
+    "uncertain": "Whether the Service will later propose delisting is not known. Newest source is from July 2026.",
+    "sources": [
+      {
+        "label": "Grizzly Bear Listing With a Revised Section 4(d) Rule (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14450/endangered-and-threatened-wildlife-and-plants-grizzly-bear-listing-on-the-list-of-endangered-and"
+      },
+      {
+        "label": "Secretary Burgum returns management of grizzly bears to the West",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/secretary-burgum-returns-management-grizzly-bears-west"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-038",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "On December 18, 2025, the House voted 211-204 to pass a bill delisting the gray wolf in the lower 48 states and blocking court review. In August 2026, a senator's objection blocked a quick Senate vote. A September 2026 executive order told the Interior Secretary to decide within 90 days whether gray wolves meet recovery goals and, if so, start delisting.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "House passes the Pet and Livestock Protection Act (H.R. 845)."
+      },
+      {
+        "date": "2026-08",
+        "event": "Senate unanimous-consent request blocked."
+      },
+      {
+        "date": "2026-09-10",
+        "event": "Executive Order 14425, Supporting America's Ranchers, published."
+      }
+    ],
+    "legal": "No new court ruling found. Wolves outside the northern Rockies remain listed.",
+    "closeness": "Same goal. The wolf is not yet delisted; the House bill and the executive order's review are both unfinished.",
+    "uncertain": "The executive order's 90-day deadline falls in December 2026, so Interior's finding is not yet known. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Supporting America's Ranchers (Executive Order 14425)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18571/supporting-americas-ranchers"
+      },
+      {
+        "label": "House Votes to Delist Gray Wolves",
+        "publisher": "DTN Progressive Farmer",
+        "type": "news",
+        "url": "https://www.dtnpf.com/agriculture/web/AG/livestock/article/2025/12/22/house-passes-bill-remove-gray-wolves"
+      },
+      {
+        "label": "Senate Dem blocks Republican bill to delist gray wolf",
+        "publisher": "E&E News",
+        "type": "news",
+        "url": "https://www.eenews.net/articles/senate-dem-blocks-republican-bill-to-delist-gray-wolf/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-039",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "On September 3, 2025, BLM proposed changes to its greater sage-grouse plan amendments for Idaho, Montana and the Dakotas, Nevada and California, Utah and Wyoming to better align with state policies and plans. A final BLM Utah decision dated December 2025 appears on BLM's planning site. Colorado and Oregon decisions were signed in January 2025, before January 20, under the earlier plan.",
+    "key_dates": [
+      {
+        "date": "2025-09-03",
+        "event": "BLM proposes changes to sage-grouse plan amendments."
+      },
+      {
+        "date": "2025-12",
+        "event": "BLM Utah final decision (date from document cover)."
+      }
+    ],
+    "legal": "I found no court ruling.",
+    "closeness": "The changes move federal plans closer to state plans. They do not hand authority over sage-grouse to the states.",
+    "uncertain": "I could not open the Utah decision or confirm final decisions for the other states. Newest source is from December 2025.",
+    "sources": [
+      {
+        "label": "Changes to the Proposed RMP Amendment for Greater Sage-Grouse Rangewide Planning",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/03/2025-16886/opportunity-to-comment-on-changes-to-the-proposed-resource-management-plan-amendment-for-the-greater"
+      },
+      {
+        "label": "BLM Utah Proposes Increased Flexibility and Access in Sage-Grouse Plans",
+        "publisher": "Bureau of Land Management",
+        "type": "government",
+        "url": "https://www.blm.gov/press-release/blm-utah-proposes-increased-flexibility-and-access-sage-grouse-plans"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Confirm which states' final sage-grouse records of decision were signed after September 2025 (a Utah decision dated December 2025 was listed but not opened)."
+  },
+  {
+    "id": "ch16-040",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no Fish and Wildlife Service rule that stops placing \"experimental\" species populations outside their historic range. The 2023 rule that allows this was still in place, and in April 2026 the Service asked for public input on Colorado's handling of its experimental gray wolf population.",
+    "closeness": "No matching action found. The April 2026 request for information about Colorado wolves reviews one existing population; it does not change the rule on where experimental populations may go.",
+    "uncertain": "Searched the Federal Register for Service documents on experimental populations and section 10(j) since January 2025, and ran a web search for a repeal or revision of the 2023 rule. The ESA rule changes the Service finalized in July 2026 did not cover section 10(j), as far as I found.",
+    "sources": [
+      {
+        "label": "Request for Information on Implementation of the Gray Wolf Nonessential Experimental Population Rule in Colorado (Apr. 6, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06638/endangered-and-threatened-wildlife-and-plants-request-for-information-on-implementation-of-the-gray"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-042",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On May 23, 2025, President Trump signed Executive Order 14303, \"Restoring Gold Standard Science.\" It tells all agencies to make public the data, analyses and models behind the important scientific information they use in decisions, where the law allows.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "Executive Order 14303 signed."
+      }
+    ],
+    "legal": "I found no court ruling on the order.",
+    "closeness": "The order is government-wide and points the same way, but I found no Fish and Wildlife Service policy requiring that all data behind Endangered Species Act decisions be published with few or no exceptions. Same order as ch13-001.",
+    "uncertain": "How the Service has applied the order in specific listing decisions was not checked. Newest source is the May 2025 order.",
+    "sources": [
+      {
+        "label": "Executive Order 14303: Restoring Gold Standard Science",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09802/restoring-gold-standard-science"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-043",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no action abolishing the U.S. Geological Survey's biological research programs. The fiscal 2026 Interior spending law (P.L. 119-74, January 2026) still funds USGS surveys and research covering biology.",
+    "closeness": "No matching action was found, so there is nothing to compare.",
+    "uncertain": "I searched the Federal Register, Interior press releases, and the text of P.L. 119-74. Budget request details for USGS ecosystems programs were not checked.",
+    "sources": [
+      {
+        "label": "Public Law 119-74 (FY2026 consolidated appropriations, including Interior)",
+        "publisher": "U.S. Government Publishing Office",
+        "type": "government",
+        "url": "https://www.govinfo.gov/app/details/PLAW-119publ74"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-045",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no move of the Office of Surface Mining's headquarters to Pittsburgh. It still lists its headquarters in Washington, D.C., with a regional office in Pittsburgh. A June 2025 Senate bill to move a federal office to Pittsburgh (S. 2044) covers a Department of Energy office, not the Office of Surface Mining.",
+    "closeness": "No matching action found.",
+    "uncertain": "I searched the Federal Register and ran three web searches for an OSMRE headquarters move or relocation bill in 2025-2026 and found none.",
+    "sources": [
+      {
+        "label": "Offices and Organization",
+        "publisher": "Office of Surface Mining Reclamation and Enforcement",
+        "type": "government",
+        "url": "https://www.osmre.gov/node/285"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-046",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-047",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no change opening the Office of Surface Mining's training program to coal company workers. In June 2025 the office renewed the nomination form for its national technical training courses and listed only state and tribal governments as the people who use it.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for Office of Surface Mining notices about its training program since January 2025 and read the program's web page in October 2026, which describes courses for OSMRE, state and tribal staff and pays travel for students from agencies working under the surface mining law. No opening to company employees was found.",
+    "sources": [
+      {
+        "label": "Information Collection: Nomination and Request for Payment Form for OSMRE's National Technical Training Courses (June 16, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/16/2025-10871/agency-information-collection-activities-nomination-and-request-for-payment-form-for-osmres-national"
+      },
+      {
+        "label": "National Technical Training Program",
+        "publisher": "Office of Surface Mining Reclamation and Enforcement",
+        "type": "government",
+        "url": "https://www.osmre.gov/programs/national-technical-training-program"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-048",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no federal change to the Applicant Violator System that lets regulators weigh extenuating circumstances. Federal Register items since 2025 that mention the system are approvals of individual state mining programs, such as Montana's in 2026.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for Office of Surface Mining documents on the Applicant Violator System since January 2025, and ran a web search for a 2025 or 2026 rule change. Changes to the database itself might not appear in the Federal Register.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-049",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law gave the Bureau of Reclamation $1 billion to expand water conveyance and surface storage. In January 2026, Interior approved federal cost-sharing for California's Sites Reservoir, and in March 2026 it announced $889 million for storage and conveyance projects in six western states.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law funds Reclamation storage (sec. 50501)."
+      },
+      {
+        "date": "2026-01-23",
+        "event": "Record of Decision for Sites Reservoir."
+      },
+      {
+        "date": "2026-03-17",
+        "event": "Interior announces $889 million for western water projects."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Matches the storage part. I did not check dam manual updates or real-time monitoring.",
+    "uncertain": "I did not confirm how much new storage these projects add or their timelines. Newest source: March 2026.",
+    "sources": [
+      {
+        "label": "Interior Announces $889 Million Investment in Western Water Infrastructure",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-announces-889-million-investment-western-water-infrastructure-through"
+      },
+      {
+        "label": "Interior Approves Sites Reservoir Project",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-advances-president-trumps-executive-order-14181-priorities-approves-sites"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-050",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-052",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no law or rule changing the Water Infrastructure Finance and Innovation Act to match other federal infrastructure loan programs. The 2026 spending law funded the loan program but did not rewrite it.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the local copy of all laws passed by the 119th Congress through October 2026 and the Federal Register for documents on the program since January 2025; the only Federal Register items were routine funding notices. Bills that were introduced but not passed were not checked.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-053",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 20, 2025, President Trump signed a memorandum telling the Commerce and Interior Secretaries to restart the work from his first term to send more water from the Sacramento-San Joaquin Delta to other parts of California. Days later, Executive Order 14181 ordered steps to increase water supply in California.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Memorandum \"Putting People Over Fish\" signed."
+      },
+      {
+        "date": "2025-01-24",
+        "event": "Executive Order 14181 on California water signed."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Revives the first-term California water effort, but neither document names or formally reinstates the 2018 memorandum, and both focus on California rather than the whole West.",
+    "uncertain": "I did not confirm whether the 2018 memorandum itself was formally reinstated. Newest source: January 2025.",
+    "sources": [
+      {
+        "label": "Putting People Over Fish: Stopping Radical Environmentalism To Provide Water to Southern California",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02041/putting-people-over-fish-stopping-radical-environ-mentalism-to-provide-water-to-southern-california"
+      },
+      {
+        "label": "Emergency Measures To Provide Water Resources in California and Improve Disaster Response in Certain Areas",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02174/emergency-measures-to-provide-water-resources-in-california-and-improve-disaster-response-in-certain"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-054",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On May 11, 2026, Interior approved the first tribal energy resource agreement, with the Southern Ute Indian Tribe. It lets the tribe approve its own energy leases, rights-of-way and business deals without Interior signing off on each one.",
+    "key_dates": [
+      {
+        "date": "2026-05-11",
+        "event": "First tribal energy resource agreement approved."
+      }
+    ],
+    "legal": "I found no court ruling.",
+    "closeness": "This supports energy development on tribal land, as the chapter recommends. It is one agreement, not a broad program.",
+    "uncertain": "Other steps to support tribal energy and minerals could not be checked. Newest source is from May 2026.",
+    "sources": [
+      {
+        "label": "Interior enters into nation's first-ever tribal energy agreement",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-enters-nations-first-ever-tribal-energy-agreement"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-055",
+    "status": "in-effect-challenged",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law ended federal tax credits for new and used electric vehicles on Sept 30, 2025. In June 2025 Congress and the President revoked California's waiver for its rule phasing out gas car sales. In February 2026 EPA repealed federal vehicle greenhouse gas standards, and in September 2026 DOT lowered fuel economy standards.",
+    "key_dates": [
+      {
+        "date": "Jun 2025",
+        "event": "Congressional Review Act resolutions revoke California vehicle waivers."
+      },
+      {
+        "date": "Sep 30, 2025",
+        "event": "Federal EV tax credits end."
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "EPA repeals vehicle greenhouse gas standards."
+      }
+    ],
+    "legal": "California and other states have a pending suit in the Northern District of California over the waiver resolutions. Challenges to EPA's repeal are pending in the D.C. Circuit. No ruling has reversed these actions.",
+    "closeness": "Close to the recommendation across several agencies and Congress. I did not check every federal EV program (for example, charging-station grants). See ch19-011, ch19-012 and ch19-013.",
+    "uncertain": "Status of EV charger funding and other smaller programs, and outcomes of the lawsuits. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Official: US tax credit for EVs to end in September",
+        "publisher": "electrive",
+        "type": "news",
+        "url": "https://www.electrive.com/2025/07/07/official-us-tax-credit-for-evs-to-end-in-september"
+      },
+      {
+        "label": "EPA rescinds 2009 endangerment finding and eliminates vehicle GHG standards",
+        "publisher": "DLA Piper",
+        "type": "law-firm",
+        "url": "https://www.dlapiper.com/en-us/insights/publications/2026/02/epa-rescinds-endangerment-finding-and-eliminates-mobile-source-ghg-emissions-standards"
+      },
+      {
+        "label": "Judge bars EPA effort to send California vehicle emissions rules to Congress",
+        "publisher": "Insurance Journal (Reuters)",
+        "type": "news",
+        "url": "https://amp.insurancejournal.com/news/west/2026/09/03/883831.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-056",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch16-057",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On January 20, 2026, Interior released a new Strategic Direction for the Bureau of Indian Education with performance goals through 2030. Interior also announced that graduation rates at bureau-funded schools rose to 79 percent in 2025.",
+    "key_dates": [
+      {
+        "date": "2026-01-20",
+        "event": "BIE Strategic Direction released."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "A new plan for the bureau, in the general direction of reform. I did not confirm parent-focused changes or new reporting of student test data.",
+    "uncertain": "I did not read the full Strategic Direction. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Interior Unveils Bureau of Indian Education Strategic Direction",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-unveils-bureau-indian-education-strategic-direction-drive-student-success"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-058",
+    "status": "no-record",
+    "match": "none",
+    "happened": "I found no 2025-2026 bill or administration request to reauthorize the Land Buy-Back Program for Tribal Nations, which used Cobell settlement money and ended in 2022.",
+    "closeness": "No matching action found.",
+    "uncertain": "I searched the Federal Register and the web for reauthorization bills or requests and found none. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "sources": [
+      {
+        "label": "Program History, Land Buy-Back Program for Tribal Nations",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/buybackprogram/program-history-land-buy-back-program-tribal-nations"
+      }
+    ],
+    "as_of": "2026-10-28"
+  }
 ]

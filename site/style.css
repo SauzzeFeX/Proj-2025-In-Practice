@@ -381,3 +381,7 @@ details.deep > summary { cursor: pointer; font-weight: 600; min-height: 44px; di
   .tools { position: static; }
   .item { scroll-margin-top: 5rem; }
 }
+
+/* no public record yet: a dotted grey, between "no action found" and "not researched" */
+.g-norecord { background: radial-gradient(circle, var(--o-notdone) 1.2px, var(--color-track) 1.3px) 0 0 / 5px 5px; }
+.st-norecord { border-style: dotted; color: var(--color-muted); }

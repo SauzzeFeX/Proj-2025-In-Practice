@@ -144,6 +144,36 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch25-006",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "SBA's Office of Advocacy, led by Chief Counsel Casey Mulligan, released a first-year report in January 2026. It says the office helped cut about $110 billion in regulatory burden on small businesses, flagged more than 350 regulatory issues to agencies and helped change 23 rules. No new study measuring the total cost of federal rules on small businesses was found.",
+    "key_dates": [
+      {
+        "date": "2026-01",
+        "event": "Office of Advocacy publishes its first-year report."
+      }
+    ],
+    "closeness": "The office pursued the deregulation goal, but the specific research on the total cost of federal regulation was not found, and no new mandate or added funding was confirmed.",
+    "uncertain": "The report's figures come from a search summary; the report file could not be opened. Advocacy's funding for fiscal 2026 was not checked. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Office of Advocacy First Year Report (January 2026)",
+        "publisher": "SBA Office of Advocacy",
+        "type": "government",
+        "url": "https://advocacy.sba.gov/wp-content/uploads/2026/01/FINAL_First-Year-Report_012026.pdf"
+      },
+      {
+        "label": "Small Business Administration Office of Advocacy (IF12986)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12986.html"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "The first-year report still could not be opened (blocked); confirm its figures and check for any total-cost-of-regulation study."
+  },
+  {
     "id": "ch25-007",
     "status": "partly-done",
     "match": "broader",
@@ -341,6 +371,29 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch25-015",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "On January 22, 2026, the SBA opened a review of more than $88 million in Paycheck Protection Program loans to Planned Parenthood affiliates. It sent 38 letters requiring affiliates to prove they were eligible. The SBA said earlier forgiveness does not stop it from reopening the loans, and affiliates that made false certifications could face repayment, loss of forgiveness, and possible referral for civil or criminal penalties.",
+    "key_dates": [
+      {
+        "date": "2026-01-22",
+        "event": "SBA opens review and sends 38 letters to affiliates."
+      }
+    ],
+    "closeness": "Closely matches the recommendation to review and possibly reverse forgiveness and refer misrepresentation. No final decision to reverse forgiveness, and no referral to the Justice Department, was confirmed.",
+    "uncertain": "The outcome of the review, any repayments, and any legal challenges were not found. A May 2026 news report described an update on recovery that could not be read. Newest confirmed source: January 2026.",
+    "sources": [
+      {
+        "label": "SBA Opens Review of Over $88 Million in Planned Parenthood Paycheck Protection Program Loans (News release 26-24)",
+        "publisher": "U.S. Small Business Administration",
+        "type": "government",
+        "url": "https://legacy.sba.gov/article/2026/01/22/sba-opens-review-over-88-million-planned-parenthood-paycheck-protection-program-loans"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch25-016",
     "status": "not-done",
     "match": "none",
@@ -379,6 +432,40 @@
       }
     ],
     "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-018",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "SBA no longer requires Form 1971, its religious eligibility worksheet. A rule effective August 1, 2022 removed the religious-business limit on SBA business loans, and SBA's loan procedures then dropped the form. A January 2024 notice from a lender trade group said SBA had confirmed the form is no longer required for any loan and had removed it from its website.",
+    "key_dates": [
+      {
+        "date": "2022-08-01",
+        "event": "SBA rule removing the religious-business restriction takes effect."
+      },
+      {
+        "date": "2024-01-10",
+        "event": "Trade group reports SBA removed Form 1971 from its website."
+      }
+    ],
+    "closeness": "Same result as the recommendation, but it happened under the previous administration, before 2025.",
+    "uncertain": "The form was renewed with OMB in December 2023, before the January 2024 notice; whether any version is still used was not confirmed on sba.gov.",
+    "sources": [
+      {
+        "label": "Regulatory Reform Initiative: Streamlining and Modernizing the 7(a), Microloan, and 504 Loan Programs (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2022/06/30/2022-13483/regulatory-reform-initiative-streamlining-and-modernizing-the-7a-microloan-and-504-loan-programs-to"
+      },
+      {
+        "label": "SBA clarifications regarding recently revised/reissued forms",
+        "publisher": "NAGGL (lender trade association)",
+        "type": "advocacy",
+        "url": "https://www.naggl.org/update-sba-clarifications-regarding-recently-revised-reissued-forms/"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Removal of the form is confirmed only by a trade group notice; sba.gov blocked automated checks, so confirm there."
   },
   {
     "id": "ch25-019",
@@ -733,93 +820,6 @@
       }
     ],
     "as_of": "2026-10-28"
-  },
-  {
-    "id": "ch25-006",
-    "status": "partly-done",
-    "match": "broader",
-    "happened": "SBA's Office of Advocacy, led by Chief Counsel Casey Mulligan, released a first-year report in January 2026. It says the office helped cut about $110 billion in regulatory burden on small businesses, flagged more than 350 regulatory issues to agencies and helped change 23 rules. No new study measuring the total cost of federal rules on small businesses was found.",
-    "key_dates": [
-      {
-        "date": "2026-01",
-        "event": "Office of Advocacy publishes its first-year report."
-      }
-    ],
-    "closeness": "The office pursued the deregulation goal, but the specific research on the total cost of federal regulation was not found, and no new mandate or added funding was confirmed.",
-    "uncertain": "The report's figures come from a search summary; the report file could not be opened. Advocacy's funding for fiscal 2026 was not checked. Newest source: January 2026.",
-    "sources": [
-      {
-        "label": "Office of Advocacy First Year Report (January 2026)",
-        "publisher": "SBA Office of Advocacy",
-        "type": "government",
-        "url": "https://advocacy.sba.gov/wp-content/uploads/2026/01/FINAL_First-Year-Report_012026.pdf"
-      },
-      {
-        "label": "Small Business Administration Office of Advocacy (IF12986)",
-        "publisher": "Congressional Research Service",
-        "type": "government",
-        "url": "https://www.everycrsreport.com/reports/IF12986.html"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "The first-year report still could not be opened (blocked); confirm its figures and check for any total-cost-of-regulation study."
-  },
-  {
-    "id": "ch25-015",
-    "status": "under-review",
-    "match": "direct",
-    "happened": "On January 22, 2026, the SBA opened a review of more than $88 million in Paycheck Protection Program loans to Planned Parenthood affiliates. It sent 38 letters requiring affiliates to prove they were eligible. The SBA said earlier forgiveness does not stop it from reopening the loans, and affiliates that made false certifications could face repayment, loss of forgiveness, and possible referral for civil or criminal penalties.",
-    "key_dates": [
-      {
-        "date": "2026-01-22",
-        "event": "SBA opens review and sends 38 letters to affiliates."
-      }
-    ],
-    "closeness": "Closely matches the recommendation to review and possibly reverse forgiveness and refer misrepresentation. No final decision to reverse forgiveness, and no referral to the Justice Department, was confirmed.",
-    "uncertain": "The outcome of the review, any repayments, and any legal challenges were not found. A May 2026 news report described an update on recovery that could not be read. Newest confirmed source: January 2026.",
-    "sources": [
-      {
-        "label": "SBA Opens Review of Over $88 Million in Planned Parenthood Paycheck Protection Program Loans (News release 26-24)",
-        "publisher": "U.S. Small Business Administration",
-        "type": "government",
-        "url": "https://legacy.sba.gov/article/2026/01/22/sba-opens-review-over-88-million-planned-parenthood-paycheck-protection-program-loans"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch25-018",
-    "status": "in-effect",
-    "match": "direct",
-    "happened": "SBA no longer requires Form 1971, its religious eligibility worksheet. A rule effective August 1, 2022 removed the religious-business limit on SBA business loans, and SBA's loan procedures then dropped the form. A January 2024 notice from a lender trade group said SBA had confirmed the form is no longer required for any loan and had removed it from its website.",
-    "key_dates": [
-      {
-        "date": "2022-08-01",
-        "event": "SBA rule removing the religious-business restriction takes effect."
-      },
-      {
-        "date": "2024-01-10",
-        "event": "Trade group reports SBA removed Form 1971 from its website."
-      }
-    ],
-    "closeness": "Same result as the recommendation, but it happened under the previous administration, before 2025.",
-    "uncertain": "The form was renewed with OMB in December 2023, before the January 2024 notice; whether any version is still used was not confirmed on sba.gov.",
-    "sources": [
-      {
-        "label": "Regulatory Reform Initiative: Streamlining and Modernizing the 7(a), Microloan, and 504 Loan Programs (final rule)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2022/06/30/2022-13483/regulatory-reform-initiative-streamlining-and-modernizing-the-7a-microloan-and-504-loan-programs-to"
-      },
-      {
-        "label": "SBA clarifications regarding recently revised/reissued forms",
-        "publisher": "NAGGL (lender trade association)",
-        "type": "advocacy",
-        "url": "https://www.naggl.org/update-sba-clarifications-regarding-recently-revised-reissued-forms/"
-      }
-    ],
-    "as_of": "2026-10-28",
-    "recheck": "Removal of the form is confirmed only by a trade group notice; sba.gov blocked automated checks, so confirm there."
   },
   {
     "id": "ch25-033",

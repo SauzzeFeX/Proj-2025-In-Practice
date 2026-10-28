@@ -1,5 +1,22 @@
 [
   {
+    "id": "ch03-001",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No rule requiring an 'Outstanding' rating for large Senior Executive Service bonuses was found. OPM's September 2025 rule on senior executive appraisals limits top ratings to about 30% of executives, but OPM said the rule does not address awards and that bonuses remain allowed at the 'Fully Successful' level.",
+    "closeness": "No matching change was found. The 2025 rule makes top ratings scarcer, which could indirectly shrink bonuses for lower-rated executives, but it does not tie large bonuses to an 'Outstanding' rating. See ch03-004.",
+    "uncertain": "Searched the Federal Register for OPM rules on senior executive awards and bonuses and read the September 2025 final rule. Individual agencies may set stricter award policies that are not published.",
+    "sources": [
+      {
+        "label": "Assuring Responsive and Accountable Federal Executive Management (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/15/2025-17788/assuring-responsive-and-accountable-federal-executive-management"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch03-002",
     "status": "in-effect",
     "match": "direct",
@@ -135,6 +152,37 @@
     "as_of": "2026-10-27"
   },
   {
+    "id": "ch03-005",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "OPM issued a final rule, effective August 6, 2026, that sets a standard spread of performance ratings for most non-executive federal employees and says its aim is to make sure high performance is 'recognized and rewarded.' It uses existing legal authority, not a new pay law. Agencies must follow the rating spread starting January 1, 2027.",
+    "key_dates": [
+      {
+        "date": "2026-02-24",
+        "event": "OPM proposes the performance appraisal rule"
+      },
+      {
+        "date": "2026-08-06",
+        "event": "Final rule takes effect"
+      },
+      {
+        "date": "2027-01-01",
+        "event": "Agencies must apply the standard rating spread"
+      }
+    ],
+    "closeness": "The rule uses existing tools to steer rewards toward top performers, in line with the chapter. It changes ratings rather than directly expanding cash awards, and OPM can recommend cutting an agency's award spending if its appraisal system fails review. Same rule as in ch03-004.",
+    "uncertain": "How agencies changed their cash award spending is not known. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Performance Appraisal for General Schedule, Prevailing Rate, and Certain Other Employees (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13715/performance-appraisal-for-general-schedule-prevailing-rate-and-certain-other-employees"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
     "id": "ch03-006",
     "status": "not-done",
     "match": "none",
@@ -169,14 +217,13 @@
   },
   {
     "id": "ch03-008",
-    "status": "not-done",
+    "status": "no-record",
     "match": "none",
     "happened": "No law or OPM program was found that sets federal starting pay by job type and region using market data such as turnover and applicant numbers.",
     "closeness": "No matching action was found. The chapter itself says this mostly needs new laws.",
-    "uncertain": "Searched OPM rules in the Federal Register and existing project research. Bills and pay pilot programs were not checked because the shared web search limit ran out.",
+    "uncertain": "Searched OPM rules in the Federal Register and existing project research. Bills and pay pilot programs were not checked because the shared web search limit ran out. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
     "sources": [],
-    "as_of": "2026-10-27",
-    "recheck": "Only OPM rules in the Federal Register were checked; needs a news or Congress.gov search for 2025-2026 bills or OPM proposals for market-based, locality-by-occupation pay."
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch03-009",
@@ -239,6 +286,16 @@
       }
     ],
     "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-011",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
   },
   {
     "id": "ch03-012",
@@ -553,54 +610,6 @@
         "publisher": "The White House",
         "type": "government",
         "url": "https://www.whitehouse.gov/administration/the-cabinet/"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch03-001",
-    "status": "not-done",
-    "match": "none",
-    "happened": "No rule requiring an 'Outstanding' rating for large Senior Executive Service bonuses was found. OPM's September 2025 rule on senior executive appraisals limits top ratings to about 30% of executives, but OPM said the rule does not address awards and that bonuses remain allowed at the 'Fully Successful' level.",
-    "closeness": "No matching change was found. The 2025 rule makes top ratings scarcer, which could indirectly shrink bonuses for lower-rated executives, but it does not tie large bonuses to an 'Outstanding' rating. See ch03-004.",
-    "uncertain": "Searched the Federal Register for OPM rules on senior executive awards and bonuses and read the September 2025 final rule. Individual agencies may set stricter award policies that are not published.",
-    "sources": [
-      {
-        "label": "Assuring Responsive and Accountable Federal Executive Management (final rule)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2025/09/15/2025-17788/assuring-responsive-and-accountable-federal-executive-management"
-      }
-    ],
-    "as_of": "2026-10-27"
-  },
-  {
-    "id": "ch03-005",
-    "status": "partly-done",
-    "match": "partial",
-    "happened": "OPM issued a final rule, effective August 6, 2026, that sets a standard spread of performance ratings for most non-executive federal employees and says its aim is to make sure high performance is 'recognized and rewarded.' It uses existing legal authority, not a new pay law. Agencies must follow the rating spread starting January 1, 2027.",
-    "key_dates": [
-      {
-        "date": "2026-02-24",
-        "event": "OPM proposes the performance appraisal rule"
-      },
-      {
-        "date": "2026-08-06",
-        "event": "Final rule takes effect"
-      },
-      {
-        "date": "2027-01-01",
-        "event": "Agencies must apply the standard rating spread"
-      }
-    ],
-    "closeness": "The rule uses existing tools to steer rewards toward top performers, in line with the chapter. It changes ratings rather than directly expanding cash awards, and OPM can recommend cutting an agency's award spending if its appraisal system fails review. Same rule as in ch03-004.",
-    "uncertain": "How agencies changed their cash award spending is not known. Newest source: July 2026.",
-    "sources": [
-      {
-        "label": "Performance Appraisal for General Schedule, Prevailing Rate, and Certain Other Employees (final rule)",
-        "publisher": "Federal Register",
-        "type": "government",
-        "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13715/performance-appraisal-for-general-schedule-prevailing-rate-and-certain-other-employees"
       }
     ],
     "as_of": "2026-10-27"

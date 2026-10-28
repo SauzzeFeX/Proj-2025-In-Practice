@@ -1,662 +1,671 @@
 [
- {
-  "id": "ch15-001",
-  "status": "partly-done",
-  "match": "broader",
-  "happened": "Government-wide, the administration created a new job category, \"Schedule Policy/Career,\" for career staff in policy roles that makes them easier to fire. OPM's final rule took effect in March 2026, and a June 2026 order moved about 8,000 federal employees into it.",
-  "key_dates": [
-   {
-    "date": "2026-03",
-    "event": "OPM rule creating Schedule Policy/Career takes effect."
-   },
-   {
-    "date": "2026-06",
-    "event": "Order moves about 8,000 employees into the new category."
-   }
-  ],
-  "legal": "Unions and employee groups have challenged the OPM rule in federal court in Maryland (Judge Paula Xinis) and elsewhere; I found no injunction or merits ruling as of June 2026.",
-  "closeness": "Only the general direction matches. I found no HUD step giving all delegated powers to political appointees or turning HUD career leadership jobs into political posts.",
-  "uncertain": "I searched the Federal Register for HUD delegations of authority and found none that move powers to political appointees. How many HUD jobs went into the new category is not known. Same government-wide action as ch09-060. Newest source is from June 2026.",
-  "sources": [
-   {
-    "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges, and Issues for Lawmakers (LSB11412)",
-    "publisher": "Congressional Research Service (via EveryCRSReport)",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/LSB11412.html"
-   },
-   {
-    "label": "Employee groups revive lawsuit to block Schedule F",
-    "publisher": "Government Executive",
-    "type": "news",
-    "url": "https://www.govexec.com/workforce/2026/03/employee-groups-revive-lawsuit-block-schedule-f/411962/"
-   },
-   {
-    "label": "What the new Schedule Policy/Career order means for federal employees",
-    "publisher": "FedSmith",
-    "type": "news",
-    "url": "https://www.fedsmith.com/2026/06/03/what-the-new-schedule-policy-career-order-means-for-federal-employees/"
-   }
-  ],
-  "as_of": "2026-10-28",
-  "recheck": "Check HUD-specific steps: delegations to political appointees, career posts converted, and HUD jobs moved to Schedule Policy/Career."
- },
- {
-  "id": "ch15-002",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no executive order adding the HUD Secretary to the Committee on Foreign Investment in the United States (CFIUS).",
-  "closeness": "No matching action found. A February 2025 investment policy aimed CFIUS at Chinese investment in farmland and other sectors, but did not add HUD (see ch26-010).",
-  "uncertain": "Searched the Federal Register for presidential documents on CFIUS and on foreign ownership of housing since January 2025; none added HUD.",
-  "sources": [],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch15-003",
-  "status": "partly-done",
-  "match": "broader",
-  "happened": "On February 13, 2025, HUD Secretary Scott Turner set up a 'DOGE Task Force' of HUD employees to review how HUD spends money and report to him. News reports said it also looked at Biden-era rules such as the fair housing (AFFH) rule. HUD later reversed several Biden-era actions one by one (see ch15-005, ch15-007).",
-  "key_dates": [
-   {
-    "date": "2025-02-13",
-    "event": "HUD launches its DOGE Task Force."
-   }
-  ],
-  "legal": "I found no court ruling on the task force.",
-  "closeness": "The task force reviews spending and programs, in the chapter's direction. It is made up of HUD employees, not only political appointees, and its stated aim is waste, not reversing all Biden-era actions.",
-  "uncertain": "The link to the AFFH rule comes from news coverage; HUD's release does not mention it. The task force's 2026 activity is not known.",
-  "sources": [
-   {
-    "label": "HUD Secretary Scott Turner Launches DOGE Task Force to Eliminate Waste, Fraud and Abuse",
-    "publisher": "U.S. Department of Housing and Urban Development",
-    "type": "government",
-    "url": "https://www.hud.gov/news/hud-no-25-030"
-   },
-   {
-    "label": "HUD announces launch of DOGE task force, targets AFFH rule",
-    "publisher": "HousingWire",
-    "type": "news",
-    "url": "https://www.housingwire.com/articles/hud-announces-launch-of-doge-task-force-targets-affh-rule/"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch15-004",
-  "status": "partly-done",
-  "match": "direct",
-  "happened": "HUD says it is doing a comprehensive review of its guidance issued outside formal rulemaking, citing two 2025 executive orders on deregulation. In September 2025, its Office of General Counsel and its Office of Fair Housing and Equal Opportunity withdrew groups of guidance documents, announced in the Federal Register in April and July 2026.",
-  "key_dates": [
-   {
-    "date": "2025-09-17",
-    "event": "Fair Housing office guidance withdrawals take effect."
-   },
-   {
-    "date": "2025-09-25",
-    "event": "Office of General Counsel guidance withdrawals take effect."
-   },
-   {
-    "date": "2026-07-17",
-    "event": "Federal Register notice of OGC withdrawals."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "Matches the recommended review of guidance. The review is described as ongoing, so it is not finished.",
-  "uncertain": "I did not count every withdrawn document or check other HUD offices. Newest source: July 2026.",
-  "sources": [
-   {
-    "label": "Notice of the Withdrawal of OGC Guidance Documents",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14432/notice-of-the-withdrawal-of-ogc-guidance-documents"
-   },
-   {
-    "label": "Notification of Withdrawal of Fair Housing and Equal Opportunity Guidance Documents",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06624/notification-of-withdrawal-of-fair-housing-and-equal-opportunity-guidance-documents"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch15-005",
-  "status": "in-effect",
-  "match": "direct",
-  "happened": "On July 10, 2025, HUD and the White House budget office ended the Biden-era appraisal equity (PAVE) policies and effectively disbanded the PAVE task force. They ended three FHA notices on appraisal review, 'reconsideration of value' requests and appraisal fair housing compliance. HUD's legal office also withdrew a 2022 guidance memo on proving appraisal discrimination, effective September 25, 2025.",
-  "key_dates": [
-   {
-    "date": "2025-07-10",
-    "event": "HUD and OMB end PAVE policies and FHA appraisal notices."
-   },
-   {
-    "date": "2025-09-25",
-    "event": "HUD withdraws 'Appraisal Elements of Proof' guidance."
-   },
-   {
-    "date": "2026-03-13",
-    "event": "Executive Order 14393 on mortgage credit signed."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "Matches the call to end PAVE policies and reverse related actions. Some appraisal rules adopted separately by other agencies may remain, and fair housing laws still apply.",
-  "uncertain": "Whether every PAVE-era rule at other agencies was undone was not checked. Newest source is from July 2026.",
-  "sources": [
-   {
-    "label": "HUD, OMB Streamline Home Appraisal Process, Effectively Disband Woke Biden-Era Task Force",
-    "publisher": "U.S. Department of Housing and Urban Development",
-    "type": "government",
-    "url": "https://www.hud.gov/news/hud-no-25-092"
-   },
-   {
-    "label": "HUD: Notice of the Withdrawal of OGC Guidance Documents (published July 17, 2026; effective Sept. 25, 2025)",
-    "publisher": "Federal Register (HUD)",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14432/notice-of-the-withdrawal-of-ogc-guidance-documents"
-   },
-   {
-    "label": "Executive Order 14393, Promoting Access to Mortgage Credit",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/03/18/2026-05384/promoting-access-to-mortgage-credit"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch15-006",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "The July 2025 reconciliation law canceled unspent money for HUD's Green and Resilient Retrofit Program. In 2025, HUD ended lower insurance premiums for green and energy-efficient healthcare buildings, and began reviewing 2024 energy code requirements. In July 2026, HUD proposed repealing its flood risk building standard.",
-  "key_dates": [
-   {
-    "date": "2025-06-26",
-    "event": "HUD ends green premium category for Section 232 loans."
-   },
-   {
-    "date": "2025-07-04",
-    "event": "Reconciliation law rescinds Green and Resilient Retrofit funds."
-   },
-   {
-    "date": "2026-07-10",
-    "event": "HUD proposes repealing flood risk standard."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "Several climate programs and rules were cut or proposed for repeal, as recommended, though not all at once in a budget request.",
-  "uncertain": "I did not check HUD's 2026 and 2027 budget requests line by line for climate items. Newest source: July 2026.",
-  "sources": [
-   {
-    "label": "Public Law 119-21 (One Big Beautiful Bill Act), Sec. 30002: rescission of Green and Resilient Retrofit Program funds",
-    "publisher": "GovInfo",
-    "type": "government",
-    "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
-   },
-   {
-    "label": "Elimination of Green and Energy Efficient Mortgage Insurance Premium Rate Category (Section 232)",
-    "publisher": "Federal Register (HUD)",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/06/26/2025-11808/elimination-of-green-and-energy-efficient-mortgage-insurance-premium-rate-category-applicable-to"
-   },
-   {
-    "label": "Rescission of Floodplain Management ... Building to the Federal Flood Risk Management Standard (proposed rule, July 10, 2026)",
-    "publisher": "Federal Register (HUD)",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13939/rescission-of-floodplain-management-and-protection-of-wetlands-minimum-property-standards-for-flood"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch15-007",
-  "status": "in-effect",
-  "match": "partial",
-  "happened": "HUD Secretary Scott Turner announced on Feb 27, 2025 that HUD would end the Biden-era Affirmatively Furthering Fair Housing (AFFH) rule. HUD published an interim final rule on Mar 3, 2025 that rescinded the 2021 AFFH rule. It took effect on Apr 2, 2025.",
-  "key_dates": [
-   {
-    "date": "Jan 2025",
-    "event": "HUD withdraws the February 2023 proposed AFFH rule."
-   },
-   {
-    "date": "Feb 27, 2025",
-    "event": "Secretary Turner announces HUD will end the AFFH rule."
-   },
-   {
-    "date": "Mar 3, 2025",
-    "event": "Interim final rule published; effective Apr 2, 2025."
-   }
-  ],
-  "legal": "I found no court ruling blocking the 2025 rescission.",
-  "closeness": "The AFFH repeal matches the recommendation closely. I did not find a specific HUD action on special-purpose credit programs, the second part of the recommendation.",
-  "uncertain": "Whether HUD has issued a later final rule replacing the interim final rule, whether any lawsuit was filed, and what HUD did about special-purpose credit programs. Newest source: May 2025 Federal Register material.",
-  "sources": [
-   {
-    "label": "Affirmatively Furthering Fair Housing Revisions (interim final rule)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/03/03/2025-03360/affirmatively-furthering-fair-housing-revisions"
-   },
-   {
-    "label": "HUD Ends AFFH Rule",
-    "publisher": "The MortgagePoint",
-    "type": "news",
-    "url": "https://themortgagepoint.com/2025/02/27/hud-ends-affh-rule/"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch15-008",
-  "status": "not-done",
-  "match": "none",
-  "happened": "The Housing Supply Fund was a Biden budget proposal that Congress never created. I found no request or law reviving it.",
-  "closeness": "Not done as an action, because the fund never existed.",
-  "uncertain": "I searched the Federal Register and the local copy of 119th Congress laws, including the July 2026 housing law (P.L. 119-101), and found no Housing Supply Fund.",
-  "sources": [],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch15-009",
-  "status": "under-review",
-  "match": "direct",
-  "happened": "On Feb 20, 2026 HUD published a proposed rule, \"Verification of Eligible Status.\" It would end prorated aid for mixed-status households, bar them from public housing and Section 8, and require all tenants to re-verify their citizenship or immigration status. The comment period closed Apr 21, 2026. I found no final rule.",
-  "key_dates": [
-   {
-    "date": "Feb 20, 2026",
-    "event": "HUD publishes the proposed mixed-status rule."
-   },
-   {
-    "date": "Apr 21, 2026",
-    "event": "Public comment period closes."
-   }
-  ],
-  "legal": "No court case yet, because the rule is not final. Several state attorneys general filed comments opposing it.",
-  "closeness": "Same idea as the recommendation: restart the Trump-era proposal barring mixed-status families from assisted housing. It is still a proposal, not a final rule.",
-  "uncertain": "Whether and when HUD will finalize the rule. One October 2026 report said it was still under review at the White House budget office; I could not open that report to confirm. Mixed-status families still get prorated aid under current rules.",
-  "sources": [
-   {
-    "label": "HUD proposes rule that would force noncitizens from public housing",
-    "publisher": "ClickOnDetroit (AP)",
-    "type": "news",
-    "url": "https://www.clickondetroit.com/news/2026/02/19/hud-proposes-rule-that-would-force-noncitizens-from-public-housing/"
-   },
-   {
-    "label": "HUD publishes 2026 version of mixed status proposed rule",
-    "publisher": "NAHRO",
-    "type": "advocacy",
-    "url": "https://www.nahro.org/news/hud-publishes-2026-version-of-mixed-status-proposed-rule"
-   },
-   {
-    "label": "Attorney General Clark opposes federal effort to strip housing support for mixed-status households",
-    "publisher": "Vermont Attorney General",
-    "type": "government",
-    "url": "https://ago.vermont.gov/blog/2026/04/21/attorney-general-clark-opposes-federal-effort-strip-housing-support-mixed-status-immigrant"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch15-010",
-  "status": "under-review",
-  "match": "partial",
-  "happened": "HUD published a proposed rule on Mar 2, 2026 that would let local housing agencies and some HUD-assisted landlords choose to add work requirements, time limits, both, or neither. It would cover public housing, vouchers and project-based rental aid. Older adults and people with disabilities would be exempt. Comments closed May 2, 2026. Reports in late June 2026 said HUD was finalizing it.",
-  "key_dates": [
-   {
-    "date": "Feb 27, 2026",
-    "event": "HUD announces the proposal."
-   },
-   {
-    "date": "Mar 2, 2026",
-    "event": "Proposed rule published in the Federal Register."
-   },
-   {
-    "date": "May 2, 2026",
-    "event": "Comment period closes (about 2,000 comments)."
-   }
-  ],
-  "legal": "No court case found; the rule is not final.",
-  "closeness": "Same goal, but optional for local agencies rather than required nationwide. I found no new law from Congress adding work requirements or time limits to HUD rental aid.",
-  "uncertain": "Whether HUD has finalized the rule. My newest source on its status is from late June 2026.",
-  "sources": [
-   {
-    "label": "HUD proposes time limits and work requirements for rental aid",
-    "publisher": "NPR",
-    "type": "news",
-    "url": "https://www.npr.org/2026/02/27/nx-s1-5728988/hud-proposes-time-limits-work-requirements-for-rental-aid"
-   },
-   {
-    "label": "Federal Register record of the proposed rule (2026-04095)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/api/v1/documents/2026-04095.json"
-   },
-   {
-    "label": "Feds encourage public housing authorities to impose work rules, time limits",
-    "publisher": "Stateline",
-    "type": "news",
-    "url": "https://stateline.org/2026/06/30/feds-encourage-public-housing-authorities-to-impose-work-rules-time-limits/"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch15-011",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no HUD rule or law aimed at reducing marriage penalties in housing aid. HUD's March 2026 proposed rule on work requirements and time limits deals with work, not marriage (see ch15-010).",
-  "closeness": "No matching action found.",
-  "uncertain": "I searched Federal Register HUD documents and the text of the July 2026 housing law (P.L. 119-101) for marriage or household rules and found none. The law orders a study of work requirements, not marriage rules.",
-  "sources": [
-   {
-    "label": "HUD proposes time limits, work requirements for rental aid",
-    "publisher": "NPR",
-    "type": "news",
-    "url": "https://www.npr.org/2026/02/27/nx-s1-5728988/hud-proposes-time-limits-work-requirements-for-rental-aid"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch15-012",
-  "status": "partly-blocked",
-  "match": "direct",
-  "happened": "After a July 2025 executive order on homelessness, HUD changed its Continuum of Care grant rules to move money away from \"Housing First\" permanent housing toward transitional housing and treatment. Courts blocked the 2025 changes. HUD's June 2026 grant notice kept the same direction, and a Rhode Island federal court ruled against key parts of it in June and August 2026.",
-  "key_dates": [
-   {
-    "date": "Jul 2025",
-    "event": "Executive order \"Ending Crime and Disorder on America's Streets.\""
-   },
-   {
-    "date": "Nov-Dec 2025",
-    "event": "HUD issues, withdraws and reissues its 2025 grant notice."
-   },
-   {
-    "date": "Jun 29, 2026",
-    "event": "Judge Mary McElroy (D.R.I.) grants summary judgment against HUD's 2025 changes."
-   },
-   {
-    "date": "Aug 7, 2026",
-    "event": "Same court rules HUD's $1.3 billion transitional-housing set-aside for 2026 cannot be implemented."
-   }
-  ],
-  "legal": "U.S. District Court for the District of Rhode Island: an earlier preliminary injunction, then summary judgment (June 29, 2026) finding the 2025 changes violated the Administrative Procedure Act. A federal appeals court refused to let the 2025 limits take effect in April 2026. On Aug 7, 2026 the court granted summary judgment in part against the 2026 set-aside. The court did not bar future policy changes.",
-  "closeness": "The policy direction matches the recommendation closely. The courts' rulings were mostly about how HUD made the changes, not whether it may change policy.",
-  "uncertain": "Whether HUD appealed the 2026 rulings and how 2026 grants are being awarded. Congress also ordered expiring projects restored in a 2026 spending law. Newest source: August 2026.",
-  "sources": [
-   {
-    "label": "Judge rules against HUD's Continuum of Care changes",
-    "publisher": "Smart Cities Dive",
-    "type": "news",
-    "url": "https://www.smartcitiesdive.com/news/hud-coc-grant-housing-first-ruling-homeless-funding/824352/"
-   },
-   {
-    "label": "Attorney General Clark secures order protecting federal support for homelessness services",
-    "publisher": "Vermont Attorney General",
-    "type": "government",
-    "url": "https://ago.vermont.gov/blog/2026/08/07/attorney-general-clark-secures-order-protecting-federal-support-homelessness-services"
-   },
-   {
-    "label": "Attorney General Ellison wins appeals court ruling against HUD",
-    "publisher": "Minnesota Attorney General",
-    "type": "government",
-    "url": "https://www.ag.state.mn.us/Office/Communications/2026/04/02_HUD.asp"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch15-013",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no HUD action suspending all outside research and evaluation grants. In early 2025, the DOGE team canceled more than 100 HUD contracts, and HUD planned deep staff cuts in its research office. Congress gave HUD's research account $123 million for 2026, down from $139 million in 2025, and HUD issued an updated evaluation policy in September 2026.",
-  "closeness": "No matching action found. HUD's 2026 budget request proposed cutting the research account to $95 million, and Congress cut it less than that; neither step suspends outside research grants.",
-  "uncertain": "Searched the Federal Register for HUD research and evaluation notices since January 2025, the CRS report on 2026 HUD funding, and two web searches. Reports on the 2025 contract cancellations do not say which, if any, were research or evaluation contracts. Newest source: September 2026.",
-  "sources": [
-   {
-    "label": "Transportation, Housing and Urban Development (THUD) Appropriations for FY2026 (R48728)",
-    "publisher": "Congressional Research Service (via EveryCRSReport)",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/R48728.html"
-   },
-   {
-    "label": "HUD Evaluation Policy (Sept. 24, 2026)",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19528/hud-evaluation-policy"
-   },
-   {
-    "label": "DOGE details its cuts at HUD, VA, CFPB",
-    "publisher": "American Banker",
-    "type": "news",
-    "url": "https://www.americanbanker.com/news/doge-details-its-cuts-at-hud-va-cfpb"
-   }
-  ],
-  "as_of": "2026-10-28",
-  "recheck": "Which HUD research or evaluation contracts were among the 2025 cancellations is not known; check HUD research office contract data."
- },
- {
-  "id": "ch15-014",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no change to FHA single-family mortgage insurance premiums based on loan length since January 20, 2025. The last single-family premium change, in March 2023, before January 20, 2025, cut annual premiums for most borrowers from 0.85 to 0.55 percent. HUD's 2025 premium changes were for multifamily and healthcare loans.",
-  "closeness": "No matching action found. The 2023 change moved premiums down, the opposite direction.",
-  "uncertain": "I searched the Federal Register and the web for 2025-2026 FHA premium notices; 2026 mortgagee letters I found did not change premiums.",
-  "sources": [
-   {
-    "label": "Changes in Mortgage Insurance Premiums Applicable to FHA Multifamily Insurance Programs (Sept. 23, 2025)",
-    "publisher": "Federal Register (HUD)",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/09/23/2025-18379/changes-in-mortgage-insurance-premiums-applicable-to-fha-multifamily-insurance-programs"
-   },
-   {
-    "label": "FHA Mortgagee Letter 2023-05: Reduction in Annual Single Family Mortgage Insurance Premium",
-    "publisher": "National Council of State Housing Agencies",
-    "type": "news",
-    "url": "https://www.ncsha.org/resource/fha-mortgagee-letter-2023-05-reduction-in-annual-single-family-mortgage-insurance-premium/"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch15-015",
-  "status": "under-review",
-  "match": "broader",
-  "happened": "On October 2, 2025, HUD's Federal Housing Administration and Ginnie Mae asked the public for ideas on the future of the reverse mortgage (HECM) program, saying it had faced operational and financial challenges. HUD reopened the comment period in December 2025.",
-  "key_dates": [
-   {
-    "date": "2025-10-02",
-    "event": "HUD request for information on the future of HECM."
-   },
-   {
-    "date": "2025-12-10",
-    "event": "Comment period reopened."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "HUD is studying the HECM program, but I found no law moving HECM to its own insurance fund, changing loan limits, or creating shorter-term loans.",
-  "uncertain": "I did not search congress.gov for HECM bills. Newest source: December 2025.",
-  "sources": [
-   {
-    "label": "Future of the HECM and HMBS Programs and Opportunities for Innovation in Accessing Home Equity",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/10/02/2025-19344/future-of-the-hecm-and-hmbs-programs-and-opportunities-for-innovation-in-accessing-home-equity"
-   },
-   {
-    "label": "Re-Opening the Public Comment Period",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/12/10/2025-22409/future-of-the-hecm-and-hmbs-programs-and-opportunities-for-innovation-in-accessing-home-equity"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch15-016",
-  "status": "not-done",
-  "match": "none",
-  "happened": "No law limits FHA single-family insurance to first-time homebuyers. The July 2026 housing law (P.L. 119-101) added an FHA small-dollar mortgage pilot and did not narrow FHA. A March 2026 order on mortgage credit sought to widen access to mortgages.",
-  "closeness": "No matching action found.",
-  "uncertain": "I searched the Federal Register and the local copy of 119th Congress laws, including P.L. 119-101. Introduced bills could not be fully checked.",
-  "sources": [
-   {
-    "label": "Executive Order 14393, Promoting Access to Mortgage Credit",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/03/18/2026-05384/promoting-access-to-mortgage-credit"
-   },
-   {
-    "label": "Public Law 119-101, 21st Century ROAD to Housing Act",
-    "publisher": "U.S. Government Publishing Office",
-    "type": "government",
-    "url": "https://www.govinfo.gov/app/details/PLAW-119publ101"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch15-018",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "The 2026 spending law signed on February 3, 2026, gave HUD $345 million for information technology, now inside its Management and Administration account. That is less than the $383 million HUD got in 2025 and less than the $365 million the President requested.",
-  "key_dates": [
-   {
-    "date": "2026-02-03",
-    "event": "Consolidated Appropriations Act, 2026 (P.L. 119-75) signed, with $345 million for HUD information technology."
-   }
-  ],
-  "closeness": "HUD's technology money continued, but below both the request and the prior year, so the request was not fully kept. The chapter was written for an earlier budget year, so the comparison is approximate.",
-  "uncertain": "How the $345 million is split between new modernization projects and keeping current systems running was not checked. Newest source is an April 2026 CRS report.",
-  "sources": [
-   {
-    "label": "Transportation, Housing and Urban Development (THUD) Appropriations for FY2026 (R48728)",
-    "publisher": "Congressional Research Service (via EveryCRSReport)",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/R48728.html"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch15-019",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "In 2025, HUD ended the 2021 fair housing planning rule (AFFH) and withdrew a 2016 joint statement on how fair housing law applies to local land use. But a March 2026 order told HUD to issue \"best practices\" for state and local governments, such as allowing single-family homes by right and limiting growth boundaries, and to tie agency grants to them.",
-  "key_dates": [
-   {
-    "date": "2025-03-03",
-    "event": "HUD rescinds 2021 AFFH rule."
-   },
-   {
-    "date": "2025-09-25",
-    "event": "HUD withdraws 2016 land use guidance."
-   },
-   {
-    "date": "2026-03-13",
-    "event": "Executive Order 14394 on housing barriers signed."
-   }
-  ],
-  "legal": "No court ruling found on these steps.",
-  "closeness": "Partly matches: federal fair housing pressure on local zoning was reduced. The 2026 order uses federal grants to encourage local rule changes, but supports single-family building rather than weakening single-family zoning.",
-  "uncertain": "I did not find HUD's best practices list or how grants will use it. Newest source: July 2026.",
-  "sources": [
-   {
-    "label": "Affirmatively Furthering Fair Housing Revisions (interim final rule, Mar. 3, 2025)",
-    "publisher": "Federal Register (HUD)",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2025/03/03/2025-03360/affirmatively-furthering-fair-housing-revisions"
-   },
-   {
-    "label": "HUD: Notice of the Withdrawal of OGC Guidance Documents (published July 17, 2026; effective Sept. 25, 2025)",
-    "publisher": "Federal Register (HUD)",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14432/notice-of-the-withdrawal-of-ogc-guidance-documents"
-   },
-   {
-    "label": "Executive Order 14394, Removing Regulatory Barriers to Affordable Home Construction",
-    "publisher": "Federal Register",
-    "type": "government",
-    "url": "https://www.federalregister.gov/documents/2026/03/18/2026-05388/removing-regulatory-barriers-to-affordable-home-construction"
-   }
-  ],
-  "as_of": "2026-10-27"
- },
- {
-  "id": "ch15-020",
-  "status": "partly-done",
-  "match": "broader",
-  "happened": "The July 2025 reconciliation law permanently raised state allocations of the Low-Income Housing Tax Credit by 12 percent and made it easier for bond-financed projects to get the credit, starting in 2026. The credit can pay for rehabilitation, including in rural areas, but it is not a rural repair credit.",
-  "key_dates": [
-   {
-    "date": "2025-07-04",
-    "event": "Reconciliation law (P.L. 119-21, sec. 70422) expands the housing credit."
-   }
-  ],
-  "legal": "No court ruling found.",
-  "closeness": "Only the general direction. I found no new tax credit aimed at renovating or repairing rural housing.",
-  "uncertain": "I did not search for rural housing tax credit bills in the 119th Congress. Newest source: July 2025.",
-  "sources": [
-   {
-    "label": "Public Law 119-21, sec. 70422 (low-income housing tax credit)",
-    "publisher": "U.S. Government Publishing Office",
-    "type": "government",
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
-   }
-  ],
-  "as_of": "2026-10-28",
-  "recheck": "Check 119th Congress bills (GovInfo or congress.gov) for a rural housing repair tax credit."
- },
- {
-  "id": "ch15-021",
-  "status": "partly-done",
-  "match": "partial",
-  "happened": "The 21st Century ROAD to Housing Act (P.L. 119-101), signed July 11, 2026, made HUD's Rental Assistance Demonstration permanent and raised its cap from 455,000 to 555,000 public housing units that can convert to Section 8 contracts. It also eased inspection rules for vouchers and allows up to 25 more housing agencies into the flexible Moving to Work program. It does not broadly favor vouchers or free agencies to sell public housing land.",
-  "key_dates": [
-   {
-    "date": "2026-07-11",
-    "event": "21st Century ROAD to Housing Act signed."
-   }
-  ],
-  "legal": "I found no court ruling.",
-  "closeness": "The law gives housing agencies more room to move away from traditional public housing, a smaller version of the idea. Converted units mostly stay site-based, and land sales were not loosened.",
-  "uncertain": "I read the law's text on these sections; how many units will convert is not known. The administration's block grant request is covered in ch15-022.",
-  "sources": [
-   {
-    "label": "Public Law 119-101, 21st Century ROAD to Housing Act",
-    "publisher": "U.S. Government Publishing Office",
-    "type": "government",
-    "url": "https://www.govinfo.gov/app/details/PLAW-119publ101"
-   },
-   {
-    "label": "CRS R48927: HUD FY2027 Budget Request: In Brief",
-    "publisher": "Congressional Research Service (via EveryCRSReport)",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/R48927.html"
-   }
-  ],
-  "as_of": "2026-10-28"
- },
- {
-  "id": "ch15-022",
-  "status": "not-done",
-  "match": "none",
-  "happened": "I found no law or bill moving to break up HUD and send its work to states or other agencies. The White House's 2026 budget asked Congress to turn HUD's five largest rental aid programs into a block grant to states, but House appropriators rejected it. The 2027 budget request dropped that idea.",
-  "legal": "None.",
-  "closeness": "A block-grant budget request points in the same general direction, but it was not adopted and is much smaller than dismantling HUD. HUD's own reorganization notice of Sept 2026 was withdrawn and did not move programs out of HUD.",
-  "uncertain": "Searched for 2025-2026 bills to eliminate or break up HUD and for HUD reorganization plans. FY2027 appropriations were not final when I checked.",
-  "sources": [
-   {
-    "label": "HUD FY2027 Budget Request: In Brief",
-    "publisher": "Congressional Research Service",
-    "type": "government",
-    "url": "https://www.everycrsreport.com/reports/R48927.html"
-   },
-   {
-    "label": "HUD publishes, then withdraws, controversial reorganization notice",
-    "publisher": "LeadingAge",
-    "type": "advocacy",
-    "url": "https://leadingage.org/?p=1172574"
-   }
-  ],
-  "as_of": "2026-10-27"
- }
+  {
+    "id": "ch15-001",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "Government-wide, the administration created a new job category, \"Schedule Policy/Career,\" for career staff in policy roles that makes them easier to fire. OPM's final rule took effect in March 2026, and a June 2026 order moved about 8,000 federal employees into it.",
+    "key_dates": [
+      {
+        "date": "2026-03",
+        "event": "OPM rule creating Schedule Policy/Career takes effect."
+      },
+      {
+        "date": "2026-06",
+        "event": "Order moves about 8,000 employees into the new category."
+      }
+    ],
+    "legal": "Unions and employee groups have challenged the OPM rule in federal court in Maryland (Judge Paula Xinis) and elsewhere; I found no injunction or merits ruling as of June 2026.",
+    "closeness": "Only the general direction matches. I found no HUD step giving all delegated powers to political appointees or turning HUD career leadership jobs into political posts.",
+    "uncertain": "I searched the Federal Register for HUD delegations of authority and found none that move powers to political appointees. How many HUD jobs went into the new category is not known. Same government-wide action as ch09-060. Newest source is from June 2026.",
+    "sources": [
+      {
+        "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges, and Issues for Lawmakers (LSB11412)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11412.html"
+      },
+      {
+        "label": "Employee groups revive lawsuit to block Schedule F",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/workforce/2026/03/employee-groups-revive-lawsuit-block-schedule-f/411962/"
+      },
+      {
+        "label": "What the new Schedule Policy/Career order means for federal employees",
+        "publisher": "FedSmith",
+        "type": "news",
+        "url": "https://www.fedsmith.com/2026/06/03/what-the-new-schedule-policy-career-order-means-for-federal-employees/"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Check HUD-specific steps: delegations to political appointees, career posts converted, and HUD jobs moved to Schedule Policy/Career."
+  },
+  {
+    "id": "ch15-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no executive order adding the HUD Secretary to the Committee on Foreign Investment in the United States (CFIUS).",
+    "closeness": "No matching action found. A February 2025 investment policy aimed CFIUS at Chinese investment in farmland and other sectors, but did not add HUD (see ch26-010).",
+    "uncertain": "Searched the Federal Register for presidential documents on CFIUS and on foreign ownership of housing since January 2025; none added HUD.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-003",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On February 13, 2025, HUD Secretary Scott Turner set up a 'DOGE Task Force' of HUD employees to review how HUD spends money and report to him. News reports said it also looked at Biden-era rules such as the fair housing (AFFH) rule. HUD later reversed several Biden-era actions one by one (see ch15-005, ch15-007).",
+    "key_dates": [
+      {
+        "date": "2025-02-13",
+        "event": "HUD launches its DOGE Task Force."
+      }
+    ],
+    "legal": "I found no court ruling on the task force.",
+    "closeness": "The task force reviews spending and programs, in the chapter's direction. It is made up of HUD employees, not only political appointees, and its stated aim is waste, not reversing all Biden-era actions.",
+    "uncertain": "The link to the AFFH rule comes from news coverage; HUD's release does not mention it. The task force's 2026 activity is not known.",
+    "sources": [
+      {
+        "label": "HUD Secretary Scott Turner Launches DOGE Task Force to Eliminate Waste, Fraud and Abuse",
+        "publisher": "U.S. Department of Housing and Urban Development",
+        "type": "government",
+        "url": "https://www.hud.gov/news/hud-no-25-030"
+      },
+      {
+        "label": "HUD announces launch of DOGE task force, targets AFFH rule",
+        "publisher": "HousingWire",
+        "type": "news",
+        "url": "https://www.housingwire.com/articles/hud-announces-launch-of-doge-task-force-targets-affh-rule/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch15-004",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "HUD says it is doing a comprehensive review of its guidance issued outside formal rulemaking, citing two 2025 executive orders on deregulation. In September 2025, its Office of General Counsel and its Office of Fair Housing and Equal Opportunity withdrew groups of guidance documents, announced in the Federal Register in April and July 2026.",
+    "key_dates": [
+      {
+        "date": "2025-09-17",
+        "event": "Fair Housing office guidance withdrawals take effect."
+      },
+      {
+        "date": "2025-09-25",
+        "event": "Office of General Counsel guidance withdrawals take effect."
+      },
+      {
+        "date": "2026-07-17",
+        "event": "Federal Register notice of OGC withdrawals."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Matches the recommended review of guidance. The review is described as ongoing, so it is not finished.",
+    "uncertain": "I did not count every withdrawn document or check other HUD offices. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Notice of the Withdrawal of OGC Guidance Documents",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14432/notice-of-the-withdrawal-of-ogc-guidance-documents"
+      },
+      {
+        "label": "Notification of Withdrawal of Fair Housing and Equal Opportunity Guidance Documents",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06624/notification-of-withdrawal-of-fair-housing-and-equal-opportunity-guidance-documents"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-005",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On July 10, 2025, HUD and the White House budget office ended the Biden-era appraisal equity (PAVE) policies and effectively disbanded the PAVE task force. They ended three FHA notices on appraisal review, 'reconsideration of value' requests and appraisal fair housing compliance. HUD's legal office also withdrew a 2022 guidance memo on proving appraisal discrimination, effective September 25, 2025.",
+    "key_dates": [
+      {
+        "date": "2025-07-10",
+        "event": "HUD and OMB end PAVE policies and FHA appraisal notices."
+      },
+      {
+        "date": "2025-09-25",
+        "event": "HUD withdraws 'Appraisal Elements of Proof' guidance."
+      },
+      {
+        "date": "2026-03-13",
+        "event": "Executive Order 14393 on mortgage credit signed."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Matches the call to end PAVE policies and reverse related actions. Some appraisal rules adopted separately by other agencies may remain, and fair housing laws still apply.",
+    "uncertain": "Whether every PAVE-era rule at other agencies was undone was not checked. Newest source is from July 2026.",
+    "sources": [
+      {
+        "label": "HUD, OMB Streamline Home Appraisal Process, Effectively Disband Woke Biden-Era Task Force",
+        "publisher": "U.S. Department of Housing and Urban Development",
+        "type": "government",
+        "url": "https://www.hud.gov/news/hud-no-25-092"
+      },
+      {
+        "label": "HUD: Notice of the Withdrawal of OGC Guidance Documents (published July 17, 2026; effective Sept. 25, 2025)",
+        "publisher": "Federal Register (HUD)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14432/notice-of-the-withdrawal-of-ogc-guidance-documents"
+      },
+      {
+        "label": "Executive Order 14393, Promoting Access to Mortgage Credit",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/18/2026-05384/promoting-access-to-mortgage-credit"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch15-006",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law canceled unspent money for HUD's Green and Resilient Retrofit Program. In 2025, HUD ended lower insurance premiums for green and energy-efficient healthcare buildings, and began reviewing 2024 energy code requirements. In July 2026, HUD proposed repealing its flood risk building standard.",
+    "key_dates": [
+      {
+        "date": "2025-06-26",
+        "event": "HUD ends green premium category for Section 232 loans."
+      },
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law rescinds Green and Resilient Retrofit funds."
+      },
+      {
+        "date": "2026-07-10",
+        "event": "HUD proposes repealing flood risk standard."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Several climate programs and rules were cut or proposed for repeal, as recommended, though not all at once in a budget request.",
+    "uncertain": "I did not check HUD's 2026 and 2027 budget requests line by line for climate items. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), Sec. 30002: rescission of Green and Resilient Retrofit Program funds",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      },
+      {
+        "label": "Elimination of Green and Energy Efficient Mortgage Insurance Premium Rate Category (Section 232)",
+        "publisher": "Federal Register (HUD)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/26/2025-11808/elimination-of-green-and-energy-efficient-mortgage-insurance-premium-rate-category-applicable-to"
+      },
+      {
+        "label": "Rescission of Floodplain Management ... Building to the Federal Flood Risk Management Standard (proposed rule, July 10, 2026)",
+        "publisher": "Federal Register (HUD)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13939/rescission-of-floodplain-management-and-protection-of-wetlands-minimum-property-standards-for-flood"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-007",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "HUD Secretary Scott Turner announced on Feb 27, 2025 that HUD would end the Biden-era Affirmatively Furthering Fair Housing (AFFH) rule. HUD published an interim final rule on Mar 3, 2025 that rescinded the 2021 AFFH rule. It took effect on Apr 2, 2025.",
+    "key_dates": [
+      {
+        "date": "Jan 2025",
+        "event": "HUD withdraws the February 2023 proposed AFFH rule."
+      },
+      {
+        "date": "Feb 27, 2025",
+        "event": "Secretary Turner announces HUD will end the AFFH rule."
+      },
+      {
+        "date": "Mar 3, 2025",
+        "event": "Interim final rule published; effective Apr 2, 2025."
+      }
+    ],
+    "legal": "I found no court ruling blocking the 2025 rescission.",
+    "closeness": "The AFFH repeal matches the recommendation closely. I did not find a specific HUD action on special-purpose credit programs, the second part of the recommendation.",
+    "uncertain": "Whether HUD has issued a later final rule replacing the interim final rule, whether any lawsuit was filed, and what HUD did about special-purpose credit programs. Newest source: May 2025 Federal Register material.",
+    "sources": [
+      {
+        "label": "Affirmatively Furthering Fair Housing Revisions (interim final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/03/03/2025-03360/affirmatively-furthering-fair-housing-revisions"
+      },
+      {
+        "label": "HUD Ends AFFH Rule",
+        "publisher": "The MortgagePoint",
+        "type": "news",
+        "url": "https://themortgagepoint.com/2025/02/27/hud-ends-affh-rule/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-008",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Housing Supply Fund was a Biden budget proposal that Congress never created. I found no request or law reviving it.",
+    "closeness": "Not done as an action, because the fund never existed.",
+    "uncertain": "I searched the Federal Register and the local copy of 119th Congress laws, including the July 2026 housing law (P.L. 119-101), and found no Housing Supply Fund.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch15-009",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "On Feb 20, 2026 HUD published a proposed rule, \"Verification of Eligible Status.\" It would end prorated aid for mixed-status households, bar them from public housing and Section 8, and require all tenants to re-verify their citizenship or immigration status. The comment period closed Apr 21, 2026. I found no final rule.",
+    "key_dates": [
+      {
+        "date": "Feb 20, 2026",
+        "event": "HUD publishes the proposed mixed-status rule."
+      },
+      {
+        "date": "Apr 21, 2026",
+        "event": "Public comment period closes."
+      }
+    ],
+    "legal": "No court case yet, because the rule is not final. Several state attorneys general filed comments opposing it.",
+    "closeness": "Same idea as the recommendation: restart the Trump-era proposal barring mixed-status families from assisted housing. It is still a proposal, not a final rule.",
+    "uncertain": "Whether and when HUD will finalize the rule. One October 2026 report said it was still under review at the White House budget office; I could not open that report to confirm. Mixed-status families still get prorated aid under current rules.",
+    "sources": [
+      {
+        "label": "HUD proposes rule that would force noncitizens from public housing",
+        "publisher": "ClickOnDetroit (AP)",
+        "type": "news",
+        "url": "https://www.clickondetroit.com/news/2026/02/19/hud-proposes-rule-that-would-force-noncitizens-from-public-housing/"
+      },
+      {
+        "label": "HUD publishes 2026 version of mixed status proposed rule",
+        "publisher": "NAHRO",
+        "type": "advocacy",
+        "url": "https://www.nahro.org/news/hud-publishes-2026-version-of-mixed-status-proposed-rule"
+      },
+      {
+        "label": "Attorney General Clark opposes federal effort to strip housing support for mixed-status households",
+        "publisher": "Vermont Attorney General",
+        "type": "government",
+        "url": "https://ago.vermont.gov/blog/2026/04/21/attorney-general-clark-opposes-federal-effort-strip-housing-support-mixed-status-immigrant"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-010",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "HUD published a proposed rule on Mar 2, 2026 that would let local housing agencies and some HUD-assisted landlords choose to add work requirements, time limits, both, or neither. It would cover public housing, vouchers and project-based rental aid. Older adults and people with disabilities would be exempt. Comments closed May 2, 2026. Reports in late June 2026 said HUD was finalizing it.",
+    "key_dates": [
+      {
+        "date": "Feb 27, 2026",
+        "event": "HUD announces the proposal."
+      },
+      {
+        "date": "Mar 2, 2026",
+        "event": "Proposed rule published in the Federal Register."
+      },
+      {
+        "date": "May 2, 2026",
+        "event": "Comment period closes (about 2,000 comments)."
+      }
+    ],
+    "legal": "No court case found; the rule is not final.",
+    "closeness": "Same goal, but optional for local agencies rather than required nationwide. I found no new law from Congress adding work requirements or time limits to HUD rental aid.",
+    "uncertain": "Whether HUD has finalized the rule. My newest source on its status is from late June 2026.",
+    "sources": [
+      {
+        "label": "HUD proposes time limits and work requirements for rental aid",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://www.npr.org/2026/02/27/nx-s1-5728988/hud-proposes-time-limits-work-requirements-for-rental-aid"
+      },
+      {
+        "label": "Federal Register record of the proposed rule (2026-04095)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/api/v1/documents/2026-04095.json"
+      },
+      {
+        "label": "Feds encourage public housing authorities to impose work rules, time limits",
+        "publisher": "Stateline",
+        "type": "news",
+        "url": "https://stateline.org/2026/06/30/feds-encourage-public-housing-authorities-to-impose-work-rules-time-limits/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-011",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no HUD rule or law aimed at reducing marriage penalties in housing aid. HUD's March 2026 proposed rule on work requirements and time limits deals with work, not marriage (see ch15-010).",
+    "closeness": "No matching action found.",
+    "uncertain": "I searched Federal Register HUD documents and the text of the July 2026 housing law (P.L. 119-101) for marriage or household rules and found none. The law orders a study of work requirements, not marriage rules.",
+    "sources": [
+      {
+        "label": "HUD proposes time limits, work requirements for rental aid",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://www.npr.org/2026/02/27/nx-s1-5728988/hud-proposes-time-limits-work-requirements-for-rental-aid"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch15-012",
+    "status": "partly-blocked",
+    "match": "direct",
+    "happened": "After a July 2025 executive order on homelessness, HUD changed its Continuum of Care grant rules to move money away from \"Housing First\" permanent housing toward transitional housing and treatment. Courts blocked the 2025 changes. HUD's June 2026 grant notice kept the same direction, and a Rhode Island federal court ruled against key parts of it in June and August 2026.",
+    "key_dates": [
+      {
+        "date": "Jul 2025",
+        "event": "Executive order \"Ending Crime and Disorder on America's Streets.\""
+      },
+      {
+        "date": "Nov-Dec 2025",
+        "event": "HUD issues, withdraws and reissues its 2025 grant notice."
+      },
+      {
+        "date": "Jun 29, 2026",
+        "event": "Judge Mary McElroy (D.R.I.) grants summary judgment against HUD's 2025 changes."
+      },
+      {
+        "date": "Aug 7, 2026",
+        "event": "Same court rules HUD's $1.3 billion transitional-housing set-aside for 2026 cannot be implemented."
+      }
+    ],
+    "legal": "U.S. District Court for the District of Rhode Island: an earlier preliminary injunction, then summary judgment (June 29, 2026) finding the 2025 changes violated the Administrative Procedure Act. A federal appeals court refused to let the 2025 limits take effect in April 2026. On Aug 7, 2026 the court granted summary judgment in part against the 2026 set-aside. The court did not bar future policy changes.",
+    "closeness": "The policy direction matches the recommendation closely. The courts' rulings were mostly about how HUD made the changes, not whether it may change policy.",
+    "uncertain": "Whether HUD appealed the 2026 rulings and how 2026 grants are being awarded. Congress also ordered expiring projects restored in a 2026 spending law. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Judge rules against HUD's Continuum of Care changes",
+        "publisher": "Smart Cities Dive",
+        "type": "news",
+        "url": "https://www.smartcitiesdive.com/news/hud-coc-grant-housing-first-ruling-homeless-funding/824352/"
+      },
+      {
+        "label": "Attorney General Clark secures order protecting federal support for homelessness services",
+        "publisher": "Vermont Attorney General",
+        "type": "government",
+        "url": "https://ago.vermont.gov/blog/2026/08/07/attorney-general-clark-secures-order-protecting-federal-support-homelessness-services"
+      },
+      {
+        "label": "Attorney General Ellison wins appeals court ruling against HUD",
+        "publisher": "Minnesota Attorney General",
+        "type": "government",
+        "url": "https://www.ag.state.mn.us/Office/Communications/2026/04/02_HUD.asp"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-013",
+    "status": "no-record",
+    "match": "none",
+    "happened": "I found no HUD action suspending all outside research and evaluation grants. In early 2025, the DOGE team canceled more than 100 HUD contracts, and HUD planned deep staff cuts in its research office. Congress gave HUD's research account $123 million for 2026, down from $139 million in 2025, and HUD issued an updated evaluation policy in September 2026.",
+    "closeness": "No matching action found. HUD's 2026 budget request proposed cutting the research account to $95 million, and Congress cut it less than that; neither step suspends outside research grants.",
+    "uncertain": "Searched the Federal Register for HUD research and evaluation notices since January 2025, the CRS report on 2026 HUD funding, and two web searches. Reports on the 2025 contract cancellations do not say which, if any, were research or evaluation contracts. Newest source: September 2026. No matching Federal Register document since Jan 20, 2025.",
+    "sources": [
+      {
+        "label": "Transportation, Housing and Urban Development (THUD) Appropriations for FY2026 (R48728)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48728.html"
+      },
+      {
+        "label": "HUD Evaluation Policy (Sept. 24, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19528/hud-evaluation-policy"
+      },
+      {
+        "label": "DOGE details its cuts at HUD, VA, CFPB",
+        "publisher": "American Banker",
+        "type": "news",
+        "url": "https://www.americanbanker.com/news/doge-details-its-cuts-at-hud-va-cfpb"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch15-014",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no change to FHA single-family mortgage insurance premiums based on loan length since January 20, 2025. The last single-family premium change, in March 2023, before January 20, 2025, cut annual premiums for most borrowers from 0.85 to 0.55 percent. HUD's 2025 premium changes were for multifamily and healthcare loans.",
+    "closeness": "No matching action found. The 2023 change moved premiums down, the opposite direction.",
+    "uncertain": "I searched the Federal Register and the web for 2025-2026 FHA premium notices; 2026 mortgagee letters I found did not change premiums.",
+    "sources": [
+      {
+        "label": "Changes in Mortgage Insurance Premiums Applicable to FHA Multifamily Insurance Programs (Sept. 23, 2025)",
+        "publisher": "Federal Register (HUD)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/23/2025-18379/changes-in-mortgage-insurance-premiums-applicable-to-fha-multifamily-insurance-programs"
+      },
+      {
+        "label": "FHA Mortgagee Letter 2023-05: Reduction in Annual Single Family Mortgage Insurance Premium",
+        "publisher": "National Council of State Housing Agencies",
+        "type": "news",
+        "url": "https://www.ncsha.org/resource/fha-mortgagee-letter-2023-05-reduction-in-annual-single-family-mortgage-insurance-premium/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch15-015",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "On October 2, 2025, HUD's Federal Housing Administration and Ginnie Mae asked the public for ideas on the future of the reverse mortgage (HECM) program, saying it had faced operational and financial challenges. HUD reopened the comment period in December 2025.",
+    "key_dates": [
+      {
+        "date": "2025-10-02",
+        "event": "HUD request for information on the future of HECM."
+      },
+      {
+        "date": "2025-12-10",
+        "event": "Comment period reopened."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "HUD is studying the HECM program, but I found no law moving HECM to its own insurance fund, changing loan limits, or creating shorter-term loans.",
+    "uncertain": "I did not search congress.gov for HECM bills. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Future of the HECM and HMBS Programs and Opportunities for Innovation in Accessing Home Equity",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/02/2025-19344/future-of-the-hecm-and-hmbs-programs-and-opportunities-for-innovation-in-accessing-home-equity"
+      },
+      {
+        "label": "Re-Opening the Public Comment Period",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/10/2025-22409/future-of-the-hecm-and-hmbs-programs-and-opportunities-for-innovation-in-accessing-home-equity"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-016",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law limits FHA single-family insurance to first-time homebuyers. The July 2026 housing law (P.L. 119-101) added an FHA small-dollar mortgage pilot and did not narrow FHA. A March 2026 order on mortgage credit sought to widen access to mortgages.",
+    "closeness": "No matching action found.",
+    "uncertain": "I searched the Federal Register and the local copy of 119th Congress laws, including P.L. 119-101. Introduced bills could not be fully checked.",
+    "sources": [
+      {
+        "label": "Executive Order 14393, Promoting Access to Mortgage Credit",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/18/2026-05384/promoting-access-to-mortgage-credit"
+      },
+      {
+        "label": "Public Law 119-101, 21st Century ROAD to Housing Act",
+        "publisher": "U.S. Government Publishing Office",
+        "type": "government",
+        "url": "https://www.govinfo.gov/app/details/PLAW-119publ101"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch15-017",
+    "status": "no-record",
+    "match": "none",
+    "happened": "No public record of action was found. An automated check of every Federal Register rule, proposed rule and presidential document since January 20, 2025 found no matching document.",
+    "closeness": "Unknown. Much of this kind of recommendation (internal staffing, management or classified work) happens without a public document.",
+    "uncertain": "Action may have happened without a published record, or may happen later. The daily watcher keeps checking for new documents.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch15-018",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The 2026 spending law signed on February 3, 2026, gave HUD $345 million for information technology, now inside its Management and Administration account. That is less than the $383 million HUD got in 2025 and less than the $365 million the President requested.",
+    "key_dates": [
+      {
+        "date": "2026-02-03",
+        "event": "Consolidated Appropriations Act, 2026 (P.L. 119-75) signed, with $345 million for HUD information technology."
+      }
+    ],
+    "closeness": "HUD's technology money continued, but below both the request and the prior year, so the request was not fully kept. The chapter was written for an earlier budget year, so the comparison is approximate.",
+    "uncertain": "How the $345 million is split between new modernization projects and keeping current systems running was not checked. Newest source is an April 2026 CRS report.",
+    "sources": [
+      {
+        "label": "Transportation, Housing and Urban Development (THUD) Appropriations for FY2026 (R48728)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48728.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-019",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In 2025, HUD ended the 2021 fair housing planning rule (AFFH) and withdrew a 2016 joint statement on how fair housing law applies to local land use. But a March 2026 order told HUD to issue \"best practices\" for state and local governments, such as allowing single-family homes by right and limiting growth boundaries, and to tie agency grants to them.",
+    "key_dates": [
+      {
+        "date": "2025-03-03",
+        "event": "HUD rescinds 2021 AFFH rule."
+      },
+      {
+        "date": "2025-09-25",
+        "event": "HUD withdraws 2016 land use guidance."
+      },
+      {
+        "date": "2026-03-13",
+        "event": "Executive Order 14394 on housing barriers signed."
+      }
+    ],
+    "legal": "No court ruling found on these steps.",
+    "closeness": "Partly matches: federal fair housing pressure on local zoning was reduced. The 2026 order uses federal grants to encourage local rule changes, but supports single-family building rather than weakening single-family zoning.",
+    "uncertain": "I did not find HUD's best practices list or how grants will use it. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Affirmatively Furthering Fair Housing Revisions (interim final rule, Mar. 3, 2025)",
+        "publisher": "Federal Register (HUD)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/03/03/2025-03360/affirmatively-furthering-fair-housing-revisions"
+      },
+      {
+        "label": "HUD: Notice of the Withdrawal of OGC Guidance Documents (published July 17, 2026; effective Sept. 25, 2025)",
+        "publisher": "Federal Register (HUD)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14432/notice-of-the-withdrawal-of-ogc-guidance-documents"
+      },
+      {
+        "label": "Executive Order 14394, Removing Regulatory Barriers to Affordable Home Construction",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/18/2026-05388/removing-regulatory-barriers-to-affordable-home-construction"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-020",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The July 2025 reconciliation law permanently raised state allocations of the Low-Income Housing Tax Credit by 12 percent and made it easier for bond-financed projects to get the credit, starting in 2026. The credit can pay for rehabilitation, including in rural areas, but it is not a rural repair credit.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law (P.L. 119-21, sec. 70422) expands the housing credit."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Only the general direction. I found no new tax credit aimed at renovating or repairing rural housing.",
+    "uncertain": "I did not search for rural housing tax credit bills in the 119th Congress. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-21, sec. 70422 (low-income housing tax credit)",
+        "publisher": "U.S. Government Publishing Office",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Check 119th Congress bills (GovInfo or congress.gov) for a rural housing repair tax credit."
+  },
+  {
+    "id": "ch15-021",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The 21st Century ROAD to Housing Act (P.L. 119-101), signed July 11, 2026, made HUD's Rental Assistance Demonstration permanent and raised its cap from 455,000 to 555,000 public housing units that can convert to Section 8 contracts. It also eased inspection rules for vouchers and allows up to 25 more housing agencies into the flexible Moving to Work program. It does not broadly favor vouchers or free agencies to sell public housing land.",
+    "key_dates": [
+      {
+        "date": "2026-07-11",
+        "event": "21st Century ROAD to Housing Act signed."
+      }
+    ],
+    "legal": "I found no court ruling.",
+    "closeness": "The law gives housing agencies more room to move away from traditional public housing, a smaller version of the idea. Converted units mostly stay site-based, and land sales were not loosened.",
+    "uncertain": "I read the law's text on these sections; how many units will convert is not known. The administration's block grant request is covered in ch15-022.",
+    "sources": [
+      {
+        "label": "Public Law 119-101, 21st Century ROAD to Housing Act",
+        "publisher": "U.S. Government Publishing Office",
+        "type": "government",
+        "url": "https://www.govinfo.gov/app/details/PLAW-119publ101"
+      },
+      {
+        "label": "CRS R48927: HUD FY2027 Budget Request: In Brief",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48927.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch15-022",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no law or bill moving to break up HUD and send its work to states or other agencies. The White House's 2026 budget asked Congress to turn HUD's five largest rental aid programs into a block grant to states, but House appropriators rejected it. The 2027 budget request dropped that idea.",
+    "legal": "None.",
+    "closeness": "A block-grant budget request points in the same general direction, but it was not adopted and is much smaller than dismantling HUD. HUD's own reorganization notice of Sept 2026 was withdrawn and did not move programs out of HUD.",
+    "uncertain": "Searched for 2025-2026 bills to eliminate or break up HUD and for HUD reorganization plans. FY2027 appropriations were not final when I checked.",
+    "sources": [
+      {
+        "label": "HUD FY2027 Budget Request: In Brief",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48927.html"
+      },
+      {
+        "label": "HUD publishes, then withdraws, controversial reorganization notice",
+        "publisher": "LeadingAge",
+        "type": "advocacy",
+        "url": "https://leadingage.org/?p=1172574"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
 ]

@@ -7,71 +7,68 @@
 <meta name="description" content="Every recommendation in Project 2025, page-cited, next to what the federal government actually did and what courts said.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Six+Caps&family=Bevan&family=Archivo+Narrow:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="polish.css">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 
-<header class="top">
-  <div class="wrap top-grid">
-    <div class="top-main">
-      <p class="kicker"><span class="live-dot" aria-hidden="true"></span>A plain-language tracker, updated as things change</p>
-      <h1>Project 2025 <span>in practice</span></h1>
-      <p class="lede">Project 2025 is a 922-page plan, the "Mandate for Leadership," written by the Heritage Foundation and allied groups before the 2024 election. Here is <strong>every recommendation in it</strong>, with the page it came from, next to what the government actually did and what courts said.</p>
-      <div class="top-cta">
-        <a class="cta primary" href="#all">See every recommendation</a>
-        <a class="cta" href="#timeline">Watch the timeline</a>
+<header class="topbar">
+  <div class="container bar-row">
+    <a class="wordmark" href="#overview">Project 2025 in practice</a>
+    <nav class="tabs" aria-label="Sections">
+      <div class="tabrow">
+        <a href="#overview" data-view="overview">Overview</a>
+        <a href="#all" data-view="all">Every recommendation</a>
+        <a href="#timeline" data-view="timeline">Timeline</a>
+        <a href="#stories" data-view="stories">Big stories</a>
+        <a href="#glossary" data-view="glossary">Glossary</a>
+        <a href="#method" data-view="method">How this works</a>
       </div>
-      <div class="top-score" id="top-score" role="group" aria-label="Summary"></div>
-    </div>
-    <aside class="top-cd" aria-labelledby="top-cd-h">
-      <p class="eyebrow light" id="top-cd-h">Next chance to change course</p>
-      <p class="top-cd-name" id="top-cd-name">—</p>
-      <p class="top-cd-when" id="top-cd-when"></p>
-      <div class="clock" id="top-clock" role="timer" aria-live="off"></div>
-      <a class="cta primary block" id="top-cd-link" href="https://vote.gov/" target="_blank" rel="noopener noreferrer">Check your voter registration</a>
-    </aside>
+    </nav>
+    <button type="button" id="bigger" class="btn btn--frame btn--small" aria-pressed="false">Larger text</button>
   </div>
 </header>
-
-<nav class="tabs" aria-label="Sections">
-  <div class="wrap tabrow">
-    <a href="#overview" data-view="overview">Overview</a>
-    <a href="#all" data-view="all">Every recommendation</a>
-    <a href="#timeline" data-view="timeline">Timeline</a>
-    <a href="#stories" data-view="stories">Big stories</a>
-    <a href="#glossary" data-view="glossary">Glossary</a>
-    <a href="#method" data-view="method">How this works</a>
-    <button type="button" id="bigger" class="btn small" aria-pressed="false">Larger text</button>
-  </div>
-</nav>
+<noscript><p class="container noscript">This tracker needs JavaScript to show its data. Every finding is also in the project’s data folder.</p></noscript>
 
 <main id="main">
 
   <!-- OVERVIEW -->
   <section id="view-overview" class="view">
     <div class="wrap">
-      <div class="hero">
-        <div class="hero-main">
-          <p class="eyebrow">Of the recommendations checked so far</p>
-          <p class="hero-num"><span id="hero-pct">—</span><span class="pct">%</span></p>
-          <p class="hero-label" id="hero-label">have been carried out in full or in part.</p>
-        </div>
-        <div class="hero-side">
-          <div class="meter-block">
-            <div class="meter-head"><span>Research progress</span><strong id="prog-pct">—</strong></div>
-            <div class="meter"><i id="prog-fill"></i></div>
-            <p class="small muted" id="prog-label"></p>
+      <section class="bill" aria-labelledby="bill-h">
+        <div class="bill-main">
+          <h1 id="bill-h" class="bill-head"><span class="fit">Project 2025</span><span class="fit">in practice</span></h1>
+          <p class="fit bill-figure"><span id="hero-pct">0</span>% carried out</p>
+          <p class="lead" id="hero-label">of the recommendations checked so far.</p>
+          <p class="bill-intro">The 922-page plan, the “Mandate for Leadership,” was written by the Heritage Foundation and allied groups before the 2024 election. Here is every recommendation in it, with its page, beside what the government did and what courts said.</p>
+          <div class="bill-actions">
+            <a class="btn" href="#all">See every recommendation</a>
+            <a class="btn btn--frame" href="#timeline">Watch the timeline</a>
           </div>
-          <div class="meter-block">
-            <div class="meter-head"><span>Major recommendations checked</span><strong id="maj-pct">—</strong></div>
-            <div class="meter"><i id="maj-fill"></i></div>
-            <p class="small muted" id="maj-label"></p>
-          </div>
+          <div class="top-score" id="top-score" role="group" aria-label="Summary"></div>
         </div>
-      </div>
+        <aside class="bill-next" aria-labelledby="top-cd-name">
+          <h2 class="next-name" id="top-cd-name">Next election</h2>
+          <p class="next-when" id="top-cd-when"></p>
+          <div class="clock" id="top-clock" role="timer" aria-live="off"></div>
+          <a class="btn btn--block" id="top-cd-link" href="https://vote.gov/" target="_blank" rel="noopener noreferrer">Check your voter registration</a>
+        </aside>
+      </section>
+
+      <section class="particulars" aria-labelledby="research-h">
+        <h2 id="research-h">How far the research has got</h2>
+        <div class="meter-block">
+          <div class="meter-head"><span>All recommendations researched</span><strong id="prog-pct">0%</strong></div>
+          <div class="meter"><i id="prog-fill"></i></div>
+          <p class="small muted" id="prog-label"></p>
+        </div>
+        <div class="meter-block">
+          <div class="meter-head"><span>Major recommendations researched</span><strong id="maj-pct">0%</strong></div>
+          <div class="meter"><i id="maj-fill"></i></div>
+          <p class="small muted" id="maj-label"></p>
+        </div>
+      </section>
 
       <div class="stats" id="stats"></div>
 
@@ -81,7 +78,7 @@
         <div class="countdowns" id="countdowns"></div>
       </section>
 
-      <p class="stance"><strong>Where we stand.</strong> We think Project 2025's agenda is harmful, so this site marks the parts of it now in effect in <strong>red</strong>, and the parts courts have blocked in <strong>blue</strong>: each of those is a win. The facts, quotes and sources are reported as accurately as we can, and you can check every one; the colors are our view.</p>
+      <p class="stance"><strong>Where we stand.</strong> We think Project 2025’s agenda is harmful, so this site marks the parts of it now in effect in <strong>red</strong>, and the parts courts have blocked in <strong>blue</strong>: each of those is a win. The facts, quotes and sources are reported as accurately as we can, and you can check every one; the colors are our view.</p>
 
       <section class="panel" aria-labelledby="whole-h">
         <h2 id="whole-h">The whole plan at a glance</h2>
@@ -90,7 +87,7 @@
         <div class="bigbars" id="bigbars"></div>
       </section>
 
-      <p class="note"><strong>How to read the numbers.</strong> Percentages count recommendations, and we split the plan into recommendations ourselves. Some are huge (closing a department), some are small (renaming an office), so a percentage is not a measure of importance. "Carried out in full or in part" counts items marked done, done but challenged in court, partly done, or partly blocked. Items not researched yet are left out of every percentage, never counted as "nothing happened."</p>
+      <p class="note"><strong>How to read the numbers.</strong> Percentages count recommendations, and we split the plan into recommendations ourselves. Some are huge (closing a department), some are small (renaming an office), so a percentage is not a measure of importance. “Carried out in full or in part” counts items marked done, done but challenged in court, partly done, or partly blocked. Items not researched yet are left out of every percentage, never counted as “nothing happened.”</p>
 
       <section class="panel" aria-labelledby="ch-h">
         <div class="ch-head">
@@ -100,7 +97,7 @@
             <button type="button" class="btn small" id="by-agency" aria-pressed="false">By agency</button>
           </div>
         </div>
-        <p class="muted">Bars show each chapter's recommendations. The percentage is the share of <em>checked</em> items carried out in full or in part; chapters with fewer than 5 checked items show a count instead. Click a chapter to see its list.</p>
+        <p class="muted">Bars show each chapter’s recommendations. The percentage is the share of <em>checked</em> items carried out in full or in part; chapters with fewer than 5 checked items show a count instead. Click a chapter to see its list.</p>
         <div id="map"></div>
         <div id="agmap" hidden></div>
       </section>
@@ -146,10 +143,7 @@
       </div>
       <div class="panel tl-panel">
         <div class="tl-top">
-          <div>
-            <p class="eyebrow">As of</p>
-            <p class="tl-date" id="tl-date">—</p>
-          </div>
+          <p class="tl-date-wrap"><span>As of</span><span class="tl-date" id="tl-date">October 2026</span></p>
           <div class="tl-counts" id="tl-counts"></div>
         </div>
         <ul class="legend" id="tl-legend"></ul>
@@ -195,12 +189,12 @@
     <div class="wrap">
       <h2>How this works</h2>
       <h3>Where the list comes from</h3>
-      <p>We read all 30 chapters of the 2023 "Mandate for Leadership" and wrote down each concrete recommendation: something a president, an agency, or Congress could actually do. Each one has the printed page number and a short exact quote. A script checks that every quote really appears on that page.</p>
-      <p>The text used is an <a href="https://archive.org/details/2025-mandate-for-leadership-full_20240706" target="_blank" rel="noopener">archived copy of the full PDF</a>. Heritage's original download link now goes to a landing page.</p>
+      <p>We read all 30 chapters of the 2023 “Mandate for Leadership” and wrote down each concrete recommendation: something a president, an agency, or Congress could actually do. Each one has the printed page number and a short exact quote. A script checks that every quote really appears on that page.</p>
+      <p>The text used is an <a href="https://archive.org/details/2025-mandate-for-leadership-full_20240706" target="_blank" rel="noopener">archived copy of the full PDF</a>. Heritage’s original download link now goes to a landing page.</p>
 
       <div class="cols">
         <div>
-          <h3>How "closeness" is rated</h3>
+          <h3>How “closeness” is rated</h3>
           <dl class="defs">
             <dt>Direct match</dt><dd>Same idea and the same way of doing it.</dd>
             <dt>Partial match</dt><dd>Same goal, but a different method or size.</dd>
@@ -209,7 +203,7 @@
           </dl>
         </div>
         <div>
-          <h3>What "status" means</h3>
+          <h3>What “status” means</h3>
           <dl class="defs" id="status-defs"></dl>
         </div>
       </div>
@@ -218,13 +212,13 @@
       <p>The <strong>Trade</strong> chapter has one author arguing for tariffs (Peter Navarro) and another arguing for free trade (Kent Lassman). The <strong>Export-Import Bank</strong> chapter has one author for closing it and one for keeping it. Items from those chapters are labeled with whose view they are.</p>
 
       <h3>How the percentages work</h3>
-      <p>"Carried out in full or in part" is the share of <strong>researched</strong> recommendations marked done, done but challenged in court, partly done, or partly blocked. Recommendations not researched yet are left out of the percentage entirely. Every percentage on the site shows how many items it is based on, because a percentage of a few items can swing a lot.</p>
-      <p>Research so far started with the "major" recommendations, so the overall percentage currently leans toward big items. It will shift as smaller items are checked.</p>
+      <p>“Carried out in full or in part” is the share of <strong>researched</strong> recommendations marked done, done but challenged in court, partly done, or partly blocked. Recommendations not researched yet are left out of the percentage entirely. Every percentage on the site shows how many items it is based on, because a percentage of a few items can swing a lot.</p>
+      <p>Research so far started with the “major” recommendations, so the overall percentage currently leans toward big items. It will shift as smaller items are checked.</p>
 
-      <h3>Why other sites give different "percent done" numbers</h3>
-      <p>Other trackers say roughly half of Project 2025 has been carried out. Their numbers depend on how they split the plan into pieces and what they count as "done," so they are not directly comparable to ours.</p>
+      <h3>Why other sites give different “percent done” numbers</h3>
+      <p>Other trackers say roughly half of Project 2025 has been carried out. Their numbers depend on how they split the plan into pieces and what they count as “done,” so they are not directly comparable to ours.</p>
       <ul class="links">
-        <li><a href="https://news.bloomberglaw.com/bloomberg-government-news/over-half-of-project-2025-now-in-place-heritage-foundation-says" rel="noopener" target="_blank">Heritage Foundation's own estimate (Bloomberg Law)</a></li>
+        <li><a href="https://news.bloomberglaw.com/bloomberg-government-news/over-half-of-project-2025-now-in-place-heritage-foundation-says" rel="noopener" target="_blank">Heritage Foundation’s own estimate (Bloomberg Law)</a></li>
         <li><a href="https://progressivereform.org/publications/tracking-project-2025-update-oct2025" rel="noopener" target="_blank">Center for Progressive Reform tracker update</a></li>
         <li><a href="https://www.pbs.org/newshour/amp/politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year" rel="noopener" target="_blank">PBS NewsHour: tracking the first year</a></li>
         <li><a href="https://factually.co/fact-checks/politics/project-2025-implemented-proposals-track-rollbacks-6ac9d4" rel="noopener" target="_blank">Factually: why the counts differ</a></li>
@@ -236,13 +230,13 @@
       <h3>Limits</h3>
       <ul class="limits">
         <li><strong>Splitting the plan into items is a judgment call.</strong> Another reader might count more or fewer.</li>
-        <li><strong>"Not researched yet" means not checked.</strong> It does not mean nothing happened.</li>
+        <li><strong>“Not researched yet” means not checked.</strong> It does not mean nothing happened.</li>
         <li><strong>Courts move fast.</strong> Every finding shows the date it was checked.</li>
         <li><strong>Facts versus view.</strong> The written findings describe what was proposed, done and ruled, in plain factual language. Our view (that this agenda is harmful) shows up only in the color coding, and we say so openly.</li>
       </ul>
 
       <h3>How to check for updates yourself</h3>
-      <p>Every recommendation has a "Follow this topic" box with ready-made searches. Here is what each one covers:</p>
+      <p>Every recommendation has a “Follow this topic” box with ready-made searches. Here is what each one covers:</p>
       <ul class="limits">
         <li><strong>Federal Register:</strong> every new federal rule, proposed rule and executive order. If an agency changes a policy, it shows up here first. Sort by newest.</li>
         <li><strong>Congress.gov:</strong> every bill, with its status (introduced, passed the House, signed into law).</li>
@@ -254,7 +248,7 @@
       <h3>Words you may run into</h3>
       <dl class="defs two">
         <dt>Executive order</dt><dd>A written instruction from the president to federal agencies. It is not a law passed by Congress.</dd>
-        <dt>Injunction</dt><dd>A court order that pauses a policy while the case continues. "Preliminary" means it is early, not final.</dd>
+        <dt>Injunction</dt><dd>A court order that pauses a policy while the case continues. “Preliminary” means it is early, not final.</dd>
         <dt>Overrule</dt><dd>When a court decides an older court decision was wrong and no longer applies.</dd>
         <dt>Independent agency</dt><dd>A federal body, like the FTC, that Congress set up to be somewhat separate from the president.</dd>
         <dt>Rule (regulation)</dt><dd>A binding requirement an agency writes after public notice and comment.</dd>

@@ -197,7 +197,7 @@
       var its = groups[n], t = tally(its), s = actedShare(t), left = its.length - s.checked;
       var a = el('div', 'chrow agrow');
       var name = el('span', 'cr-name'); name.appendChild(el('strong', null, n));
-      var meta = el('span', 'cr-meta muted small', its.length + ' recs · ' + s.checked + ' checked' + (left ? ' · ' + left + ' not yet' : ''));
+      var meta = el('span', 'cr-meta muted small', its.length + ' recommendations, ' + s.checked + ' checked' + (left ? ', ' + left + ' to go' : ''));
       var val = el('span', 'cr-val');
       if (s.checked >= 5) add(val, el('b', null, s.pct + '%'), el('span', 'small muted', ' carried out'));
       else if (s.checked) add(val, el('b', null, s.acted + ' of ' + s.checked), el('span', 'small muted', ' carried out'));
@@ -217,13 +217,13 @@
   /* ---------------- countdowns ---------------- */
   // Times are U.S. Eastern: Election Day counts down to midnight; swearing-in dates to noon.
   var DATES = [
-    { name: 'Midterm elections', when: '2026-11-03T05:00:00Z', sub: 'Tuesday, November 3, 2026', note: 'Every House seat and about a third of the Senate are on the ballot.',
+    { name: 'Midterm elections', cta: 'Check your registration', when: '2026-11-03T05:00:00Z', sub: 'Tuesday, November 3, 2026', note: 'Every House seat and about a third of the Senate are on the ballot.',
       acts: [['Check your registration and polling place', 'https://vote.gov/'], ['Find your representative', 'https://www.house.gov/representatives/find-your-representative']] },
-    { name: 'New Congress takes office', when: '2027-01-03T17:00:00Z', sub: 'Sunday, January 3, 2027, noon', note: 'The Congress elected in November starts work, including on funding and oversight.',
+    { name: 'New Congress takes office', cta: 'Contact your senators', when: '2027-01-03T17:00:00Z', sub: 'Sunday, January 3, 2027, noon', note: 'The Congress elected in November starts work, including on funding and oversight.',
       acts: [['Contact your senators', 'https://www.senate.gov/senators/senators-contact.htm'], ['Comment on proposed rules', 'https://www.regulations.gov/']] },
-    { name: '2028 presidential election', when: '2028-11-07T05:00:00Z', sub: 'Tuesday, November 7, 2028', note: 'The presidency, every House seat and about a third of the Senate.',
+    { name: '2028 presidential election', cta: 'Register to vote', when: '2028-11-07T05:00:00Z', sub: 'Tuesday, November 7, 2028', note: 'The presidency, every House seat and about a third of the Senate.',
       acts: [['Register or check your registration', 'https://vote.gov/']] },
-    { name: 'End of the current term', when: '2029-01-20T17:00:00Z', sub: 'Saturday, January 20, 2029, noon', note: 'The constitutional end of this presidential term.',
+    { name: 'End of the current term', cta: 'Find your representative', when: '2029-01-20T17:00:00Z', sub: 'Saturday, January 20, 2029, noon', note: 'The constitutional end of this presidential term.',
       acts: [['Find your representative', 'https://www.house.gov/representatives/find-your-representative']] }
   ];
   // A live clock: four boxes (days, hours, minutes, seconds) that tick every second.
@@ -281,7 +281,7 @@
         topFor = next;
         $('top-cd-name').textContent = next.d.name;
         $('top-cd-when').textContent = next.d.sub;
-        $('top-cd-link').textContent = next.d.acts[0][0];
+        $('top-cd-link').textContent = next.d.cta || next.d.acts[0][0];
         $('top-cd-link').href = next.d.acts[0][1];
       }
       setClock(topClock, new Date(next.d.when).getTime() - now);
@@ -303,7 +303,7 @@
   var CONGRESS = /\b(congress|(?<!white )house|senate|bill|signed into law|law (was )?signed|act\b.*(passed|signed)|reconciliation|appropriations|p\.l\.|rescission)/i;
   var TL_TYPES = [
     ['action', 'Executive actions', 'g-done'],
-    ['congress', 'Congress', 'g-partly'],
+    ['congress', 'Congress', 'g-ink'],
     ['court', 'Courts and lawsuits', 'g-blocked']
   ];
   var tl = null;
@@ -417,6 +417,25 @@
     drawTimeline();
   }
 
+  /* ---------------- fitted lines (Broadside: a big line fills its measure) ---------------- */
+  function fitLines() {
+    Array.prototype.forEach.call(document.querySelectorAll('.fit'), function (n) {
+      var box = n.parentElement; if (!box || !box.clientWidth || n.offsetParent === null) return;
+      var cs = getComputedStyle(box), inner = box.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+      n.style.display = 'inline-block';
+      n.style.fontSize = '100px';
+      var w = n.getBoundingClientRect().width;
+      if (w) {
+        var size = Math.max(24, Math.floor(100 * inner / w * 0.995));
+        n.style.fontSize = size + 'px';
+        // Self-check: if the line still overruns its measure (metrics not settled yet), shrink it to fit.
+        var over = n.getBoundingClientRect().width;
+        if (over > inner) n.style.fontSize = Math.floor(size * inner / over * 0.995) + 'px';
+      }
+      n.style.display = '';
+    });
+  }
+
   /* ---------------- views / routing ---------------- */
   var VIEWS = ['overview', 'all', 'timeline', 'stories', 'glossary', 'method'];
   function route() {
@@ -486,7 +505,7 @@
     var share = actedShare(all);
 
     $('hero-pct').textContent = share.pct;
-    $('hero-label').textContent = 'have been carried out in full or in part: ' + share.acted.toLocaleString() + ' of the ' + share.checked.toLocaleString() + ' recommendations researched so far.';
+    $('hero-label').textContent = share.acted.toLocaleString() + ' of the ' + share.checked.toLocaleString() + ' recommendations checked so far have been carried out in full or in part, out of ' + items.length.toLocaleString() + ' in the plan.';
     var researched = share.checked;
     $('prog-pct').textContent = pct(researched, items.length) + '%';
     $('prog-fill').style.width = (researched / items.length * 100) + '%';
@@ -544,7 +563,7 @@
         var name = el('span', 'cr-name');
         add(name, el('span', 'cr-num', String(c.chapter)), el('strong', null, c.title));
         var left = its.length - s.checked;
-        var meta = el('span', 'cr-meta muted small', its.length + ' recs · ' + s.checked + ' checked' + (left ? ' · ' + left + ' not yet' : ''));
+        var meta = el('span', 'cr-meta muted small', its.length + ' recommendations, ' + s.checked + ' checked' + (left ? ', ' + left + ' to go' : ''));
         var val = el('span', 'cr-val');
         // Below 5 checked items a percentage swings too much to mean anything; show the raw count instead.
         if (s.checked >= 5) { add(val, el('b', null, s.pct + '%'), el('span', 'small muted', ' carried out')); }
@@ -642,7 +661,7 @@
     cite.appendChild(link('page ' + it.page, ARCHIVE + (it.page + PDF_OFFSET) + '/mode/1up'));
     p1.appendChild(cite);
     if (it.contested) p1.appendChild(el('p', 'contested', 'Competing views in this chapter: ' + it.contested));
-    p1.appendChild(el('p', 'muted small', it.agency + ' · ' + NEEDS[it.needs]));
+    p1.appendChild(el('p', 'muted small', it.agency + '. ' + NEEDS[it.needs] + '.'));
 
     var p2 = el('div', 'pane');
     p2.appendChild(el('h4', null, 'What actually happened'));
@@ -763,6 +782,16 @@
   $('gl-q').addEventListener('input', renderGlossary);
   renderGlossary();
   renderCountdowns();
+  fitLines();
+  // Re-fit once the wood type has actually arrived; fonts.ready can resolve before the web fonts start loading.
+  if (document.fonts) {
+    if (document.fonts.ready) document.fonts.ready.then(fitLines);
+    if (document.fonts.addEventListener) document.fonts.addEventListener('loadingdone', fitLines);
+    if (document.fonts.load) document.fonts.load('400 100px "Six Caps"').then(fitLines, function () {});
+  }
+  window.addEventListener('load', function () { fitLines(); setTimeout(fitLines, 400); setTimeout(fitLines, 1500); });
+  var fitResize; window.addEventListener('resize', function () { clearTimeout(fitResize); fitResize = setTimeout(fitLines, 120); });
+  window.addEventListener('hashchange', function () { setTimeout(fitLines, 0); });
   $('by-chapter').addEventListener('click', function () { setGrouping(false); });
   $('by-agency').addEventListener('click', function () { setGrouping(true); });
   buildTimeline();

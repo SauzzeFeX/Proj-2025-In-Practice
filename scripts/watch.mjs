@@ -6,11 +6,18 @@
 //   node scripts/watch.mjs --only all      match against every recommendation
 //   --min 30 (match strength needed) and --max 40 (most recommendations in one digest) tune the noise
 //
-// Optional: set CONGRESS_API_KEY (free at https://api.congress.gov/sign-up/) to also check the latest action on every
-// bill number mentioned in the findings.
+// Optional: put CONGRESS_API_KEY=... in .env (free at https://api.congress.gov/sign-up/; 5,000 requests an hour) to also
+// check the latest action on every bill number mentioned in the findings.
 //
 // Writes docs/updates/YYYY-MM-DD.md (the digest a person or an agent reviews) and data/watch/state.json (what was seen).
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync } from 'node:fs';
+
+// Keys live in .env (git-ignored), one KEY=value per line; real environment variables win.
+const ENV_LINE_BREAK = /\r?\n/;
+if (existsSync('.env')) for (const line of readFileSync('.env', 'utf8').split(ENV_LINE_BREAK)) {
+  const m = /^\s*([A-Z0-9_]+)\s*=\s*(.*?)\s*$/.exec(line);
+  if (m && !process.env[m[1]]) process.env[m[1]] = m[2];
+}
 
 const args = process.argv.slice(2);
 const arg = (k, d) => { const i = args.indexOf(k); return i >= 0 ? args[i + 1] : d; };
@@ -108,7 +115,7 @@ async function checkBills() {
   const key = process.env.CONGRESS_API_KEY;
   if (!key) return { skipped: true, changes: [] };
   const found = new Map();
-  const re = /\b(H\.\s?R\.|S\.)\s?(\d{1,5})\b/g;
+  const re = /(?<![A-Za-z.])(H\.\s?R\.|S\.)\s?(\d{1,5})\b/g; // the lookbehind skips "U.S. 2026"
   for (const id in findings) {
     const f = findings[id];
     const text = [f.happened, f.legal, f.uncertain, f.closeness].join(' ');
@@ -122,7 +129,9 @@ async function checkBills() {
   const changes = [];
   for (const [k, ids] of found) {
     const type = k.startsWith('hr') ? 'hr' : 's', num = k.replace(/^\D+/, '');
-    const r = await fetch(`https://api.congress.gov/v3/bill/119/${type}/${num}?format=json&api_key=${key}`);
+    // The key goes in a header (api.data.gov accepts X-Api-Key), so it never appears in a URL or a log line.
+    const r = await fetch(`https://api.congress.gov/v3/bill/119/${type}/${num}?format=json`, { headers: { 'X-Api-Key': key } });
+    if (r.status === 403) throw new Error('Congress.gov rejected the API key (403). Check CONGRESS_API_KEY in .env.');
     if (!r.ok) continue;
     const bill = (await r.json()).bill || {};
     const act = bill.latestAction ? bill.latestAction.actionDate + ': ' + bill.latestAction.text : '';

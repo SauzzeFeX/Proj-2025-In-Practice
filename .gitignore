@@ -4,3 +4,4 @@ reference/*.pdf
 reference/mandate/*.pdf
 reference/hallmark-src/
 .hallmark/
+.env

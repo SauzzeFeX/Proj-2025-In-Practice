@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id","topic","title","plain","proposal","happened","status","match","closeness","uncertain","sources","as_of"],
+    "properties": {
+      "id": {"type":"string","pattern":"^[a-z0-9-]+$"},
+      "topic": {"enum":["Government & Workforce","Courts & Power","Economy & Trade","Education","Environment & Energy","Health","Immigration","Elections","Safety & Military","Money & Finance","Foreign Policy & Aid","Family & Social Policy","Labor & Jobs","Housing & Transportation","Agriculture & Food","Media & Technology","Veterans","Justice & Law Enforcement"]},
+      "title": {"type":"string","maxLength":70},
+      "plain": {"type":"string","maxLength":260},
+      "proposal": {
+        "type":"object","additionalProperties":false,
+        "required":["summary","chapter","check"],
+        "properties": {
+          "summary":{"type":"string"},
+          "chapter":{"type":"string"},
+          "check":{"enum":["chapter-only","page-verified","not-found"]}
+        }
+      },
+      "happened": {
+        "type":"object","additionalProperties":false,
+        "required":["summary","key_dates"],
+        "properties": {
+          "summary":{"type":"string"},
+          "key_dates":{"type":"array","minItems":1,"items":{"type":"object","additionalProperties":false,"required":["date","event"],"properties":{"date":{"type":"string"},"event":{"type":"string"}}}}
+        }
+      },
+      "legal": {"type":"string"},
+      "status": {"enum":["in-effect","in-effect-challenged","partly-blocked","blocked","under-review","ended"]},
+      "match": {"enum":["direct","partial","broader","none"]},
+      "closeness": {"type":"string"},
+      "uncertain": {"type":"string"},
+      "sources": {
+        "type":"array","minItems":1,
+        "items": {
+          "type":"object","additionalProperties":false,
+          "required":["label","publisher","type","url"],
+          "properties": {
+            "label":{"type":"string"},
+            "publisher":{"type":"string"},
+            "type":{"enum":["government","court","news","law-firm","advocacy","academic"]},
+            "url":{"type":"string","pattern":"^https://"}
+          }
+        }
+      },
+      "as_of": {"type":"string","pattern":"^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+      "proposal_ids": {"type":"array","items":{"type":"string","pattern":"^ch[0-9]{2}-[0-9]{3}$"}}
+    }
+  }
+}

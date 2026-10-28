@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "ch27-001",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "In May 2026 the SEC proposed letting public companies report twice a year instead of quarterly, and proposed changes that would raise the large accelerated filer threshold from $700 million to $2 billion. Under the proposal, most other public companies would get the lighter disclosure rules now used by smaller firms. These are proposals, not final rules.",
+    "key_dates": [
+      {
+        "date": "2026-05-05",
+        "event": "SEC proposes optional semiannual reporting."
+      },
+      {
+        "date": "2026-05-19",
+        "event": "SEC proposes registered offering and reporting reforms that scale disclosure by size."
+      }
+    ],
+    "closeness": "Same direction: disclosure scaled by company size. It changes SEC rules within current law rather than a full rewrite of the securities laws by Congress, and does not create the exact three categories.",
+    "uncertain": "Whether these proposals have been finalized; no final rule was found as of October 2026. Congress has not passed a rewrite.",
+    "sources": [
+      {
+        "label": "SEC proposes transformative reforms to help public companies conduct registered offerings and simplify reporting",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-46-sec-proposes-transformative-reforms-help-public-companies-conduct-registered-offerings-simplify"
+      },
+      {
+        "label": "SEC proposes amendments to permit optional semiannual reporting",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-42-sec-proposes-amendments-permit-optional-semiannual-reporting-public-companies"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The PCAOB and FINRA have not been abolished. The SEC approved the PCAOB's 2026 budget and, on January 30, 2026, appointed a new PCAOB chairman and three new board members.",
+    "closeness": "No match. The PCAOB was given new leadership, not merged into the SEC.",
+    "uncertain": "Whether any bill to merge the PCAOB into the SEC is moving in Congress. Search was limited by the session's web search cap.",
+    "sources": [
+      {
+        "label": "SEC appoints new chairman and board members of the PCAOB",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-16-sec-appoints-new-chairman-board-members-pcaob"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-003",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not created a board or commission to study moving other self-regulatory organizations' duties into the SEC.",
+    "closeness": "No action matched.",
+    "uncertain": "Checked the list of laws enacted through October 2026 and the House-passed INVEST Act capital-markets package; neither creates such a commission.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-004",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "A January 20, 2025 executive order directed federal agencies to end DEI offices, positions and programs. In January 2025 Nasdaq filed to repeal its board diversity listing rule after a federal appeals court struck it down in December 2024. Offices of Minority and Women Inclusion at financial regulators are required by the Dodd-Frank Act and Congress has not repealed them.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive order ending federal DEI programs"
+      },
+      {
+        "date": "2025-01-30",
+        "event": "Notice of Nasdaq's repeal of its board diversity rule"
+      }
+    ],
+    "closeness": "DEI programs were cut back and a diversity-based listing rule was removed. The legally required inclusion offices at financial regulators were not abolished by law.",
+    "uncertain": "A web search found no 2025-2026 report that the SEC, FDIC, OCC or Federal Reserve closed or renamed its Office of Minority and Women Inclusion; federal law (12 U.S.C. 5452) still requires them. How each regulator cut back DEI programs inside those offices was not confirmed.",
+    "sources": [
+      {
+        "label": "Ending Radical and Wasteful Government DEI Programs and Preferencing",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+      },
+      {
+        "label": "Nasdaq: Proposed Rule Change To Repeal Board Diversity Listing Requirement",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/30/2025-01932/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-005",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The SEC's 2026 rulemaking agenda lists plans to propose rules simplifying the exempt offering pathways for raising capital, including changes to the accredited investor definition, with a proposal expected around October 2026. In May 2026 the SEC proposed giving most public companies the lighter disclosure rules now used by small companies (see ch27-001).",
+    "key_dates": [
+      {
+        "date": "2026-05-21",
+        "event": "SEC proposes extending scaled disclosure to more companies"
+      },
+      {
+        "date": "2026-08-14",
+        "event": "SEC agenda lists exempt offering reforms"
+      }
+    ],
+    "closeness": "The SEC is moving to reduce burdens on capital raising, but mainly through rule changes rather than broader use of its general exemptive authority.",
+    "uncertain": "Whether the exempt offering proposal has been issued was not confirmed.",
+    "sources": [
+      {
+        "label": "SEC Regulatory Flexibility Agenda",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16619/regulatory-flexibility-agenda"
+      },
+      {
+        "label": "Enhancement of Emerging Growth Company Accommodations and Simplification of Filer Status (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10222/enhancement-of-emerging-growth-company-accommodations-and-simplification-of-filer-status-for"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-006",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The SEC's 2026 agenda says it is considering rules to simplify the pathways for raising capital for private businesses, with a proposal expected around October 2026. No change preempting state registration for Regulation A offerings was found.",
+    "closeness": "Simplifying exempt offerings overlaps with the goal for Regulation A and crowdfunding. Preempting state blue-sky rules was not part of any action found.",
+    "uncertain": "The agenda does not name Regulation A or Regulation CF specifically. A Federal Register check of SEC proposed rules through October 23, 2026 found no exempt-offering proposal yet. Regulation A Tier 2 offerings have been exempt from state registration since 2015. A separate May 2026 proposal on registered offerings is covered in ch27-015.",
+    "sources": [
+      {
+        "label": "SEC Regulatory Flexibility Agenda",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16619/regulatory-flexibility-agenda"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-007",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "In October 2026 the SEC published notices saying it is considering orders that would let people qualify as accredited investors by passing a new FINRA exam or by holding a CFP certification or CFA charter. Its 2026 agenda also lists possible changes to the accredited investor definition.",
+    "key_dates": [
+      {
+        "date": "2026-10-05",
+        "event": "SEC notices on accredited investor status through an exam, CFP or CFA"
+      }
+    ],
+    "closeness": "These would widen who counts as an accredited investor, one of the two options the chapter named. They do not remove the restriction.",
+    "uncertain": "No final orders were found as of late October 2026.",
+    "sources": [
+      {
+        "label": "Potential Designation of Passage of an Accredited Investor Exam To Be Developed by FINRA",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20310/potential-designation-of-passage-of-an-accredited-investor-exam-to-be-developed-by-finra-as"
+      },
+      {
+        "label": "Potential Designation of Certified Financial Planner Certification for Accredited Investor Status",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20309/potential-designation-of-certified-financial-planner-certification-as-qualifying-natural-persons-for"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-008",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On March 12, 2025, SEC staff said in a no-action letter that, in Rule 506(c) offerings with high minimum investments ($200,000 for individuals, $1 million for entities), a company can rely on the investor's written statement that they are accredited, if it knows of nothing to the contrary. The House-passed INVEST Act (December 2025) would direct the SEC to create an exam that lets people qualify as accredited investors. The SEC's August 2026 regulatory agenda lists a planned proposal to update exempt offering rules, including the accredited investor definition.",
+    "key_dates": [
+      {
+        "date": "2025-03-12",
+        "event": "SEC staff no-action letter accepts written self-representations in high-minimum Rule 506(c) offerings"
+      },
+      {
+        "date": "2025-12-11",
+        "event": "House passes INVEST Act, including an accredited-investor exam"
+      },
+      {
+        "date": "2026-08-14",
+        "event": "SEC regulatory agenda lists planned exempt-offering proposal"
+      }
+    ],
+    "closeness": "The staff letter allows a form of self-certification, but only in 506(c) offerings with high minimum investments and only as staff guidance, not a rule. The chapter asked for self-certification in all Rule 506 offerings.",
+    "uncertain": "The staff letter is non-binding and is known from law-firm summaries. The INVEST Act and the planned SEC proposal are not final. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "New SEC guidance eases burden in Rule 506(c) accredited investor verification requirements",
+        "publisher": "Morgan Lewis",
+        "type": "law-firm",
+        "url": "https://www.morganlewis.com/pubs/2025/03/new-sec-guidance-eases-burden-in-rule-506c-accredited-investor-verification-requirements"
+      },
+      {
+        "label": "H.R. 3383, INVEST Act of 2025 (engrossed in House), Sec. 203",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3383eh/html/BILLS-119hr3383eh.htm"
+      },
+      {
+        "label": "SEC Regulatory Flexibility Agenda (item: Updating the Exempt Offering Pathways)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16619/regulatory-flexibility-agenda"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-009",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No SEC rule or law exempting very small \"micro-offerings\" from registration was found. The SEC's August 2026 agenda lists a planned proposal to update exempt offering rules, but it had not been published as of this check.",
+    "closeness": "No action matched yet. The planned SEC proposal could address this, but its contents are not known.",
+    "uncertain": "Searched the Federal Register for \"micro-offering\" and reviewed the SEC's 2026 regulatory agenda and the House-passed INVEST Act. Newest source: August 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-010",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No SEC rule exempting small or occasional \"finders\" from broker-dealer registration was found, and no law did so.",
+    "closeness": "No action matched.",
+    "uncertain": "Searched the Federal Register for SEC finder rules since January 2025 and checked the House-passed INVEST Act text. SEC staff no-action letters were not reviewed. Newest source: October 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-011",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The House-passed INVEST Act (December 2025) would raise certain investor limits for crowdfunding offerings from $100,000 to $250,000 and let the SEC raise them further. No step to exempt peer-to-peer lending from securities laws was found.",
+    "key_dates": [
+      {
+        "date": "2025-12-11",
+        "event": "House passes INVEST Act, including crowdfunding changes"
+      }
+    ],
+    "closeness": "The bill eases crowdfunding rules in general, part of the chapter's ask, but does not exempt peer-to-peer lending or focus on crowdfunding debt.",
+    "uncertain": "The bill had not passed the Senate as of the newest source checked. Searched the Federal Register for \"peer-to-peer lending\"; nothing relevant was found.",
+    "sources": [
+      {
+        "label": "H.R. 3383, INVEST Act of 2025 (engrossed in House), Sec. 103",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3383eh/html/BILLS-119hr3383eh.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-012",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "In May 2026 the SEC proposed simplifying filer categories and extending existing accommodations for emerging growth companies and smaller reporting companies to all non-accelerated filers. The House-passed INVEST Act (December 2025) would also extend some emerging growth company benefits.",
+    "key_dates": [
+      {
+        "date": "2025-12-11",
+        "event": "House passes INVEST Act"
+      },
+      {
+        "date": "2026-05-21",
+        "event": "SEC proposes extending emerging growth company accommodations to all non-accelerated filers"
+      }
+    ],
+    "closeness": "The SEC proposal would keep reduced rules available to smaller companies after their emerging-growth period ends, close to the chapter's goal. It ties relief to company size rather than making the status permanent for every emerging growth company.",
+    "uncertain": "The proposal was not final as of the newest source (May 2026).",
+    "sources": [
+      {
+        "label": "Enhancement of Emerging Growth Company Accommodations and Simplification of Filer Status for Reporting Companies (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10222/enhancement-of-emerging-growth-company-accommodations-and-simplification-of-filer-status-for"
+      },
+      {
+        "label": "H.R. 3383, INVEST Act of 2025 (engrossed in House)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3383eh/html/BILLS-119hr3383eh.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-013",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No SEC rule exempting privately held broker-dealers that do not hold customer assets from using PCAOB-registered auditors was found.",
+    "closeness": "No action matched.",
+    "uncertain": "Searched the Federal Register for SEC and PCAOB actions on broker-dealer audits and small broker-dealers since January 2025. Other targeted relief for small broker-dealers through staff letters was not checked.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-014",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not changed the tax code so that crowdfunding and Regulation A investors do not count toward the 100-shareholder limit for S corporations.",
+    "closeness": "No action matched.",
+    "uncertain": "Checked the July 2025 reconciliation law (P.L. 119-21) and the list of laws enacted through October 2026; also searched the Federal Register. Newest source: October 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-015",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "On May 19, 2026, the SEC proposed \"Registered Offering Reform,\" which would override state \"blue sky\" registration and qualification rules for all offerings registered with the SEC by defining all investors in them as \"qualified purchasers.\" Securities listed on national exchanges were already exempt from state registration under a 1996 law. The proposal has not been finalized.",
+    "key_dates": [
+      {
+        "date": "2026-05-19",
+        "event": "SEC proposes Registered Offering Reform, including state blue-sky preemption"
+      },
+      {
+        "date": "2026-05-26",
+        "event": "Proposal published in the Federal Register"
+      }
+    ],
+    "closeness": "Same goal of overriding state rules, but for registered offerings rather than for trading on established markets in general. State reporting rules and secondary trading were not addressed in the sources reviewed.",
+    "uncertain": "Whether the proposal also covers state rules on secondary trading was not confirmed. Not finalized as of October 2026.",
+    "sources": [
+      {
+        "label": "Registered Offering Reform (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10373/registered-offering-reform"
+      },
+      {
+        "label": "SEC proposes registered offering reform: blue-sky preemption a key win for non-exchange traded REITs and BDCs",
+        "publisher": "Cleary Gottlieb",
+        "type": "law-firm",
+        "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/sec-proposes-registered-offering-reform-blue-sky-preemption"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-016",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The Consolidated Audit Trail was not ended. In April 2026 the SEC approved a plan change to cut its costs and published a concept release starting a comprehensive review of the audit trail and other trading data sources.",
+    "key_dates": [
+      {
+        "date": "2026-04-01",
+        "event": "SEC approves CAT plan amendment to reduce costs"
+      },
+      {
+        "date": "2026-04-20",
+        "event": "SEC concept release on a comprehensive review of the CAT"
+      }
+    ],
+    "closeness": "The SEC is reviewing and shrinking the program, which could lead to bigger changes, but has not ended it.",
+    "uncertain": "The outcome of the review was not known as of October 2026.",
+    "sources": [
+      {
+        "label": "Concept Release on Consolidated Audit Trail and Other Audit Trails and Data Sources",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07651/concept-release-on-consolidated-audit-trail-and-other-audit-trails-and-data-sources"
+      },
+      {
+        "label": "Order Approving an Amendment to the CAT Plan To Further Reduce Costs",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-017",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The SEC's 2026 rulemaking agenda says staff are considering recommending new proposed amendments to Rule 144 to make its safe harbor for reselling securities available in more cases.",
+    "closeness": "Expanding the safe harbor moves in the same direction, but the chapter called for abolishing Rule 144-type limits.",
+    "uncertain": "This is a planned action on the agenda; no new proposal was found as of October 2026.",
+    "sources": [
+      {
+        "label": "SEC Regulatory Flexibility Agenda",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16619/regulatory-flexibility-agenda"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-018",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The SEC's 2024 climate disclosure rule never took effect; the SEC paused it during court challenges. On March 27, 2025, the SEC voted to stop defending the rule. On May 29, 2026, it proposed rescinding the rule entirely, saying it exceeded the SEC's authority. Congress has not passed a law barring such disclosure rules.",
+    "key_dates": [
+      {
+        "date": "2025-03-27",
+        "event": "SEC votes to end its defense of the climate rule."
+      },
+      {
+        "date": "2025-09",
+        "event": "Eighth Circuit holds the case in abeyance."
+      },
+      {
+        "date": "2026-05-29",
+        "event": "SEC proposes rescinding the climate disclosure rule."
+      }
+    ],
+    "legal": "Challenges are consolidated in the Eighth Circuit (Iowa v. SEC), held in abeyance since September 2025 while the SEC reconsiders.",
+    "closeness": "The climate rule named in the chapter is being withdrawn by the SEC itself, not barred by Congress. No broader ban on non-material social or human capital disclosure was found.",
+    "uncertain": "Whether the rescission has been finalized after the comment period. Newest source is May 2026.",
+    "sources": [
+      {
+        "label": "SEC votes to end defense of climate disclosure rules",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/press-releases/2025-58"
+      },
+      {
+        "label": "SEC proposes rescission of climate-related disclosure rules",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-49-sec-proposes-rescission-climate-related-disclosure-rules"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-019",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "Congress has not repealed these Dodd-Frank disclosures. In May 2026 the SEC proposed exempting non-accelerated filers, the large majority of smaller public companies, from the CEO pay ratio disclosure. Its agenda also lists an executive compensation disclosure reform.",
+    "key_dates": [
+      {
+        "date": "2026-05-21",
+        "event": "SEC proposes exempting smaller companies from pay ratio disclosure"
+      }
+    ],
+    "closeness": "The SEC proposal would narrow the pay ratio rule by regulation. No change to conflict minerals, mine safety or resource extraction disclosures was found, and Congress has not acted.",
+    "uncertain": "SEC actions on conflict minerals and resource extraction rules were not checked; a Federal Register search for conflict minerals found nothing since 2025.",
+    "sources": [
+      {
+        "label": "Enhancement of Emerging Growth Company Accommodations and Simplification of Filer Status (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10222/enhancement-of-emerging-growth-company-accommodations-and-simplification-of-filer-status-for"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-020",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not passed a law barring securities regulators from rules based on race, sex or other traits. Separately, Nasdaq repealed its board diversity listing rule in January 2025 after a federal appeals court struck it down.",
+    "closeness": "The Nasdaq repeal removed one rule of the kind the chapter objected to, but it came from a court ruling, not the law the chapter proposed.",
+    "uncertain": "Checked the list of laws enacted through October 2026. Bills were not checked.",
+    "sources": [
+      {
+        "label": "Nasdaq: Proposed Rule Change To Repeal Board Diversity Listing Requirement",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/30/2025-01932/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-023",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No SEC rule ending most in-house administrative trials, or letting accused parties choose federal court, was found. Since the Supreme Court's 2024 Jarkesy decision, the SEC has brought most new contested cases in federal court; one analysis counted about 55 court cases and 18 administrative proceedings from April to September 2025. In May 2026 the SEC rescinded its policy that barred settling parties from denying the charges, a separate change.",
+    "closeness": "No formal change found. The shift toward federal court follows a 2024 Supreme Court ruling, before January 20, 2025, not a new SEC policy.",
+    "uncertain": "Many remaining administrative proceedings are follow-on cases after court rulings. Newest source is mid-2026.",
+    "sources": [
+      {
+        "label": "Rescission of Policy Regarding Denials in Settlements of Enforcement Actions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10132/rescission-of-policy-regarding-denials-in-settlements-of-enforcement-actions"
+      },
+      {
+        "label": "Key takeaways from the SEC's FY 2025 enforcement results",
+        "publisher": "Morrison Foerster",
+        "type": "law-firm",
+        "url": "https://www.mofo.com/resources/insights/260413-key-takeaways-from-the-sec-s-fy-2025-enforcement-results"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-024",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On March 14, 2025, the SEC took away its Enforcement Director's delegated power to issue formal orders of investigation, which let staff subpoena witnesses and documents. The full Commission must now approve them. In July 2026 the SEC further revised its rules delegating authority to staff.",
+    "key_dates": [
+      {
+        "date": "2025-03-14",
+        "event": "SEC ends Enforcement Director's delegated authority to issue formal orders"
+      },
+      {
+        "date": "2026-07-20",
+        "event": "SEC publishes broader update of staff delegations"
+      }
+    ],
+    "closeness": "This matches the chapter's call to stop staff from opening formal enforcement investigations on their own. Whether the July 2026 changes narrowed or expanded other staff powers was not reviewed.",
+    "uncertain": "The content of the July 2026 delegation changes was not reviewed in detail. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Delegation of Authority to Director of the Division of Enforcement",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/03/14/2025-04064/delegation-of-authority-to-director-of-the-division-of-enforcement"
+      },
+      {
+        "label": "Modernization of Delegations of Authority to Commission Staff",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14540/modernization-of-delegations-of-authority-to-commission-staff"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-025",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not required an Inspector General or GAO report on SEC information technology spending and contracting.",
+    "closeness": "No action matched. The SEC's FY2026 appropriation does not include such a requirement.",
+    "uncertain": "Checked the SEC section of the Consolidated Appropriations Act, 2026 and the list of enacted laws. Reports done by the SEC Inspector General or GAO on their own were not checked.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-026",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law limiting SEC investigations to two years was found among laws enacted through October 2026. In February 2026 the SEC updated its Enforcement Manual, giving people more time to respond to a Wells notice, but it set no overall time limit on investigations.",
+    "closeness": "No matching action found.",
+    "uncertain": "A web search found no 2025-2026 bill setting a two-year limit. Existing law has a 180-day deadline after a Wells notice that courts have held is not binding.",
+    "sources": [
+      {
+        "label": "Updated SEC Enforcement Manual emphasizes engagement and transparency (February 2026)",
+        "publisher": "Cooley",
+        "type": "law-firm",
+        "url": "https://investigations.cooley.com/2026/02/27/updated-sec-enforcement-manual-emphasizes-engagement-and-transparency/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-028",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "Congress has not passed a law updating the definition of commodity or settling how digital assets are treated. The House passed the CLARITY Act, a crypto market structure bill, 294-134 on July 17, 2025, and the Senate Banking Committee approved a version 15-9 on May 14, 2026. On September 15, 2026, a Senate vote to start debate failed 49-50; the bill remains on the Senate calendar. The GENIUS Act of July 2025 covers stablecoins only.",
+    "key_dates": [
+      {
+        "date": "2025-07-17",
+        "event": "House passes CLARITY Act (H.R. 3633)"
+      },
+      {
+        "date": "2026-05-14",
+        "event": "Senate Banking Committee approves its version"
+      },
+      {
+        "date": "2026-09-15",
+        "event": "Senate motion to proceed fails, 49-50"
+      }
+    ],
+    "closeness": "The market structure bill would address the digital asset part of the recommendation. Rewriting the general definition of commodity was not found in any action.",
+    "uncertain": "Whether the Senate will try again before the end of 2026 is not known. Vote details come from news reports. Newest source is September 2026.",
+    "sources": [
+      {
+        "label": "SEC proposes new Regulation Crypto Assets",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
+      },
+      {
+        "label": "Senate blocks CLARITY Act 49-50",
+        "publisher": "The Defiant",
+        "type": "news",
+        "url": "https://thedefiant.io/news/regulation/senate-blocks-clarity-act-49-50-with-no-democratic-votes-to-proceed"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-029",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not amended the Commodity Exchange Act to clarify when foreign swap trading platforms must register with the CFTC.",
+    "closeness": "No action matched.",
+    "uncertain": "Checked the list of laws enacted through October 2026 and searched CFTC Federal Register documents on cross-border issues since January 2025.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-030",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law has changed the Commodity Exchange Act to let the CFTC Chairman remove the Executive Director without a Commission vote.",
+    "closeness": "No action matched.",
+    "uncertain": "Checked the list of laws enacted through October 2026 and searched CFTC Federal Register documents for \"Executive Director.\"",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-031",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not set funding for each CFTC Commissioner's office in law.",
+    "closeness": "No action matched.",
+    "uncertain": "Checked the list of laws enacted through October 2026, including the FY2026 appropriations laws. Newest source: October 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-032",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The CFTC has not replaced its position limits rule. In February 2026 it sought to renew the paperwork approval for its position limits rule (Part 150), a sign the rule remains in place.",
+    "closeness": "No action matched; the federal position limits rule still applies.",
+    "uncertain": "Searched CFTC Federal Register documents for \"position limits\" since January 2025. Newest source: February 2026.",
+    "sources": [
+      {
+        "label": "Notice of Intent To Renew Collection 3038-0013: Position Limits",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/02/2026-02085/agency-information-collection-activities-notice-of-intent-to-renew-collection-3038-0013-position"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-033",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The CFTC has eased several detailed rules. In December 2025 it added exceptions to business conduct and documentation rules for some swap dealers. In July 2026 it ended routine large-trader position reports for physical commodity swaps. In June 2026 it asked the public to identify rules that hold back innovation and competition.",
+    "key_dates": [
+      {
+        "date": "2025-12-30",
+        "event": "CFTC finalizes revisions to swap dealer business conduct rules"
+      },
+      {
+        "date": "2026-07-21",
+        "event": "CFTC sunsets routine large-trader reporting for physical commodity swaps"
+      }
+    ],
+    "closeness": "These steps reduce specific requirements, in the chapter's direction, but no broad review of rules implementing the CFTC's core principles was found.",
+    "uncertain": "Whether the CFTC shifted resources to core functions was not checked. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Revisions to Business Conduct and Swap Documentation Requirements for Swap Dealers and Major Swap Participants",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/30/2025-23953/revisions-to-business-conduct-and-swap-documentation-requirements-for-swap-dealers-and-major-swap"
+      },
+      {
+        "label": "Order Sunsetting Certain Large Trader Reporting Requirements for Physical Commodity Swaps",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14710/order-sunsetting-certain-large-trader-reporting-requirements-for-physical-commodity-swaps"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-034",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On December 9, 2025, three CFTC staff divisions issued No-Action Letter 25-42. It says staff will not recommend enforcement when firms classify swap counterparties using the 2020 cross-border rule's definitions of 'U.S. person' and 'guarantee,' even where the 2013 cross-border guidance or the 2016 margin rule define the terms differently. The relief took effect right away and has no end date.",
+    "key_dates": [
+      {
+        "date": "2025-12-09",
+        "event": "CFTC staff issue No-Action Letter 25-42 on U.S. person and guarantee definitions"
+      }
+    ],
+    "closeness": "Same idea as the chapter: the 2020 definitions now apply across the older requirements. It was done by staff no-action relief rather than a Commission rule, so the Commission could change it later.",
+    "uncertain": "A staff letter can be withdrawn and does not bind the Commission; the letter says it lasts until withdrawn or until the CFTC writes rules on the topic. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "CFTC Letter No. 25-42: No-Action Position Regarding the U.S. Person and Guarantee Definitions",
+        "publisher": "U.S. Commodity Futures Trading Commission",
+        "type": "government",
+        "url": "https://www.cftc.gov/csl/25-42/download"
+      },
+      {
+        "label": "United States: CFTC harmonizes cross-border rules",
+        "publisher": "Baker McKenzie",
+        "type": "law-firm",
+        "url": "https://www.bakermckenzie.com/en/insight/publications/alerts/2025/12/united-states-cftc-harmonizes-cross-border-rules"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-035",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "CFTC staff No-Action Letter 25-42, issued December 9, 2025, says firms no longer need to decide whether a non-U.S. counterparty is a 'conduit affiliate' under the 2013 cross-border guidance. The letter does not address the 'foreign consolidated subsidiary' category in the 2016 margin rule. A July 2026 change to the margin rule dealt with seeded investment funds, not these categories.",
+    "key_dates": [
+      {
+        "date": "2025-12-09",
+        "event": "CFTC staff letter removes the need for 'conduit affiliate' analysis"
+      }
+    ],
+    "closeness": "One of the two categories the chapter wanted dropped, 'conduit affiliate,' is now set aside through staff relief. The 'foreign consolidated subsidiary' category remains. Same letter as ch27-034.",
+    "uncertain": "Staff relief is not a rule change and can be withdrawn. No action on the foreign consolidated subsidiary category was found in the letter text, the Federal Register or a web search. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "CFTC Letter No. 25-42: No-Action Position Regarding the U.S. Person and Guarantee Definitions",
+        "publisher": "U.S. Commodity Futures Trading Commission",
+        "type": "government",
+        "url": "https://www.cftc.gov/csl/25-42/download"
+      },
+      {
+        "label": "United States: CFTC harmonizes cross-border rules",
+        "publisher": "Baker McKenzie",
+        "type": "law-firm",
+        "url": "https://www.bakermckenzie.com/en/insight/publications/alerts/2025/12/united-states-cftc-harmonizes-cross-border-rules"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-036",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On March 17, 2026, the SEC issued an interpretation, joined by the CFTC, saying most crypto assets are not themselves securities and setting out categories such as digital commodities. The CFTC said it would apply commodity law consistent with it. In August 2026 the SEC proposed Regulation Crypto Assets, with offering exemptions and a safe harbor. Congress was still working on a market structure law.",
+    "key_dates": [
+      {
+        "date": "2026-03-11",
+        "event": "SEC and CFTC sign a memorandum of understanding on harmonization."
+      },
+      {
+        "date": "2026-03-17",
+        "event": "SEC interpretation on crypto assets, joined by the CFTC."
+      },
+      {
+        "date": "2026-08-18",
+        "event": "SEC proposes Regulation Crypto Assets."
+      }
+    ],
+    "closeness": "Close in substance: most tokens treated as non-securities. But it is an interpretation plus a proposed SEC rule, not a joint SEC-CFTC rule, and no market structure law was confirmed as passed.",
+    "uncertain": "Whether Congress passed the CLARITY Act or another market structure law was not confirmed. In its August 18, 2026 release the SEC said it was acting \"as Congress works to establish a lasting regulatory framework,\" so no law had passed by then. Later action was not checked.",
+    "sources": [
+      {
+        "label": "SEC clarifies application of federal securities laws to crypto assets",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets"
+      },
+      {
+        "label": "SEC proposes new Regulation Crypto Assets",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
+      },
+      {
+        "label": "SEC, CFTC announce memorandum of understanding",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-26-sec-cftc-announce-historic-memorandum-understanding-between-agencies"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-037",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On March 23, 2026, the SEC issued an interpretation, with CFTC guidance, explaining when certain crypto assets are not securities. It describes \"digital commodities\" and other categories of crypto assets that fall outside securities laws.",
+    "key_dates": [
+      {
+        "date": "2026-03-23",
+        "event": "SEC interpretation with CFTC guidance on how securities laws apply to crypto assets"
+      }
+    ],
+    "closeness": "This moves non-security crypto assets toward being treated as commodities, as the chapter asked, but through an interpretation rather than a change to the legal definitions. Nothing was found on certificates that can be traded for a physical commodity on demand.",
+    "uncertain": "Congress has not passed a crypto market-structure law changing the definitions. The interpretation was not read in full. Newest source: March 2026; the CFTC also began a crypto rulemaking in October 2026.",
+    "sources": [
+      {
+        "label": "Application of the Federal Securities Laws to Certain Types of Crypto Assets and Certain Transactions Involving Crypto Assets",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05635/application-of-the-federal-securities-laws-to-certain-types-of-crypto-assets-and-certain"
+      },
+      {
+        "label": "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets (advance notice)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-039",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No FINRA rule change requiring arbitrators to explain awards with findings of fact was found. FINRA arbitration rule changes filed with the SEC in 2025 and 2026 dealt with other topics, such as arbitrator list selection.",
+    "closeness": "No action matched.",
+    "uncertain": "Searched the Federal Register for FINRA Code of Arbitration Procedure filings and for \"explained decision\" since January 2025. Newest source: August 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-040",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or rule requiring self-regulatory organizations to send their fines to an investor fund or the Treasury was found.",
+    "closeness": "No action matched.",
+    "uncertain": "Checked the list of laws enacted through October 2026 and searched Federal Register SEC documents. Newest source: October 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-043",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law requiring each self-regulatory organization to file a detailed annual report to Congress was found.",
+    "closeness": "No action matched.",
+    "uncertain": "Checked the list of laws enacted through October 2026 and the House-passed INVEST Act. Newest source: October 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-045",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not placed FINRA, the Municipal Securities Rulemaking Board, or the National Futures Association under an inspector general.",
+    "closeness": "No action matched.",
+    "uncertain": "Checked the list of laws enacted through October 2026 and searched the Federal Register for an inspector general for FINRA (no results).",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-046",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not required the SEC and CFTC to publish annual reports on how they supervise self-regulatory organizations.",
+    "closeness": "No action matched.",
+    "uncertain": "Checked the list of laws enacted through October 2026, including the FY2026 appropriations laws. Newest source: October 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-047",
+    "status": "partly-blocked",
+    "match": "partial",
+    "happened": "Congress has not abolished the CFPB. In 2025 acting director Russell Vought stopped most of its work and moved to lay off most staff, but a federal judge blocked mass layoffs. In September 2026 a House committee approved a bill (H.R. 10184) to fund the CFPB through yearly appropriations; it does not abolish the bureau.",
+    "key_dates": [
+      {
+        "date": "2025-03",
+        "event": "District court preliminary injunction bars mass layoffs at the CFPB."
+      },
+      {
+        "date": "2026-02-24",
+        "event": "Full D.C. Circuit hears argument in NTEU v. Vought."
+      },
+      {
+        "date": "2026-09-16",
+        "event": "House Financial Services Committee approves H.R. 10184, 28-21."
+      }
+    ],
+    "legal": "NTEU v. Vought: Judge Amy Berman Jackson's March 2025 preliminary injunction against mass layoffs remains under review by the full D.C. Circuit, which in June 2026 sent the case back for her to consider a revised plan keeping about 556 staff. Three district courts have ruled the CFPB director must request Federal Reserve funding.",
+    "closeness": "Same goal, different mechanism. The executive branch tried to shrink the bureau, but it still exists in law; only Congress can abolish it. See ch27-048.",
+    "uncertain": "The outcome of the remand and en banc appeal. Reports say the layoff case was paused pending a new director's confirmation. Newest sources are from October 2026.",
+    "sources": [
+      {
+        "label": "D.C. Circuit sends CFPB restructuring dispute back to district court",
+        "publisher": "Consumer Finance Monitor (Ballard Spahr)",
+        "type": "law-firm",
+        "url": "https://www.consumerfinancemonitor.com/2026/06/23/d-c-circuit-sends-cfpb-restructuring-dispute-back-to-district-court-while-retaining-jurisdiction-over-en-banc-appeal/"
+      },
+      {
+        "label": "House Financial Services Committee approves bill to place CFPB under appropriations",
+        "publisher": "Consumer Finance Monitor (Ballard Spahr)",
+        "type": "law-firm",
+        "url": "https://www.consumerfinancemonitor.com/2026/09/22/house-financial-services-committee-approves-legislation-to-place-cfpb-under-congressional-appropriations-process/"
+      },
+      {
+        "label": "CFPB won't force employees to move to D.C.",
+        "publisher": "Consumer Finance Monitor (Ballard Spahr)",
+        "type": "law-firm",
+        "url": "https://www.consumerfinancemonitor.com/2026/10/27/cfpb-wont-force-employees-to-move-to-d-c-the-american-banker-reports/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-048",
+    "status": "partly-blocked",
+    "match": "partial",
+    "happened": "The Supreme Court upheld the CFPB's funding in 2024, so the condition in the recommendation did not occur. Even so, in 2025 the administration halted most CFPB work, closed regional offices and moved to cut most staff. It also argued it could not draw Federal Reserve funds. Courts blocked mass layoffs, and three district courts, most recently in Oregon on September 25, 2026, ruled the director must request funding.",
+    "key_dates": [
+      {
+        "date": "2025-12-30",
+        "event": "Judge Jackson rules the administration cannot use a Justice Department legal opinion to avoid requesting CFPB funds."
+      },
+      {
+        "date": "2026-06-19",
+        "event": "Full D.C. Circuit orders a limited remand on the revised workforce plan."
+      },
+      {
+        "date": "2026-09-25",
+        "event": "Oregon federal court rules the director must request needed funds."
+      }
+    ],
+    "legal": "NTEU v. Vought (D.D.C., preliminary injunction March 2025; en banc D.C. Circuit review pending). Funding rulings: D.D.C. (December 2025), N.D. Cal. (March 2026), D. Or. (September 2026).",
+    "closeness": "The dissolution steps were attempted even though the Supreme Court did not strike down the funding. Courts stopped the mass layoffs and the refusal to request funding. Rules and guidance withdrawals were not fully checked. See ch27-047.",
+    "uncertain": "Final appellate outcomes and how many staff remain. The IG reported in 2026 that court orders limited the impact of the cuts. Newest sources are from October 2026.",
+    "sources": [
+      {
+        "label": "Third district court rejects OLC's interpretation of CFPB funding statute",
+        "publisher": "Consumer Finance Monitor (Ballard Spahr)",
+        "type": "law-firm",
+        "url": "https://www.consumerfinancemonitor.com/2026/09/30/third-district-court-rejects-olcs-interpretation-of-cfpb-funding-statute/"
+      },
+      {
+        "label": "Inspector General releases report on impact of CFPB cutbacks",
+        "publisher": "Consumer Finance Monitor (Ballard Spahr)",
+        "type": "law-firm",
+        "url": "https://www.consumerfinancemonitor.com/2026/09/10/inspector-general-releases-report-on-impact-of-cfpb-cutbacks/"
+      },
+      {
+        "label": "Full D.C. Circuit will review Trump's bid to dismantle CFPB",
+        "publisher": "Bloomberg Law",
+        "type": "news",
+        "url": "https://news.bgov.com/banking-law/full-dc-circuit-will-review-trumps-efforts-to-dismantle-cfpb"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-049",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "In June 2025 the CFPB proposed changing its Civil Penalty Fund rule so leftover money could no longer be spent on consumer education and financial literacy programs. No law sending unused penalty money to the Treasury was found.",
+    "key_dates": [
+      {
+        "date": "2025-06-18",
+        "event": "CFPB proposes Civil Penalty Fund rule change"
+      }
+    ],
+    "closeness": "The proposal limits how the Director can spend leftover funds, which overlaps with the goal, but the money does not go to the Treasury.",
+    "uncertain": "No final rule was found in the Federal Register through October 2026, and the CFPB's March 2026 Civil Penalty Fund report still described education programs as an allowed use, so the proposal appears not to be final.",
+    "sources": [
+      {
+        "label": "Consumer Financial Civil Penalty Fund Rule Amendment (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/18/2025-11248/consumer-financial-civil-penalty-fund-rule-amendment"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch27-050",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Congress did not repeal Section 1071. The CFPB delayed the 2023 small-business lending data rule in 2025, then issued a final rule in May 2026 that narrows which loans and lenders are covered, cuts some data points and sets compliance for January 1, 2028.",
+    "key_dates": [
+      {
+        "date": "2025-06-18",
+        "event": "CFPB extends compliance dates"
+      },
+      {
+        "date": "2026-05-01",
+        "event": "CFPB final rule narrowing the 1071 rule"
+      }
+    ],
+    "closeness": "The data rule was narrowed and delayed, not repealed. The law still requires data collection.",
+    "uncertain": "Whether the revised rule faces lawsuits was not checked.",
+    "sources": [
+      {
+        "label": "Small Business Lending Under the Equal Credit Opportunity Act (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08494/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-051",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Congress did not pass this limit. On May 12, 2025, the CFPB withdrew dozens of guidance documents issued since 2011, including policy statements, bulletins and advisory opinions, reducing the guidance it relies on outside formal rules.",
+    "key_dates": [
+      {
+        "date": "2025-05-12",
+        "event": "CFPB withdraws many guidance documents"
+      }
+    ],
+    "closeness": "The CFPB pulled back informal guidance on its own, which fits the goal. There is no legal bar on enforcement not tied to formal rules.",
+    "uncertain": "Internal CFPB enforcement policy changes were not reviewed.",
+    "sources": [
+      {
+        "label": "Interpretive Rules, Policy Statements, and Advisory Opinions; Withdrawal",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/12/2025-08286/interpretive-rules-policy-statements-and-advisory-opinions-withdrawal"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-052",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No rule or law letting people facing CFPB administrative actions choose a federal court instead was found. In October 2025 the CFPB rescinded 2022 and 2023 changes to its adjudication rules, returning to its earlier procedures.",
+    "closeness": "The 2025 rescission changed procedures inside CFPB administrative cases but did not give defendants a choice of forum.",
+    "uncertain": "Searched Federal Register CFPB documents on adjudication proceedings and the list of enacted laws. Newest source: October 2025 rule.",
+    "sources": [
+      {
+        "label": "Rules of Practice for Adjudication Proceedings (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/29/2025-19687/rules-of-practice-for-adjudication-proceedings"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-053",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "Congress has not defined unfair, deceptive and abusive practices in law. In May 2025 the CFPB withdrew its 2023 policy statement on abusive practices and several bulletins on unfair practices.",
+    "key_dates": [
+      {
+        "date": "2025-05-12",
+        "event": "CFPB withdraws abusiveness policy statement and related bulletins"
+      }
+    ],
+    "closeness": "Withdrawing broad guidance narrows how the CFPB reads these terms, but it is not the law the chapter called for.",
+    "uncertain": "Bills to define these terms were not checked.",
+    "sources": [
+      {
+        "label": "Interpretive Rules, Policy Statements, and Advisory Opinions; Withdrawal",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/12/2025-08286/interpretive-rules-policy-statements-and-advisory-opinions-withdrawal"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-027",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Effective April 9, 2025, the SEC regrouped its 10 regional offices into three regions, each reporting to a new deputy director, and reassigned the former regional directors. In May 2025 Chairman Paul Atkins told staff the agency had lost about 15% of its workforce and that he planned a targeted reorganization. In June 2025 testimony he asked Congress for a flat budget.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "Regional offices regrouped into three regions."
+      },
+      {
+        "date": "2025-06",
+        "event": "Atkins describes the reorganization in congressional testimony."
+      }
+    ],
+    "closeness": "Merging regional management fits the call to combine offices and cut layers. No public count showing fewer officials reporting directly to the Chairman, or fewer managers per employee, was found.",
+    "uncertain": "Details come from law-firm and legal-education summaries, not SEC documents. Changes after mid-2025 were not found. Newest source: June 2025.",
+    "sources": [
+      {
+        "label": "SEC Engages in Targeted, Common-Sense Reorganization",
+        "publisher": "Carlton Fields",
+        "type": "law-firm",
+        "url": "https://www.carltonfields.com/insights/publications/2025/sec-engages-in-targeted-common-sense-reorganization"
+      },
+      {
+        "label": "In congressional testimony, SEC Chairman Atkins seeks flat budget, describes reorganization and promotes regional offices",
+        "publisher": "Practising Law Institute",
+        "type": "academic",
+        "url": "https://bdia.pli.edu/index.php/2025/06/09/in-congressional-testimony-sec-chairman-atkins-seeks-flat-budget-describes-reorganization-and-promotes-regional-offices/"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Based only on law-firm and legal-education summaries; confirm with SEC announcements or Chairman Atkins' June 2025 testimony."
+  }
+]

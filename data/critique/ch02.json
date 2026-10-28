@@ -1,0 +1,71 @@
+[
+  {
+    "id": "ch02-011",
+    "case_against": "Congress set up agencies like the SEC, FCC and FTC to work at arm's length from the White House, so that rules on markets, airwaves and competition would not swing with each election. Making them send their rules to the President's regulatory office lets political staff shape, slow or hold those rules. The Congressional Research Service notes that earlier Presidents considered this step but never took it, and that Congress may want to watch how it changes the timing and content of these agencies' rules.",
+    "harms": [
+      {"who": "Investors and consumers", "what": "Rules meant to protect savers, phone and internet users, or shoppers could be delayed or weakened by White House review instead of decided by expert commissions."},
+      {"who": "Businesses that need stable rules", "what": "Rules from these agencies may change more sharply with each new President, making long-term planning harder."}
+    ],
+    "sources": [
+      {"label": "Executive Order 14215: Ensuring Accountability for All Agencies (Federal Register)", "publisher": "U.S. Government Publishing Office", "type": "government", "url": "https://www.govinfo.gov/content/pkg/FR-2025-02-24/html/2025-03063.htm"},
+      {"label": "The Office of Information and Regulatory Affairs (OIRA): Overview and Major Responsibilities (R48546)", "publisher": "Congressional Research Service via EveryCRSReport", "type": "government", "url": "https://www.everycrsreport.com/reports/R48546.html"},
+      {"label": "Supreme Court overrules Humphrey's Executor", "publisher": "Venable LLP", "type": "law-firm", "url": "https://www.venable.com/insights/publications/2026/06/supreme-court-overrules-humphreys-executor"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-015",
+    "case_against": "The 10-for-1 order judges rules mostly by how many there are and what they cost, not by what good they do. The order requires that the total cost of new rules be \"significantly less than zero,\" a test that leaves out benefits such as cleaner air, safer products or lower prices. A rule that saves lives can count against an agency the same as a pointless one, so agencies may drop useful protections just to hit a number.",
+    "harms": [
+      {"who": "Families who rely on health and safety rules", "what": "Protections with large benefits could be repealed or never written because only their costs count toward the cap."},
+      {"who": "Agencies' career experts", "what": "Staff must find many rules to cut for each new one, pulling time away from enforcing the laws Congress passed."}
+    ],
+    "sources": [
+      {"label": "Unleashing Prosperity Through Deregulation (EO 14192)", "publisher": "The White House", "type": "government", "url": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-prosperity-through-deregulation/"},
+      {"label": "Trump Administration Institutes \"10-to-1\" Deregulation Rule", "publisher": "Sabin Center for Climate Change Law, Columbia Law School", "type": "academic", "url": "https://climate.law.columbia.edu/content/trump-administration-institutes-10-1-deregulation-rule"},
+      {"label": "M-25-20: Guidance Implementing Section 3 of Executive Order 14192", "publisher": "Office of Management and Budget", "type": "government", "url": "https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-20-Guidance-Implementing-Section-3-of-Executive-Order-14192-Titled-Unleashing-Prosperity-Through-Deregulation.pdf"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-020",
+    "case_against": "The REINS Act would stop a major rule from taking effect unless both houses of Congress approve it, unchanged, within 70 days. That turns silence into a veto: if either chamber is busy or gridlocked, a carefully studied safety or health rule simply dies. Congress can already block rules it dislikes by passing a law or using the Congressional Review Act, so critics argue REINS mainly adds a new way for protections to fail through inaction.",
+    "harms": [
+      {"who": "Workers and patients", "what": "Dozens of consumer, labor and health groups warned that rules on things like workplace safety and food and drug safety could be blocked for any reason or no reason."},
+      {"who": "Public health and environmental protections", "what": "Big rules from agencies such as EPA and FDA would need a vote from both chambers in a short window, which may often not happen."}
+    ],
+    "sources": [
+      {"label": "Letter opposing REINS in reconciliation (May 5, 2026)", "publisher": "National Consumer Law Center and allied groups", "type": "advocacy", "url": "https://www.nclc.org/wp-content/uploads/2026/05/2026.05.05_Letter_Opposing-REINS-in-Reconciliation.pdf"},
+      {"label": "GOP renews deregulation push despite megalaw loss", "publisher": "E&E News", "type": "news", "url": "https://www.eenews.net/articles/gop-renews-deregulation-push-despite-megalaw-loss/"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-044",
+    "case_against": "Environmental reviews under NEPA are how neighbors learn what a highway, pipeline or mine will do to their air, water and land before it is built, and how they get a say. Banning cumulative impact analysis means an agency can look at each new project alone, even when it is the fifth polluting site in the same neighborhood. Courts have faulted agencies for failing to explain the combined effects of their projects. Removing all of CEQ's NEPA rules also leaves each agency writing its own procedures, which can make reviews less consistent.",
+    "harms": [
+      {"who": "Neighborhoods already near many polluting sites", "what": "Without looking at combined effects, a new project may be approved even if it pushes total pollution in one place to unhealthy levels."},
+      {"who": "Tribes and local residents", "what": "Narrower reviews may give communities less information and fewer chances to comment before decisions are made."}
+    ],
+    "sources": [
+      {"label": "Removal of National Environmental Policy Act Implementing Regulations (final rule)", "publisher": "Council on Environmental Quality (Federal Register via govinfo)", "type": "government", "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-08/html/2026-00178.htm"},
+      {"label": "Judicial Review and the National Environmental Policy Act (NEPA) (R48717)", "publisher": "Congressional Research Service via EveryCRSReport", "type": "government", "url": "https://www.everycrsreport.com/reports/R48717.html"},
+      {"label": "NEPA environmental review requirements tracker", "publisher": "Harvard Environmental and Energy Law Program", "type": "academic", "url": "https://eelp.law.harvard.edu/tracker/nepa-environmental-review-requirements"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-050",
+    "case_against": "The social cost of carbon is a dollar estimate of the damage each extra ton of greenhouse gas causes, from flooding to crop losses to heat. Ending its use does not make that damage go away; it just treats it as zero when the government weighs a rule or project. OMB now tells agencies that cases needing a dollar value for emissions will be \"few to none,\" so climate harm will often be left out of the math entirely.",
+    "harms": [
+      {"who": "Coastal and flood-prone communities", "what": "Projects and rules may be judged without counting the costs of the climate damage they add to."},
+      {"who": "Young people and future generations", "what": "Long-term costs that fall mostly on people not yet adults would be left out of today's decisions."}
+    ],
+    "sources": [
+      {"label": "Unleashing American Energy (EO 14154)", "publisher": "The White House", "type": "government", "url": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"},
+      {"label": "M-25-27: Guidance Implementing Section 6 of Executive Order 14154", "publisher": "Office of Management and Budget", "type": "government", "url": "https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-27-Guidance-Implementing-Section-6-of-Executive-Order-14154-Entitled-Unleashing-American-Energy.pdf"},
+      {"label": "Social Cost of Greenhouse Gases: Background and Recent Developments (IF12916)", "publisher": "Congressional Research Service via EveryCRSReport", "type": "government", "url": "https://www.everycrsreport.com/reports/IF12916.html"}
+    ],
+    "as_of": "2026-10-27"
+  }
+]

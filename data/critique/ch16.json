@@ -1,0 +1,373 @@
+[
+  {
+    "id": "ch16-005",
+    "case_against": "Holding as many offshore lease sales as possible locks in decades of new drilling in the Gulf and Alaska, with the spill risk that comes with it. The 2025 law requires 30 Gulf lease sales, and Interior has proposed a new 2026-2031 offshore program with up to 34 sales. Leases sold now can lead to wells that keep producing for years, so today's choices shape spill risk and emissions well into the future.",
+    "harms": [
+      {
+        "who": "Gulf Coast fishing and tourism communities",
+        "what": "They bear the cost when offshore spills foul beaches, fisheries and wetlands."
+      },
+      {
+        "who": "Coastal Alaska communities",
+        "what": "New sales in Cook Inlet extend drilling risks to waters they depend on for fishing."
+      }
+    ],
+    "history": [
+      {
+        "when": "April 20, 2010, Gulf of Mexico",
+        "what": "The Deepwater Horizon drilling rig exploded. A federal judge later found the spill released 3.19 million barrels (134 million gallons) of oil, and found BP grossly negligent. CRS called it an unprecedented challenge for the federal and state response.",
+        "lesson": "Expanding offshore drilling widens exposure to rare but enormous disasters. More leases are not the same as weaker safety rules, but they put more wells, and more risk, in the water."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Deepwater Horizon Oil Spill: Recent Activities and Ongoing Developments (R42942)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R42942.html"
+      },
+      {
+        "label": "Interior launches 11th National Offshore Leasing Program",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/interior-launches-expansive-11th-national-offshore-leasing-program-advance-us-energy"
+      },
+      {
+        "label": "Interior advances offshore energy with first lease sale under the One Big Beautiful Bill Act",
+        "publisher": "U.S. Department of the Interior",
+        "type": "government",
+        "url": "https://www.doi.gov/pressreleases/energy-dominance-first-lease-sale-one-big"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-009",
+    "case_against": "The Coastal Plain of the Arctic National Wildlife Refuge is home to caribou, polar bears and migrating birds, and is critical habitat for polar bears under the Endangered Species Act. Drilling there trades one of the country's wildest places for little money: the 2021 lease sale drew only $14.4 million in high bids, and the June 2026 sale drew just $3.7 million. CRS notes bids have been lower than some earlier predictions.",
+    "harms": [
+      {
+        "who": "Wildlife in the refuge",
+        "what": "Roads, pads and pipelines would cut into habitat for caribou, polar bears and waterfowl."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Promised revenue has not shown up, so the public gives up protected land for little return."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Arctic National Wildlife Refuge: Status of Oil and Gas Program (IF12006)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12006.html"
+      },
+      {
+        "label": "Arctic National Wildlife Refuge (ANWR): An Overview (RL33872)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/RL33872.html"
+      },
+      {
+        "label": "BLM auctions five oil and gas leases in Arctic refuge",
+        "publisher": "Offshore Technology",
+        "type": "news",
+        "url": "https://www.offshore-technology.com/news/blm-auction-arctic-refuge-five-oil-gas-leases/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-013",
+    "case_against": "This bundle would weaken four protections at once. Reading the Migratory Bird Treaty Act to ignore accidental bird deaths lets companies off the hook for preventable kills; a federal court rejected that reading in 2020, saying the law bans killing birds 'by any means.' CRS notes Interior may still enforce it against wind farms, which would treat industries unequally. Removing NEPA rules, loosening critical habitat rules and rolling back the methane waste rule make it easier to approve projects without full study and to waste publicly owned gas.",
+    "harms": [
+      {
+        "who": "Migratory birds and people who hunt and watch them",
+        "what": "Without liability for preventable deaths, companies have less reason to take steps that keep birds from being killed."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Gas wasted from federal lands earns no royalties for the public."
+      },
+      {
+        "who": "Communities near proposed projects",
+        "what": "Fewer required reviews means less information and fewer chances to comment."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Migratory Bird Treaty Act (MBTA): Selected Legal Issues (R44694)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44694.html"
+      },
+      {
+        "label": "CEQ formally rescinds its NEPA implementing regulations",
+        "publisher": "Venable",
+        "type": "law-firm",
+        "url": "https://www.venable.com/insights/publications/2026/01/ceq-formally-rescinds-its-nepa-implementing"
+      },
+      {
+        "label": "BLM methane waste prevention rule tracker",
+        "publisher": "Harvard Environmental & Energy Law Program",
+        "type": "academic",
+        "url": "https://eelp.law.harvard.edu/tracker/bam-methane-waste-prevention-rule"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-014",
+    "case_against": "Reopening about 82% of the National Petroleum Reserve in Alaska to leasing overrides protections Congress itself asked for. The law that governs the reserve names Teshekpuk Lake and the Utukok River as areas needing 'maximum protection' of their surface values, including wildlife. Wide-open leasing puts those areas at greater risk, and CRS notes some Alaska Native groups say drilling will harm the ecosystem and their subsistence hunting and fishing.",
+    "harms": [
+      {
+        "who": "Alaska Native communities on the North Slope",
+        "what": "Some say drilling will harm the wildlife and subsistence activities their communities depend on."
+      },
+      {
+        "who": "Wildlife in special areas like Teshekpuk Lake",
+        "what": "Leasing near key habitat raises the risk of disturbing nesting birds and caribou."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Petroleum Reserve in Alaska (NPR-A): A Summary (IF13119)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-08-24_IF13119_755505d3f1709f2d054899a70a6d3d5e3896180a.html"
+      },
+      {
+        "label": "Arctic Alaska oil and gas lease sale draws record bidding, despite legal clouds",
+        "publisher": "Alaska Beacon",
+        "type": "news",
+        "url": "https://alaskabeacon.com/2026/03/19/arctic-alaska-oil-and-gas-lease-sale-draws-record-bidding-despite-legal-clouds/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-015",
+    "case_against": "Schedule F, now called Schedule Policy/Career, strips notice and appeal rights from career workers in a broad set of 'policy' jobs, so they can be fired more easily. That invites hiring and firing based on politics rather than skill. The country tried a system like that in the 1800s and abandoned it after a disappointed job seeker killed a president.",
+    "harms": [
+      {
+        "who": "Career federal workers, including Interior scientists and inspectors",
+        "what": "They could be fired without the usual right to appeal, which may pressure them to bend findings to fit politics."
+      },
+      {
+        "who": "The public",
+        "what": "Agencies staffed by loyalty rather than skill would likely make worse decisions about land, mining safety and wildlife."
+      }
+    ],
+    "history": [
+      {
+        "when": "1881 to 1883, United States",
+        "what": "In 1881 President James Garfield was assassinated by a disappointed job seeker during the era of the spoils system, when government jobs were handed out as political rewards. In January 1883 Congress passed the Pendleton Act, requiring that federal jobs be awarded on merit through competitive exams and making it unlawful to fire workers for political reasons.",
+        "lesson": "The merit system was built to stop political patronage. Schedule F covers far fewer jobs than the old spoils system, but it moves back in that direction by making political firing easier."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Pendleton Act (1883)",
+        "publisher": "National Archives",
+        "type": "government",
+        "url": "https://www.archives.gov/milestone-documents/pendleton-act"
+      },
+      {
+        "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges, and Issues for Lawmakers (LSB11412)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11412.html"
+      },
+      {
+        "label": "Employee groups revive lawsuit to block Schedule F",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/workforce/2026/03/employee-groups-revive-lawsuit-block-schedule-f/411962/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-030",
+    "case_against": "National monuments protect landscapes, Native American sites and fossils, and CRS notes many are popular places that bring substantial economic benefit to nearby communities. Shrinking Bears Ears and Grand Staircase-Escalante to about 121,000 and 182,000 acres removes protection from land outside the new lines, and opens a legal fight over whether presidents can undo their predecessors' work at will.",
+    "harms": [
+      {
+        "who": "Cultural, archaeological and fossil sites outside the new boundaries",
+        "what": "They lose monument protection and are more exposed to damage."
+      },
+      {
+        "who": "Local towns that depend on outdoor tourism",
+        "what": "Weaker protection can reduce the draw of these lands for visitors."
+      }
+    ],
+    "history": [
+      {
+        "when": "1908, Arizona",
+        "what": "President Theodore Roosevelt used the Antiquities Act to proclaim Grand Canyon National Monument, about 0.8 million acres. It was challenged in court, and it is now a world-famous national park.",
+        "lesson": "Monuments that were controversial when created often become treasured later. Shrinking them gives up protections that future generations may value most."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Monuments and the Antiquities Act (R41330)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R41330.html"
+      },
+      {
+        "label": "Lawsuits filed over reduction of 2 Utah national monuments",
+        "publisher": "KSL",
+        "type": "news",
+        "url": "https://www.ksl.com/article/51619363/lawsuits-filed-over-reduction-of-2-utah-national-monuments-rekindling-legal-battle"
+      },
+      {
+        "label": "Judge revives suit over efforts to shrink Bears Ears, Grand Staircase-Escalante",
+        "publisher": "KJZZ",
+        "type": "news",
+        "url": "https://www.kjzz.org/politics/2026-10-16/judge-revives-suit-over-efforts-to-shrink-bears-ears-grand-staircase-escalante-national-monuments"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-031",
+    "case_against": "The Antiquities Act has been used by presidents of both parties for more than a century: 18 of the 21 presidents since 1906 have used it. Monuments created under it include the Grand Canyon, Grand Teton, Zion, Olympic and the Statue of Liberty. Repealing it would take away the fastest tool for protecting threatened sites before they are damaged.",
+    "harms": [
+      {
+        "who": "Archaeological and Native American cultural sites",
+        "what": "Without a quick way to protect them, sites could be looted or developed before Congress acts."
+      },
+      {
+        "who": "Future visitors to public lands",
+        "what": "Places that might become the next great national parks could lose protection."
+      }
+    ],
+    "history": [
+      {
+        "when": "1908, Arizona",
+        "what": "Theodore Roosevelt proclaimed Grand Canyon National Monument in 1908 under the Antiquities Act. The decision was challenged in court, and the canyon is now a world-famous national park.",
+        "lesson": "Many of the country's most loved parks started as monuments under this law."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Monuments and the Antiquities Act (R41330)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R41330.html"
+      },
+      {
+        "label": "Lee, Curtis introduce bill to modernize outdated Antiquities Act",
+        "publisher": "U.S. Senate Committee on Energy and Natural Resources",
+        "type": "government",
+        "url": "https://www.energy.senate.gov/2025/1/lee-curtis-introduce-bill-to-modernize-outdated-antiquities-act"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-034",
+    "case_against": "Court review is how the public makes sure agencies actually study a project's harm before approving it. Without it, NEPA's requirements would be easy to skip. Researchers cited by the Congressional Research Service call it a 'myth' that permitting is the main cause of project delays, and note a 90% drop in the number of full environmental impact statements prepared each year since the 1970s.",
+    "harms": [
+      {
+        "who": "Communities near pipelines, highways and mines",
+        "what": "They would lose the ability to challenge a sloppy review in court."
+      },
+      {
+        "who": "Tribes",
+        "what": "Environmental reviews are one of the main ways tribes share information about cultural and environmental resources a project could affect."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Judicial Review and the National Environmental Policy Act (NEPA) (R48717)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48717.html"
+      },
+      {
+        "label": "Amending NEPA: Analysis of the SPEED Act (H.R. 4776) (R49485)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49485.html"
+      },
+      {
+        "label": "Opportunities for Tribal Engagement in NEPA Reviews (IF13332)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13332.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-036",
+    "case_against": "The Endangered Species Act has brought species back from the edge. The bald eagle, America's national symbol, was down to 417 known nesting pairs in 1963; with protection, the population grew to at least 9,789 pairs by 2007 and the bird was removed from the list. 'Reforms' aimed at limiting the law's reach on private land and development would make recoveries like that harder.",
+    "harms": [
+      {
+        "who": "Endangered and threatened species",
+        "what": "Weaker protection would likely slow or stop recovery for species still at risk."
+      },
+      {
+        "who": "Hunters, anglers and outdoor communities",
+        "what": "Healthy wildlife populations support recreation and local economies."
+      }
+    ],
+    "history": [
+      {
+        "when": "1963 to 2007, lower 48 states",
+        "what": "Bald eagles fell to 417 known nesting pairs by 1963, largely due to the pesticide DDT. After federal protection, they recovered to at least 9,789 nesting pairs by 2007, and were taken off the endangered list.",
+        "lesson": "Strong protection works, but it takes decades. Weakening the law trades long-term recovery for short-term convenience."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Bald eagle species profile",
+        "publisher": "U.S. Fish and Wildlife Service",
+        "type": "government",
+        "url": "https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus"
+      },
+      {
+        "label": "House cancels floor vote on ESA Amendments Act",
+        "publisher": "Rural County Representatives of California",
+        "type": "news",
+        "url": "https://www.rcrcnet.org/general/house-cancels-floor-vote-on-esa-amendments-act/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch16-055",
+    "case_against": "Ending EV tax credits and vehicle pollution rules at the same time pulls support from a growing industry: about 20% of new U.S. light vehicles sold in 2024 were electric or plug-in, according to CRS. EPA's own 2024 analyses found its vehicle rules would bring net benefits, including health benefits from cleaner air. Removing both the incentive and the standard is likely to slow the shift to cleaner cars.",
+    "harms": [
+      {
+        "who": "Car buyers",
+        "what": "Losing federal EV tax credits makes electric cars more expensive to buy."
+      },
+      {
+        "who": "People living near busy roads",
+        "what": "Slower EV adoption would likely mean more tailpipe pollution."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Electric Vehicle Technologies and Selected Policy Issues for the 119th Congress (R48648)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48648.html"
+      },
+      {
+        "label": "Clean Air Act: EPA's Greenhouse Gas Endangerment Finding and Repeal (R49024)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49024.html"
+      },
+      {
+        "label": "Official: US tax credit for EVs to end in September",
+        "publisher": "electrive",
+        "type": "news",
+        "url": "https://www.electrive.com/2025/07/07/official-us-tax-credit-for-evs-to-end-in-september"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

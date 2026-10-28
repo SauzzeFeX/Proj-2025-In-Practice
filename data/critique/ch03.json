@@ -1,0 +1,151 @@
+[
+  {
+    "id": "ch03-002",
+    "case_against": "Disparate impact rules let the government act when a policy shuts out people of one race or sex far more than others and there is no good reason for it, even if no one can prove bad intent. Most unfair treatment today is hard to prove as intentional, so dropping this tool makes many kinds of discrimination much harder to fix. The Justice Department's own rule notes its Title VI regulations had included this \"effects\" language since 1966; removing it ends nearly 60 years of practice.",
+    "harms": [
+      {
+        "who": "Black, Latino and other minority Americans",
+        "what": "Hiring tests, lending rules or school policies that screen them out without a real need could no longer be challenged by federal agencies on that basis."
+      },
+      {
+        "who": "Women job seekers",
+        "what": "Hiring rules that look neutral but exclude women in practice would be harder for federal agencies to challenge without proof of intent."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Rescinding Portions of Department of Justice Title VI Regulations (90 FR 57141)",
+        "publisher": "U.S. Department of Justice (Federal Register)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/10/2025-22448/rescinding-portions-of-department-of-justice-title-vi-regulations-to-conform-more-closely-with-the"
+      },
+      {
+        "label": "Rollback tracker: executive order directing agencies to eliminate the disparate impact standard",
+        "publisher": "Harvard Environmental and Energy Law Program",
+        "type": "academic",
+        "url": "https://eelp.law.harvard.edu/tracker/rollback-executive-order-directed-agencies-to-eliminate-use-and-enforcement-of-disparate-impact-standard/"
+      },
+      {
+        "label": "DOJ concludes employment disparate impact rules unconstitutional",
+        "publisher": "Courthouse News Service",
+        "type": "news",
+        "url": "https://www.courthousenews.com/doj-concludes-employment-disparate-impact-rules-unconstitutional/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-015",
+    "case_against": "Schedule F removes the usual notice and appeal rights from career employees in jobs labeled \"policy-influencing,\" so they can be fired much more easily. Those rights were put in place so civil servants could, in the words of a 2024 OPM rule, offer \"objective analyses and educated views ... without fear of reprisal.\" Without them, experts may feel pressure to tell political leaders what they want to hear. The U.S. learned in the 1800s that tying government jobs to political loyalty led to turnover, lost expertise and pressure on workers.",
+    "harms": [
+      {
+        "who": "Senior career employees",
+        "what": "About 8,000 employees, nearly all at GS-15 or above, were moved into the category in June 2026 and lose standard protections against removal."
+      },
+      {
+        "who": "Americans who depend on accurate government work",
+        "what": "Weather forecasts, drug safety reviews and budget numbers depend on experts who can report facts that leaders may not like."
+      }
+    ],
+    "history": [
+      {
+        "when": "1881-1883, Washington, D.C.",
+        "what": "Under the spoils system, federal workers could be fired for not backing the party in power, and jobs turned over with each election. After office-seeker Charles Guiteau shot President Garfield in 1881, Congress passed the 1883 Pendleton Act, which based many federal jobs on merit exams and barred firing covered workers for political reasons.",
+        "lesson": "Merit protections were created because loyalty-based jobs led to lost expertise and political pressure. Schedule F is narrower than the old spoils system, but it reopens the door to firing career staff for political reasons."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges, and Issues for Lawmakers (LSB11412)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11412.html"
+      },
+      {
+        "label": "A New Civil Service \"Policy/Career\" Schedule: Issues for Lawmakers (LSB11262)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11262.html"
+      },
+      {
+        "label": "Trump moves about 8,000 federal positions to Schedule Policy/Career",
+        "publisher": "Federal News Network",
+        "type": "news",
+        "url": "https://federalnewsnetwork.com/workforce/2026/06/trump-moves-about-8000-federal-positions-to-schedule-policy-career/"
+      },
+      {
+        "label": "Pendleton Act (1883)",
+        "publisher": "National Archives",
+        "type": "government",
+        "url": "https://www.archives.gov/milestone-documents/pendleton-act"
+      },
+      {
+        "label": "How Garfield's assassination led to reforms of the spoils system",
+        "publisher": "History.com",
+        "type": "news",
+        "url": "https://www.history.com/articles/garfield-assassination-spoils-system-reforms-federal-employees"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-017",
+    "case_against": "These orders cut back federal workers' union contracts, the time union representatives spend handling grievances, and the steps managers must follow before firing someone. The 2025 order went further and ended collective bargaining at many large agencies, including Veterans Affairs, citing national security. Several federal judges initially blocked that order before appeals courts paused their rulings. Unions give front-line workers a way to raise safety and staffing problems and to challenge unfair discipline; removing that voice across whole agencies affects workers who never chose to give up their contracts.",
+    "harms": [
+      {
+        "who": "Federal employees at agencies like VA, State and Justice",
+        "what": "Lost the union contracts that set rules on schedules, safety, discipline and grievances."
+      },
+      {
+        "who": "Workers facing discipline",
+        "what": "Faster removal procedures and fewer union representatives mean less help in challenging mistakes or unfair firings."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Exclusions from Federal Labor-Management Relations Programs (EO 14251)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/exclusions-from-federal-labor-management-relations-programs/"
+      },
+      {
+        "label": "National Security Exclusions from the Federal Service Labor-Management Relations Statutes (LSB11367)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11367.html"
+      },
+      {
+        "label": "Homeland Security ends TSA collective bargaining agreement",
+        "publisher": "Associated Press",
+        "type": "news",
+        "url": "https://apnews.com/article/collective-bargaining-agreement-tsa-homeland-security-e3eb1d5e0ae8e1b4a6fdb87cd7f6bd39"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-018",
+    "case_against": "Asking whether federal workers should be allowed unions at all points toward taking away a right Congress wrote into law in the Civil Service Reform Act of 1978. Federal workers already may not strike, and their unions cannot bargain over wages or retirement benefits set by law, so ending unions would mainly remove workers' voice on day-to-day conditions and fair discipline. A President has already ended bargaining at many agencies by order; a law ending public-sector unions would make that permanent.",
+    "harms": [
+      {
+        "who": "Federal, and possibly state and local, public workers",
+        "what": "Could lose the ability to bargain over working conditions and to get union help with grievances."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Exclusions from Federal Labor-Management Relations Programs (EO 14251)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/exclusions-from-federal-labor-management-relations-programs/"
+      },
+      {
+        "label": "Collective Bargaining and the Federal Service Labor-Management Relations Statute: Selected Legal Issues (R44794)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44794.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

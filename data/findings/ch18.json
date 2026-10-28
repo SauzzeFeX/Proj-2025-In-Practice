@@ -1,0 +1,2090 @@
+[
+ {
+  "id": "ch18-001",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On January 20, 2025, President Trump signed Executive Order 14151, which ended diversity, equity and inclusion (DEI) programs, offices and trainings inside federal agencies. A January 29, 2025 order on K-12 schools told agencies to plan to cut federal funds that support teaching certain race-based concepts. Congress has not passed a law banning federal funding of critical race theory training.",
+  "key_dates": [
+   {
+    "date": "2025-01-20",
+    "event": "Executive Order 14151 ends federal DEI programs and trainings."
+   },
+   {
+    "date": "2025-01-29",
+    "event": "Order on K-12 schooling targets federal funding tied to certain race-based teaching."
+   }
+  ],
+  "legal": "A federal court in Maryland preliminarily blocked parts of Executive Orders 14151 and 14173 in February 2025 (NADOHE v. Trump); the Fourth Circuit paused that order in March 2025 and vacated it on February 6, 2026, finding the orders likely not unconstitutional on their face. The case continues in the district court. The end of DEI trainings inside federal agencies was not blocked.",
+  "closeness": "Same goal, partly the same mechanism. The orders use the terms DEI and \"discriminatory equity ideology\" rather than \"critical race theory,\" and no law was passed.",
+  "uncertain": "A new request for a preliminary injunction in NADOHE was filed in June 2026; I did not find a ruling on it. I found no bill on critical race theory funding among the laws passed by the 119th Congress. Newest source is from February 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14151: Ending Radical and Wasteful Government DEI Programs and Preferencing",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+   },
+   {
+    "label": "Executive Order: Ending Radical Indoctrination in K-12 Schooling",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02232/ending-radical-indoctrination-in-k-12-schooling"
+   },
+   {
+    "label": "Trump Anti-DEI Orders to Proceed as Appeals Court Ends Block",
+    "publisher": "Bloomberg Government",
+    "type": "news",
+    "url": "https://news.bgov.com/daily-tax-report-state/fourth-circuit-lifts-block-on-trumps-illegal-dei-orders"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-002",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "Executive Order 14173 (January 21, 2025) told the Attorney General and agency heads to enforce civil rights laws against private-sector DEI practices that use racial preferences. In 2026 the EEOC acted on this: on February 26 its chair warned the 500 largest U.S. companies about Title VII liability for race- and sex-based DEI programs, and in March it announced a $500,000 settlement over an employer's DEI practices. On March 26, 2026, Executive Order 14398 required a contract clause barring federal contractors from \"racially discriminatory DEI activities.\"",
+  "key_dates": [
+   {
+    "date": "2025-01-21",
+    "event": "Executive Order 14173 directs enforcement against illegal private-sector DEI."
+   },
+   {
+    "date": "2026-02-26",
+    "event": "EEOC chair warns 500 largest companies about DEI under Title VII."
+   },
+   {
+    "date": "2026-03-19",
+    "event": "First EEOC settlement over DEI practices ($500,000)."
+   },
+   {
+    "date": "2026-03-26",
+    "event": "Executive Order 14398 adds anti-DEI clause to federal contracts."
+   }
+  ],
+  "legal": "The Fourth Circuit on February 6, 2026 vacated a preliminary injunction against parts of Executive Order 14173 (NADOHE v. Trump), so enforcement continues while the case goes on. No court ruling on Executive Order 14398 was found.",
+  "closeness": "Same goal. The EEOC is now using Title VII against DEI programs, as recommended, but the President's direction came through general orders rather than a specific directive about critical race theory trainings.",
+  "uncertain": "How many Title VII lawsuits (not just letters, subpoenas and settlements) the EEOC and DOJ have filed over DEI. Newest source is from mid-2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14173: Ending Illegal Discrimination and Restoring Merit-Based Opportunity",
+    "publisher": "The White House",
+    "type": "government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/"
+   },
+   {
+    "label": "Executive Order 14398: Addressing DEI Discrimination by Federal Contractors",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06286/addressing-dei-discrimination-by-federal-contractors"
+   },
+   {
+    "label": "EEOC Investigation Into Employer's DEI Practices Results in $500,000 Settlement",
+    "publisher": "Foley & Lardner",
+    "type": "law-firm",
+    "url": "https://www.foley.com/insights/publications/2026/04/eeoc-investigation-into-employers-dei-practices-results-in-500000-settlement/"
+   },
+   {
+    "label": "How Trump's EEOC is attacking DEI and emphasizing white people (NPR)",
+    "publisher": "WUSF / NPR",
+    "type": "news",
+    "url": "https://www.wusf.org/2026-03-31/how-trumps-eeoc-is-attacking-dei-and-emphasizing-white-people"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-003",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "On July 23, 2026, the EEOC proposed a rule to end the EEO-1 report and the other EEO reports (EEO-2 through EEO-6), which collect workforce data by race, ethnicity and sex. The EEOC held a public hearing on August 11, 2026. No final rule was found, and Congress has not amended Title VII.",
+  "key_dates": [
+   {
+    "date": "2026-07-23",
+    "event": "EEOC proposes rescinding all EEO reporting requirements."
+   },
+   {
+    "date": "2026-08-11",
+    "event": "EEOC public hearing on the proposal."
+   }
+  ],
+  "closeness": "Close to the recommendation for the EEOC part: the proposal would end the reports entirely, not only the race and ethnicity data. The legislative part has not happened.",
+  "uncertain": "Whether and when a final rule will be issued, and whether it will be challenged. Newest source is July 2026.",
+  "sources": [
+   {
+    "label": "EEOC proposed rule: Removal of Reporting Requirements (EEO-1 through EEO-6)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14937/removal-of-reporting-requirements"
+   },
+   {
+    "label": "EEOC public hearing on proposed rescission of EEO reports",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15340/removal-of-reporting-requirements-public-hearing"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-004",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "Congress has not changed Title VII or other laws to end disparate impact claims. On April 23, 2025, President Trump signed Executive Order 14281, which told agencies to stop prioritizing disparate impact cases, including under Title VII. The Justice Department removed disparate impact from its Title VI rules in December 2025, and Commerce, DHS, Transportation, HHS and Education did the same in 2026.",
+  "key_dates": [
+   {
+    "date": "2025-04-23",
+    "event": "Executive Order 14281 tells agencies to deprioritize disparate impact enforcement."
+   },
+   {
+    "date": "2025-12-10",
+    "event": "Justice Department rule removing disparate impact from its Title VI regulations takes effect."
+   },
+   {
+    "date": "2026-07-24",
+    "event": "HHS and Education issue final rules removing disparate impact from their Title VI rules."
+   }
+  ],
+  "legal": "No court ruling found blocking the executive order or the agency rules.",
+  "closeness": "Same goal, different mechanism. The recommendation asks Congress to change the law; instead the executive branch changed enforcement and agency rules. Disparate impact claims under Title VII are written into the statute and private lawsuits can still be filed.",
+  "uncertain": "Whether any of the 2026 agency rules are being challenged in court, and what the EEOC has formally done under the order. Newest sources are from July 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14281: Restoring Equality of Opportunity and Meritocracy",
+    "publisher": "The White House",
+    "type": "government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/04/restoring-equality-of-opportunity-and-meritocracy/"
+   },
+   {
+    "label": "Rescinding portions of DOJ Title VI regulations",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/12/10/2025-22448/rescinding-portions-of-department-of-justice-title-vi-regulations-to-conform-more-closely-with-the"
+   },
+   {
+    "label": "Disparate impact liability eliminated from Title VI by Education and HHS",
+    "publisher": "Grand River Solutions",
+    "type": "law-firm",
+    "url": "https://grandriversolutions.com/disparate-impact-liability-eliminated-from-title-vi-by-the-departments-of-education-and-health-and-human-services/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-005",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "Executive Order 14173 (January 21, 2025) revoked Executive Order 11246, the main authority under which OFCCP reviewed contractors for race and sex discrimination. Executive Order 14281 (April 23, 2025) told all agencies to stop using disparate impact liability where possible. The Labor Department finalized removal of the Executive Order 11246 rules on August 21, 2026.",
+  "key_dates": [
+   {
+    "date": "2025-01-21",
+    "event": "Executive Order 14173 revokes Executive Order 11246."
+   },
+   {
+    "date": "2025-04-23",
+    "event": "Executive Order 14281 directs agencies to deprioritize disparate impact."
+   },
+   {
+    "date": "2026-08-21",
+    "event": "OFCCP final rule rescinds Executive Order 11246 regulations."
+   }
+  ],
+  "legal": "No court ruling was found blocking the revocation of Executive Order 11246 or Executive Order 14281.",
+  "closeness": "Goes further than the recommendation: rather than banning disparate impact analysis at OFCCP, the order removed OFCCP's race and sex review authority entirely. See ch18-004 and ch18-006.",
+  "uncertain": "How OFCCP now handles disparate impact in its remaining disability and veterans programs. Newest source is August 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14281: Restoring Equality of Opportunity and Meritocracy",
+    "publisher": "The White House",
+    "type": "government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/04/restoring-equality-of-opportunity-and-meritocracy/"
+   },
+   {
+    "label": "Executive Order 14173: Ending Illegal Discrimination and Restoring Merit-Based Opportunity",
+    "publisher": "The White House",
+    "type": "government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/"
+   },
+   {
+    "label": "DOL final rule: Rescission of Executive Order 11246 Implementing Regulations",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17114/rescission-of-executive-order-11246-implementing-regulations"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-006",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "On January 21, 2025, President Trump signed Executive Order 14173, which revoked Executive Order 11246 and told the OFCCP to stop enforcing affirmative action rules for contractors. On August 21, 2026, the Labor Department published final rules that remove the Executive Order 11246 regulations, effective October 26, 2026.",
+  "key_dates": [
+   {
+    "date": "2025-01-21",
+    "event": "Executive Order 14173 revokes Executive Order 11246."
+   },
+   {
+    "date": "2026-08-21",
+    "event": "OFCCP publishes final rules rescinding the EO 11246 regulations."
+   },
+   {
+    "date": "2026-10-26",
+    "event": "Rescission of the EO 11246 regulations takes effect."
+   }
+  ],
+  "legal": "Lawsuits have challenged other parts of Executive Order 14173, but no court ruling was found blocking the revocation of Executive Order 11246.",
+  "closeness": "The order was rescinded as recommended. The OFCCP itself was not eliminated; it still enforces disability (Section 503) and veterans (VEVRAA) rules for contractors, in narrowed form.",
+  "uncertain": "Whether any lawsuit targets the August 2026 final rules. Sources disagree slightly on the effective date; most say October 26, 2026. Newest sources are from August 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14173: Ending Illegal Discrimination and Restoring Merit-Based Opportunity",
+    "publisher": "The White House",
+    "type": "government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/"
+   },
+   {
+    "label": "OFCCP completes overhaul of federal contractor compliance framework",
+    "publisher": "Crowell & Moring",
+    "type": "law-firm",
+    "url": "https://www.crowell.com/en/insights/client-alerts/ofccp-completes-overhaul-of-federal-contractor-compliance-framework-three-final-rules-rescind-eo-11246-regulations-narrow-section-503-affirmative-action"
+   },
+   {
+    "label": "OFCCP finalizes three rules resetting federal contractor affirmative action requirements",
+    "publisher": "Duane Morris",
+    "type": "law-firm",
+    "url": "https://www.duanemorris.com/alerts/ofccp_finalizes_three_rules_resetting_federal_contractor_affirmative_action_requirements_0826.html"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-007",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "On January 22, 2026, the EEOC voted 2-1 to rescind its 2024 workplace harassment guidance, which had said harassment based on sexual orientation or gender identity can be sex discrimination. A Texas federal court had already struck down those parts of the guidance in May 2025.",
+  "key_dates": [
+   {
+    "date": "2025-05",
+    "event": "A Texas federal court vacates the gender identity parts of the EEOC harassment guidance."
+   },
+   {
+    "date": "2026-01-22",
+    "event": "EEOC votes 2-1 to rescind the whole 2024 harassment guidance."
+   }
+  ],
+  "legal": "A federal district court in Texas vacated the gender identity sections in May 2025. No court order blocking the rescission was found.",
+  "closeness": "Moves in the same direction by withdrawing guidance that applied Bostock to harassment. It is not a formal rule limiting Bostock to hiring and firing, and courts can still apply Bostock more broadly. See also ch18-009 and ch18-010.",
+  "uncertain": "Whether the EEOC has changed how it handles charges about pay, benefits or other terms of work for LGBT workers. Newest sources are from February 2026.",
+  "sources": [
+   {
+    "label": "EEOC rescinds 2024 harassment guidance",
+    "publisher": "Holland & Knight",
+    "type": "law-firm",
+    "url": "https://www.hklaw.com/en/insights/publications/2026/01/eeoc-rescinds-2024-harassment-guidance-addressing"
+   },
+   {
+    "label": "EEOC rescinds enforcement guidance on harassment in the workplace",
+    "publisher": "Jackson Lewis",
+    "type": "law-firm",
+    "url": "https://www.jacksonlewis.com/insights/eeoc-rescinds-enforcement-guidance-harassment-workplace"
+   },
+   {
+    "label": "EEOC withdraws previous harassment guidance",
+    "publisher": "KSMU (NPR member station)",
+    "type": "news",
+    "url": "https://www.ksmu.org/2026-01-24/eeoc-withdraws-previous-harassment-guidance"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-008",
+  "status": "partly-done",
+  "match": "direct",
+  "happened": "Executive Order 14168 (January 20, 2025) told agencies to remove guidance that reads sex discrimination law to cover gender identity, and called the prior reading of Bostock beyond its holding \"legally untenable.\" In January 2026 the EEOC voted to rescind its 2024 harassment guidance, which had applied Bostock to workplace harassment.",
+  "key_dates": [
+   {
+    "date": "2025-01-20",
+    "event": "Executive Order 14168 directs agencies to rescind gender identity guidance."
+   },
+   {
+    "date": "2026-01-22",
+    "event": "EEOC rescinds its 2024 harassment guidance."
+   }
+  ],
+  "legal": "Other parts of Executive Order 14168 face lawsuits (for example over passports); no ruling was found blocking the guidance withdrawals.",
+  "closeness": "Same action as the recommendation, carried out through Executive Order 14168. Same order and guidance withdrawal as ch18-009.",
+  "uncertain": "Not every agency's withdrawals were checked; some guidance may remain. Newest source is January 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14168: Defending Women from Gender Ideology Extremism",
+    "publisher": "The White House",
+    "type": "government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+   },
+   {
+    "label": "EEOC rescinds 2024 sexual orientation and gender identity harassment guidance",
+    "publisher": "Bricker Graydon",
+    "type": "law-firm",
+    "url": "https://www.bricker.com/employment-law-report/eeoc-rescinds-2024-sexual-orientation-and-gender-identity-based-harassment-guidance"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-009",
+  "status": "partly-done",
+  "match": "direct",
+  "happened": "On January 20, 2025, President Trump signed Executive Order 14168. It told every agency to rescind guidance that treats sex discrimination as covering gender identity, and called the prior reading of Bostock \"legally untenable.\" Agencies have since withdrawn some guidance, including the EEOC's 2024 harassment guidance in January 2026.",
+  "key_dates": [
+   {
+    "date": "2025-01-20",
+    "event": "Executive Order 14168 directs agencies to rescind inconsistent guidance."
+   },
+   {
+    "date": "2026-01-22",
+    "event": "EEOC rescinds its 2024 harassment guidance."
+   }
+  ],
+  "legal": "Parts of Executive Order 14168 have been challenged in several courts. In Trump v. Orr, the Supreme Court on November 6, 2025 let the passport policy take effect while the case continued.",
+  "closeness": "Same idea and mechanism (a presidential directive to agencies). Not every regulation has been formally rescinded through rulemaking, so this is rated partly done. Same order as ch18-010.",
+  "uncertain": "Which formal regulations (not just guidance) have been rescinded at each agency, and the full status of the many lawsuits. Newest sources are from mid-2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14168: Defending Women from Gender Ideology Extremism",
+    "publisher": "The White House",
+    "type": "government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+   },
+   {
+    "label": "EEOC rescinds 2024 sexual orientation and gender identity harassment guidance",
+    "publisher": "Bricker Graydon",
+    "type": "law-firm",
+    "url": "https://www.bricker.com/employment-law-report/eeoc-rescinds-2024-sexual-orientation-and-gender-identity-based-harassment-guidance"
+   },
+   {
+    "label": "Gender debrief: federal policy update",
+    "publisher": "Manhattan Institute",
+    "type": "advocacy",
+    "url": "https://manhattan.institute/article/gender-debrief-federal-policy-update-8"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-010",
+  "status": "in-effect-challenged",
+  "match": "direct",
+  "happened": "Executive Order 14168, signed January 20, 2025, says the executive branch will enforce sex-based laws using a biological, two-sex meaning of \"sex.\" Agencies applied it to things like passports. The Supreme Court let the passport policy take effect in November 2025 while the lawsuit continued.",
+  "key_dates": [
+   {
+    "date": "2025-01-20",
+    "event": "Executive Order 14168 signed."
+   },
+   {
+    "date": "2025-11-06",
+    "event": "Supreme Court (6-3) lets the passport policy take effect in Trump v. Orr."
+   },
+   {
+    "date": "2026-06-05",
+    "event": "First Circuit vacates the district court's passport injunction, according to a policy tracker."
+   }
+  ],
+  "legal": "Multiple lawsuits challenge parts of the order. The Supreme Court granted a stay in Trump v. Orr (November 6, 2025). Reports say the passport preliminary injunction was vacated in June 2026, but one later commentary says the case is still being litigated.",
+  "closeness": "Same idea and mechanism: a presidential directive to all agencies. Same order as ch18-009.",
+  "uncertain": "The status of non-passport challenges to the order, and whether the Orr case is fully over. Sources are mostly secondary; newest are from mid-2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14168",
+    "publisher": "The White House",
+    "type": "government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+   },
+   {
+    "label": "Orr v. Trump, application appendix",
+    "publisher": "Supreme Court of the United States",
+    "type": "court",
+    "url": "https://www.supremecourt.gov/DocketPDF/25/25A319/375147/20250919104505499_Orr_Appendix_FINAL.pdf"
+   },
+   {
+    "label": "EO 14168: ID documents to reflect biological sex (tracker)",
+    "publisher": "Immigration Policy Tracking Project",
+    "type": "academic",
+    "url": "https://immpolicytracking.org/policies/eo-defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government-3d-direct-dos-and-dhs-to-require-that-government-issued-identification-documents-reflect-immutable-biological-sex/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-011",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law was found requiring employers that cover abortion to offer equal or greater pregnancy, childbirth and adoption benefits.",
+  "closeness": "No match.",
+  "uncertain": "I searched news and bill listings for a federal bill requiring equal pregnancy, childbirth and adoption benefits when abortion is covered, and checked every law passed by the 119th Congress through October 2026. I found none; a related 2025 bill (Caring for Mothers Act) deals with coverage for adoption, not this rule.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-012",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law, rule or Labor Department guidance was found saying ERISA does not override state limits on abortion or surrogacy benefits in employer plans. A May 2026 proposed rule on \"excepted fertility benefits\" deals with offering fertility coverage, not with state abortion limits.",
+  "closeness": "No match.",
+  "uncertain": "Federal Register searches and a news search found no 2025-2026 Labor Department guidance or bill on ERISA and state abortion limits; most commentary dates from 2022. No law passed by the 119th Congress through October 2026 addresses it.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-013",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "President Trump created the White House Faith Office (February 7, 2025), ordered a task force on anti-Christian bias in government (February 6, 2025), and set up a Religious Liberty Commission (May 1, 2025). None of these orders specifically states that religious employers may run their businesses by their beliefs or addresses their role as federal contractors.",
+  "key_dates": [
+   {
+    "date": "2025-02-06",
+    "event": "Executive order on eradicating anti-Christian bias."
+   },
+   {
+    "date": "2025-02-07",
+    "event": "Executive order creates the White House Faith Office."
+   },
+   {
+    "date": "2025-05-01",
+    "event": "Executive Order 14291 creates the Religious Liberty Commission."
+   }
+  ],
+  "closeness": "Same general direction (religious liberty) but not the specific protections for religious employers and contractors the chapter describes. Revoking Executive Order 11246 (ch18-006) also removed contractor rules that had required a religious exemption.",
+  "uncertain": "Whether the Religious Liberty Commission's work led to employer-specific policy. Newest source is May 2025.",
+  "sources": [
+   {
+    "label": "Executive Order 14291: Establishment of the Religious Liberty Commission",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/05/07/2025-08134/establishment-of-the-religious-liberty-commission"
+   },
+   {
+    "label": "Executive Order: Establishment of the White House Faith Office",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/02/12/2025-02635/establishment-of-the-white-house-faith-office"
+   },
+   {
+    "label": "Executive Order: Eradicating Anti-Christian Bias",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/02/12/2025-02611/eradicating-anti-christian-bias"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-014",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law was found expanding the Title VII exemption so religious organizations can make all employment decisions based on religion regardless of other nondiscrimination laws.",
+  "closeness": "No match.",
+  "uncertain": "A search for 2025-2026 bills on the Title VII religious exemption found none, and no law passed by the 119th Congress through October 2026 changes it.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-015",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress did not pass a law defining \"undue hardship.\" The condition in the recommendation was largely met before 2025: in Groff v. DeJoy (June 2023), the Supreme Court ruled that employers must show a substantial burden, not just more than a small cost, to deny a religious accommodation.",
+  "closeness": "No congressional action. The Supreme Court reached a similar standard on its own in 2023, which the recommendation said would make a law unnecessary.",
+  "uncertain": "A search for 2025-2026 bills defining \"undue hardship\" found none (similar Workplace Religious Freedom Act bills were offered from 1994 to the late 2000s). No law passed by the 119th Congress changes it. The Groff ruling predates this tracker's period and is noted for context only.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-016",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "In January 2026 the EEOC voted 2-1 to take back from its General Counsel the power to start or join most lawsuits. Now the Chair and Commissioners vote on nearly all new EEOC lawsuits. The General Counsel keeps that power only in limited cases, such as when the Commission lacks a quorum.",
+  "key_dates": [
+   {
+    "date": "Jan 2026",
+    "event": "EEOC adopts resolution requiring Commission approval of almost all litigation."
+   }
+  ],
+  "legal": "I found no court case about the resolution.",
+  "closeness": "Matches the part about major decisions being made by a vote of the Commission rather than by staff. I did not check every type of decision, and the recommendation's call to give up claims to regulatory power is broader than this change.",
+  "uncertain": "Which other decisions still rest with the Chair or staff. Newest source is the EEOC's January 2026 announcement.",
+  "sources": [
+   {
+    "label": "EEOC Commission Adopts Resolution to Require Commission Approval of Almost All Litigation",
+    "publisher": "U.S. Equal Employment Opportunity Commission",
+    "type": "government",
+    "url": "https://www.eeoc.gov/newsroom/eeoc-commission-adopts-resolution-require-commission-approval-almost-all-litigation"
+   },
+   {
+    "label": "EEOC Will Now Require Commission Approval for Most Lawsuits",
+    "publisher": "Bloomberg Law",
+    "type": "news",
+    "url": "https://news.bloomberglaw.com/safety/eeoc-votes-to-require-commission-approval-for-most-litigation"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-019",
+  "status": "under-review",
+  "match": "direct",
+  "happened": "The Working Families Flexibility Act of 2025 was introduced in the Senate (S. 1158, March 26, 2025) and House (H.R. 2870, April 10, 2025). It would let private-sector workers take 1.5 hours of paid time off for each overtime hour instead of overtime pay. The House Education and Workforce Committee approved H.R. 2870 on November 20, 2025, and reported it to the House on February 12, 2026. It has not become law.",
+  "key_dates": [
+   {
+    "date": "2025-03-26",
+    "event": "S. 1158 introduced."
+   },
+   {
+    "date": "2025-04-10",
+    "event": "H.R. 2870 introduced."
+   },
+   {
+    "date": "2025-11-20",
+    "event": "House committee approves the bill, 19-15."
+   },
+   {
+    "date": "2026-02-12",
+    "event": "Bill reported to the full House (H. Rept. 119-496)."
+   }
+  ],
+  "closeness": "Same idea, same mechanism: the bill the chapter names is moving in Congress. The House version would expire after five years.",
+  "uncertain": "I found no House floor vote or Senate committee action after February 2026, and it is not among the laws passed by the 119th Congress through October 2026. Newest source is from October 2026.",
+  "sources": [
+   {
+    "label": "H.R. 2870, Working Families Flexibility Act of 2025 (reported in House)",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2870rh/html/BILLS-119hr2870rh.htm"
+   },
+   {
+    "label": "Lee Introduces the Working Families Flexibility Act for the 119th Congress",
+    "publisher": "Office of Sen. Mike Lee",
+    "type": "government",
+    "url": "https://www.lee.senate.gov/2025/3/lee-introduces-the-working-families-flexibility-act-for-the-119th-congress"
+   },
+   {
+    "label": "Fair Labor Standards Act Overtime Pay Requirements (IF13333, Oct. 21, 2026)",
+    "publisher": "Congressional Research Service (via EveryCRSReport)",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/files/2026-10-21_IF13333_3059d49e83c2ae6bc64e02ec6747b11a8a5529eb.html"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-020",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not changed the Fair Labor Standards Act to leave on-site childcare costs out of a worker's regular rate for overtime.",
+  "closeness": "No matching law found. The July 2025 reconciliation law (P.L. 119-21) instead enlarged the employer tax credit for providing child care, which is a different tool.",
+  "uncertain": "I searched the text of all public laws of the 119th Congress published through October 2026 (131 laws) and a govinfo search for \"regular rate\". I did not check bills that were introduced but not passed.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-022",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law was found doubling 401(k) contribution limits for married couples. The July 2025 reconciliation law did not include this change.",
+  "closeness": "No match.",
+  "uncertain": "A search for bills doubling 401(k) limits for married couples found none, and no law passed by the 119th Congress, including the July 2025 reconciliation law, does this.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-023",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not created an Assistant Commissioner for Family Statistics at the Bureau of Labor Statistics.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched the text of all public laws of the 119th Congress published through October 2026, and the Federal Register for 2025-2026, for this office. I did not check bills that were introduced but not passed.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-024",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not required or funded a Bureau of Labor Statistics pilot survey giving monthly estimates of family well-being.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched the text of all public laws of the 119th Congress published through October 2026, including the FY2026 appropriations laws, and the Federal Register. I did not check bills that were introduced but not passed.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-025",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not required the Consumer Price Index market basket to include a set of family-essential goods.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched the text of all public laws of the 119th Congress published through October 2026 for Consumer Price Index and market basket provisions; none dealt with this. I did not check bills that were introduced but not passed.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-026",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law or bill was found requiring time-and-a-half pay for work on the Sabbath. The chapter presents this as one conservative view, not a consensus recommendation.",
+  "closeness": "No match.",
+  "uncertain": "An October 2026 CRS list of overtime bills in the 119th Congress includes none on Sabbath or Sunday pay, a news search found none, and no law passed by the 119th Congress through October 2026 does this.",
+  "sources": [
+   {
+    "label": "Fair Labor Standards Act Overtime Pay Requirements (IF13333, Oct. 21, 2026)",
+    "publisher": "Congressional Research Service (via EveryCRSReport)",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/files/2026-10-21_IF13333_3059d49e83c2ae6bc64e02ec6747b11a8a5529eb.html"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-027",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law was found changing overtime rules for teleworkers to require more than 10 hours a day and 40 hours a week.",
+  "closeness": "No match.",
+  "uncertain": "An October 2026 CRS list of overtime bills in the 119th Congress includes none on teleworker overtime, a news search found none, and no law passed by the 119th Congress through October 2026 does this.",
+  "sources": [
+   {
+    "label": "Fair Labor Standards Act Overtime Pay Requirements (IF13333, Oct. 21, 2026)",
+    "publisher": "Congressional Research Service (via EveryCRSReport)",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/files/2026-10-21_IF13333_3059d49e83c2ae6bc64e02ec6747b11a8a5529eb.html"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-030",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "The Labor Department stopped enforcing its 2024 independent contractor rule in May 2025. On February 27, 2026, it published a proposed rule to replace it with a test close to the 2021 rule, weighing control and chance for profit or loss most. Comments closed April 28, 2026. No final rule was found.",
+  "key_dates": [
+   {
+    "date": "2025-05",
+    "event": "DOL tells investigators to stop applying the 2024 rule (Field Assistance Bulletin 2025-1)."
+   },
+   {
+    "date": "2026-02-27",
+    "event": "Proposed rule published in the Federal Register."
+   },
+   {
+    "date": "2026-04-28",
+    "event": "Comment period closes."
+   }
+  ],
+  "closeness": "The Labor Department half matches: it proposed returning to a 2021-style test, and would also apply it to FMLA and farmworker law. No matching NLRB change to its contractor standard was found.",
+  "uncertain": "Whether a final rule was issued after mid-2026, and whether the NLRB has acted on its contractor standard. Newest sources found are from spring and summer 2026.",
+  "sources": [
+   {
+    "label": "DOL publishes proposed rule to rescind the 2024 independent contractor test",
+    "publisher": "K&L Gates",
+    "type": "law-firm",
+    "url": "https://www.klgates.com/thought-leadership/DOL-Publishes-Proposed-Rule-to-Rescind-the-2024-Biden-Era-Independent-Contractor-Test-3-6-2026"
+   },
+   {
+    "label": "DOL's proposed 2026 independent contractor rule",
+    "publisher": "Jackson Lewis",
+    "type": "law-firm",
+    "url": "https://www.jacksonlewis.com/insights/dols-proposed-2026-independent-contractor-rule-what-employers-need-know"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-031",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "Rep. Kevin Kiley introduced the Modern Worker Empowerment Act (H.R. 1319) in February 2025. It would set one test for employee or contractor status under the Fair Labor Standards Act and the National Labor Relations Act. The House education and workforce committee advanced it, and it was placed on the House calendar. Sen. Tim Scott sponsors a Senate version (S. 2228). It has not passed either chamber.",
+  "key_dates": [
+   {
+    "date": "2025-02-13",
+    "event": "H.R. 1319 introduced."
+   },
+   {
+    "date": "2025-07-23",
+    "event": "House committee markup of H.R. 1319."
+   }
+  ],
+  "closeness": "Same idea for two major labor laws, using a common-law control test. It would not cover all federal laws as the recommendation asks, and it is not law.",
+  "uncertain": "Whether the House has scheduled a floor vote. Bill trackers may lag; newest source checked is from August 2026.",
+  "sources": [
+   {
+    "label": "Representative Kiley introduces two bills to support independent contractors",
+    "publisher": "Office of Rep. Kevin Kiley",
+    "type": "government",
+    "url": "https://kiley.house.gov/posts/representative-kiley-introduces-two-bills-to-support-independent-contractors"
+   },
+   {
+    "label": "H.R. 1319 committee amendment",
+    "publisher": "U.S. House of Representatives",
+    "type": "government",
+    "url": "https://docs.house.gov/meetings/ED/ED00/20250723/118545/BILLS-119-HR1319-K000401-Amdt-1.pdf"
+   },
+   {
+    "label": "H.R. 1319, 119th Congress (tracker)",
+    "publisher": "The Lobby News",
+    "type": "news",
+    "url": "https://thelobbynews.com/congress/bills/119/house-bill/1319"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-032",
+  "status": "under-review",
+  "match": "direct",
+  "happened": "Rep. Kevin Kiley introduced the Modern Worker Security Act (H.R. 1320) on February 13, 2025. It would let companies offer portable benefits to independent contractors without that making them employees. The House Education and Workforce Committee took it up at a July 23, 2025 markup and reported it to the House on February 20, 2026. It has not become law.",
+  "key_dates": [
+   {
+    "date": "2025-02-13",
+    "event": "H.R. 1320 introduced."
+   },
+   {
+    "date": "2025-07-23",
+    "event": "House committee markup."
+   },
+   {
+    "date": "2026-02-20",
+    "event": "Bill reported to the full House (H. Rept. 119-506)."
+   }
+  ],
+  "closeness": "Same idea, same mechanism, and the bill is moving, but it has not passed either chamber. Companion bill to ch18-031.",
+  "uncertain": "I found no House floor vote; it is not among the laws passed by the 119th Congress through October 2026. Newest source is from February 2026.",
+  "sources": [
+   {
+    "label": "Representative Kiley introduces two bills to support independent contractors",
+    "publisher": "Office of Rep. Kevin Kiley",
+    "type": "government",
+    "url": "https://kiley.house.gov/posts/representative-kiley-introduces-two-bills-to-support-independent-contractors"
+   },
+   {
+    "label": "H.R. 1320, Modern Worker Security Act (reported in House)",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/app/details/BILLS-119hr1320rh"
+   },
+   {
+    "label": "Markup of H.R. 1319, H.R. 1320, H.R. 4366, H.R. 4312, H.R. 4307",
+    "publisher": "House Education and Workforce Committee Democrats",
+    "type": "government",
+    "url": "https://democrats-edworkforce.house.gov/hearings/hr-1319-hr-1320-hr-4366-hr-4312-hr-4307"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-033",
+  "status": "partly-done",
+  "match": "direct",
+  "happened": "The NLRB issued a rule in February 2026 that withdrew its 2023 joint employer rule (already struck down by a Texas court) and brought back its 2020 standard, effective February 27, 2026. On April 22, 2026, the Labor Department proposed a joint employer rule for wage, leave and farmworker laws that weighs actual control most. No final Labor Department rule was found.",
+  "key_dates": [
+   {
+    "date": "2026-02-27",
+    "event": "NLRB rule restoring the 2020 joint employer standard takes effect."
+   },
+   {
+    "date": "2026-04-22",
+    "event": "DOL announces proposed joint employer rule."
+   },
+   {
+    "date": "2026-06-22",
+    "event": "Comments on the DOL proposal close."
+   }
+  ],
+  "legal": "A federal court in the Eastern District of Texas vacated the NLRB's 2023 rule before the 2026 withdrawal.",
+  "closeness": "Close: the NLRB returned to a direct-and-immediate-control test, and the Labor Department proposed a similar test. The Labor Department part is not final.",
+  "uncertain": "Whether the Labor Department finalized its rule after June 2026, and whether the NLRB rule faces new lawsuits. Newest sources are from April 2026.",
+  "sources": [
+   {
+    "label": "NLRB and DOL publish significant rules on joint employment and independent contractors",
+    "publisher": "Benesch",
+    "type": "law-firm",
+    "url": "https://www.beneschlaw.com/insight/nlrb-and-dol-publish-significant-rules-governing-joint-employment-and-independent-contractor-classification/pdf/"
+   },
+   {
+    "label": "US Department of Labor proposes new rule on joint employer status",
+    "publisher": "K&L Gates",
+    "type": "law-firm",
+    "url": "https://www.klgates.com/thought-leadership/US-Department-of-Labor-Proposes-New-Rule-on-Joint-Employer-Status-4-27-2026"
+   },
+   {
+    "label": "U.S. Department of Labor proposes new joint-employer rule under the FLSA",
+    "publisher": "Gibson Dunn",
+    "type": "law-firm",
+    "url": "https://www.gibsondunn.com/us-department-of-labor-proposes-new-joint-employer-rule-under-the-flsa/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-034",
+  "status": "under-review",
+  "match": "direct",
+  "happened": "Rep. James Comer introduced the Save Local Business Act (H.R. 4366) on July 14, 2025. The House Education and Workforce Committee approved it 20-16 on July 23, 2025, and on January 13, 2026 the House adopted a rule setting up floor debate on it. It has not become law. Separately, the NLRB restored its narrower 2020 joint employer standard in February 2026, and the Labor Department proposed a similar rule in April 2026.",
+  "key_dates": [
+   {
+    "date": "2025-07-23",
+    "event": "House committee approves H.R. 4366, 20-16."
+   },
+   {
+    "date": "2026-01-13",
+    "event": "House adopts rule for floor consideration (H. Res. 988)."
+   },
+   {
+    "date": "2026-02-27",
+    "event": "NLRB withdraws 2023 joint employer standard."
+   }
+  ],
+  "closeness": "The bill the chapter names is moving but has not become law. The agencies reached a similar result by rule; see ch18-033.",
+  "uncertain": "I could not confirm whether the House voted on H.R. 4366 itself after the January 2026 rule; trackers still listed House passage as pending. It is not among the laws passed by the 119th Congress through October 2026.",
+  "sources": [
+   {
+    "label": "RPC Highlight: Save Local Business Act",
+    "publisher": "House Republican Policy Committee",
+    "type": "government",
+    "url": "https://republicanpolicy.house.gov/sites/evo-subsites/republicanpolicy.house.gov/files/evo-media-document/rpc-highlight-save-local-business-act.pdf"
+   },
+   {
+    "label": "H.R. 4366 legislative tracker",
+    "publisher": "International Foundation of Employee Benefit Plans",
+    "type": "academic",
+    "url": "https://www.ifebp.org/detail-pages/legislative-tracker/hr-4366"
+   },
+   {
+    "label": "NLRB rule: Withdrawal of 2023 Standard for Determining Joint Employer Status",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/02/27/2026-03955/withdrawal-of-2023-standard-for-determining-joint-employer-status"
+   },
+   {
+    "label": "DOL proposed rule: Joint Employer Status Under the FLSA, FMLA and MSPA",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07959/joint-employer-status-under-the-fair-labor-standards-act-family-and-medical-leave-act-and-migrant"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Whether the House passed H.R. 4366 after the January 13, 2026 rule vote still needs confirming."
+ },
+ {
+  "id": "ch18-035",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "A federal court in Texas vacated the Labor Department's 2024 overtime rule in November 2024. On May 15, 2026, the Labor Department formally removed the 2024 rule from its regulations and restored the 2019 (Trump-era) salary threshold of $684 a week.",
+  "key_dates": [
+   {
+    "date": "2024-11-15",
+    "event": "Federal court in Texas vacates the 2024 overtime rule."
+   },
+   {
+    "date": "2026-05-15",
+    "event": "DOL republishes the 2019 regulations in place of the vacated rule."
+   }
+  ],
+  "legal": "The 2024 rule was vacated by the U.S. District Court for the Eastern District of Texas; the May 2026 notice implements that and other court judgments.",
+  "closeness": "Matches the recommendation: the threshold is back at the Trump-era level.",
+  "uncertain": "Whether DOL plans a new overtime rule. Newest source is May 2026.",
+  "sources": [
+   {
+    "label": "DOL rule implementing court judgments vacating the 2024 overtime rule",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09839/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-036",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law was found changing the \"regular rate\" used to calculate overtime pay. Two narrower 2025-2026 bills would leave certain benefits (child and elder care help, and employee stock) out of the regular rate, but neither has passed. Federal Register searches found no new regular-rate rule from the Labor Department in 2025-2026.",
+  "closeness": "No match.",
+  "uncertain": "An October 2026 CRS report lists only those two narrower regular-rate bills (H.R. 2270 and H.R. 8660), both only introduced. No law passed by the 119th Congress through October 2026 changes the regular rate.",
+  "sources": [
+   {
+    "label": "Fair Labor Standards Act Overtime Pay Requirements (IF13333, Oct. 21, 2026)",
+    "publisher": "Congressional Research Service (via EveryCRSReport)",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/files/2026-10-21_IF13333_3059d49e83c2ae6bc64e02ec6747b11a8a5529eb.html"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-037",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law was found letting employers figure overtime over two- or four-week periods.",
+  "closeness": "No match.",
+  "uncertain": "An October 2026 CRS list of overtime bills in the 119th Congress includes none on two- or four-week overtime periods, and no law passed by the 119th Congress through October 2026 does this.",
+  "sources": [
+   {
+    "label": "Fair Labor Standards Act Overtime Pay Requirements (IF13333, Oct. 21, 2026)",
+    "publisher": "Congressional Research Service (via EveryCRSReport)",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/files/2026-10-21_IF13333_3059d49e83c2ae6bc64e02ec6747b11a8a5529eb.html"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-038",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No restored \"PRO Good Guidance\" rule from the Labor Department was found, and Congress has not amended the Administrative Procedure Act on guidance. In July 2025 the Labor Department instead proposed moving some wage-law interpretations out of its regulations and into guidance documents.",
+  "closeness": "No match. The July 2025 proposal concerns which interpretations stay in the Code of Federal Regulations, not limits on guidance.",
+  "uncertain": "Two Federal Register searches found no guidance-limits rule. Whether DOL adopted an internal guidance policy without a Federal Register notice is not known.",
+  "sources": [
+   {
+    "label": "DOL proposed rule: Statements of General Policy or Interpretation Not Directly Related to Regulations",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/07/02/2025-12314/statements-of-general-policy-or-interpretation-not-directly-related-to-regulations"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-039",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No Labor Department policy was found that uses the Regulatory Flexibility Act to exempt small businesses from labor rules. In July 2025 the department proposed dozens of deregulatory changes, but they apply to all employers rather than exempting small entities.",
+  "closeness": "No match for small-business exemptions; general deregulation is a different approach.",
+  "uncertain": "Individual 2025-2026 DOL rules were not each checked for small-entity exemptions.",
+  "sources": [
+   {
+    "label": "Department of Labor Agenda of Regulations (2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16599/agenda-of-regulations"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Individual 2025-2026 DOL rules still need review for small-entity exemptions; only keyword searches were done."
+ },
+ {
+  "id": "ch18-040",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law or NLRB rule was found raising the NLRB's revenue thresholds, which date to the late 1950s. Sen. Markwayne Mullin introduced S. 3111 in the 119th Congress, which would raise the thresholds tenfold and then index them to inflation, but it has not passed.",
+  "closeness": "A matching bill exists but has only been introduced.",
+  "uncertain": "I found no committee action on S. 3111; it is not among the laws passed by the 119th Congress through October 2026. Federal Register searches of NLRB documents found no jurisdiction rule.",
+  "sources": [
+   {
+    "label": "S. 3111 (introduced text)",
+    "publisher": "Congress.gov",
+    "type": "government",
+    "url": "https://www.congress.gov/119/bills/s3111/BILLS-119s3111is.htm"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-041",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On July 14, 2025, OSHA updated its Field Operations Manual to cut penalties for small employers. A 70% penalty reduction now covers businesses with up to 25 workers (before, 10 or fewer), employers with no recent serious, willful or repeat violations can get 20% off, and fixing a hazard quickly can earn another 15% off. Congress did not pass a law on this.",
+  "key_dates": [
+   {
+    "date": "2025-07-14",
+    "event": "OSHA expands penalty reductions for small employers."
+   }
+  ],
+  "legal": "I found no court case about the penalty changes.",
+  "closeness": "Smaller than the recommendation: fines for small, first-time violators are reduced, not waived, and no law was passed.",
+  "uncertain": "How much penalties have actually fallen since the change. OSHA keeps discretion to deny reductions. Newest source is from July 2025.",
+  "sources": [
+   {
+    "label": "OSHA news release: updated penalty and debt collection guidelines (July 14, 2025)",
+    "publisher": "U.S. Department of Labor",
+    "type": "government",
+    "url": "https://www.dol.gov/newsroom/releases/osha/osha20250714"
+   },
+   {
+    "label": "OSHA Issues Updated Penalty and Debt Collection Guidelines to Support Small Businesses",
+    "publisher": "Littler Mendelson",
+    "type": "law-firm",
+    "url": "https://www.littler.com/news-analysis/asap/osha-issues-updated-penalty-and-debt-collection-guidelines-support-small"
+   },
+   {
+    "label": "OSHA lowers penalties on small businesses",
+    "publisher": "EHS Today",
+    "type": "news",
+    "url": "https://www.ehstoday.com/osha-enforcement/news/55303109/osha-lowers-penalties-on-small-businesses"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-042",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No new industry-recognized apprenticeship program separate from Registered Apprenticeships was found. Executive Order 14278 (April 23, 2025) instead set a goal of more than 1 million new active apprentices by expanding Registered Apprenticeships.",
+  "closeness": "Different approach: the administration chose to expand Registered Apprenticeships rather than recreate the separate industry-recognized system.",
+  "uncertain": "Whether DOL's apprenticeship plan under the order includes industry-led options was not confirmed.",
+  "sources": [
+   {
+    "label": "Executive Order 14278: Preparing Americans for High-Paying Skilled Trade Jobs of the Future",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07369/preparing-americans-for-high-paying-skilled-trade-jobs-of-the-future"
+   },
+   {
+    "label": "DOL proposed rule: Prohibiting Illegal Discrimination in Registered Apprenticeship Programs",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/07/02/2025-12317/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-043",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "On December 10, 2025, the Labor Department asked the public what keeps faith organizations from taking part in programs it funds or regulates, including job training and employment support. It said it wants to treat faith organizations equally.",
+  "key_dates": [
+   {
+    "date": "2025-12-10",
+    "event": "Labor Department publishes a request for information on barriers for faith organizations."
+   }
+  ],
+  "closeness": "Same goal for job training and DOL programs, but it is only a request for information so far. I found no NLRB step, and nothing aimed at worker organizations or benefits networks.",
+  "uncertain": "Whether the Labor Department has acted on the comments was not found. Newest source is from December 2025.",
+  "sources": [
+   {
+    "label": "Addressing Barriers to Participation of Faith Organizations in DOL Programs and Funding (Dec. 10, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/12/10/2025-22457/addressing-barriers-to-participation-of-faith-organizations-in-dol-programs-and-funding"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-044",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No Labor Department rule or proposal was found changing the child labor hazardous occupations orders to let trained teens do some dangerous jobs.",
+  "closeness": "No match.",
+  "uncertain": "Two Federal Register searches (Wage and Hour Division and all agencies) found nothing.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-045",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law was found creating employer grants of up to $10,000 per worker for on-the-job training. The July 2025 reconciliation law created \"Workforce Pell\" grants for short job-training programs, which go to students, not employers.",
+  "closeness": "No match. Workforce Pell has a related goal but a different mechanism.",
+  "uncertain": "Searches and a check of every law passed by the 119th Congress through October 2026 found no employer training-grant program like this.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-046",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "The House passed the Skills-Based Federal Contracting Act (H.R. 5235) on February 23, 2026. It would bar minimum education requirements for workers on some federal contracts unless a contracting officer justifies them in writing, and would have OMB issue guidance. It has not become law. No presidential order on contractor degree requirements was found; Executive Order 14278 (April 2025) dealt with workforce programs.",
+  "key_dates": [
+   {
+    "date": "2025-04-23",
+    "event": "Executive Order 14278 on skilled-trade jobs."
+   },
+   {
+    "date": "2026-02-23",
+    "event": "House passes H.R. 5235."
+   }
+  ],
+  "closeness": "Same goal (dropping degree requirements on federal contracts), but through a bill in Congress rather than a presidential directive. It covers new solicitations, not waivers in existing contracts.",
+  "uncertain": "One report said the Senate also approved the bill, but it is not among the laws passed by the 119th Congress through October 2026, so I treat it as pending. A 2021 OFPP memo already encouraged skills-based contractor hiring, before this period.",
+  "sources": [
+   {
+    "label": "No-education-requirements federal contracting bill passes House (Feb. 23, 2026)",
+    "publisher": "FedScoop",
+    "type": "news",
+    "url": "https://fedscoop.com/no-education-requirements-federal-contracting-bill-passes-house/"
+   },
+   {
+    "label": "Executive Order 14278: Preparing Americans for High-Paying Skilled Trade Jobs of the Future",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07369/preparing-americans-for-high-paying-skilled-trade-jobs-of-the-future"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-047",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No federal law was found that bars private employers from requiring a bachelor's degree. Bills in 2025-2026 focus on federal hiring and federal contracts instead. Executive Order 14281 (April 2025) asked the EEOC and the Attorney General to issue guidance to employers on job access for people without a college degree.",
+  "closeness": "No match for a private-sector ban. The related actions cover federal jobs or voluntary guidance only.",
+  "uncertain": "Two searches (Oct 2026) found no federal bill or rule banning degree requirements by private employers; found only a 2023 disclosure bill (H.R. 5960), a federal-hiring bill (H.R. 9596), and state public-sector bills. Whether EEOC guidance under EO 14281 was issued is not confirmed.",
+  "sources": [
+   {
+    "label": "Executive Order 14281",
+    "publisher": "The White House",
+    "type": "government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/04/restoring-equality-of-opportunity-and-meritocracy/"
+   },
+   {
+    "label": "H.R. 9596, 119th Congress (federal hiring bill)",
+    "publisher": "The Lobby News",
+    "type": "news",
+    "url": "https://thelobbynews.com/congress/bills/119/house-bill/9596"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-048",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not reauthorized the Workforce Innovation and Opportunity Act. Executive Order 14278 (April 2025) told the Labor, Commerce and Education departments to review workforce programs and recommend consolidation, and DOL continued to allot WIOA funds under existing law in 2026.",
+  "closeness": "No reauthorization. The executive order aims at the same goal of consolidating programs, but by review rather than law.",
+  "uncertain": "No law passed by the 119th Congress through October 2026 reauthorizes WIOA; the 2026 spending law funds it under existing law. A House reauthorization bill passed in April 2024, before this period, but did not become law. I found no 2025-2026 reauthorization bill moving.",
+  "sources": [
+   {
+    "label": "Executive Order 14278: Preparing Americans for High-Paying Skilled Trade Jobs of the Future",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07369/preparing-americans-for-high-paying-skilled-trade-jobs-of-the-future"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-049",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On April 23, 2025, President Trump signed Executive Order 14278. It told the Labor, Commerce and Education Secretaries to find federal workforce programs that fail to achieve their goals, propose to reform, redirect or end them, line up performance measures, and publish earnings and job results for all federal workforce programs.",
+  "key_dates": [
+   {
+    "date": "Apr 23, 2025",
+    "event": "Executive Order 14278 signed."
+   }
+  ],
+  "legal": "I found no court ruling on this order.",
+  "closeness": "Close to the review and outcome-measures part of the recommendation. The order does not mention sanctions for bad-actor grantees. Same order cited in ch18-042 and ch18-048.",
+  "uncertain": "Whether the agencies' reports and outcome data were released, and which programs lost funding as a result. Source is the April 2025 order.",
+  "sources": [
+   {
+    "label": "Executive Order 14278: Preparing Americans for High-Paying Skilled Trade Jobs of the Future",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07369/preparing-americans-for-high-paying-skilled-trade-jobs-of-the-future"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-050",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On September 16, 2026, the Labor Department issued a final rule requiring state unemployment agencies to share confidential records with federal officials, including the Labor Department's Inspector General, for oversight and fraud audits. It takes effect November 16, 2026. No law requiring states to check applicants against the National Directory of New Hires was found.",
+  "key_dates": [
+   {
+    "date": "2025-08-29",
+    "event": "DOL proposes the data availability rule."
+   },
+   {
+    "date": "2026-09-16",
+    "event": "Final rule published; effective November 16, 2026."
+   }
+  ],
+  "closeness": "Inspector General access was granted by rule rather than by law, as the chapter asked. The New Hires check part was not found.",
+  "uncertain": "Whether states will challenge the rule, and whether Congress acted on the New Hires check. Newest source is September 2026.",
+  "sources": [
+   {
+    "label": "DOL final rule: Unemployment Compensation Program; Data Availability",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18978/federal-state-unemployment-compensation-uc-program-data-availability"
+   },
+   {
+    "label": "DOL proposed rule: Unemployment Compensation Program; Data Availability",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/08/29/2025-16645/federal-state-unemployment-compensation-uc-program-data-availability"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-051",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not ordered a report setting technical standards, such as cybersecurity and identity checks, for state unemployment systems.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched the text of all public laws of the 119th Congress published through October 2026, including P.L. 119-21 and the FY2026 appropriations laws. I did not check bills that were introduced but not passed.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-052",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not given the Labor Department new, in-between tools to enforce unemployment insurance rules on states.",
+  "closeness": "No matching law found. The Labor Department proposed a rule in 2025 to get more state unemployment data for oversight (see ch18-050), but that is not a new enforcement power from Congress.",
+  "uncertain": "I searched the text of all public laws of the 119th Congress published through October 2026 and Federal Register rules on unemployment compensation. I did not check bills that were introduced but not passed.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-054",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The TEAM Act, which would allow non-union \"Employee Involvement Organizations,\" has not become law. The chapter presents this as one conservative view.",
+  "closeness": "No match.",
+  "uncertain": "Searches found TEAM Act versions only from before 2025 (2022 and 2024) and none in the 119th Congress; no law passed by the 119th Congress through October 2026 includes it.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-055",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The Worker's Choice Act, which would end exclusive union representation in right-to-work states, has not become law. The chapter presents this as an alternative view.",
+  "closeness": "No match.",
+  "uncertain": "A search found no Worker's Choice Act in the 119th Congress, and no law passed by the 119th Congress through October 2026 ends exclusive representation.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-056",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "On June 1, 2026, the Labor Department finalized a rule creating a longer LM-2 financial report for the largest unions and updating other union reporting forms, effective July 1, 2026. No restored T-1 union trust report or law codifying the Intermediate Bodies Rule was found.",
+  "key_dates": [
+   {
+    "date": "2026-06-01",
+    "event": "DOL final rule expands union annual financial reports."
+   }
+  ],
+  "closeness": "Same general goal of more union financial disclosure, but through different forms than the two the chapter names.",
+  "uncertain": "The June 2026 rule's full text does not mention the T-1 trust report or intermediate bodies; it adds trust questions only to the LM-2 forms. No law codifying the Intermediate Bodies Rule was found among laws passed by the 119th Congress. Newest source is June 2026.",
+  "sources": [
+   {
+    "label": "DOL final rule: Labor Organization Annual Financial Reports",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10849/labor-organization-annual-financial-reports"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-057",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress did not increase funding for the Office of Labor-Management Standards. The FY2026 appropriations law, signed Feb 3, 2026, gave the office $48,515,000, the same amount as in FY2024.",
+  "closeness": "Funding stayed flat rather than rising as recommended.",
+  "uncertain": "I compared the FY2026 law with the FY2024 law; I did not check FY2025 full-year funding or FY2027 bills.",
+  "sources": [
+   {
+    "label": "Public Law 119-75 (FY2026 further consolidated appropriations)",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+   },
+   {
+    "label": "Public Law 118-47 (FY2024 appropriations)",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ47/html/PLAW-118publ47.htm"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-059",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The NLRB has not returned to its 2019 Alstate Maintenance standard. In an August 26, 2026 memo, NLRB General Counsel Crystal Carey said she intends to urge the Board to revisit Miller Plastic Products (2023), the decision that replaced Alstate, when a suitable case arises.",
+  "key_dates": [
+   {
+    "date": "2026-08-26",
+    "event": "GC Memo 26-04 lists Miller Plastic among precedents to challenge."
+   }
+  ],
+  "legal": "The memo notes Miller Plastic was vacated in part by the Third Circuit in 2025.",
+  "closeness": "No Board decision yet. The General Counsel's stated plan points the same way.",
+  "uncertain": "Whether a case is now before the Board on this issue. Newest source is August 2026.",
+  "sources": [
+   {
+    "label": "GC Memorandum 26-04: Further Guidance Regarding General Counsel Priorities",
+    "publisher": "National Labor Relations Board",
+    "type": "government",
+    "url": "https://apps.nlrb.gov/link/document.aspx/09031d4584351740"
+   },
+   {
+    "label": "NLRB General Counsel touts casehandling-first approach, informs field about priorities",
+    "publisher": "National Labor Relations Board",
+    "type": "government",
+    "url": "https://www.nlrb.gov/news-outreach/news-story/nlrb-general-counsel-touts-casehandling-first-approach-informs-field-about"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-060",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No new NLRB policy or guidelines were found that call for more 10(j) injunctions to reinstate workers fired for organizing. The 2025-2026 general counsels focused on reducing the case backlog. The Board authorized 10(j) relief in only 22 cases across 2024 and 2025, leading to 17 court petitions.",
+  "closeness": "No match.",
+  "uncertain": "The 2024-2025 count comes from a law-firm summary of NLRB data and mixes the year before and after January 2025. Courts have also made 10(j) relief harder to win since the Supreme Court's 2024 Starbucks ruling. Newest source is from 2026.",
+  "sources": [
+   {
+    "label": "GC Memorandum 26-04: Further Guidance Regarding General Counsel Priorities",
+    "publisher": "National Labor Relations Board",
+    "type": "government",
+    "url": "https://apps.nlrb.gov/link/document.aspx/09031d4584351740"
+   },
+   {
+    "label": "Injunction litigation (10(j) case activity)",
+    "publisher": "National Labor Relations Board",
+    "type": "government",
+    "url": "https://www.nlrb.gov/reports/nlrb-case-activity-reports/unfair-labor-practice-cases/litigation/injunction-litigation"
+   },
+   {
+    "label": "NLRB Petitions 6th Circuit for Rehearing En Banc Regarding Injunction Standard",
+    "publisher": "Frantz Ward",
+    "type": "law-firm",
+    "url": "https://www.frantzward.com/nlrb-petitions-6th-circuit-for-rehearing-en-banc-regarding-injunction-standard/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-061",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no Labor Department action since January 2025 requiring worker centers to file union-style financial reports. In its June 2026 final rule on union financial reports, the department noted comments asking for worker center reporting and said they were outside the rule's scope. Earlier, in 2018, before this administration, the office had said it had several worker centers under investigation.",
+  "closeness": "No matching action found. The June 2026 rule added a longer report for the largest unions, but did not cover worker centers.",
+  "uncertain": "Searched the Federal Register for Office of Labor-Management Standards documents since January 2025, read the June 2026 rule, and ran a web search, which found only older material on worker centers. Individual investigations would not appear in the Federal Register, and the Labor Department's website blocked automated access.",
+  "sources": [
+   {
+    "label": "Labor Organization Annual Financial Reports final rule (June 1, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10849/labor-organization-annual-financial-reports"
+   },
+   {
+    "label": "A new sheriff takes over at DOL's Office of Labor-Management Standards (2018)",
+    "publisher": "Ogletree Deakins",
+    "type": "law-firm",
+    "url": "https://ogletree.com/insights/2018-07-18/a-new-sheriff-takes-over-at-dols-office-of-labor-management-standards"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-062",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no rule change letting the Office of Labor-Management Standards open investigations without a formal complaint. In October 2026 the office proposed an online portal for complaints, questions and tips from the public.",
+  "closeness": "No matching action found. The planned portal makes it easier to send tips, but does not change when the office may investigate.",
+  "uncertain": "Searched the Federal Register for Office of Labor-Management Standards documents since January 2025. Internal enforcement policy changes might not be published, and the Labor Department's website blocked automated access.",
+  "sources": [
+   {
+    "label": "Proposed New Information Collection; OLMS Public Submission Portal (Oct. 19, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21345/proposed-new-information-collection-olms-public-submission-portal"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Only the Federal Register was checked; confirm with OLMS enforcement policy pages or news whether it now opens investigations without a complaint."
+ },
+ {
+  "id": "ch18-063",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The persuader rule on reporting advice given to employers about unions was not brought back in 2025 or 2026, so there was nothing to rescind.",
+  "closeness": "The recommendation applied only if the rule were revived. I found no revival.",
+  "uncertain": "I searched the Federal Register for 2025-2026 Labor Department documents on persuader agreements and the LM-20 and LM-21 forms and found none.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-064",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not passed a law ending card-check recognition or requiring secret-ballot elections. Separately, in March 2026 the Sixth Circuit refused to enforce an NLRB bargaining order issued under the Board's 2023 Cemex standard, which can lead to union recognition without an election.",
+  "legal": "Sixth Circuit (Brown-Forman v. NLRB, March 2026) rejected the Cemex framework for cases in that circuit; the NLRB asked for rehearing in May 2026. The Ninth Circuit upheld a bargaining order on other grounds in April 2026.",
+  "closeness": "No law was passed. The court rulings narrow one path to recognition without an election but do not ban card check.",
+  "uncertain": "Searched for 2025-2026 secret-ballot bills and NLRB action on Cemex. Did not find the result of the Sixth Circuit rehearing request; newest source is from June 2026.",
+  "sources": [
+   {
+    "label": "Sixth Circuit rejects the NLRB's Cemex bargaining order standard",
+    "publisher": "Morgan Lewis",
+    "type": "law-firm",
+    "url": "https://www.morganlewis.com/pubs/2026/03/sixth-circuit-rejects-the-nlrbs-cemex-bargaining-order-standard"
+   },
+   {
+    "label": "Cemex bargaining orders survive two appeals but Cemex fate remains insecure",
+    "publisher": "Genova Burns",
+    "type": "law-firm",
+    "url": "https://www.genovaburns.com/news/labor-law/2026-06-30-cemex-bargaining-orders-survive-two-appeals-but-cemex-fate-remains-insecure"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-065",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No NLRB decision or rule was found ending the contract bar doctrine. The General Counsel's August 2026 list of precedents to challenge does not include it.",
+  "closeness": "No match.",
+  "uncertain": "Federal Register searches found no NLRB rule; Board decisions after August 2026 were not checked.",
+  "sources": [
+   {
+    "label": "GC Memorandum 26-04: Further Guidance Regarding General Counsel Priorities",
+    "publisher": "National Labor Relations Board",
+    "type": "government",
+    "url": "https://apps.nlrb.gov/link/document.aspx/09031d4584351740"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-066",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No bill or law was found that would let union contracts treat federal employment laws like overtime rules as negotiable defaults. The main labor bill to move in 2026, the Faster Labor Contracts Act, passed the House on June 9, 2026, but deals with first-contract bargaining, not this idea.",
+  "closeness": "No match found.",
+  "uncertain": "Searched for 2025-2026 bills amending the NLRA to let collective bargaining agreements override FLSA rules. Bill searches may miss newly introduced bills.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-067",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Federal agencies still must require Project Labor Agreements on large construction projects. A September 18, 2026 proposed rewrite of the Federal Acquisition Regulation keeps the rule that agencies must require a Project Labor Agreement on projects of $35 million or more unless an exception applies.",
+  "closeness": "No match. The requirement remains.",
+  "uncertain": "How often agencies grant exceptions, and the status of 2024-2025 court challenges to the mandate, were not checked. The chapter presents this as a contested view.",
+  "sources": [
+   {
+    "label": "FAR Council proposed rule: Revolutionary FAR Overhaul, Parts 14, 28, 36 and 52",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19158/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-14-28-36"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-068",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Davis-Bacon has not been repealed. Sen. Mike Lee and Rep. Eric Burlison introduced repeal bills (S. 4477 and H.R. 8602) on April 30, 2026; they were sent to committee. Separately, the Labor Department in 2026 stopped defending part of its 2023 Davis-Bacon rule in court.",
+  "key_dates": [
+   {
+    "date": "2026-04-30",
+    "event": "Davis-Bacon Repeal Act introduced in the Senate and House."
+   }
+  ],
+  "closeness": "Bills match the idea exactly but have not moved past committee. Dropping defense of part of a 2023 rule is much smaller than repeal. The chapter labels repeal as other conservatives' view.",
+  "uncertain": "Which parts of the 2023 rule DOL stopped defending, and whether it has proposed rescinding that rule. Some sources are advocacy groups. Newest source is from June 2026.",
+  "sources": [
+   {
+    "label": "Burlison, Lee introduce Davis-Bacon Repeal Act",
+    "publisher": "Office of Rep. Eric Burlison",
+    "type": "government",
+    "url": "https://burlison.house.gov/media/press-releases/burlison-lee-introduce-davis-bacon-repeal-act-cut-federal-construction-costs"
+   },
+   {
+    "label": "DOL's retreat on Davis-Bacon expansion welcome, but full repeal is needed",
+    "publisher": "Construction Executive (Associated Builders and Contractors)",
+    "type": "advocacy",
+    "url": "https://constructionexec.com/article/dols-retreat-on-davis-bacon-expansion-welcome-but-full-repeal-is-needed/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-069",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No Labor Department approval of private worker organizations to run unemployment benefits was found.",
+  "closeness": "No match.",
+  "uncertain": "Two Federal Register searches of the Employment and Training Administration found nothing matching.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-070",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No Labor Department waivers letting states replace standard unemployment insurance rules with alternatives were found. In August 2026 DOL did let states choose their own staffing model for Employment Service (job placement) offices, which is a different program.",
+  "closeness": "No match for unemployment insurance.",
+  "uncertain": "Two Federal Register searches found no UI waiver program.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-072",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No federal law or bill moving in Congress was found that would let states get waivers from the NLRA or FLSA.",
+  "closeness": "No match found. The closest earlier bill (S. 3825 in 2024) dealt with workforce-program waivers, not the NLRA or FLSA.",
+  "uncertain": "Searched for 2025-2026 bills on state waivers from federal labor laws and labor innovation pilots. A newly introduced bill could have been missed.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-073",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not passed a law barring federally funded interstate licensing compacts from adding qualifications beyond what states require.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched the text of all public laws of the 119th Congress published through October 2026 for licensing and interstate compact provisions. I did not check bills that were introduced but not passed.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-074",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no law from the 119th Congress changing how federally funded programs, such as Medicare-funded medical residencies, affect whether qualified licensees can work. Laws passed through October 2026 extended funding for teaching health center residency programs but did not change licensing access.",
+  "closeness": "No matching action found.",
+  "uncertain": "Searched the local copy of all laws passed by the 119th Congress through October 2026 for residency and graduate medical education provisions. Bills that were introduced but not passed were not checked.",
+  "sources": [],
+  "as_of": "2026-10-28",
+  "recheck": "Only enacted laws were checked; the recommendation is broad, so check related bills and agency actions on residency slots and licensing."
+ },
+ {
+  "id": "ch18-075",
+  "status": "partly-done",
+  "match": "direct",
+  "happened": "In January 2026 the Labor Department delayed by one year a 2023 rule requiring states to use state merit staff for Wagner-Peyser job services. In August 2026 it issued a final rule removing that requirement, letting states choose their staffing model. The rule took effect Oct 19, 2026.",
+  "key_dates": [
+   {
+    "date": "Jul 1, 2025",
+    "event": "Proposed rule published."
+   },
+   {
+    "date": "Jan 21, 2026",
+    "event": "Compliance date of the 2023 rule delayed one year."
+   },
+   {
+    "date": "Oct 19, 2026",
+    "event": "Final rule takes effect."
+   }
+  ],
+  "legal": "I found no court ruling on the 2026 rule.",
+  "closeness": "The Labor Department part matches the recommendation. Congress has not written the flexibility into law, which the recommendation also asked for.",
+  "uncertain": "Whether a lawsuit has been filed against the new rule. Newest source is the August 2026 final rule.",
+  "sources": [
+   {
+    "label": "Wagner-Peyser Act Employment Service Staffing (final rule)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16982/wagner-peyser-act-employment-service-staffing"
+   },
+   {
+    "label": "Wagner-Peyser Act Staffing, Delay of Merit Staffing Compliance Date",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/21/2026-01117/wagner-peyser-act-staffing-delay-of-merit-staffing-compliance-date"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-076",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "In May 2025 the Labor Department told a federal appeals court it would stop defending the 2022 rule that allowed ESG factors as tiebreakers and would write a new rule. Its regulatory agenda aimed to finish a new rule in 2026. A separate March 31, 2026 proposal set a process for choosing 401(k) investment options. No new final ESG rule was found.",
+  "key_dates": [
+   {
+    "date": "2025-05",
+    "event": "DOL says it will do new rulemaking to replace the 2022 ESG rule."
+   },
+   {
+    "date": "2026-03-31",
+    "event": "DOL proposes a rule on fiduciary duties in selecting 401(k) investment options."
+   }
+  ],
+  "legal": "The 2022 rule was challenged in Utah v. Chavez-DeRemer (Fifth Circuit); DOL paused its defense. No final court ruling found.",
+  "closeness": "Same goal, still in progress. A pecuniary-only rule like the 2020 rule has not been confirmed as final.",
+  "uncertain": "A Federal Register search of Labor Department benefits rules through October 2026 found no proposed or final rule replacing the 2022 ESG rule; the March 2026 401(k) proposal does not address ESG factors. Newest source: October 2026.",
+  "sources": [
+   {
+    "label": "Labor Department drops Biden-era ESG fiduciary rule",
+    "publisher": "HR Dive",
+    "type": "news",
+    "url": "https://www.hrdive.com/news/labor-dept-drops-biden-era-esg-fiduciary-401k-rule-will-remake-regulation/749319/"
+   },
+   {
+    "label": "Fiduciary Duties in Selecting Designated Investment Alternatives (proposed rule)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-077",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "President Trump's America First Investment Policy memo (February 21, 2025) told the Secretary of Labor to publish updated ERISA fiduciary standards for investments in public securities of foreign adversary companies, such as Chinese firms. No such standards were found published in the Federal Register as of October 2026.",
+  "key_dates": [
+   {
+    "date": "2025-02-21",
+    "event": "America First Investment Policy memo directs DOL to update ERISA standards."
+   }
+  ],
+  "closeness": "Same goal as the recommendation. The directive was issued, but no rule or enforcement action has followed yet.",
+  "uncertain": "Whether DOL issued informal guidance. Federal Register searches of EBSA documents found no rule.",
+  "sources": [
+   {
+    "label": "America First Investment Policy (presidential memorandum)",
+    "publisher": "The White House",
+    "type": "government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/02/america-first-investment-policy/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-078",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No change removing the Thrift Savings Plan's mutual fund window was found. Federal Register notices from the TSP board in 2025-2026 dealt with other topics, such as Roth conversions.",
+  "closeness": "No match.",
+  "uncertain": "I checked every TSP board meeting notice in the Federal Register from January 2025 to October 2026 and searched news; none mentions removing or changing the mutual fund window, which opened in 2022.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-079",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No change of Thrift Savings Plan fund managers away from BlackRock and State Street was found.",
+  "closeness": "No match found.",
+  "uncertain": "TSP board meeting notices from 2025-2026 list only routine annual reviews of the investment manager; a news search found no change of manager. Contract details are not public in the Federal Register.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-081",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not passed a law letting the Thrift Savings Plan board use its own judgment on proxy votes or giving it voting guidelines.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched the text of all public laws of the 119th Congress published through October 2026 for Thrift Savings Plan and proxy voting provisions, and Federal Register documents from the TSP board. I did not check bills that were introduced but not passed.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-082",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No new law or Labor Department action barring Thrift Savings Plan investments in China was found. The TSP board had earlier (2021) chosen a new index for its international fund that leaves out China and Hong Kong. The February 2025 America First Investment Policy memo covers private pension plans under ERISA, not the TSP.",
+  "closeness": "No new action. The TSP's main international fund already leaves out China because of the earlier index choice.",
+  "uncertain": "A news search found no 2025-2026 action, and no law passed by the 119th Congress through October 2026 bars TSP investment in China. Advocacy groups reported in 2022 that the mutual fund window included China-only funds; whether that is still true was not confirmed.",
+  "sources": [
+   {
+    "label": "America First Investment Policy (presidential memorandum)",
+    "publisher": "The White House",
+    "type": "government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/02/america-first-investment-policy/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-083",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law was found requiring state and local pension plans to report market-value funding using Treasury rates.",
+  "closeness": "No match.",
+  "uncertain": "Searches found the Public Employee Pension Transparency Act only in Congresses from 2010 to about 2018, not in 2025-2026. No law passed by the 119th Congress through October 2026 requires this.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-084",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law was found reforming multiemployer pension plans as described. The July 2025 reconciliation law did not include these changes.",
+  "closeness": "No match.",
+  "uncertain": "A news search found no 2025-2026 multiemployer reform bill moving, and no law passed by the 119th Congress through October 2026 makes these changes.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-087",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law was found changing PBGC premiums as recommended. Premiums only rose by the usual yearly indexing: for example, the multiemployer flat rate went from $40 in 2026 to $42 for 2027.",
+  "closeness": "No match.",
+  "uncertain": "A news search found no 2025-2026 premium bill, and no law passed by the 119th Congress through October 2026 changes premium rules. Newest source is from October 2026.",
+  "sources": [
+   {
+    "label": "PBGC announces multiemployer pension premiums for 2027",
+    "publisher": "Morgan Lewis",
+    "type": "law-firm",
+    "url": "https://www.morganlewis.com/blogs/mlbenebits/2026/10/pbgc-announces-multiemployer-pension-premiums-for-2027"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-088",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On Oct 15, 2026, President Trump signed the Retire through Ownership Act (P.L. 119-124). It lets an employee stock ownership plan's fiduciary rely in good faith on an independent appraisal that follows long-used IRS valuation principles. The law says the Labor Department may still write rules on the subject.",
+  "key_dates": [
+   {
+    "date": "Oct 15, 2026",
+    "event": "Retire through Ownership Act signed."
+   }
+  ],
+  "legal": "None found.",
+  "closeness": "Gives the clearer valuation rules the recommendation wanted, but through a law from Congress rather than Labor Department rules. I found no new Labor Department ESOP rule in the Federal Register for 2025-2026.",
+  "uncertain": "A Federal Register search found no Labor Department proposed ESOP valuation rule published since mid-2024, so reports of a January 2025 proposal may refer to a draft that was never published. Newest source: October 2026.",
+  "sources": [
+   {
+    "label": "Public Law 119-124, Retire through Ownership Act",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ124/html/PLAW-119publ124.htm"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Confirm whether the Labor Department's ESOP valuation proposal was ever published or formally withdrawn."
+ },
+ {
+  "id": "ch18-089",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No cap or phase-down of H-2A farmworker visas was found. Instead, the Labor Department changed how H-2A minimum wages (AEWRs) are figured in an October 2, 2025 interim final rule. A federal court in California ruled that rule unlawful on August 26, 2026.",
+  "legal": "Eastern District of California (United Farm Workers v. DOL, Judge Kirk E. Sherriff): in late August 2026 the court found the wage rule unlawful and arbitrary and capricious, kept it in place for the moment, and gave DOL two weeks to develop a replacement wage formula. A preliminary injunction was reportedly denied earlier, in May 2026.",
+  "closeness": "No match. The wage change works to make the program less costly for employers, not to shrink it. A February 2026 House bill from Democrats (the Protect U.S. Workers Act of 2026) would set the first H-2A cap at 400,000 visas a year, but it would not phase the program down and has not passed; the main farm labor bill of 2026 would expand H-2A instead.",
+  "uncertain": "Two searches (October 2026) found no enacted cap or phase-down; the project's copy of all 2025-2026 laws shows none. DOL's replacement wage formula and any appeal were not confirmed. Newest source: August 31, 2026.",
+  "sources": [
+   {
+    "label": "California court strikes down H-2A wage cuts",
+    "publisher": "FreshFruitPortal",
+    "type": "news",
+    "url": "https://www.freshfruitportal.com/news/2026/08/31/h-2a-rule-down/"
+   },
+   {
+    "label": "Farm Workers Welcome H-2A Visa Cap Legislation to Protect U.S. Wages and Jobs",
+    "publisher": "UFW Foundation",
+    "type": "advocacy",
+    "url": "https://ufwfoundation.org/farm-workers-welcome-h-2a-visa-cap-legislation-to-protect-u-s-wages-and-jobs/"
+   },
+   {
+    "label": "Agriculture Labor Overhaul Bill Unveiled by House Republican",
+    "publisher": "Bloomberg Government",
+    "type": "news",
+    "url": "https://news.bloomberglaw.com/bloomberg-government-news/agriculture-labor-overhaul-bill-unveiled-by-house-republican"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-090",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not set up matching federal funding for an industry group doing farm automation and robotics research.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched the text of all public laws of the 119th Congress published through October 2026 for automation and robotics provisions; none dealt with farm equipment research matching. I did not check bills that were introduced but not passed.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-091",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No cap or phase-out of H-2B seasonal visas was found. In early 2026, DHS and the Labor Department issued a temporary rule allowing up to 64,716 extra H-2B visas for fiscal 2026, on top of the 66,000 set by law.",
+  "closeness": "No match. The fiscal 2026 action raised the number of H-2B visas.",
+  "uncertain": "Searched for H-2B cap legislation and agency action in 2025-2026. Newest sources are from spring 2026.",
+  "sources": [
+   {
+    "label": "Temporary increase in H-2B numerical limitation for FY 2026",
+    "publisher": "Federal Register (govinfo)",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-03/pdf/2026-02131.pdf"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-092",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law or rule was found requiring federal contractors to have a set percentage of U.S. citizen workers. A May 2026 House bill would require federal employees, not contractor staff, to be citizens.",
+  "closeness": "No match found.",
+  "uncertain": "Searched for bills, executive orders and FAR rules setting citizen-workforce quotas for contractors. The June 2026 FAR overhaul proposals were not reviewed in full.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-093",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No change to the 1986 law was found that would let employers prefer U.S. citizens over work-authorized noncitizens in hiring.",
+  "closeness": "No match found.",
+  "uncertain": "Searched for 2025-2026 bills amending the anti-discrimination section of immigration law (8 U.S.C. 1324b). Did not search congress.gov directly.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-094",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On Sept 19, 2025, the Labor Department started \"Project Firewall,\" an H-1B enforcement effort in which the Labor Secretary can personally certify investigations; penalties can include debarment. The department said in November 2025 that it had at least 175 investigations under way. In October 2026 the Justice and Labor Departments announced a settlement with Cloudera that enforced a two-year debarment from the permanent labor certification (PERM) program.",
+  "key_dates": [
+   {
+    "date": "Sep 19, 2025",
+    "event": "Labor Department launches Project Firewall."
+   },
+   {
+    "date": "Nov 2025",
+    "event": "Labor Department reports at least 175 Project Firewall investigations."
+   },
+   {
+    "date": "Oct 16, 2026",
+    "event": "Cloudera settlement with a two-year PERM debarment announced."
+   }
+  ],
+  "legal": "I found no court ruling against the program.",
+  "closeness": "Stronger visa enforcement with debarment, as recommended. I could not confirm whether debarments now happen faster, or that the steps follow the Inspector General's specific advice.",
+  "uncertain": "The Labor Department's release was found, but the investigation count comes from a news report cited by the Economic Policy Institute. No overall debarment statistics were found. Newest source is from October 2026.",
+  "sources": [
+   {
+    "label": "US Department of Labor launches Project Firewall (news release 25-1476-NAT)",
+    "publisher": "U.S. Department of Labor",
+    "type": "government",
+    "url": "https://www.dol.gov/newsroom/releases/osec/osec20250919"
+   },
+   {
+    "label": "DOL Launches Project Firewall, New H-1B Enforcement Initiative",
+    "publisher": "Holland & Knight",
+    "type": "law-firm",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/09/dol-launches-project-firewall-new-h1b-enforcement-initiative"
+   },
+   {
+    "label": "U.S. Departments of Justice and Labor Secure Settlement with Cloudera, Enforce Two-Year PERM Debarment",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/opa/pr/us-departments-justice-and-labor-secure-settlement-cloudera-enforce-two-year-perm-debarment"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-095",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "The administration's 2025-2026 Agreements on Reciprocal Trade include commitments by some partners to ban imports made with forced labor. In March 2026 the U.S. Trade Representative opened Section 301 investigations into 60 economies over failing to ban such imports, and in July 2026 set tariffs of 10% for economies with a ban or an agreement commitment and 12.5% for others.",
+  "key_dates": [
+   {
+    "date": "2026-03-12",
+    "event": "USTR opens 60 Section 301 investigations on forced labor import bans."
+   },
+   {
+    "date": "2026-07-28",
+    "event": "USTR announces tariffs tied to forced labor import bans."
+   }
+  ],
+  "closeness": "Partly matches: forced labor import bans are being written into trade deals. No full USMCA-style labor chapter or rapid-response panel in new agreements was found.",
+  "uncertain": "Which agreements include which labor terms was not checked agreement by agreement. Newest source is July 2026.",
+  "sources": [
+   {
+    "label": "USTR notice of actions in 60 forced-labor Section 301 investigations",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181/notice-of-actions-in-section-301-investigations-of-acts-policies-and-practices-of-various-economies"
+   },
+   {
+    "label": "USTR initiates Section 301 investigations on failure to ban imports made with forced labor",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05151/initiation-of-section-301-investigations-of-acts-policies-and-practices-of-various-economies-related"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-096",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Trade Promotion Authority expired in 2021 and was not renewed, so no new requirements on supply-chain transparency or forced labor were added to it. The administration has pursued forced labor goals through tariffs and Section 301 actions instead (see ch18-095).",
+  "closeness": "No match for Trade Promotion Authority.",
+  "uncertain": "A search found no 2025-2026 Trade Promotion Authority bill, and no law passed by the 119th Congress through October 2026 renews it.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-098",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The President's fiscal 2026 budget asked for about $9.0 billion for the Labor Department, close to the chapter's target. Congress instead enacted about $13.7 billion in a law signed February 3, 2026, slightly more than fiscal 2025. Job training (ETA) got about $10.4 billion, up 1.2%.",
+  "key_dates": [
+   {
+    "date": "2026-02-03",
+    "event": "Further Consolidated Appropriations Act, 2026 (P.L. 119-75) signed."
+   }
+  ],
+  "closeness": "The budget request matched the recommendation, but the enacted funding did not; Labor Department funding stayed about level.",
+  "uncertain": "Fiscal 2027 funding is under a continuing resolution signed September 2, 2026; final levels are not known. Figures exclude later transfers.",
+  "sources": [
+   {
+    "label": "Labor, Health and Human Services, and Education: FY2026 Appropriations (R48970)",
+    "publisher": "Congressional Research Service (via EveryCRSReport)",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/R48970.html"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-099",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No announced OSHA policy was found that focuses inspections on the worst offenders.",
+  "closeness": "No match found.",
+  "uncertain": "OSHA has long had a Severe Violator Enforcement Program that targets repeat and serious violators; it began in 2010 and was expanded in 2022, before this period. A search found no 2025-2026 federal change to it or new policy focusing inspections on the worst offenders.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-100",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No data were found showing the Labor Department maximized political appointees. Government-wide, Executive Order 14410 (June 2026) moved many policy-influencing jobs into Schedule Policy/Career, but those remain career positions, not political appointments.",
+  "closeness": "No direct match. Schedule Policy/Career increases presidential control over some career jobs, which is related but different.",
+  "uncertain": "Counts of political appointees at DOL in 2025-2026 were not found.",
+  "sources": [
+   {
+    "label": "Executive Order 14410: Implementing Schedule Policy/Career in the Excepted Service",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/06/10/2026-11594/implementing-schedule-policycareer-in-the-excepted-service"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Counts of DOL political appointees in 2025-2026 still need a source."
+ },
+ {
+  "id": "ch18-101",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "NLRB General Counsel Jennifer Abruzzo left in late January 2025 after President Trump took office, and on February 3, 2025 he named William Cowen acting general counsel. EEOC General Counsel Karla Gilbride was removed on January 27, 2025, and the President named Andrew Rogers acting EEOC general counsel. Crystal Carey became NLRB general counsel in January 2026. On June 29, 2026, the Supreme Court ruled in Trump v. Slaughter that the FTC's for-cause removal protection is unconstitutional.",
+  "key_dates": [
+   {
+    "date": "2025-01-27",
+    "event": "EEOC General Counsel Gilbride removed."
+   },
+   {
+    "date": "2025-02-03",
+    "event": "Trump appoints William Cowen acting NLRB general counsel."
+   },
+   {
+    "date": "2026-01-07",
+    "event": "Crystal Carey takes office as NLRB general counsel."
+   },
+   {
+    "date": "2026-06-29",
+    "event": "Supreme Court decides Trump v. Slaughter on removal protections."
+   }
+  ],
+  "legal": "In Trump v. Slaughter (June 29, 2026), the Supreme Court held the FTC Act's for-cause removal provision violates the separation of powers, supporting the President's power to remove officials with fixed terms.",
+  "closeness": "Direct match: both the NLRB and EEOC general counsels were replaced in the first two weeks.",
+  "uncertain": "How the Slaughter ruling applies to NLRB and EEOC members specifically. Newest source is June 2026.",
+  "sources": [
+   {
+    "label": "Statement from departing NLRB General Counsel Jennifer Abruzzo",
+    "publisher": "National Labor Relations Board",
+    "type": "government",
+    "url": "https://www.nlrb.gov/news-outreach/news-story/statement-from-departing-nlrb-general-counsel-jennifer-abruzzo"
+   },
+   {
+    "label": "President Trump appoints William B. Cowen Acting General Counsel",
+    "publisher": "National Labor Relations Board",
+    "type": "government",
+    "url": "https://www.nlrb.gov/news-outreach/news-story/president-trump-appoints-william-b-cowen-acting-general-counsel-of-the"
+   },
+   {
+    "label": "Andrew Rogers Named Acting EEOC General Counsel",
+    "publisher": "U.S. Equal Employment Opportunity Commission",
+    "type": "government",
+    "url": "https://www.eeoc.gov/newsroom/andrew-rogers-named-acting-eeoc-general-counsel"
+   },
+   {
+    "label": "Trump v. Slaughter, No. 25-332 (June 29, 2026)",
+    "publisher": "Supreme Court of the United States",
+    "type": "court",
+    "url": "https://www.supremecourt.gov/opinions/25pdf/609us2r62_g314.pdf"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch18-102",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "On January 20, 2025, President Trump froze federal civilian hiring across the executive branch, including the Labor Department. The freeze was replaced on October 15, 2025 by Executive Order 14356, which says no vacant job may be filled unless a new Strategic Hiring Committee in each agency approves it.",
+  "key_dates": [
+   {
+    "date": "2025-01-20",
+    "event": "Presidential memorandum freezes federal civilian hiring."
+   },
+   {
+    "date": "2025-10-15",
+    "event": "Executive Order 14356 replaces the freeze with committee approval for each hire."
+   }
+  ],
+  "legal": "No court ruling blocking the freeze or Executive Order 14356 was found.",
+  "closeness": "Broader in scope (all agencies, not just labor agencies). The flat freeze ended, but hiring still needs special approval.",
+  "uncertain": "How many career hires the labor agencies made in 2025-2026. Newest source is October 2025.",
+  "sources": [
+   {
+    "label": "Presidential memorandum: Hiring Freeze (January 20, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01905/hiring-freeze"
+   },
+   {
+    "label": "Executive Order 14356: Ensuring Continued Accountability in Federal Hiring",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/10/20/2025-19614/ensuring-continued-accountability-in-federal-hiring"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch18-104",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The Office of Foreign Labor Certification still sits within the Employment and Training Administration. Federal Register notices on foreign labor certification through August 2026 are still issued by that agency.",
+  "closeness": "No matching move found.",
+  "uncertain": "I searched the Federal Register for 2025-2026 notices from the office and for any reorganization moving it under the Secretary. An internal change in who it reports to might not appear there.",
+  "sources": [
+   {
+    "label": "Adverse Effect Wage Rate Updates for Non-Range Occupations (Aug 2026 notice by ETA)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15673/labor-certification-process-for-the-temporary-employment-of-foreign-workers-in-agriculture-in-the"
+   }
+  ],
+  "as_of": "2026-10-27"
+ }
+]

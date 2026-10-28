@@ -1,0 +1,3423 @@
+[
+ {
+  "id": "ch14-005",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no step to split the CDC into a data agency and a separate public health agency. The administration's 2026 and 2027 budgets proposed moving some CDC programs into a new Administration for a Healthy America and refocusing CDC on infectious disease. Congress's 2026 HHS funding law did not carry out that reorganization.",
+  "closeness": "The budget proposal is a different kind of reorganization. It merges programs across agencies rather than splitting CDC in two, and it has not been enacted.",
+  "uncertain": "I searched for a CDC split and for the CDC reorganization status. Congress's action on the 2027 request is not known. Newest source is from April 2026.",
+  "sources": [
+   {
+    "label": "NACCHO Analysis of FY27 President's Budget Request",
+    "publisher": "National Association of County and City Health Officials",
+    "type": "advocacy",
+    "url": "https://www.naccho.org/blog/articles/naccho-analysis-fy27-presidents-budget-request"
+   },
+   {
+    "label": "FY 2026 Administration for a Healthy America Congressional Justification",
+    "publisher": "U.S. Department of Health and Human Services",
+    "type": "government",
+    "url": "https://www.hhs.gov/sites/default/files/fy-2026-aha-cj.pdf"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-026",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The FDA has not withdrawn its approval of mifepristone. In September 2025, HHS and the FDA announced a safety review of the drug's safety rules (REMS), and the same month the FDA approved another generic version. As of the latest reports, the review was not finished.",
+  "closeness": "The ongoing review is about the drug's safety rules, not about cancelling its approval. No step to reverse approval was found.",
+  "uncertain": "What the FDA review will conclude. One report said the FDA would not finish its report until March, but the year and current timeline could not be confirmed. Newest source is from mid-2026.",
+  "sources": [
+   {
+    "label": "FDA approves new generic abortion pill, prompting backlash from conservatives",
+    "publisher": "ABC News 4 (Sinclair)",
+    "type": "news",
+    "url": "https://abcnews4.com/news/nation-world/fda-approves-another-generic-abortion-pill-prompting-outrage-from-conservatives"
+   },
+   {
+    "label": "Politics, Science, and the Future of FDA Drug Regulation: FDA's Review of Mifepristone REMS as a Litmus Test",
+    "publisher": "JAMA",
+    "type": "academic",
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/2843714"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-027",
+  "status": "under-review",
+  "match": "direct",
+  "happened": "In September 2025, HHS and the FDA began a safety review of mifepristone's rules, which now allow telehealth prescribing and mail delivery. In a Louisiana lawsuit, the Fifth Circuit reinstated in-person dispensing nationwide on May 1, 2026, but the Supreme Court paused that order on May 14, 2026. Mail and telehealth access continue while the FDA review goes on.",
+  "key_dates": [
+   {
+    "date": "2025-09",
+    "event": "HHS and FDA announce a safety review of the mifepristone rules."
+   },
+   {
+    "date": "2026-05-01",
+    "event": "Fifth Circuit panel reinstates in-person dispensing nationwide."
+   },
+   {
+    "date": "2026-05-14",
+    "event": "Supreme Court stays the Fifth Circuit order pending appeal."
+   }
+  ],
+  "legal": "Supreme Court stay (May 14, 2026) keeps the 2023 rules in place through the Fifth Circuit appeal and any petition for review; Justices Alito and Thomas dissented. Other cases in Virginia and elsewhere are active.",
+  "closeness": "The goal matches: bring back in-person dispensing. The FDA has started a review but has not changed the rules. (The chapter's own wording says 'removing' the in-person requirement; its intended meaning is to restore it.)",
+  "uncertain": "When the FDA review will end and what it will decide. I found no October 2026 FDA decision; newest source is from mid-2026.",
+  "sources": [
+   {
+    "label": "Supreme Court preserves telehealth access to abortion pill mifepristone pending appeal",
+    "publisher": "JURIST",
+    "type": "news",
+    "url": "https://www.jurist.org/news/2026/05/supreme-court-preserves-telehealth-access-to-abortion-pill-mifepristone-pending-appeal/"
+   },
+   {
+    "label": "Supreme Court Stays Fifth Circuit Order Banning Telehealth Prescribing and Mail Dispensing of Mifepristone",
+    "publisher": "Goodwin Procter",
+    "type": "law-firm",
+    "url": "https://www.goodwinlaw.com/en/insights/publications/2026/05/alerts-practices-hltc-supreme-court-stays-order-banning-prescribing-mail-dispensing-mifepristone"
+   },
+   {
+    "label": "Mifepristone safety review",
+    "publisher": "Spectrum News",
+    "type": "news",
+    "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/06/05/mifepristone-safety-review-food-and-drug-administration-fda-abortion-drug-"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-028",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "The FDA began a safety review of mifepristone's rules in September 2025. It has not restored the pre-2016 limits, such as the 49-day pregnancy limit, or in-person dispensing. The FDA approved another generic version in September 2025 under the current rules.",
+  "key_dates": [
+   {
+    "date": "2025-09",
+    "event": "FDA safety review announced; another generic approved."
+   },
+   {
+    "date": "2026-05-14",
+    "event": "Supreme Court pauses an order that would have restored in-person dispensing."
+   }
+  ],
+  "legal": "Supreme Court stay (May 14, 2026) keeps current rules in place during the Louisiana appeal in the Fifth Circuit.",
+  "closeness": "The review could lead to some of these limits, but none has been put in place. The chapter's list (49 days, in-person, full reporting, generics) is broader than anything announced. See ch14-027.",
+  "uncertain": "Whether the review covers the 49-day limit or adverse-event reporting is not known. Newest source is from mid-2026.",
+  "sources": [
+   {
+    "label": "Supreme Court preserves telehealth access to abortion pill mifepristone pending appeal",
+    "publisher": "JURIST",
+    "type": "news",
+    "url": "https://www.jurist.org/news/2026/05/supreme-court-preserves-telehealth-access-to-abortion-pill-mifepristone-pending-appeal/"
+   },
+   {
+    "label": "FDA approves new generic abortion pill, prompting backlash from conservatives",
+    "publisher": "ABC News 4 (Sinclair)",
+    "type": "news",
+    "url": "https://abcnews4.com/news/nation-world/fda-approves-another-generic-abortion-pill-prompting-outrage-from-conservatives"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-031",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The FDA has not stopped mail-order access to mifepristone. Its 2023 rules, which allow mail delivery, are still in place, and the FDA approved another generic version in September 2025. In the May 2026 Supreme Court order keeping those rules, Justice Thomas wrote separately that a federal law (the Comstock Act) bars mailing the drug, but the Court did not rule on that.",
+  "closeness": "No action matching the recommendation was found. The FDA's safety review could change the rules later; see ch14-027.",
+  "uncertain": "Whether DOJ or FDA has taken a formal position on the Comstock Act could not be confirmed. Newest source is from mid-2026.",
+  "sources": [
+   {
+    "label": "Supreme Court Stays Fifth Circuit Order Banning Telehealth Prescribing and Mail Dispensing of Mifepristone",
+    "publisher": "Goodwin Procter",
+    "type": "law-firm",
+    "url": "https://www.goodwinlaw.com/en/insights/publications/2026/05/alerts-practices-hltc-supreme-court-stays-order-banning-prescribing-mail-dispensing-mifepristone"
+   },
+   {
+    "label": "FDA approves new generic abortion pill, prompting backlash from conservatives",
+    "publisher": "ABC News 4 (Sinclair)",
+    "type": "news",
+    "url": "https://abcnews4.com/news/nation-world/fda-approves-another-generic-abortion-pill-prompting-outrage-from-conservatives"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-042",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No bill or law to turn NIH's grant budget into block grants to states was found. The administration proposed a large NIH cut and merging its institutes for 2026, but the final 2026 spending laws funded NIH at $47.5 billion through its existing institutes.",
+  "closeness": "No matching action. The budget proposals concerned NIH's size and structure, not sending money to states.",
+  "uncertain": "Three searches (most recently October 2026) found no NIH block-grant bill in the 119th Congress. The administration proposed another NIH cut for 2027; final 2027 funding was not known.",
+  "sources": [
+   {
+    "label": "National Institutes of Health (NIH) Funding: FY1996-FY2026 (R43341)",
+    "publisher": "Congressional Research Service",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/R43341.html"
+   },
+   {
+    "label": "House joins Senate in rejecting drastic NIH cuts pushed by Trump",
+    "publisher": "American Institute of Physics (FYI)",
+    "type": "academic",
+    "url": "https://www.aip.org/fyi/house-joins-senate-in-rejecting-drastic-nih-cuts-pushed-by-trump"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-050",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Medicare Advantage is not the default for new Medicare enrollees. In 2026, Medicare officials said they were looking at models that would automatically enroll people in private plans with a way to opt out, but no rule or test was announced. A House bill (H.R. 3467) that would do this has not moved past introduction.",
+  "closeness": "Officials are discussing the idea, but nothing has been put in place. A change this big would likely need Congress.",
+  "uncertain": "Whether CMS will launch a demonstration is not known. Newest source is from May 2026.",
+  "sources": [
+   {
+    "label": "MA Default Enrollment on the Table",
+    "publisher": "Center for Medicare Advocacy",
+    "type": "advocacy",
+    "url": "https://medicareadvocacy.org/ma-default-enrollment-on-the-table/"
+   },
+   {
+    "label": "H.R. 3467 (119th Congress) bill summary and status",
+    "publisher": "PolicyRisk",
+    "type": "news",
+    "url": "https://policyrisk.com/legislation/HR3467"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-052",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "Congress has not passed a law replacing traditional Medicare's fee-for-service payments. CMS kept expanding value-based programs: in May 2025 its Innovation Center released a new strategy saying prevention will be part of every payment model it tests, and in 2026 the Medicare Shared Savings Program had 511 groups of providers serving about 12.6 million people.",
+  "key_dates": [
+   {
+    "date": "2025-05-13",
+    "event": "CMS Innovation Center releases its new strategy."
+   },
+   {
+    "date": "2025-10-31",
+    "event": "CMS finalizes 2026 Shared Savings Program changes."
+   },
+   {
+    "date": "2026-02-04",
+    "event": "CMS reports 2026 Shared Savings Program participation."
+   }
+  ],
+  "legal": "I found no court case about these programs.",
+  "closeness": "Same general direction (paying for value), but through voluntary CMS programs and test models, not a law ending fee-for-service. I found no change basing payments on patient health instead of location. See ch14-054.",
+  "uncertain": "A targeted search found 2026 bills that would move parts of Medicare away from fee-for-service, such as a July 2026 House bill (H.R. 9693) on primary care payment, but none had passed; CRS's summary of the 2025 reconciliation law lists no such change. Newest source: February 2026.",
+  "sources": [
+   {
+    "label": "Making America Healthy Again Through Innovation for Healthier Lives",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "type": "government",
+    "url": "https://www.cms.gov/newsroom/blog/making-america-healthy-again-innovation-healthier-lives"
+   },
+   {
+    "label": "2026 Medicare Accountable Care Organization Initiatives Participation Highlights",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "type": "government",
+    "url": "https://www.cms.gov/newsroom/fact-sheets/2026-medicare-accountable-care-organization-initiatives-participation-highlights"
+   },
+   {
+    "label": "CY 2026 Physician Fee Schedule final rule fact sheet (Shared Savings Program)",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "type": "government",
+    "url": "https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2026-medicare-physician-fee-schedule-final-rule-cms-1832-f-medicare-shared-savings"
+   },
+   {
+    "label": "Health Provisions in P.L. 119-21 (R48633)",
+    "publisher": "Congressional Research Service",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/R48633.html"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-054",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "The July 2025 budget law (\"One Big Beautiful Bill Act\") changed one part of the Inflation Reduction Act's health provisions: it exempted more rare-disease (orphan) drugs from Medicare price negotiation. It did not repeal the Inflation Reduction Act's health provisions as a whole. The Medicare Shared Savings Program was not repealed: CMS updated its rules in late 2025, and in 2026 it had 511 groups of doctors and hospitals serving about 12.6 million people.",
+  "key_dates": [
+   {
+    "date": "2025-07-04",
+    "event": "Budget law narrows Medicare drug price negotiation for orphan drugs."
+   },
+   {
+    "date": "2025-10-31",
+    "event": "CMS finalizes 2026 Shared Savings Program changes in its physician payment rule."
+   },
+   {
+    "date": "2026-02-04",
+    "event": "CMS reports 511 Shared Savings Program groups for 2026, up from 476."
+   }
+  ],
+  "legal": "I found no court case about these changes.",
+  "closeness": "Much smaller than the chapter's call to repeal these programs. Only a narrow drug-pricing change was made, and the Shared Savings Program is growing. See ch14-052 and ch14-055.",
+  "uncertain": "The Inflation Reduction Act's other health provisions (such as Part D changes) were not checked one by one. Newest source is from February 2026.",
+  "sources": [
+   {
+    "label": "Big Beautiful Bill reduces drugs eligible for price negotiations",
+    "publisher": "Managed Healthcare Executive",
+    "type": "news",
+    "url": "https://www.managedhealthcareexecutive.com/view/big-beautiful-bill-reduces-drugs-eligible-for-price-negotiations"
+   },
+   {
+    "label": "2026 Medicare Accountable Care Organization Initiatives Participation Highlights",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "type": "government",
+    "url": "https://www.cms.gov/newsroom/fact-sheets/2026-medicare-accountable-care-organization-initiatives-participation-highlights"
+   },
+   {
+    "label": "CY 2026 Physician Fee Schedule final rule, including Medicare Shared Savings Program requirements",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/11/05/2025-19787/medicare-and-medicaid-programs-cy-2026-payment-policies-under-the-physician-fee-schedule-and-other"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-055",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "Medicare drug price negotiation has not been repealed. The first 10 negotiated drug prices took effect on January 1, 2026, at about 38% to 79% below list prices. The July 2025 budget law narrowed the program by fully exempting drugs that treat only rare (orphan) conditions and delaying the clock for some others, starting in 2028.",
+  "key_dates": [
+   {
+    "date": "2025-07-04",
+    "event": "Budget law adds the orphan drug exemption (ORPHAN Cures Act)."
+   },
+   {
+    "date": "2026-01-01",
+    "event": "First 10 negotiated prices take effect."
+   },
+   {
+    "date": "2026-05-18",
+    "event": "Supreme Court declines drugmakers' appeals."
+   }
+  ],
+  "legal": "Drug companies filed many lawsuits against the program. Lower courts, including the Third Circuit, rejected them, and on May 18, 2026, the Supreme Court declined to hear appeals from six companies. Some other cases are still pending.",
+  "closeness": "The chapter wanted repeal, and until then a narrow use of the law. The program continues, with a smaller set of eligible drugs.",
+  "uncertain": "CBO estimated the orphan change reduces savings by about $4.9 billion. Whether CMS has otherwise narrowed how it runs the program was not confirmed. Newest source: August 2026.",
+  "sources": [
+   {
+    "label": "Supreme Court rejects appeals from drug manufacturers over Medicare price negotiations",
+    "publisher": "PBS NewsHour (AP)",
+    "type": "news",
+    "url": "https://www.pbs.org/newshour/nation/supreme-court-rejects-appeals-from-drug-manufacturers-over-medicare-price-negotiations"
+   },
+   {
+    "label": "Health Provisions in P.L. 119-21 (R48633)",
+    "publisher": "Congressional Research Service",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/R48633.html"
+   },
+   {
+    "label": "Big Beautiful Bill reduces drugs eligible for price negotiations",
+    "publisher": "Managed Healthcare Executive",
+    "type": "news",
+    "url": "https://www.managedhealthcareexecutive.com/view/big-beautiful-bill-reduces-drugs-eligible-for-price-negotiations"
+   },
+   {
+    "label": "Latest orphan drug exemptions may not be warranted, analysis finds",
+    "publisher": "STAT",
+    "type": "news",
+    "url": "https://statnews.com/pharmalot/2026/08/04/latest-orphan-drug-exemptions-may-not-be-warranted-analysis-finds/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-057",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The July 2025 budget law made large Medicaid changes, such as work requirements and limits on state provider taxes, but it did not turn Medicaid into block grants or set per-person or overall caps. Federal matching still works as an open-ended share of state costs.",
+  "closeness": "The law reduced federal Medicaid spending in other ways (see ch14-058 and ch14-062) but did not use the funding structures the chapter named.",
+  "uncertain": "CRS's August 2025 section-by-section summary of the enacted law lists no block grant, per-person cap or overall cap for Medicaid; the federal match stays an open-ended share (the law did end a five-point match bonus for newly expanding states). No later law making such a change was found in the 2025-2026 laws.",
+  "sources": [
+   {
+    "label": "Health Provisions in P.L. 119-21 (R48633)",
+    "publisher": "Congressional Research Service",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/R48633.html"
+   },
+   {
+    "label": "How will the One Big Beautiful Bill Act impact Medicaid?",
+    "publisher": "USAFacts",
+    "type": "news",
+    "url": "https://usafacts.org/articles/how-will-the-obbb-impact-medicaid/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-058",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "The July 2025 budget law ended the extra 5-point federal match offered to states that newly expand Medicaid. It also lowers the limit on state provider taxes step by step to 3.5% by 2032 and caps state-directed payments to hospitals at 100% to 110% of Medicare rates. It did not change the 90% federal match for the expansion group.",
+  "key_dates": [
+   {
+    "date": "2025-07-04",
+    "event": "Budget law enacted."
+   },
+   {
+    "date": "2028",
+    "event": "Provider tax limits begin to drop in expansion states."
+   }
+  ],
+  "legal": "I found no court ruling on these provisions.",
+  "closeness": "The law targets the state financing practices the chapter criticized, but it kept the enhanced expansion match the chapter wanted replaced. I found no change to Disproportionate Share Hospital payments.",
+  "uncertain": "Exact phase-in dates vary across summaries. Newest source is from September 2025.",
+  "sources": [
+   {
+    "label": "How will the One Big Beautiful Bill Act impact Medicaid?",
+    "publisher": "USAFacts",
+    "type": "news",
+    "url": "https://usafacts.org/articles/how-will-the-obbb-impact-medicaid/"
+   },
+   {
+    "label": "Breaking down H.R. 1: healthcare impacts of the One Big Beautiful Bill",
+    "publisher": "HIMSS",
+    "type": "news",
+    "url": "https://www.himss.org/news-center/breaking-down-h-r-1-healthcare-impacts-of-the-one-big-beautiful-bill/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-062",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "The July 2025 budget law requires adults ages 19 to 64 in the Medicaid expansion group to work, study or volunteer 80 hours a month, with exemptions. CMS issued an interim final rule on June 1, 2026 (published June 3). States must start by January 1, 2027, or earlier if they choose.",
+  "key_dates": [
+   {
+    "date": "2025-07-04",
+    "event": "Budget law enacts Medicaid work requirements."
+   },
+   {
+    "date": "2026-06-03",
+    "event": "CMS interim final rule published."
+   },
+   {
+    "date": "2027-01-01",
+    "event": "States must begin the requirement, unless they start earlier."
+   }
+  ],
+  "legal": "I found no court ruling on the law or the rule.",
+  "closeness": "Bigger than the chapter's idea: the chapter asked CMS to let states choose work requirements, but Congress made them mandatory in expansion states. The chapter's idea of premiums and cost sharing for higher-income enrollees was not confirmed here.",
+  "uncertain": "The requirement has not started yet. Whether states can get extra time, and whether lawsuits will follow, were not confirmed. The chapter's premium and cost-sharing idea was not researched. Newest source is from June 2026.",
+  "sources": [
+   {
+    "label": "Medicaid Program; Community Engagement Requirement for Certain Individuals",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/06/03/2026-11094/medicaid-program-community-engagement-requirement-for-certain-individuals"
+   },
+   {
+    "label": "Medicaid Community Engagement Requirement Interim Final Rule fact sheet",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "type": "government",
+    "url": "https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-063",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no CMS approval letting a state put time limits or lifetime caps on Medicaid benefits. The July 2025 budget law added work requirements and more frequent eligibility checks for expansion adults, but not time limits.",
+  "closeness": "No matching action. Work requirements (ch14-062) are a different tool: people keep coverage if they meet them.",
+  "uncertain": "Two searches for 2025-2026 waiver approvals with time limits or lifetime caps found only 2018-2019 state requests, which CMS did not approve then. I could not check CMS's waiver list directly. Newest relevant source is from 2025.",
+  "sources": [
+   {
+    "label": "Federal Officials Say No-Go To Lifetime Limits On Medicaid (2018)",
+    "publisher": "KFF Health News",
+    "type": "news",
+    "url": "https://kffhealthnews.org/medicaid/federal-officials-say-no-go-to-lifetime-limits-on-medicaid/"
+   },
+   {
+    "label": "How will the One Big Beautiful Bill Act impact Medicaid?",
+    "publisher": "USAFacts",
+    "type": "news",
+    "url": "https://usafacts.org/articles/how-will-the-obbb-impact-medicaid/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-070",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "On August 7, 2025, the Labor, Health and Human Services, and Treasury departments said they would not prioritize enforcing the 2024 rule that limits short-term health plans, which are sold outside the ACA's main rules, and that they would write new rules. They told a court they aimed to propose a rule in summer 2026. I found no CMS plan to formally split the subsidized and unsubsidized markets.",
+  "key_dates": [
+   {
+    "date": "2025-08-07",
+    "event": "Departments pause enforcement priority for the 2024 short-term plan rule."
+   }
+  ],
+  "legal": "The 2024 short-term plan rule was challenged in a Texas federal court; in August 2025 the agencies told that court they planned new rules. I found no ruling.",
+  "closeness": "Broader. Easing limits on short-term plans gives people without subsidies an option outside ACA rules, but it is not the market split the chapter describes.",
+  "uncertain": "A Federal Register search through October 2026 found no proposed or final rule on short-term plans since the August 2025 statement, even though the agencies had aimed for summer 2026.",
+  "sources": [
+   {
+    "label": "Statement on Short-Term, Limited-Duration Insurance (August 7, 2025)",
+    "publisher": "U.S. Department of Labor",
+    "type": "government",
+    "url": "https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/affordable-care-act/for-employers-and-advisers/short-term-limited-duration-insurance/stldi-statement-08-07-2025"
+   },
+   {
+    "label": "Agencies Target Summer 2026 for Short-Term Health Plans Rule",
+    "publisher": "Bloomberg Tax",
+    "type": "news",
+    "url": "https://news.bloombergtax.com/health-law-and-business/agencies-target-summer-2026-for-short-term-health-plans-rule"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-077",
+  "status": "ended",
+  "match": "partial",
+  "happened": "The July 2025 budget law barred Medicaid payments for one year to certain abortion providers, mainly Planned Parenthood. The bar expired on July 4, 2026, and those providers began billing Medicaid again for non-abortion care. A Senate amendment to extend it failed 50-48 in April 2026.",
+  "key_dates": [
+   {
+    "date": "2025-07-04",
+    "event": "Budget law bars Medicaid payments for one year."
+   },
+   {
+    "date": "2026-04",
+    "event": "Senate amendment to extend the bar fails."
+   },
+   {
+    "date": "2026-07-04",
+    "event": "The one-year bar expires."
+   }
+  ],
+  "legal": "A federal judge in Massachusetts blocked the provision in 2025; sources differ on the later appeal history. The issue is moot for now because the provision expired.",
+  "closeness": "Matches the goal for one year, through Congress rather than through an HHS rule. The chapter's HHS rule removing abortion providers from Medicaid was not found. Same law as ch14-078.",
+  "uncertain": "Whether Congress will renew it in another bill. Newest source is from July 2026.",
+  "sources": [
+   {
+    "label": "Planned Parenthood Medicaid Funding Set to Resume: Explained",
+    "publisher": "Bloomberg Government",
+    "type": "news",
+    "url": "https://news.bgov.com/health-law-and-business/planned-parenthood-medicaid-funding-set-to-resume-explained"
+   },
+   {
+    "label": "Planned Parenthood regains federal funding as 'Big Beautiful' provision expires",
+    "publisher": "CT Mirror",
+    "type": "news",
+    "url": "https://ctmirror.org/2026/07/07/planned-parenthood-regains-federal-funding/"
+   },
+   {
+    "label": "Federal judge sides with Planned Parenthood",
+    "publisher": "AZFamily",
+    "type": "news",
+    "url": "https://www.azfamily.com/2025/07/29/federal-judge-sides-with-planned-parenthood-lawsuit-against-trump-administration"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-078",
+  "status": "ended",
+  "match": "partial",
+  "happened": "Congress did not pass the Protecting Life and Taxpayers Act itself. It put a one-year bar on Medicaid payments to certain abortion providers into the July 2025 budget law; the House had sought 10 years. The bar expired July 4, 2026, and a standalone House bill to restore it has not advanced.",
+  "key_dates": [
+   {
+    "date": "2025-07-04",
+    "event": "Budget law includes a one-year funding bar."
+   },
+   {
+    "date": "2026-07-04",
+    "event": "The bar expires."
+   }
+  ],
+  "legal": "A 2025 federal court block in Massachusetts is moot now that the bar expired.",
+  "closeness": "Similar goal, but temporary and limited to Medicaid, not the permanent law the chapter named. Same law as ch14-077.",
+  "uncertain": "Whether a renewal will be added to a future budget bill. Newest source is from July 2026.",
+  "sources": [
+   {
+    "label": "Planned Parenthood Medicaid Funding Set to Resume: Explained",
+    "publisher": "Bloomberg Government",
+    "type": "news",
+    "url": "https://news.bgov.com/health-law-and-business/planned-parenthood-medicaid-funding-set-to-resume-explained"
+   },
+   {
+    "label": "Planned Parenthood regains federal funding as 'Big Beautiful' provision expires",
+    "publisher": "CT Mirror",
+    "type": "news",
+    "url": "https://ctmirror.org/2026/07/07/planned-parenthood-regains-federal-funding/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-080",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "In March 2026, the HHS Office for Civil Rights opened investigations into 13 states that require insurance to cover abortion, to see whether they break the Weldon Amendment. In January 2026, HHS sent Illinois a letter claiming violations. I found no report that any Medicaid money has been withheld.",
+  "key_dates": [
+   {
+    "date": "2026-01",
+    "event": "HHS sends Illinois a letter alleging Weldon violations."
+   },
+   {
+    "date": "2026-03-19",
+    "event": "HHS announces investigations of 13 states."
+   }
+  ],
+  "legal": "I found no court case on these investigations yet.",
+  "closeness": "This is the first step the chapter's idea would need. The chapter called for withholding up to 10% of Medicaid funds, which has not happened.",
+  "uncertain": "The outcome of the investigations is unknown. Newest source is from April 2026.",
+  "sources": [
+   {
+    "label": "HHS to investigate 13 states that require insurers to cover abortions",
+    "publisher": "Stateline (States Newsroom)",
+    "type": "news",
+    "url": "https://stateline.org/2026/03/20/repub/hhs-to-investigate-13-states-that-require-insurers-to-cover-abortions/"
+   },
+   {
+    "label": "The Weldon Amendment Factsheet (updated April 2026)",
+    "publisher": "National Women's Law Center",
+    "type": "advocacy",
+    "url": "https://nwlc.org/wp-content/uploads/2025/02/The-Weldon-Amendment-Factsheet-Updated-April-2026.pdf"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-083",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "In March 2025, the Justice Department dropped its lawsuit against Idaho's abortion ban over the emergency-care law (EMTALA). On June 3, 2025, CMS rescinded its 2022 guidance on emergency abortion care, saying it did not reflect the administration's policy. CMS said it would keep enforcing EMTALA.",
+  "key_dates": [
+   {
+    "date": "2025-03-06",
+    "event": "DOJ ends its EMTALA lawsuit against Idaho."
+   },
+   {
+    "date": "2025-06-03",
+    "event": "CMS rescinds the 2022 EMTALA guidance."
+   }
+  ],
+  "legal": "A separate case by St. Luke's hospital system in Idaho produced a federal court order that protects only its own facilities.",
+  "closeness": "Matches the chapter on rescinding the guidance and dropping the DOJ lawsuit. Whether CMS ended all related investigations was not confirmed.",
+  "uncertain": "EMTALA's own requirements did not change; how hospitals apply it is still debated. Whether CMS closed pending investigations was not confirmed. Newest source is from mid-2025.",
+  "sources": [
+   {
+    "label": "CMS Statement on Emergency Medical Treatment and Labor Act (EMTALA)",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "type": "government",
+    "url": "https://www.cms.gov/newsroom/press-releases/cms-statement-emergency-medical-treatment-and-labor-act-emtala"
+   },
+   {
+    "label": "Federal health agency says emergency abortion care guidance doesn't reflect administration policy",
+    "publisher": "Idaho Capital Sun (States Newsroom)",
+    "type": "news",
+    "url": "https://idahocapitalsun.com/2025/06/04/repub/federal-health-agency-says-emergency-abortion-care-guidance-doesnt-reflect-administration-policy/"
+   },
+   {
+    "label": "Medical Emergencies & Access to Abortion Care",
+    "publisher": "Society for Maternal-Fetal Medicine",
+    "type": "advocacy",
+    "url": "https://www.smfm.org/emtala"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-087",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law permanently writes the Hyde or Weldon amendments into law. The No Taxpayer Funding for Abortion Act, which would make the Hyde limits permanent, was reintroduced in January 2025 (H.R. 7 and S. 186) but was only referred to committees.",
+  "closeness": "No matching law. The limits continue only through yearly spending bills. HHS actions to enforce the Weldon Amendment are covered in ch14-080.",
+  "uncertain": "Two searches (October 2026) found no committee vote or floor vote on H.R. 7 or S. 186 in the 119th Congress, and the project's copy of all 2025-2026 laws includes no such law. The Conscience Protection Act was not separately traced.",
+  "sources": [
+   {
+    "label": "Senator Wicker, Representative Smith reintroduce bill to support ending taxpayer funded abortions",
+    "publisher": "Office of Sen. Roger Wicker",
+    "type": "government",
+    "url": "https://www.wicker.senate.gov/2025/1/senator-wicker-representative-smith-reintroduce-bill-to-support-ending-taxpayer-funded-abortions"
+   },
+   {
+    "label": "H.R. 7 (119th Congress), introduced text",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/app/details/BILLS-119hr7ih"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-088",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "In 2025, HHS rescinded earlier guidance that read sex discrimination to include sexual orientation and gender identity. On October 22, 2025, a federal court in Mississippi struck down the 2024 Section 1557 rule's gender identity provisions. On June 2, 2026, HHS published a notice saying it will not enforce those provisions; the rest of the 2024 rule stays in force.",
+  "key_dates": [
+   {
+    "date": "2025-05-14",
+    "event": "HHS rescinds 2021 Section 1557 guidance."
+   },
+   {
+    "date": "2025-10-22",
+    "event": "Federal court vacates the 2024 rule's gender identity provisions."
+   },
+   {
+    "date": "2026-06-02",
+    "event": "HHS notice on the partial vacatur."
+   }
+  ],
+  "legal": "U.S. District Court for the Southern District of Mississippi, Tennessee v. Kennedy: final ruling vacating the gender identity provisions (October 22, 2025).",
+  "closeness": "Partly matches. The gender identity part was removed by a court, and HHS's notice applies this to CMS rules including CHIP. But HHS has not restored the 2020 rule through new rulemaking. Changes on sexual orientation and abortion were not confirmed. See ch14-159.",
+  "uncertain": "Whether HHS plans a new Section 1557 rule is not known. Newest source is from June 2026.",
+  "sources": [
+   {
+    "label": "Notice of partial vacatur, 2024 Section 1557 rule (2026-11015)",
+    "publisher": "Federal Register (public inspection)",
+    "type": "government",
+    "url": "https://public-inspection.federalregister.gov/2026-11015.pdf"
+   },
+   {
+    "label": "HHS no longer enforcing prohibition against gender identity discrimination",
+    "publisher": "LeadingAge",
+    "type": "news",
+    "url": "https://leadingage.org/hhs-no-longer-enforcing-prohibition-against-gender-identity-discrimination/"
+   },
+   {
+    "label": "On the Basis of Sex: HHS Rescinds Prior Section 1557 Guidance",
+    "publisher": "Morgan Lewis",
+    "type": "law-firm",
+    "url": "https://www.morganlewis.com/pubs/2025/06/on-the-basis-of-sex-hhs-rescinds-prior-section-1557-guidance-interpreting-sex-based-discrimination"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-099",
+  "status": "blocked",
+  "match": "partial",
+  "happened": "Congress has not moved care of unaccompanied migrant children from HHS to DHS. In May 2025, the Justice Department asked a federal judge to end the Flores settlement completely. Judge Dolly Gee denied that request in August 2025.",
+  "key_dates": [
+   {
+    "date": "2025-05-22",
+    "event": "DOJ files a motion to end the Flores settlement."
+   },
+   {
+    "date": "2025-08",
+    "event": "Judge Gee denies the motion."
+   }
+  ],
+  "legal": "U.S. District Court for the Central District of California denied the motion to terminate Flores in August 2025. In 2024 the court had already ended the settlement as to HHS's care duties, but it remains in force for DHS.",
+  "closeness": "The chapter wanted Congress to change the law. The administration tried to end Flores in court instead, and the court refused. No transfer of HHS duties to DHS was found.",
+  "uncertain": "Whether the government appealed, and any 2026 developments, could not be confirmed. Newest source is from August 2025.",
+  "sources": [
+   {
+    "label": "Judge denies Trump administration request to end a policy protecting immigrant children in custody (AP)",
+    "publisher": "Spectrum News",
+    "type": "news",
+    "url": "https://spectrumlocalnews.com/ca/california/politics/2025/08/16/judge-denies-trump-administration-request-to-end-a-policy-protecting-immigrant-children-in-custody"
+   },
+   {
+    "label": "Trump administration seeks to end court settlement protecting migrant children in U.S. custody",
+    "publisher": "CBS News",
+    "type": "news",
+    "url": "https://www.cbsnews.com/amp/news/trump-administration-seeks-to-end-flores-agreement"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-109",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "Head Start was not eliminated. Congress's 2026 funding law, signed February 3, 2026, gave it $12.357 billion, slightly more than before. On December 19, 2025, HHS removed the rule requiring Head Start programs to have a COVID-19 mitigation policy, the last part of the 2023 COVID-19 rule.",
+  "key_dates": [
+   {
+    "date": "2025-12-19",
+    "event": "HHS direct final rule removes Head Start's COVID-19 mitigation policy requirement."
+   },
+   {
+    "date": "2026-02-03",
+    "event": "FY2026 spending law provides $12.357 billion for Head Start."
+   }
+  ],
+  "closeness": "Only the chapter's fallback happened: COVID-19 rules were removed (the vaccine and mask rules had already been dropped in 2023). The main recommendation, ending Head Start, did not happen, and funding went up.",
+  "uncertain": "Reports in 2025 said elimination was considered, but it was not proposed in the budget. Newest source: February 2026.",
+  "sources": [
+   {
+    "label": "COVID-19 Mitigation Policy Requirement in Head Start Programs; Rescission",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/12/19/2025-23452/covid-19-mitigation-policy-requirement-in-head-start-programs-recission"
+   },
+   {
+    "label": "Public Law 119-75 (FY2026 further consolidated appropriations)",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+   },
+   {
+    "label": "Statement: FY2026 funding bill boosts federal investment in child care and early learning",
+    "publisher": "First Five Years Fund",
+    "type": "advocacy",
+    "url": "https://www.ffyf.org/2026/01/30/statement-fy2026-funding-bill-boosts-federal-investment-in-child-care-and-early-learning"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-139",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no new Title X rule. HHS withheld funding from 16 Title X grants, including Planned Parenthood affiliates, in April 2025 and restored it in December 2025. In March 2026 it issued new grant guidance that dropped some Biden-era standards, but it has not published a rule bringing back the 2019 abortion-separation rules.",
+  "closeness": "The withholding and new guidance moved in the chapter's direction, but the specific step, reinstating the 2019 rule, was not found.",
+  "uncertain": "KFF said reinstating the 2019 rule was likely. Newest source is from April 2026, so a later proposed rule could have been missed.",
+  "sources": [
+   {
+    "label": "Navigating Uncertainty: The Latest Challenge to the Title X Family Planning Safety Net",
+    "publisher": "KFF",
+    "type": "academic",
+    "url": "https://www.kff.org/quick-insights/navigating-uncertainty-the-latest-challenge-to-the-title-x-family-planning-safety-net/"
+   },
+   {
+    "label": "Title X Funding Restored, but New Rules Raise Concerns",
+    "publisher": "U.S. News & World Report (HealthDay)",
+    "type": "news",
+    "url": "https://www.usnews.com/news/health-news/articles/2026-04-10/title-x-funding-restored-but-new-rules-raise-concerns"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-140",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not passed the Title X Abortion Provider Prohibition Act. Rep. Virginia Foxx introduced it in the House (H.R. 343) on January 13, 2025, and it went to the Energy and Commerce Committee. Sen. Marsha Blackburn introduced it in the Senate (S. 4329) on April 16, 2026, and it went to the HELP Committee.",
+  "closeness": "The bills match the chapter's idea, but neither has moved past committee. HHS separately withheld some Title X grants in 2025 (see ch14-139).",
+  "uncertain": "A search found no floor vote, and govinfo lists only the introduced version of each bill, which suggests neither was reported or passed. I did not check the congress.gov action list directly. Newest source is from April 2026.",
+  "sources": [
+   {
+    "label": "S. 4329 (introduced): Title X Abortion Provider Prohibition Act",
+    "publisher": "GovInfo (U.S. Government Publishing Office)",
+    "type": "government",
+    "url": "https://www.govinfo.gov/app/details/BILLS-119s4329is"
+   },
+   {
+    "label": "H.R. 343 (introduced): Title X Abortion Provider Prohibition Act",
+    "publisher": "GovInfo (U.S. Government Publishing Office)",
+    "type": "government",
+    "url": "https://www.govinfo.gov/app/details/BILLS-119hr343ih"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-159",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "On June 2, 2026, HHS published a notice that its Office for Civil Rights will not investigate or enforce the 2024 Section 1557 rule's gender identity provisions, after a federal court struck them down in October 2025. In 2025, HHS had also rescinded earlier guidance that read sex discrimination to include sexual orientation and gender identity.",
+  "key_dates": [
+   {
+    "date": "2025-10-22",
+    "event": "Court vacates the gender identity provisions."
+   },
+   {
+    "date": "2026-06-02",
+    "event": "HHS notice of non-enforcement."
+   }
+  ],
+  "legal": "Based on a final ruling by the U.S. District Court for the Southern District of Mississippi in Tennessee v. Kennedy (October 22, 2025).",
+  "closeness": "A non-enforcement statement was issued, but it followed a court order and covers gender identity only. Sexual orientation and a new priority for religious and conscience claims were not part of the notice. See ch14-088.",
+  "uncertain": "Whether OCR issued a separate statement on sexual orientation or conscience priorities could not be confirmed. Newest source is from June 2026.",
+  "sources": [
+   {
+    "label": "Notice of partial vacatur, 2024 Section 1557 rule (2026-11015)",
+    "publisher": "Federal Register (public inspection)",
+    "type": "government",
+    "url": "https://public-inspection.federalregister.gov/2026-11015.pdf"
+   },
+   {
+    "label": "HHS no longer enforcing prohibition against gender identity discrimination",
+    "publisher": "LeadingAge",
+    "type": "news",
+    "url": "https://leadingage.org/hhs-no-longer-enforcing-prohibition-against-gender-identity-discrimination/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-001",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Drug company user fees still fund part of the FDA's work. In July 2026 the FDA published user fee rates for fiscal year 2027. FDA and industry finished talks on the next user fee deal (PDUFA VIII, for 2028-2032) in May 2026 and released a proposed agreement in August 2026. I found no step to end industry funding for the FDA, NIH or CDC.",
+  "closeness": "The recommendation would end industry money for regulators. The user fee system continues, and the next five-year deal keeps it.",
+  "uncertain": "Congress has not yet voted on PDUFA VIII, which is due by September 2027. Newest source is from October 2026.",
+  "sources": [
+   {
+    "label": "Prescription Drug User Fee Rates for Fiscal Year 2027 (July 30, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15334/prescription-drug-user-fee-rates-for-fiscal-year-2027"
+   },
+   {
+    "label": "PDUFA VIII: Fiscal Years 2028 – 2032",
+    "publisher": "U.S. Food and Drug Administration",
+    "type": "government",
+    "url": "https://www.fda.gov/industry/prescription-drug-user-fee-amendments/pdufa-viii-fiscal-years-2028-2032"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-002",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On April 17, 2025, FDA Commissioner Marty Makary announced that people employed by FDA-regulated companies would no longer serve as official members of FDA advisory committees, where the law allows. I found no new rule or law setting a long waiting period before FDA, NIH or CDC officials can work for drug companies.",
+  "key_dates": [
+   {
+    "date": "2025-04-17",
+    "event": "FDA bars regulated-industry employees from serving as advisory committee members."
+   }
+  ],
+  "legal": "I found no court ruling.",
+  "closeness": "The advisory committee policy limits one path from industry into FDA decision-making, a smaller version of the second part of the idea. The main idea, a cooling-off period of up to 15 years before regulators join industry, has not happened.",
+  "uncertain": "I searched the Federal Register and the web for HHS revolving-door rules and bills and found none. Whether the advisory committee policy continued after Makary left the FDA in 2026 could not be confirmed.",
+  "sources": [
+   {
+    "label": "FDA Commissioner Makary Announces New Policy on Individuals Serving on FDA Advisory Committees",
+    "publisher": "U.S. Food and Drug Administration",
+    "type": "government",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-commissioner-makary-announces-new-policy-individuals-serving-fda-advisory-committees"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-004",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no law passed by Congress that spells out and limits the CDC's legal powers. In March 2025, Senators Eric Schmitt and Mike Lee introduced the Public Health Improvement Act (S. 999), which would narrow CDC's role; I found no committee or floor vote on it.",
+  "closeness": "No matching law found. The bill matches the idea, but it has only been introduced.",
+  "uncertain": "I searched the Federal Register, the web, and the local copy of 119th Congress laws. The bill's details come from its text and news summaries; its latest status shown is referral to committee.",
+  "sources": [
+   {
+    "label": "S. 999, Public Health Improvement Act (introduced)",
+    "publisher": "U.S. Government Publishing Office",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s999is/html/BILLS-119s999is.htm"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-007",
+  "status": "partly-blocked",
+  "match": "broader",
+  "happened": "HHS changed several vaccine recommendations. In January 2026, federal health officials cut the routine childhood vaccine schedule from about 17-18 diseases to 11, moving others to individual decision-making. On March 16, 2026, a federal judge in Massachusetts paused those changes. On May 29, 2026, Executive Order 14407 told CDC to review the schedule again. I found no law or rule saying CDC guidance cannot be treated as a requirement.",
+  "key_dates": [
+   {
+    "date": "Jan 2026",
+    "event": "Childhood vaccine schedule cut to 11 diseases."
+   },
+   {
+    "date": "Mar 16, 2026",
+    "event": "Federal judge pauses the schedule changes."
+   },
+   {
+    "date": "Apr 29, 2026",
+    "event": "Government appeals to the First Circuit."
+   },
+   {
+    "date": "May 29, 2026",
+    "event": "Executive Order 14407 directs a new schedule review."
+   }
+  ],
+  "legal": "U.S. District Court in Massachusetts (Judge Brian Murphy) stayed the new schedule and the appointments of 13 ACIP members on March 16, 2026, under the Administrative Procedure Act (American Academy of Pediatrics v. Kennedy). The government appealed to the First Circuit on April 29, 2026; I found no appeals ruling as of an August 2026 filing.",
+  "closeness": "The recommendation asks for a rule limiting what CDC guidance can say. The action instead changed specific vaccine recommendations, and a court paused the biggest change.",
+  "uncertain": "Whether the First Circuit has ruled since August 2026 could not be confirmed. Newest sources are a June 2026 CRS report and an August 2026 court filing.",
+  "sources": [
+   {
+    "label": "The 2026 Childhood Immunization Schedule (R48982)",
+    "publisher": "Congressional Research Service",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/R48982.html"
+   },
+   {
+    "label": "HHS appealing ACIP vaccine policy lawsuit ruling",
+    "publisher": "STAT",
+    "type": "news",
+    "url": "https://www.statnews.com/2026/04/29/hhs-appealing-acip-vaccine-policy-lawsuit-ruling/"
+   },
+   {
+    "label": "The State of US Vaccine Policy, March 17, 2026",
+    "publisher": "CIDRAP (University of Minnesota)",
+    "type": "academic",
+    "url": "https://www.cidrap.umn.edu/childhood-vaccines/state-us-vaccine-policy-special-edition-mar-17-2026"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-010",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no transfer of the CDC's vaccine safety programs, such as VAERS or the Vaccine Safety Datalink, to the FDA. In 2025, HHS announced new vaccine injury research and reporting projects, including work with NIH and an upgrade of VAERS, but VAERS stayed jointly run by CDC and FDA.",
+  "closeness": "The 2025 projects change how vaccine injuries are studied and reported; none moves the safety monitoring programs and their funding to the FDA.",
+  "uncertain": "I searched the Federal Register and the web for a move of CDC vaccine safety offices and found none. Trade press mentioned an FDA plan to overhaul VAERS and the Datalink, but details were behind a paywall. Newest source is from August 2025.",
+  "sources": [
+   {
+    "label": "HHS launches 4 new vaccine injury research, reporting initiatives",
+    "publisher": "Fierce Healthcare",
+    "type": "news",
+    "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-4-new-vaccine-injury-research-reporting-initiatives"
+   },
+   {
+    "label": "The State of US Vaccine Policy, March 17, 2026",
+    "publisher": "CIDRAP (University of Minnesota)",
+    "type": "academic",
+    "url": "https://www.cidrap.umn.edu/childhood-vaccines/state-us-vaccine-policy-special-edition-mar-17-2026"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-011",
+  "status": "under-review",
+  "match": "broader",
+  "happened": "In September 2025, HHS and the FDA began a safety review of the abortion pill mifepristone. In an October 2026 court filing, the FDA said the review was still under way and it would decide on any changes after it ends. In April 2025, HHS layoffs cut most of CDC's Division of Reproductive Health, including teams for contraception guidance, IVF tracking and abortion data; HHS described the cuts as streamlining.",
+  "key_dates": [
+   {
+    "date": "2025-04-01",
+    "event": "HHS layoffs cut most of CDC's Division of Reproductive Health."
+   },
+   {
+    "date": "2025-09",
+    "event": "FDA begins mifepristone safety review."
+   },
+   {
+    "date": "2026-10",
+    "event": "FDA tells a court the review is still under way."
+   }
+  ],
+  "closeness": "The FDA review studies the risks of one abortion method, part of the idea. The CDC cuts ended reproductive health programs, but HHS did not give the chapter's reasons, and they also ended programs on IVF and abortion data the chapter did not target.",
+  "uncertain": "Which CDC programs were cut is known from news reports, not an official list. Newest source is from October 2026.",
+  "sources": [
+   {
+    "label": "FDA provides update on abortion pill review for Louisiana telehealth case",
+    "publisher": "Louisiana Illuminator",
+    "type": "news",
+    "url": "https://lailluminator.com/2026/10/08/abortion-pill-fda/"
+   },
+   {
+    "label": "Researchers say moms and babies are 'going to get hurt' by federal pregnancy data team cuts",
+    "publisher": "States Newsroom (Michigan Advance)",
+    "type": "news",
+    "url": "https://michiganadvance.com/2025/04/24/repub/researchers-say-moms-and-babies-are-going-to-get-hurt-by-federal-pregnancy-data-team-cuts/"
+   },
+   {
+    "label": "FDA's Review of Mifepristone REMS as a Litmus Test",
+    "publisher": "JAMA",
+    "type": "academic",
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/2843714"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-012",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "On January 22, 2026, NIH announced it will no longer fund research using human fetal tissue from elective abortions. The policy (NOT-OD-26-028) covers NIH's own labs and outside grants, cooperative agreements and contracts. Congress has not passed a law banning such research.",
+  "key_dates": [
+   {
+    "date": "Jan 22, 2026",
+    "event": "NIH stops funding research with fetal tissue from elective abortions."
+   }
+  ],
+  "closeness": "Close to the policy part of the recommendation, done by NIH policy rather than law. It does not cover all HHS agencies, and the call for a law from Congress has not happened.",
+  "uncertain": "I found no lawsuit against the policy. News summaries say tissue from miscarriages and stillbirths and older cell lines are not covered, but I did not confirm this in the NIH notice. Newest source is from February 2026.",
+  "sources": [
+   {
+    "label": "NIH Announces Major Policy Shift to End Use of Human Fetal Tissue in NIH-Supported Research",
+    "publisher": "National Institutes of Health",
+    "type": "government",
+    "url": "https://www.nih.gov/news-events/news-releases/nih-announces-major-policy-shift-end-use-human-fetal-tissue-nih-supported-research"
+   },
+   {
+    "label": "NIH Policy Update on Research Using Human Fetal Tissue (NOT-OD-26-028)",
+    "publisher": "University of Southern California, Department of Contracts and Grants",
+    "type": "academic",
+    "url": "https://dcg.usc.edu/2026/02/09/nih-policy-update-on-research-using-human-fetal-tissue/"
+   },
+   {
+    "label": "NIH Ends Funding for Research Using Human Fetal Tissue (Jan. 25, 2026)",
+    "publisher": "HealthDay",
+    "type": "news",
+    "url": "https://www.healthday.com/health-news/public-health/nih-ends-funding-for-research-using-human-fetal-tissue"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-014",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no HHS action to require or pressure every state to report detailed abortion data. In April 2025, HHS layoffs reportedly cut the CDC team that produced the yearly abortion surveillance report.",
+  "closeness": "No matching action found. The reported staff cut moves away from the idea of collecting more abortion data.",
+  "uncertain": "I searched the Federal Register and the web. The surveillance team cut is known from news reports. Whether CDC still publishes its yearly abortion report could not be confirmed.",
+  "sources": [
+   {
+    "label": "Researchers say moms and babies are 'going to get hurt' by federal pregnancy data team cuts",
+    "publisher": "States Newsroom (Michigan Advance)",
+    "type": "news",
+    "url": "https://michiganadvance.com/2025/04/24/repub/researchers-say-moms-and-babies-are-going-to-get-hurt-by-federal-pregnancy-data-team-cuts/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-016",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no law tying Medicaid family planning money to state abortion reporting. The bill the chapter names was reintroduced on January 22, 2025 (S. 178 and H.R. 627), but both were only referred to committee. The July 2025 budget law did not include it.",
+  "closeness": "No matching law found. The bill is the same idea, but it has not moved past introduction.",
+  "uncertain": "I searched the web and the local copy of 119th Congress laws. Latest status shown is referral to committee.",
+  "sources": [
+   {
+    "label": "H.R. 627, Ensuring Accurate and Complete Abortion Data Reporting Act of 2025 (introduced)",
+    "publisher": "Congress.gov",
+    "type": "government",
+    "url": "https://www.congress.gov/119/bills/hr627/BILLS-119hr627ih.htm"
+   },
+   {
+    "label": "How will the One Big Beautiful Bill Act impact Medicaid?",
+    "publisher": "USAFacts",
+    "type": "news",
+    "url": "https://usafacts.org/articles/how-will-the-obbb-impact-medicaid/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-018",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no FDA rule or policy to stop companies from holding onto the 180-day first-generic exclusivity without using it.",
+  "closeness": "No matching action found.",
+  "uncertain": "I searched Federal Register FDA documents and the web for 180-day exclusivity forfeiture or parking rules and bills in 2025-2026 and found none.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-019",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "The Stop STALLING Act (S. 1095), which would let the FTC sue people who file sham citizen petitions to delay generic drugs, was introduced on March 24, 2025 and reported by the Senate Judiciary Committee on April 10, 2025. It has not passed. A separate law, the CREATES Act, already gave generic makers a way to sue for brand-name samples in December 2019, before January 20, 2025.",
+  "key_dates": [
+   {
+    "date": "2019-12-20",
+    "event": "CREATES Act on drug samples becomes law (before Jan. 20, 2025)."
+   },
+   {
+    "date": "2025-04-10",
+    "event": "Senate Judiciary Committee reports the Stop STALLING Act."
+   }
+  ],
+  "legal": "None; no new law has passed.",
+  "closeness": "The bill would penalize sham petitions rather than ban them. The sample-access part of the idea was largely done by the 2019 CREATES Act, before this administration.",
+  "uncertain": "I found no Senate floor vote on S. 1095 after it was placed on the calendar in April 2025.",
+  "sources": [
+   {
+    "label": "S. 1095, Stop STALLING Act (reported in Senate)",
+    "publisher": "U.S. Government Publishing Office",
+    "type": "government",
+    "url": "https://www.govinfo.gov/app/details/BILLS-119s1095rs"
+   },
+   {
+    "label": "Public Law 116-94, Further Consolidated Appropriations Act, 2020 (sec. 610, CREATES Act)",
+    "publisher": "U.S. Government Publishing Office",
+    "type": "government",
+    "url": "https://www.govinfo.gov/app/details/PLAW-116publ94"
+   },
+   {
+    "label": "Klobuchar, Grassley introduce bipartisan bills on pay-for-delay deals and FDA petitions",
+    "publisher": "Office of Sen. Amy Klobuchar",
+    "type": "government",
+    "url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/3/klobuchar-grassley-introduce-bipartisan-bills-to-reduce-drug-prices-by-promoting-competition-and-taking-on-big-pharma"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-024",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no HHS action exempting multi-source generic drugs from Medicaid rebates. The July 2025 budget law's Medicaid changes did not include this.",
+  "closeness": "No matching action found.",
+  "uncertain": "I checked the July 2025 budget law (including the local copy of 119th Congress laws), Federal Register CMS rules, and the web. Draft bills in 2023 and 2024 would have exempted most generics from inflation rebates, but none became law.",
+  "sources": [
+   {
+    "label": "How will the One Big Beautiful Bill Act impact Medicaid?",
+    "publisher": "USAFacts",
+    "type": "news",
+    "url": "https://usafacts.org/articles/how-will-the-obbb-impact-medicaid/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-033",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no FDA or NIH rule requiring drugs and biologics to be made without cell lines from aborted fetuses. NIH's January 2026 policy ends funding for research using fetal tissue from elective abortions, but the notice does not mention cell lines.",
+  "closeness": "The NIH tissue policy is related (see ch14-036) but does not address cell lines in drug development, which is what this item asks.",
+  "uncertain": "I searched the Federal Register and the web for FDA or NIH cell-line policies in 2025-2026 and found none. News summaries say the NIH policy does not reach long-established cell lines.",
+  "sources": [
+   {
+    "label": "NIH Policy on Research Involving Human Fetal Tissue (NOT-OD-26-028)",
+    "publisher": "National Institutes of Health",
+    "type": "government",
+    "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-028.html"
+   },
+   {
+    "label": "NIH Ends Funding for Research Using Human Fetal Tissue (Jan. 25, 2026)",
+    "publisher": "HealthDay",
+    "type": "news",
+    "url": "https://www.healthday.com/health-news/public-health/nih-ends-funding-for-research-using-human-fetal-tissue"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-034",
+  "status": "under-review",
+  "match": "direct",
+  "happened": "On September 9, 2025, President Trump signed a memorandum directing HHS to act on drug advertising. The FDA sent about 100 cease-and-desist letters and thousands of warning letters to drug companies. In 2026 the FDA moved toward a rule ending the 'adequate provision' option that lets TV ads list only major risks; HHS's agenda expected a proposed rule by December 2026.",
+  "key_dates": [
+   {
+    "date": "Sep 9, 2025",
+    "event": "Presidential memorandum on drug advertising."
+   },
+   {
+    "date": "Dec 2026",
+    "event": "Proposed rule expected, per HHS agenda."
+   }
+  ],
+  "closeness": "Closely matches the call for tighter rules on drug ads. It works through FDA enforcement and rulemaking, not a new law, and the rule is not yet proposed in final form.",
+  "uncertain": "Whether the proposed rule has been published. Newest source is from July 2026.",
+  "sources": [
+   {
+    "label": "FDA Proposes to Eliminate Adequate Provision for Broadcast Prescription Drug Advertising",
+    "publisher": "Foley Hoag",
+    "type": "law-firm",
+    "url": "https://www.foleyhoag.com/news-and-insights/publications/alerts-and-updates/2026/july/fda-proposes-to-eliminate-adequate-provision-for-broadcast-prescription-drug-advertising/"
+   },
+   {
+    "label": "FDA Begins Crackdown on Direct-to-Consumer Pharmaceutical Advertising",
+    "publisher": "Latham & Watkins",
+    "type": "law-firm",
+    "url": "https://www.lw.com/en/insights/fda-begins-crackdown-on-direct-to-consumer-pharmaceutical-advertising"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-036",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "NIH's January 22, 2026 policy ended NIH funding, including in its own labs, for research using fetal tissue from elective abortions. A separate NIH notice paused review of new cell lines for the Human Embryonic Stem Cell Registry and asked the public how to reduce reliance on these cells; already-listed lines can still be used.",
+  "key_dates": [
+   {
+    "date": "Jan 22, 2026",
+    "event": "NIH fetal tissue policy takes effect."
+   },
+   {
+    "date": "Jan 2026",
+    "event": "NIH pauses new submissions to the stem cell registry."
+   }
+  ],
+  "closeness": "Matches the call to end NIH in-house fetal tissue research. Pausing new registry submissions is smaller than closing the registry.",
+  "uncertain": "Whether NIH will close the registry after its review could not be confirmed. Comments were due April 24, 2026.",
+  "sources": [
+   {
+    "label": "NIH Announces Major Policy Shift to End Use of Human Fetal Tissue in NIH-Supported Research",
+    "publisher": "National Institutes of Health",
+    "type": "government",
+    "url": "https://www.nih.gov/news-events/news-releases/nih-announces-major-policy-shift-end-use-human-fetal-tissue-nih-supported-research"
+   },
+   {
+    "label": "NIH Policy on Research Involving Human Fetal Tissue (NOT-OD-26-028)",
+    "publisher": "National Institutes of Health",
+    "type": "government",
+    "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-028.html"
+   },
+   {
+    "label": "NIH Pause on New Submissions to the NIH Human Embryonic Stem Cell Registry (NOT-OD-26-031)",
+    "publisher": "National Institutes of Health",
+    "type": "government",
+    "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-031.html"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-039",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "Congress kept two long-standing spending riders in its fiscal 2026 laws. One bars FDA from reviewing requests to test drugs in research that creates or changes a human embryo to include a heritable genetic change, which covers three-parent embryos (P.L. 119-37, November 2025). The other bars federal funds for creating embryos for research or research that destroys them (P.L. 119-75, February 2026). Both riders date from before January 20, 2025.",
+  "key_dates": [
+   {
+    "date": "2025-11-12",
+    "event": "P.L. 119-37 renews FDA embryo-modification rider (sec. 734)."
+   },
+   {
+    "date": "2026-02-03",
+    "event": "P.L. 119-75 renews embryo research funding rider (sec. 508)."
+   }
+  ],
+  "legal": "I found no court ruling.",
+  "closeness": "The riders block FDA review and federal funding but are not an outright ban on the research, and they were renewed, not newly created. No new ban on human cloning research was found.",
+  "uncertain": "I checked the local copy of 119th Congress laws. Whether privately funded research of this kind is going on is not known.",
+  "sources": [
+   {
+    "label": "Public Law 119-37 (continuing appropriations and FY2026 agriculture-FDA appropriations)",
+    "publisher": "U.S. Government Publishing Office",
+    "type": "government",
+    "url": "https://www.govinfo.gov/app/details/PLAW-119publ37"
+   },
+   {
+    "label": "Public Law 119-75, Consolidated Appropriations Act, 2026",
+    "publisher": "U.S. Government Publishing Office",
+    "type": "government",
+    "url": "https://www.govinfo.gov/app/details/PLAW-119publ75"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-041",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no rule or law setting term limits for top career leaders at NIH. Federal law gives institute directors five-year terms with no limit on reappointment. A March 2026 news report said a senior official described term limits as under discussion.",
+  "closeness": "No matching action found; the idea is only reported as under discussion.",
+  "uncertain": "I searched the Federal Register and the web. An HHS web document titled 'term limits' appeared in search results but could not be opened, so its date and scope are unknown. Newest source is from May 2026.",
+  "sources": [
+   {
+    "label": "Article on term limits for NIH institute directors (March 4, 2026)",
+    "publisher": "Undark",
+    "type": "news",
+    "url": "https://undark.org/2026/03/04/term-limits-nih/"
+   },
+   {
+    "label": "NIH leadership questions: 15 of 27 institutes have acting directors",
+    "publisher": "STAT",
+    "type": "news",
+    "url": "https://www.statnews.com/2026/05/20/nih-leadership-questions-15-of-27-institutes-acting-directors/"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "An HHS document titled 'term limits' (hhs.gov/sites/default/files/term-limits.pdf) could not be opened; confirm whether it sets terms for NIH career leaders."
+ },
+ {
+  "id": "ch14-043",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no action to shut down the CDC Foundation or the Foundation for the NIH. Both were created by law, so closing them would likely need Congress.",
+  "closeness": "No matching action found.",
+  "uncertain": "I searched the web, the Federal Register, and the local copy of 119th Congress laws for moves to close the CDC Foundation or the Foundation for the NIH and found none. Both were created by law, so closing them would likely need Congress.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-044",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "On January 20, 2025, Executive Order 14151 ordered agencies to end diversity, equity and inclusion offices and programs. NIH ended diversity-related grants in 2025 and added award terms in April 2025 barring funds for such programs. NIH Director Jay Bhattacharya has written that NIH dismantled its diversity structure, but I could not confirm when its Office of Equity, Diversity, and Inclusion closed.",
+  "key_dates": [
+   {
+    "date": "Jan 20, 2025",
+    "event": "Executive Order 14151 signed."
+   },
+   {
+    "date": "Apr 21, 2025",
+    "event": "NIH award terms bar funding for DEI programs."
+   }
+  ],
+  "closeness": "The order is government-wide and broader than the NIH-specific steps the chapter names.",
+  "uncertain": "The office's closure is known only from the NIH director's own op-ed; the office's website did not respond. No source on panel gender rules was found.",
+  "sources": [
+   {
+    "label": "Executive Order 14151: Ending Radical and Wasteful Government DEI Programs and Preferencing",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+   },
+   {
+    "label": "How we cured DEI at the National Institutes of Health",
+    "publisher": "The Spectator (op-ed by NIH Director Jay Bhattacharya and Matthew Memoli)",
+    "type": "news",
+    "url": "https://spectator.com/article/how-we-cured-dei-at-the-national-institutes-of-health/"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Confirm with an NIH source when the Office of Equity, Diversity, and Inclusion closed and whether panel gender rules ended."
+ },
+ {
+  "id": "ch14-046",
+  "status": "partly-blocked",
+  "match": "partial",
+  "happened": "In May 2025, CMS said it would audit every eligible Medicare Advantage contract each year (RADV audits), up from about 60. On September 25, 2025, a federal court vacated the 2023 RADV rule that let CMS extrapolate audit findings; CMS appealed in November 2025. In August 2026, CMS proposed a fast-track device coverage pathway (RAPID) similar in aim to the dropped MCIT rule.",
+  "key_dates": [
+   {
+    "date": "May 2025",
+    "event": "CMS announces expanded Medicare Advantage audits."
+   },
+   {
+    "date": "Sep 25, 2025",
+    "event": "Federal court vacates the 2023 RADV rule."
+   },
+   {
+    "date": "Nov 21, 2025",
+    "event": "CMS appeals the ruling."
+   },
+   {
+    "date": "Aug 11, 2026",
+    "event": "CMS proposes the RAPID coverage pathway."
+   }
+  ],
+  "legal": "U.S. District Court for the Northern District of Texas (Chief Judge Reed O'Connor) vacated the 2023 RADV final rule in Humana v. Becerra on September 25, 2025 (summary judgment). CMS appealed to the Fifth Circuit on November 21, 2025.",
+  "closeness": "The audit expansion and RAPID move toward two named items. RAPID is a new pathway, not MCIT itself, and a court struck the audit rule CMS relied on. No revived direct contracting model was found.",
+  "uncertain": "The Fifth Circuit appeal's status after early 2026 and the direct contracting model's status were not confirmed. Newest source is from August 2026.",
+  "sources": [
+   {
+    "label": "Medicare RAPID Coverage Pathway notice with comment period (Aug. 11, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16368/medicare-program-regulatory-alignment-for-predictable-and-immediate-device-rapid-coverage-pathway"
+   },
+   {
+    "label": "Court Vacates CMS's 2023 Final Rule on RADV Audits",
+    "publisher": "Crowell & Moring",
+    "type": "law-firm",
+    "url": "https://www.crowell.com/en/insights/client-alerts/court-vacates-cmss-2023-final-rule-on-radv-audits"
+   },
+   {
+    "label": "CMS Appeals Humana v. Becerra",
+    "publisher": "Crowell & Moring",
+    "type": "law-firm",
+    "url": "https://www.crowell.com/en/insights/client-alerts/cms-appeals-humana-v-becerra"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Check the Fifth Circuit status of the Humana v. Becerra appeal and whether CMS revived a direct contracting model."
+ },
+ {
+  "id": "ch14-047",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "In its November 2025 hospital outpatient rule, CMS began phasing out the Medicare inpatient-only list over three years, starting with 285 mostly bone and joint services in 2026. It added hundreds of procedures to the list allowed in surgery centers. It also began paying off-campus hospital clinics the lower doctor-office rate for drug administration, except rural sole community hospitals.",
+  "key_dates": [
+   {
+    "date": "Nov 25, 2025",
+    "event": "CY 2026 outpatient rule published."
+   },
+   {
+    "date": "Jan 1, 2029",
+    "event": "Inpatient-only list fully phased out, per the rule."
+   }
+  ],
+  "closeness": "Matches the inpatient-only list and surgery center parts directly. Equal pay across settings was applied only to drug administration, not all services.",
+  "uncertain": "I did not check for lawsuits by hospital groups over the payment cut. Newest source is from November 2025.",
+  "sources": [
+   {
+    "label": "CY 2026 Hospital Outpatient (OPPS) and Ambulatory Surgical Center final rule (Nov. 25, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/11/25/2025-20907/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-048",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "In January 2026, the HHS Office for Civil Rights rescinded 2021 guidance on the Church Amendments, a conscience law, and withdrew other 2021-2023 documents that had narrowed conscience protections. In May 2026, the White House budget office proposed grant rules saying federal grantees must respect conscience objections as the law requires. The 2019 conscience rule was not reissued that I could find.",
+  "key_dates": [
+   {
+    "date": "Jan 26, 2026",
+    "event": "OCR rescinds Church Amendments guidance and 2021 letters."
+   },
+   {
+    "date": "May 29, 2026",
+    "event": "OMB proposes grant rules that address conscience protections."
+   }
+  ],
+  "closeness": "These steps restore earlier readings of conscience laws. They are smaller than restoring and strengthening a full conscience rule, and do not name sex-change services directly.",
+  "uncertain": "I searched the Federal Register and the web and found no new HHS proposed conscience rule. Newest source is from May 2026.",
+  "sources": [
+   {
+    "label": "Rescission of Guidance on Nondiscrimination Protections Under the Church Amendments (Jan. 26, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/26/2026-01435/rescission-of-guidance-on-nondiscrimination-protections-under-the-church-amendments"
+   },
+   {
+    "label": "Rescission of Office for Civil Rights Documents Under Executive Order 14192 (Jan. 26, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/26/2026-01434/rescission-of-office-for-civil-rights-documents-under-executive-order-14192"
+   },
+   {
+    "label": "Regulation for Federal Financial Assistance (proposed rule, May 29, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-049",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not removed the Affordable Care Act limits on physician-owned hospitals. A bill to lift them, the Patient Access to Higher Quality Health Care Act of 2025 (H.R. 4002), was introduced but has had no floor vote. I found no change to these limits in recent Medicare hospital payment rules.",
+  "closeness": "No matching law found. The bill matches the idea but has not moved.",
+  "uncertain": "I searched the Federal Register (2026 outpatient and 2027 inpatient hospital rules), the web, and the local copy of 119th Congress laws. Newest source is from 2026.",
+  "sources": [
+   {
+    "label": "The legal minefield facing ASCs in 2026",
+    "publisher": "Becker's ASC Review",
+    "type": "news",
+    "url": "https://www.beckersasc.com/asc-news/the-legal-minefield-facing-ascs-in-2026/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-051",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no law switching Medicare Advantage to competitive bidding.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched the Federal Register and the web for laws, rules or CMS model tests moving Medicare Advantage to competitive bidding and found none. CMS's 2026 rate notice kept the formula-based method.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-053",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "Congress has not written price transparency rules into law, but CMS strengthened hospital price disclosure rules in November 2025. For 340B, HHS started a drug rebate pilot in 2025; a federal court in Maine paused it in December 2025 and vacated it in February 2026. HHS announced a revised pilot in August 2026, starting January 2027.",
+  "key_dates": [
+   {
+    "date": "Dec 29, 2025",
+    "event": "Court pauses 340B rebate pilot."
+   },
+   {
+    "date": "Aug 3, 2026",
+    "event": "HHS announces revised pilot for 2027."
+   }
+  ],
+  "legal": "In American Hospital Association v. Kennedy, the U.S. District Court for the District of Maine issued a preliminary injunction on Dec. 29, 2025, and vacated the 2025 pilot on Feb. 10, 2026.",
+  "closeness": "Price transparency was done by rule, not law. The 340B rebate pilot changes how discounts are paid, but it is not the patient-focused overhaul the chapter describes.",
+  "uncertain": "Whether the revised 340B pilot faces new lawsuits. Newest source is from August 2026.",
+  "sources": [
+   {
+    "label": "CY 2026 Hospital Outpatient (OPPS) and Ambulatory Surgical Center final rule (Nov. 25, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/11/25/2025-20907/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+   },
+   {
+    "label": "Notice Regarding 340B Rebate Model Pilot Program (Aug. 3, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15633/notice-regarding-340b-rebate-model-pilot-program"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-056",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "Most of these Part D changes were made by the 2022 Inflation Reduction Act, before this administration. Starting in 2025, the coverage gap ended, out-of-pocket costs are capped ($2,000 in 2025), and a new Manufacturer Discount Program makes drug makers pay more. CMS rules in 2025 carried this out.",
+  "key_dates": [
+   {
+    "date": "Jan 1, 2025",
+    "event": "Part D redesign under the 2022 law begins."
+   }
+  ],
+  "closeness": "The changes match the recommendation closely but came from a 2022 law, not from new action after January 2025.",
+  "uncertain": "I did not check the exact cost shares in the catastrophic phase. Newest source is from April 2025.",
+  "sources": [
+   {
+    "label": "CY 2026 Medicare Advantage and Part D final rule (Apr. 15, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06008/medicare-and-medicaid-programs-contract-year-2026-policy-and-technical-changes-to-the-medicare"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-060",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "The July 2025 budget law (P.L. 119-21) requires eligibility checks every six months for Medicaid expansion adults and adds steps to catch duplicate enrollment. It cuts federal payments to states whose payment error rates exceed 3 percent, and it caps the home equity limit for long-term care eligibility at $1 million. It also delayed a 2024 rule that made enrolling easier.",
+  "key_dates": [
+   {
+    "date": "Jul 4, 2025",
+    "event": "Budget law signed."
+   }
+  ],
+  "closeness": "Matches the push for stronger eligibility checks and state accountability, and the home equity cap tightens one asset test. It came from Congress, not CMS alone.",
+  "uncertain": "Exact effective dates vary by provision. I confirmed the provisions in the law's text (secs. 71106-71108).",
+  "sources": [
+   {
+    "label": "Public Law 119-21 (July 2025 reconciliation law)",
+    "publisher": "U.S. Government Publishing Office",
+    "type": "government",
+    "url": "https://www.govinfo.gov/app/details/PLAW-119publ21"
+   },
+   {
+    "label": "How will the One Big Beautiful Bill Act impact Medicaid?",
+    "publisher": "USAFacts",
+    "type": "news",
+    "url": "https://usafacts.org/articles/how-will-the-obbb-impact-medicaid/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-061",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no CMS 'personal option' letting families use Medicaid money to buy coverage outside Medicaid.",
+  "closeness": "No matching action found.",
+  "uncertain": "I searched Federal Register CMS documents and the web for a Medicaid 'personal option,' waiver approvals or model tests letting families use Medicaid money for outside coverage and found none.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-064",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no law letting states put Medicaid money into private family coverage with HSA-like accounts. The July 2025 budget law did not include this.",
+  "closeness": "No matching law found.",
+  "uncertain": "I checked the July 2025 budget law, the local copy of 119th Congress laws, and the web. I found no law or moving bill of this kind.",
+  "sources": [
+   {
+    "label": "How will the One Big Beautiful Bill Act impact Medicaid?",
+    "publisher": "USAFacts",
+    "type": "news",
+    "url": "https://usafacts.org/articles/how-will-the-obbb-impact-medicaid/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-065",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no CMS action letting states drop Medicaid benefit requirements without a waiver.",
+  "closeness": "No matching action found.",
+  "uncertain": "I searched Federal Register CMS documents and the web for CMS steps letting states drop Medicaid benefit requirements and found none.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-066",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no broad CMS step to let Medicaid payment changes happen without waivers or state plan amendments. In 2026 CMS issued rules to carry out the July 2025 budget law, such as limits on state-directed payments.",
+  "closeness": "The 2026 rules carry out new limits from Congress rather than giving states more room.",
+  "uncertain": "I searched Federal Register CMS documents and the web. CMS's 2026 rules (state-directed payments, work requirements) carry out the July 2025 law; I found no broad step to skip waivers or state plan amendments.",
+  "sources": [
+   {
+    "label": "Medicaid Managed Care State Directed Payments proposed rule (May 22, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10292/medicaid-program-medicaid-managed-care-state-directed-payments-and-medicaid-fee-for-service-targeted"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-068",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The No Surprises Act payment dispute process was not replaced. In June 2026, the Labor, HHS and Treasury departments finalized new rules to run that same process, effective August 3, 2026.",
+  "closeness": "The opposite direction: the dispute process was kept and updated.",
+  "uncertain": "Whether any bill to repeal the process is moving was not checked.",
+  "sources": [
+   {
+    "label": "Federal Independent Dispute Resolution Operations final rule (June 4, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11140/federal-independent-dispute-resolution-operations"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-072",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not written the expansion of association health plans, short-term plans or health reimbursement arrangements into law. In August 2025 the agencies said they would not prioritize enforcing the 2024 limits on short-term plans and would write new rules.",
+  "closeness": "The short-term plan step is an agency enforcement change, not a law.",
+  "uncertain": "I searched the local copy of the July 2025 budget law and found no change to health reimbursement arrangements or association plans. I found no new short-term plan rule in the Federal Register through October 2026.",
+  "sources": [
+   {
+    "label": "Statement on Short-Term, Limited-Duration Insurance (August 7, 2025)",
+    "publisher": "U.S. Department of Labor",
+    "type": "government",
+    "url": "https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/affordable-care-act/for-employers-and-advisers/short-term-limited-duration-insurance/stldi-statement-08-07-2025"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-076",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On January 24, 2025, Executive Order 14182 told agencies to stop using federal money to pay for or promote elective abortion. On July 11, 2025, the Justice Department's Office of Legal Counsel withdrew its 2022 opinion and concluded that the Hyde Amendment bars HHS funds for travel and other services needed to get an abortion.",
+  "key_dates": [
+   {
+    "date": "Jan 24, 2025",
+    "event": "Executive Order 14182 signed."
+   },
+   {
+    "date": "Jul 11, 2025",
+    "event": "Office of Legal Counsel withdraws its 2022 opinion."
+   }
+  ],
+  "closeness": "Matches the call to withdraw the legal opinion. I did not find a CMS notice withdrawing specific Medicaid travel guidance or waivers.",
+  "uncertain": "Whether CMS issued its own withdrawal notice could not be confirmed. Newest source is from October 2025.",
+  "sources": [
+   {
+    "label": "Reconsidering the Application of the Hyde Amendment to the Provision of Transportation for Women Seeking Abortions (July 11, 2025)",
+    "publisher": "U.S. Department of Justice, Office of Legal Counsel",
+    "type": "government",
+    "url": "https://www.justice.gov/olc/media/1408241/dl"
+   },
+   {
+    "label": "Executive Order 14182: Enforcing the Hyde Amendment",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02175/enforcing-the-hyde-amendment"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-081",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no rule bringing back the requirement that ACA insurers collect a separate payment for abortion coverage. The Trump-era rule from December 2019, before January 20, 2025, was set aside by federal courts in 2020 and repealed in 2021. The 2027 ACA payment rule did not restore it.",
+  "closeness": "No matching action found since January 20, 2025.",
+  "uncertain": "I searched the Federal Register (including the 2027 ACA payment rule) and the web and found no 2025-2026 proposal to restore separate billing.",
+  "sources": [
+   {
+    "label": "California v. HHS, order granting summary judgment on the 2019 separate-billing rule",
+    "publisher": "U.S. District Court, N.D. Cal. (via California Attorney General)",
+    "type": "court",
+    "url": "https://oag.ca.gov/system/files/attachments/press-docs/1303%20Rule_California%20et%20al%20v.%20HHS%20et%20al_Order%20Granting%20MSJ.pdf"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-084",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "I found no new Medicare national coverage decision on gender surgery. CMS acted in other ways: in August 2026 it barred federal Medicaid and CHIP funding for such procedures for those under 18, and in December 2025 it proposed barring hospitals in Medicare from doing them on children.",
+  "key_dates": [
+   {
+    "date": "Dec 19, 2025",
+    "event": "Hospital condition of participation proposed."
+   },
+   {
+    "date": "Aug 13, 2026",
+    "event": "Medicaid funding bar finalized."
+   }
+  ],
+  "legal": "Several states sued CMS over the August 2026 Medicaid funding rule in the U.S. District Court for the District of Massachusetts, reportedly on September 2, 2026, claiming it violates the Administrative Procedure Act. I found no ruling yet.",
+  "closeness": "These actions cover minors in Medicaid and hospitals. The recommendation is about Medicare coverage for adults. CMS's 2016 decision not to set a national Medicare coverage rule was never replaced, so it remains in place.",
+  "uncertain": "I found no new Medicare national coverage decision. The hospital rule had not been finalized as of August 2026. The lawsuit's filing date comes from news reports. Newest source is from August 2026.",
+  "sources": [
+   {
+    "label": "Medicaid final rule: Prohibition on Federal Medicaid and CHIP Funding for Sex-Rejecting Procedures Furnished to Children (Aug. 13, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for"
+   },
+   {
+    "label": "Proposed rule: Hospital Condition of Participation Prohibiting Sex-Rejecting Procedures for Children (Dec. 19, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/12/19/2025-23465/medicare-and-medicaid-programs-hospital-condition-of-participation-prohibiting-sex-rejecting"
+   },
+   {
+    "label": "Trump Gender Care Funding Rule Hit With Lawsuit From States",
+    "publisher": "Bloomberg Government",
+    "type": "news",
+    "url": "https://news.bgov.com/health-law-and-business/trump-gender-care-funding-rule-hit-with-lawsuit-from-states"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-085",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no new HHS rule or program since January 20, 2025 to investigate cases of infants born alive after abortion under EMTALA or disability law. Earlier, before January 20, 2025, CMS issued guidance in 2019 that withholding care from a born-alive infant may violate EMTALA, and Executive Order 13952 (September 2020) told HHS to investigate such complaints.",
+  "closeness": "No matching action found since January 20, 2025. The closest steps, the 2019 guidance and the 2020 order, came during the first Trump administration.",
+  "uncertain": "I searched the Federal Register and the web. Whether HHS is using the 2020 order to investigate complaints now is not known.",
+  "sources": [
+   {
+    "label": "Emergency Medical Treatment and Labor Act (EMTALA) and Born-Alive Infant Protection Act guidance",
+    "publisher": "U.S. Department of Health and Human Services",
+    "type": "government",
+    "url": "https://www.hhs.gov/guidance/document/emergency-medical-treatment-and-labor-act-emtala-and-born-alive-infant-protection-act"
+   },
+   {
+    "label": "Executive Order 13952: Protecting Vulnerable Newborn and Infant Children (2020)",
+    "publisher": "U.S. Government Publishing Office",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202000725/html/DCPD-202000725.htm"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-086",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The Born-Alive Abortion Survivors Protection Act has not become law. On January 22, 2025, a Senate vote to begin debate on it (S. 6) failed 52-47, short of the 60 votes needed.",
+  "closeness": "No matching law found. The bill was attempted but stopped in the Senate.",
+  "uncertain": "I searched the web and the local copy of 119th Congress laws. Whether the House voted on its version (H.R. 21) in 2025-2026 could not be confirmed.",
+  "sources": [
+   {
+    "label": "US SB6 (2025-2026), Born-Alive Abortion Survivors Protection Act",
+    "publisher": "LegiScan",
+    "type": "news",
+    "url": "https://legiscan.com/US/bill/SB6/2025"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-090",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "CMS withdrew its COVID-19 vaccine requirement for health care staff in a June 5, 2023 rule, before this administration. I found no new federal mask mandate for health facilities.",
+  "key_dates": [
+   {
+    "date": "Jun 5, 2023",
+    "event": "CMS withdraws the staff vaccine rule."
+   }
+  ],
+  "closeness": "Matches the result the chapter wanted, but it was done in 2023 by the previous administration.",
+  "uncertain": "Mask mandate status was checked only in the Federal Register.",
+  "sources": [
+   {
+    "label": "CMS rule withdrawing the COVID-19 health care staff vaccination requirements (June 5, 2023)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2023/06/05/2023-11449/medicare-and-medicaid-programs-policy-and-regulatory-changes-to-the-omnibus-covid-19-health-care"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-091",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no CMS program to pay damages to health workers fired under the COVID-19 vaccine requirement. A January 27, 2025 executive order offered reinstatement and back pay to service members discharged under the military's vaccine mandate, but it does not cover health workers.",
+  "closeness": "No matching action found. The military order is a similar idea for a different group.",
+  "uncertain": "I searched the Federal Register and the web. Some employers and state courts have offered back pay or rehiring, but I found no federal program for health workers.",
+  "sources": [
+   {
+    "label": "Reinstating Service Members Discharged Under the Military's COVID-19 Vaccination Mandate",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02180/reinstating-service-members-discharged-under-the-militarys-covid-19-vaccination-mandate"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-092",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "TANF work rules were not extended to all noncash benefits. Instead, the July 2025 budget law added Medicaid work requirements for expansion adults starting by 2027. In April 2026, ACF proposed tightening how states calculate TANF work participation rates.",
+  "key_dates": [
+   {
+    "date": "Apr 6, 2026",
+    "event": "TANF work rate rule proposed."
+   },
+   {
+    "date": "Jan 1, 2027",
+    "event": "Medicaid work requirement deadline."
+   }
+  ],
+  "closeness": "Same goal of more work requirements, but through Medicaid and TANF rate rules, not the $50-a-month noncash rule.",
+  "uncertain": "SNAP work requirement changes in the 2025 law were not checked with a source.",
+  "sources": [
+   {
+    "label": "Medicaid Program; Community Engagement Requirement for Certain Individuals (interim final rule)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/06/03/2026-11094/medicaid-program-community-engagement-requirement-for-certain-individuals"
+   },
+   {
+    "label": "Proposed rule: TANF Work Participation Rate Calculation Changes (Apr. 6, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06632/work-participation-rate-calculation-changes-recalibration-of-the-caseload-reduction-credit-and"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-094",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "In June 2026, HHS canceled 53 of 67 Teen Pregnancy Prevention Program grants, worth about $68 million, saying they did not fit agency priorities. One grantee's letter said its program 'normalizes or promotes sexual activity for minors.' HHS opened new grant competitions that require an alignment review. I found no change giving sexual risk avoidance programs equal funding.",
+  "key_dates": [
+   {
+    "date": "2026-06",
+    "event": "HHS cancels most Teen Pregnancy Prevention grants and opens new competitions."
+   }
+  ],
+  "legal": "I found no court ruling on the 2026 cancellations.",
+  "closeness": "The cancellations match the call to stop teen pregnancy grants to programs seen as promoting risky behavior. Equal funding for sexual risk avoidance programs was not found.",
+  "uncertain": "Whether grantees sued over the June 2026 cancellations could not be confirmed. Newest source is from June 2026.",
+  "sources": [
+   {
+    "label": "Federal health agency cancels most of its teen pregnancy prevention grants",
+    "publisher": "States Newsroom (Idaho Capital Sun)",
+    "type": "news",
+    "url": "https://idahocapitalsun.com/2026/06/29/repub/federal-health-agency-cancels-most-of-its-teen-pregnancy-prevention-grants/"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Check for lawsuits over the June 2026 Teen Pregnancy Prevention grant cancellations, and confirm with an HHS source."
+ },
+ {
+  "id": "ch14-096",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "The 2016 grant rule's sexual orientation and gender identity conditions were removed by a 2024 HHS grants rule, before this administration. In January 2026, HHS's Office for Civil Rights noted that removal and withdrew 2021 letters that had ended religious exemptions for foster care agencies.",
+  "key_dates": [
+   {
+    "date": "2024",
+    "event": "HHS grants rule removes the conditions."
+   },
+   {
+    "date": "Jan 26, 2026",
+    "event": "OCR withdraws 2021 letters."
+   }
+  ],
+  "closeness": "The rule part was removed in 2024 by the prior administration; the 2026 notice addresses the faith-based agency concern.",
+  "uncertain": "I did not read the 2024 grants rule itself; the removal is described in the 2026 notice.",
+  "sources": [
+   {
+    "label": "Rescission of Office for Civil Rights Documents Under Executive Order 14192 (Jan. 26, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/26/2026-01434/rescission-of-office-for-civil-rights-documents-under-executive-order-14192"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-097",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no record that Congress passed the Child Welfare Provider Inclusion Act.",
+  "closeness": "No matching law found. A November 2025 executive order told HHS to address state policies that exclude faith-based providers, which is related.",
+  "uncertain": "I searched the web and the local copy of 119th Congress laws. The bill was last introduced in November 2023 (S. 3344, H.R. 6485); I found no 2025-2026 version.",
+  "sources": [
+   {
+    "label": "Executive Order 14359: Fostering the Future for American Children and Families",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/11/19/2025-20406/fostering-the-future-for-american-children-and-families"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-098",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The Office of Refugee Resettlement has not been moved to DHS. Separately, the Justice Department asked a court in May 2025 to end the Flores settlement on migrant children; the judge denied that in August 2025.",
+  "closeness": "No move found. The Flores effort is a related action (see ch14-099).",
+  "uncertain": "I searched the Federal Register and the web for bills or plans to move ORR to DHS. A bill to move unaccompanied children's care to DHS was introduced in 2021 (H.R. 4201), before January 20, 2025; I found no 2025-2026 version.",
+  "sources": [
+   {
+    "label": "Judge denies Trump administration request to end a policy protecting immigrant children in custody (AP)",
+    "publisher": "Spectrum News",
+    "type": "news",
+    "url": "https://spectrumlocalnews.com/ca/california/politics/2025/08/16/judge-denies-trump-administration-request-to-end-a-policy-protecting-immigrant-children-in-custody"
+   },
+   {
+    "label": "Trump administration seeks to end court settlement protecting migrant children in U.S. custody",
+    "publisher": "CBS News",
+    "type": "news",
+    "url": "https://www.cbsnews.com/amp/news/trump-administration-seeks-to-end-flores-agreement"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-100",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On July 11, 2025, the Justice Department's Office of Legal Counsel withdrew a 2022 opinion that had let HHS, including the Office of Refugee Resettlement, use federal funds for transportation for minors seeking abortions. It concluded the Hyde Amendment bars such funds. In July 2025, ORR reportedly began placing pregnant minors in its care at one shelter in San Benito, Texas.",
+  "key_dates": [
+   {
+    "date": "Jul 11, 2025",
+    "event": "OLC withdraws its 2022 opinion."
+   },
+   {
+    "date": "Jul 22, 2025",
+    "event": "ORR directive reportedly sends pregnant minors to a Texas shelter."
+   }
+  ],
+  "closeness": "This removes the legal basis for paying for transport (same opinion as ch14-076). I could not confirm that ORR formally rewrote its own abortion policy.",
+  "uncertain": "ORR's policy guide changes and the shelter directive are known from secondary sources. Newest source is from 2025.",
+  "sources": [
+   {
+    "label": "Reconsidering the Application of the Hyde Amendment to the Provision of Transportation for Women Seeking Abortions (July 11, 2025)",
+    "publisher": "U.S. Department of Justice, Office of Legal Counsel",
+    "type": "government",
+    "url": "https://www.justice.gov/olc/media/1408241/dl"
+   },
+   {
+    "label": "Trump administration moves pregnant minors in immigration detention to states with restrictions on abortion access",
+    "publisher": "Immigration Policy Tracking Project",
+    "type": "academic",
+    "url": "https://immpolicytracking.org/policies/trump-administration-moves-pregnant-minors-in-immigration-detention-to-states-with-restrictions-on-abortion-access/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-101",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no child support tax credit in the July 2025 budget law or other tax law.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched the text of the July 2025 budget law (P.L. 119-21) and the other 119th Congress laws for a child support credit and found none.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-108",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no federal policy to speed ending parental rights in foster care cases. A November 2025 executive order on foster care focused on technology, partnerships and faith-based providers. ACF continues fatherhood grant programs.",
+  "closeness": "The order is about foster care broadly and does not address parental rights termination.",
+  "uncertain": "I searched the Federal Register for ACF guidance on ending parental rights in foster care and found none; Executive Order 14359 does not address it.",
+  "sources": [
+   {
+    "label": "Executive Order 14359: Fostering the Future for American Children and Families",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/11/19/2025-20406/fostering-the-future-for-american-children-and-families"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-113",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no law treating a telehealth visit as happening where the provider is located. A 2025 bill for college students' mental health care (H.R. 5357) would treat some telehealth services as provided in the student's home state, but it has only been introduced.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched the web and the local copy of 119th Congress laws; recent telehealth laws extended Medicare flexibilities but did not change where a visit is deemed to happen.",
+  "sources": [
+   {
+    "label": "H.R. 5357, College Students Continuation of Mental Health Care Act of 2025 (introduced)",
+    "publisher": "U.S. Government Publishing Office",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5357ih/html/BILLS-119hr5357ih.htm"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-114",
+  "status": "blocked",
+  "match": "direct",
+  "happened": "The Trump-era religious and moral exemptions to the ACA birth control coverage rule remained the federal policy. On August 13, 2025, a federal court in Pennsylvania vacated those exemption rules in a case brought by Pennsylvania and New Jersey. The administration appealed, and the Third Circuit heard arguments in July 2026.",
+  "key_dates": [
+   {
+    "date": "Aug 13, 2025",
+    "event": "District court vacates the exemption rules."
+   },
+   {
+    "date": "Jul 7, 2026",
+    "event": "Third Circuit hears the appeal."
+   }
+  ],
+  "legal": "U.S. District Court for the Eastern District of Pennsylvania vacated the rules (final ruling) on Aug. 13, 2025 in Pennsylvania v. Trump. The Third Circuit heard the appeal (No. 25-2575) on July 7, 2026; I found no appeals ruling as of late October 2026.",
+  "closeness": "The administration kept and defended the exemptions as the chapter asks, but a court struck them down.",
+  "uncertain": "I found no report that the district ruling was paused during the appeal. Whether the 2023 proposed rule was formally withdrawn is not known. Newest source is from July 2026.",
+  "sources": [
+   {
+    "label": "U.S. Court in Pennsylvania Strikes Religious Exemption Rules",
+    "publisher": "American Health Law Association",
+    "type": "academic",
+    "url": "https://www.americanhealthlaw.org/content-library/health-law-weekly/article/3bdd4ac5-885f-4e14-94a8-cc9849d185bb/U-S-Court-in-Pennsylvania-Strikes-Religious-Exempt"
+   },
+   {
+    "label": "Appeals Court Presses States, Trump on ACA Religious Exemption",
+    "publisher": "Bloomberg Law",
+    "type": "news",
+    "url": "https://news.bloomberglaw.com/health-law-and-business/appeals-court-presses-states-trump-on-aca-religious-exemption"
+   },
+   {
+    "label": "Little Sisters argue contraception mandate case before 3rd Circuit as long fight continues",
+    "publisher": "National Catholic Register (CNA)",
+    "type": "news",
+    "url": "https://www.ncregister.com/cna/little-sisters-argue-contraception-mandate-case-before-3rd-circuit-as-long-fight-continues"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-115",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "HRSA used public comment when it updated the women's preventive services guidelines: it asked for comments in October 2025 and published the update in January 2026. I found no rule requiring formal notice-and-comment rulemaking for these guidelines.",
+  "key_dates": [
+   {
+    "date": "Jan 5, 2026",
+    "event": "HRSA publishes guideline update."
+   }
+  ],
+  "closeness": "Public comment was used, but not the formal rulemaking the chapter calls for.",
+  "uncertain": "I checked the Federal Register for HRSA notices and rules. HRSA's guidelines are issued by notice, not through a formal rule; I found no plan to change that.",
+  "sources": [
+   {
+    "label": "Update to the Women's Preventive Services Guidelines (Jan. 5, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/05/2025-24235/update-to-the-womens-preventive-services-guidelines"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-119",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no HRSA action removing ella (ulipristal acetate) from required birth control coverage. HRSA's January 2026 update to the women's preventive guidelines concerned cervical cancer screening.",
+  "closeness": "No matching action found.",
+  "uncertain": "I searched Federal Register HRSA notices and the web for 2025-2026 changes to ella's coverage and found none. Ella was still listed among covered methods in the guidelines I could find.",
+  "sources": [
+   {
+    "label": "Update to the Women's Preventive Services Guidelines (Jan. 5, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/05/2025-24235/update-to-the-womens-preventive-services-guidelines"
+   },
+   {
+    "label": "The Future of Contraceptive Coverage",
+    "publisher": "KFF",
+    "type": "academic",
+    "url": "https://www.kff.org/womens-health-policy/issue-brief/the-future-of-contraceptive-coverage/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-122",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no HHS investigation of medical schools under the Coats-Snowe Amendment or new guidance making abortion training opt-in. In March 2026, HHS did open an investigation of 13 states over laws requiring insurers to cover abortion, under a different conscience law (the Weldon Amendment).",
+  "closeness": "No matching action found. The March 2026 investigation concerns insurance coverage, not medical training.",
+  "uncertain": "I searched the Federal Register and the web for Coats-Snowe enforcement in 2025-2026 and found none.",
+  "sources": [
+   {
+    "label": "HHS to investigate 13 states that require insurers to cover abortions",
+    "publisher": "Stateline",
+    "type": "news",
+    "url": "https://stateline.org/2026/03/20/repub/hhs-to-investigate-13-states-that-require-insurers-to-cover-abortions/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-123",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no federal shift of child care money toward paying parents to stay home or pay relatives instead of day care. The July 2025 budget law raised the child and dependent care tax credit and the tax-free limit for employer dependent care benefits, which help working parents pay for care.",
+  "closeness": "No matching action found. The 2025 tax changes support paid child care for working parents rather than parents staying home.",
+  "uncertain": "I checked Federal Register ACF documents and the text of the July 2025 budget law (secs. 70404-70405).",
+  "sources": [
+   {
+    "label": "Public Law 119-21 (July 2025 reconciliation law)",
+    "publisher": "U.S. Government Publishing Office",
+    "type": "government",
+    "url": "https://www.govinfo.gov/app/details/PLAW-119publ21"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-126",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no new program giving American Indian and Alaska Native patients broad private care options outside the Indian Health Service, such as a MISSION Act-style program.",
+  "closeness": "No matching action found.",
+  "uncertain": "I checked Federal Register IHS notices and searched the local copy of 119th Congress laws for Indian Health Service changes; none creates a MISSION Act-style private care program.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-128",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no law setting a time limit on public health emergency declarations. The Public Health Improvement Act (S. 999), introduced in March 2025, would require Congress to approve extended emergency declarations, but it has not moved past committee.",
+  "closeness": "No matching law found. The bill matches the idea but has only been introduced.",
+  "uncertain": "I searched the web and the local copy of 119th Congress laws. Latest status found for S. 999 is referral to committee.",
+  "sources": [
+   {
+    "label": "S. 999, Public Health Improvement Act (introduced)",
+    "publisher": "U.S. Government Publishing Office",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s999is/html/BILLS-119s999is.htm"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-129",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no law writing the HHS SUNSET rule into law, and HHS did not reissue the rule that I could find.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched Federal Register HHS documents twice for a SUNSET-style rule and the local copy of 119th Congress laws, and found none. Introduced bills could not be fully checked.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-131",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "On January 24, 2025, Executive Order 14182 revoked the 2022 orders on reproductive health care access that guided HHS's related work. I could not confirm that the HHS Reproductive Healthcare Access Task Force was disbanded, and I found no pro-life task force. An October 2026 order created a White House Women's Health Task Force focused on research.",
+  "key_dates": [
+   {
+    "date": "Jan 24, 2025",
+    "event": "Executive Order 14182 signed."
+   }
+  ],
+  "closeness": "Revoking the orders removes the policy base for the task force, but closing it and creating a pro-life task force were not confirmed.",
+  "uncertain": "I searched the web for news that the HHS Reproductive Healthcare Access Task Force was disbanded and found none; I also found no pro-life task force.",
+  "sources": [
+   {
+    "label": "Executive Order 14182: Enforcing the Hyde Amendment",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02175/enforcing-the-hyde-amendment"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Confirm with an HHS source whether the Reproductive Healthcare Access Task Force was formally ended."
+ },
+ {
+  "id": "ch14-136",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The Assistant Secretary for Health and Surgeon General jobs were not merged. Both remain separate positions created by law.",
+  "closeness": "No matching action found.",
+  "uncertain": "I checked HHS organization notices in the Federal Register and the local copy of 119th Congress laws; no law merges the two jobs. Introduced bills could not be fully checked.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-137",
+  "status": "partly-blocked",
+  "match": "direct",
+  "happened": "On January 28, 2025, Executive Order 14187 told agencies to stop supporting gender transition treatments for people under 19. A federal court blocked the order's funding conditions in March 2025. CMS later barred federal Medicaid and CHIP funding for these procedures for minors (final rule August 2026, effective October 13, 2026) and proposed a hospital rule in December 2025.",
+  "key_dates": [
+   {
+    "date": "Jan 28, 2025",
+    "event": "Executive Order 14187 signed."
+   },
+   {
+    "date": "Mar 4, 2025",
+    "event": "Federal court blocks the order's funding conditions nationwide."
+   },
+   {
+    "date": "Aug 13, 2026",
+    "event": "Medicaid funding bar finalized."
+   },
+   {
+    "date": "Sep 2026",
+    "event": "States sue over the Medicaid rule."
+   }
+  ],
+  "legal": "U.S. District Court for the District of Maryland issued a nationwide preliminary injunction on March 4, 2025 (PFLAG v. Trump) barring agencies from cutting funding based on the order; the Fourth Circuit denied a stay in April 2026 and the appeal is pending. States sued over the August 2026 Medicaid rule in the District of Massachusetts in September 2026; no ruling found.",
+  "closeness": "Matches the direction for minors. Part of the order is blocked in court, and I did not confirm that the Office of the Assistant Secretary for Health formally withdrew past recommendations.",
+  "uncertain": "Whether the Fourth Circuit has ruled on the merits, and OASH's own steps, could not be confirmed. Newest source is from August 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14187: Protecting Children From Chemical and Surgical Mutilation",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02194/protecting-children-from-chemical-and-surgical-mutilation"
+   },
+   {
+    "label": "Medicaid final rule: Prohibition on Federal Medicaid and CHIP Funding for Sex-Rejecting Procedures Furnished to Children (Aug. 13, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for"
+   },
+   {
+    "label": "PFLAG, Inc. v. Trump (case page)",
+    "publisher": "Civil Rights Litigation Clearinghouse",
+    "type": "academic",
+    "url": "https://clearinghouse.net/case/46028/"
+   },
+   {
+    "label": "Trump Gender Care Funding Rule Hit With Lawsuit From States",
+    "publisher": "Bloomberg Government",
+    "type": "news",
+    "url": "https://news.bgov.com/health-law-and-business/trump-gender-care-funding-rule-hit-with-lawsuit-from-states"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Check the Fourth Circuit merits ruling in PFLAG v. Trump and any OASH withdrawal of past recommendations."
+ },
+ {
+  "id": "ch14-146",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On July 11, 2025, the Justice Department's Office of Legal Counsel withdrew its 2022 opinion on federal funding of abortion-related costs and concluded the Hyde Amendment bars them. In December 2025 it also issued an opinion that the VA lacks authority to provide abortions, replacing a 2022 opinion, and the VA ended that care by rule. I found no withdrawal of an opinion on abortions on federal enclaves.",
+  "key_dates": [
+   {
+    "date": "Jul 11, 2025",
+    "event": "New OLC opinion on abortion-related costs."
+   },
+   {
+    "date": "Dec 18, 2025",
+    "event": "OLC rescinds VA abortion opinion."
+   }
+  ],
+  "closeness": "Matches the Hyde Amendment part. The federal enclave part was not found.",
+  "uncertain": "I read the July 2025 opinion and the VA rule, which cites the new VA opinion. I could not identify the federal enclave opinion the chapter refers to. Newest source is from December 2025.",
+  "sources": [
+   {
+    "label": "Reconsidering the Application of the Hyde Amendment to the Provision of Transportation for Women Seeking Abortions (July 11, 2025)",
+    "publisher": "U.S. Department of Justice, Office of Legal Counsel",
+    "type": "government",
+    "url": "https://www.justice.gov/olc/media/1408241/dl"
+   },
+   {
+    "label": "VA final rule: Reproductive Health Services (Dec. 31, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/12/31/2025-24061/reproductive-health-services"
+   },
+   {
+    "label": "DOJ rescinds prior opinion on VA's ability to provide abortion services",
+    "publisher": "Center for Reproductive Rights",
+    "type": "advocacy",
+    "url": "https://reproductiverights.org/news/doj-rescinds-prior-opinion-on-vas-ability-to-provide-abortion-services/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-153",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "In June 2026, HHS reorganized its Office for Civil Rights and kept a Conscience and Religious Freedom Division, led by a deputy director, to enforce conscience and religious freedom laws. In January 2026 the office withdrew earlier guidance that had narrowed conscience protections, and in March 2026 HHS opened an investigation of 13 states over laws requiring insurers to cover abortion.",
+  "key_dates": [
+   {
+    "date": "Jan 26, 2026",
+    "event": "OCR withdraws Church Amendments guidance."
+   },
+   {
+    "date": "Mar 2026",
+    "event": "HHS opens conscience investigation of 13 states."
+   },
+   {
+    "date": "Jun 28, 2026",
+    "event": "OCR reorganization takes effect."
+   }
+  ],
+  "closeness": "The division was kept, its role restated, and enforcement stepped up. I could not confirm new funding or staffing.",
+  "uncertain": "Funding and staff levels for the division were not found in public sources. Newest source is from June 2026.",
+  "sources": [
+   {
+    "label": "HHS Office for Civil Rights: Statement of Organization, Functions, and Delegations of Authority (June 30, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/06/30/2026-13142/statement-of-organization-functions-and-delegations-of-authority"
+   },
+   {
+    "label": "Rescission of Guidance on Nondiscrimination Protections Under the Church Amendments (Jan. 26, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/26/2026-01435/rescission-of-guidance-on-nondiscrimination-protections-under-the-church-amendments"
+   },
+   {
+    "label": "HHS to investigate 13 states that require insurers to cover abortions",
+    "publisher": "Stateline",
+    "type": "news",
+    "url": "https://stateline.org/2026/03/20/repub/hhs-to-investigate-13-states-that-require-insurers-to-cover-abortions/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-154",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "HHS has moved toward enforcement: in January 2026 it withdrew a 2021 letter that dropped a finding against California under the Weldon Amendment, and sent Illinois a letter claiming violations. In March 2026 it opened investigations of 13 states that require abortion coverage. I found no funds actually withheld.",
+  "key_dates": [
+   {
+    "date": "Jan 26, 2026",
+    "event": "OCR withdraws 2021 California letter."
+   },
+   {
+    "date": "Mar 2026",
+    "event": "Investigations of 13 states opened."
+   }
+  ],
+  "closeness": "Investigations are under way, but funding has not been cut as the chapter asks.",
+  "uncertain": "Outcomes of the investigations. Newest source is from March 2026.",
+  "sources": [
+   {
+    "label": "Rescission of Office for Civil Rights Documents Under Executive Order 14192 (Jan. 26, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/26/2026-01434/rescission-of-office-for-civil-rights-documents-under-executive-order-14192"
+   },
+   {
+    "label": "HHS to investigate 13 states that require insurers to cover abortions",
+    "publisher": "Stateline (States Newsroom)",
+    "type": "news",
+    "url": "https://stateline.org/2026/03/20/repub/hhs-to-investigate-13-states-that-require-insurers-to-cover-abortions/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-156",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "In January 2026, HHS's Office for Civil Rights withdrew 2021 letters that had ended religious exemptions for faith-based foster care agencies in Michigan, Texas and South Carolina. Those exemptions were first granted in 2019 and 2020, before January 20, 2025. A November 2025 executive order told HHS to address state rules that exclude faith-based child welfare providers.",
+  "key_dates": [
+   {
+    "date": "Nov 13, 2025",
+    "event": "Executive Order 14359 signed."
+   },
+   {
+    "date": "Jan 26, 2026",
+    "event": "2021 letters withdrawn."
+   }
+  ],
+  "closeness": "Withdrawing the 2021 letters moves toward restoring the earlier waivers. I found no new waivers or a policy of granting them to all who ask.",
+  "uncertain": "I searched the Federal Register and the web and found no new 2025-2026 waiver grants. Whether the withdrawal fully restores the earlier waivers is not clear.",
+  "sources": [
+   {
+    "label": "Rescission of Office for Civil Rights Documents Under Executive Order 14192 (Jan. 26, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/26/2026-01434/rescission-of-office-for-civil-rights-documents-under-executive-order-14192"
+   },
+   {
+    "label": "Executive Order 14359: Fostering the Future for American Children and Families",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/11/19/2025-20406/fostering-the-future-for-american-children-and-families"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-158",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "In 2025, HHS rescinded Biden-era guidance that read sex discrimination under Section 1557 to include sexual orientation and gender identity. In June 2026, it published a notice that it will not enforce the 2024 rule's gender identity provisions, after a court struck them down.",
+  "key_dates": [
+   {
+    "date": "2025",
+    "event": "Section 1557 guidance rescinded."
+   },
+   {
+    "date": "Jun 2, 2026",
+    "event": "Notice on gender identity provisions."
+   }
+  ],
+  "closeness": "Matches the call to withdraw the guidance. Same actions as ch14-088 and ch14-159.",
+  "uncertain": "I did not confirm that the 2022 statement on state limits on youth gender treatment was named in the rescission.",
+  "sources": [
+   {
+    "label": "On the Basis of Sex: HHS Rescinds Prior Section 1557 Guidance",
+    "publisher": "Morgan Lewis",
+    "type": "law-firm",
+    "url": "https://www.morganlewis.com/pubs/2025/06/on-the-basis-of-sex-hhs-rescinds-prior-section-1557-guidance-interpreting-sex-based-discrimination"
+   },
+   {
+    "label": "Notice of Vacatur Regarding Certain Provisions of the 2024 Section 1557 Rule (June 2, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11015/notice-of-vacatur-regarding-certain-provisions-of-the-2024-nondiscrimination-in-health-programs-and"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-160",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On March 7, 2025, the HHS Office for Civil Rights said it would investigate four medical schools and hospitals over complaints that they ran education or scholarship programs based on race or sex, under Title VI and Section 1557. I found no formal policy refocusing Section 1557 enforcement or new born-alive cases.",
+  "key_dates": [
+   {
+    "date": "2025-03-07",
+    "event": "OCR announces investigations of medical schools and hospitals."
+   }
+  ],
+  "legal": "I found no court ruling.",
+  "closeness": "The investigations match the chapter's call to pursue race-based policies. Other parts, such as protections for infants born alive, were not found (see ch14-085).",
+  "uncertain": "The schools were not named in the source I read, and the outcomes are not known. Newest source is from March 2025.",
+  "sources": [
+   {
+    "label": "HHS OCR Investigates Medical Schools and Hospitals for Race- or Sex-Based Programs",
+    "publisher": "McDermott Will & Schulte",
+    "type": "law-firm",
+    "url": "https://www.mcdermottlaw.com/insights/hhs-ocr-investigates-medical-schools-and-hospitals/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-161",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "HHS's May 2024 disability rule, issued by the prior administration, already barred some discriminatory medical treatment decisions and certain uses of value measures like QALYs. In December 2025 this administration proposed changing only one part of that rule, about gender dysphoria. I found no rule on assisted suicide.",
+  "key_dates": [
+   {
+    "date": "Dec 19, 2025",
+    "event": "HHS proposes revising one part of the disability rule."
+   }
+  ],
+  "closeness": "Much of what the chapter asks was finalized in 2024, before this administration. The assisted suicide part was not found.",
+  "uncertain": "I read the May 2024 rule, which includes sections on medical treatment (84.56) and value assessment methods such as QALYs (84.57) and discusses crisis standards of care. A state lawsuit challenging the 2024 rule was not checked.",
+  "sources": [
+   {
+    "label": "Final rule: Nondiscrimination on the Basis of Disability (May 9, 2024)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2024/05/09/2024-09237/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial"
+   },
+   {
+    "label": "Proposed rule revising the Section 504 disability rule (Dec. 19, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/12/19/2025-23484/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-162",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "On January 27, 2026, the HHS Office for Civil Rights rescinded its 2022 and 2023 guidance to retail pharmacies on their civil rights duties in reproductive health care.",
+  "key_dates": [
+   {
+    "date": "Jan 27, 2026",
+    "event": "Pharmacy guidance rescinded."
+   }
+  ],
+  "closeness": "Direct match.",
+  "uncertain": "I found no lawsuit over the rescission.",
+  "sources": [
+   {
+    "label": "Rescission of Guidance to Nation's Retail Pharmacies (Jan. 27, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01550/rescission-of-guidance-to-nations-retail-pharmacies-obligations-under-federal-civil-rights-laws-to"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-017",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "Executive Order 14168, signed January 20, 2025, says agency forms that ask for a person's sex must list male or female and must not ask for gender identity. Soon after, the CDC took down web pages and data that included gender identity, and reports say it changed its national Youth Risk Behavior Survey to drop the transgender identity question. A UCLA study counted about 338 federal data collections that removed gender identity questions after January 20, 2025.",
+  "key_dates": [
+   {
+    "date": "2025-01-20",
+    "event": "Executive Order 14168 signed."
+   },
+   {
+    "date": "2025-01-31",
+    "event": "CDC removes web pages and data on sexual orientation and gender identity"
+   },
+   {
+    "date": "2026-03-31",
+    "event": "HHS notice says survey gender identity questions were removed under the order."
+   }
+  ],
+  "legal": "A federal court in Washington, D.C., ordered removed health web pages and datasets restored in 2025; by September 2025 most had been put back. That case was about web pages, not about which questions future surveys ask.",
+  "closeness": "The order applies to all agencies, including the CDC, and bars asking for gender identity on forms. CDC survey changes reported in the news match the chapter's call.",
+  "uncertain": "The Youth Risk Behavior Survey change comes from news reports, not a CDC notice. Changes to other CDC surveys, such as BRFSS, were not confirmed. Newest source: March 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14168: Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02090/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal"
+   },
+   {
+    "label": "CDC removes data on sexual orientation, gender identity from website",
+    "publisher": "STAT",
+    "type": "news",
+    "url": "https://www.statnews.com/2025/01/31/cdc-removes-data-on-sexual-orientation-gender-identity-from-website/"
+   },
+   {
+    "label": "Hundreds of federal surveys remove questions about sexual orientation and gender identity",
+    "publisher": "Williams Institute, UCLA School of Law",
+    "type": "academic",
+    "url": "https://williamsinstitute.law.ucla.edu/press/fed-sogi-data-press-release/"
+   },
+   {
+    "label": "Agency Information Collection Activities: Proposed Collection; Comment Request (AHRQ)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06193/agency-information-collection-activities-proposed-collection-comment-request"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-022",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "A federal court in Texas struck down the FDA's 2024 rule on lab-developed tests on March 31, 2025. The FDA did not appeal, and on September 19, 2025, it restored its earlier rule text. That leaves these tests mainly under CMS's lab rules (CLIA). In October 2026, CMS proposed updates to those rules.",
+  "key_dates": [
+   {
+    "date": "2025-03-31",
+    "event": "Federal district court vacated the FDA lab-developed test rule."
+   },
+   {
+    "date": "2025-09-19",
+    "event": "FDA restored the pre-2024 rule text."
+   },
+   {
+    "date": "2026-10-08",
+    "event": "CMS proposed updates to CLIA lab rules."
+   }
+  ],
+  "legal": "A federal district court vacated the FDA rule on March 31, 2025.",
+  "closeness": "The FDA stepped back from regulating lab-developed tests, which reduces the overlap. Congress has not passed a law separating FDA and CMS authority, as the chapter also wanted.",
+  "uncertain": "The FDA could try again later. I found no new law on the issue. Newest source is from October 2026.",
+  "sources": [
+   {
+    "label": "Medical Devices; Laboratory Developed Tests; Implementation of Vacatur",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/09/19/2025-18239/regulation-identification-number-0910-aj05-medical-devices-laboratory-developed-tests-implementation"
+   },
+   {
+    "label": "CLIA; Virtual Access, Gynecologic Cytology Proficiency Testing, Personnel Qualifications, and Other Changes (proposed rule)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20613/clinical-laboratory-improvement-amendments-of-1988-clia-virtual-access-gynecologic-cytology"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-035",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no step to bring back the ethics advisory board for fetal tissue research. Instead, NIH announced on January 22, 2026 that it would stop funding research using human fetal tissue from elective abortions.",
+  "closeness": "The board reviewed grant proposals using fetal tissue. With NIH ending that funding, the board was not restored. See ch14-012.",
+  "uncertain": "I ran Federal Register searches for an ethics advisory board and for NIH fetal tissue notices since January 2025.",
+  "sources": [
+   {
+    "label": "NIH announces major policy shift to end use of human fetal tissue",
+    "publisher": "National Institutes of Health",
+    "type": "government",
+    "url": "https://www.nih.gov/news-events/news-releases/nih-announces-major-policy-shift-end-use-human-fetal"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-038",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no order or notice creating a National Council on Bioethics.",
+  "closeness": "Nothing matching found.",
+  "uncertain": "I searched the Federal Register, including presidential documents, for a bioethics council or commission since January 2025.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-059",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "The July 2025 budget law (P.L. 119-21) tightens penalties on states with high rates of wrong Medicaid payments, including payments to people whose eligibility cannot be confirmed. It limits how much of the penalty HHS can waive. This starts in fiscal year 2030.",
+  "key_dates": [
+   {
+    "date": "2025-07-04",
+    "event": "P.L. 119-21 signed."
+   },
+   {
+    "date": "2029-10-01",
+    "event": "Fiscal year 2030 begins, when the change applies."
+   }
+  ],
+  "legal": "I found no court ruling.",
+  "closeness": "The goal is the same, but the law uses penalties for poor results instead of extra payments for good results, as the chapter wanted.",
+  "uncertain": "I did not find any new bonus or higher matching rate for state fraud systems.",
+  "sources": [
+   {
+    "label": "Public Law 119-21 (One Big Beautiful Bill Act), sec. 71106",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-067",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "The July 2025 budget law (P.L. 119-21) says a direct primary care arrangement is not a health plan for health savings account rules, as long as fees are no more than $150 a month for one person. People can also pay these fees from their HSA. This took effect in January 2026.",
+  "key_dates": [
+   {
+    "date": "2025-07-04",
+    "event": "P.L. 119-21 signed."
+   },
+   {
+    "date": "2026-01-01",
+    "event": "Direct primary care change took effect."
+   }
+  ],
+  "legal": "I found no court ruling.",
+  "closeness": "This matches the chapter's goal. It was done by Congress, with a monthly fee cap.",
+  "uncertain": "Treasury guidance on the details may still be coming.",
+  "sources": [
+   {
+    "label": "Public Law 119-21 (One Big Beautiful Bill Act), sec. 71308",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-071",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no hospital price transparency rule that adds quality measures. CMS's July 2026 proposal on price transparency focuses on making price data standard and comparable.",
+  "closeness": "Nothing matching found. See ch14-053 for other price transparency changes.",
+  "uncertain": "I searched the Federal Register for price transparency and quality, and searched the price transparency section of the July 2026 proposal for quality terms. The final 2027 rule was not yet out.",
+  "sources": [
+   {
+    "label": "Medicare Program: Hospital Outpatient Prospective Payment System proposed rule for 2027",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13656/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "The final CY2027 outpatient payment rule, which may change price transparency, was not yet published as of October 28, 2026; check it for quality measures."
+ },
+ {
+  "id": "ch14-073",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "The July 2025 budget law (P.L. 119-21) expanded health savings accounts. Starting in 2026, bronze and catastrophic plans bought on the ACA exchanges count as HSA-eligible plans. The law also made permanent a rule letting HSA plans cover telehealth before the deductible, and allowed direct primary care with HSAs.",
+  "key_dates": [
+   {
+    "date": "2025-07-04",
+    "event": "P.L. 119-21 signed."
+   },
+   {
+    "date": "2026-01-01",
+    "event": "Bronze and catastrophic plans became HSA-eligible."
+   }
+  ],
+  "legal": "I found no court ruling.",
+  "closeness": "HSA access grew, which is the chapter's goal. Congress did it by law, not through the CMS, Treasury and OMB work the chapter described. See ch14-067.",
+  "uncertain": "How many more people opened HSAs is not known.",
+  "sources": [
+   {
+    "label": "Public Law 119-21 (One Big Beautiful Bill Act), secs. 71306-71308",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-074",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "On October 8, 2026, CMS proposed changes to the CLIA lab rules, including changes to personnel qualifications and allowing virtual access to lab data. CMS said the changes respond partly to workforce shortages. In July 2026, CMS and CDC asked the public for ideas on updating the rules.",
+  "key_dates": [
+   {
+    "date": "2026-07-16",
+    "event": "CMS request for information on CLIA rules."
+   },
+   {
+    "date": "2026-10-08",
+    "event": "CMS proposed CLIA rule changes."
+   }
+  ],
+  "legal": "I found no court ruling.",
+  "closeness": "CMS is revising lab and staffing rules as the chapter asked. I could not tell how much the proposal loosens what labs and staff may do.",
+  "uncertain": "The proposal is not final. I read the summary, not the full personnel sections.",
+  "sources": [
+   {
+    "label": "CLIA; Virtual Access, Gynecologic Cytology Proficiency Testing, Personnel Qualifications, and Other Changes (proposed rule)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20613/clinical-laboratory-improvement-amendments-of-1988-clia-virtual-access-gynecologic-cytology"
+   },
+   {
+    "label": "Request for Information; CLIA Regulations",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14358/request-for-information-clinical-laboratory-improvement-amendments-of-1988-clia-regulations"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-130",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "Executive Order 14149, signed January 20, 2025, bars federal workers from helping to censor speech and tells the Attorney General to investigate past federal actions, including on social media, and recommend fixes. In January 2026, HHS's Office for Civil Rights withdrew several Biden-era letters on conscience laws and the Weldon Amendment.",
+  "key_dates": [
+   {
+    "date": "2025-01-20",
+    "event": "Executive Order 14149 signed."
+   },
+   {
+    "date": "2026-01-26",
+    "event": "HHS civil rights office withdrew earlier conscience-related letters."
+   }
+  ],
+  "legal": "I found no court ruling.",
+  "closeness": "The order covers all agencies and is led by the Justice Department, not an HHS investigation. The conscience steps match part of the chapter. See ch14-149.",
+  "uncertain": "I could not confirm an HHS-specific review of COVID-era work with tech companies or its results.",
+  "sources": [
+   {
+    "label": "Executive Order 14149: Restoring Freedom of Speech and Ending Federal Censorship",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01902/restoring-freedom-of-speech-and-ending-federal-censorship"
+   },
+   {
+    "label": "Rescission of Office for Civil Rights Documents Under Executive Order 14192",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/26/2026-01434/rescission-of-office-for-civil-rights-documents-under-executive-order-14192"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-145",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "In June 2026, HHS reorganized its Office for Civil Rights and kept a Conscience and Religious Freedom Division in charge of enforcing those laws. In September 2026, HHS restated the General Counsel's office structure, canceling all earlier versions; it says the General Counsel gives legal services and advice to the civil rights office on these laws.",
+  "key_dates": [
+   {
+    "date": "2026-06-30",
+    "event": "HHS published the civil rights office's new organization."
+   },
+   {
+    "date": "2026-09-29",
+    "event": "HHS published the General Counsel's new organization."
+   }
+  ],
+  "legal": "I found no court ruling.",
+  "closeness": "The civil rights office is named as the enforcer of conscience and religious freedom laws. I could not confirm that the specific earlier memos moving enforcement to the General Counsel were withdrawn. See ch14-153.",
+  "uncertain": "The status of the specific memos named in the chapter is not known.",
+  "sources": [
+   {
+    "label": "Statement of Organization, Functions, and Delegations of Authority (Office for Civil Rights)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/06/30/2026-13142/statement-of-organization-functions-and-delegations-of-authority"
+   },
+   {
+    "label": "Statement of Organization, Functions, and Delegations of Authority (Office of the General Counsel)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19903/statement-of-organization-functions-and-delegations-of-authority"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Confirm whether the specific memos and notices named in the chapter were rescinded."
+ },
+ {
+  "id": "ch14-149",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "On January 26, 2026, HHS's Office for Civil Rights published a notice rejecting the legal views in two 2021 letters. One had withdrawn a 2019 finding against the University of Vermont Medical Center over a nurse made to assist in an abortion. The other had withdrawn a 2020 finding that California violated the Weldon Amendment.",
+  "key_dates": [
+   {
+    "date": "2026-01-26",
+    "event": "HHS civil rights office published the rescission notice."
+   }
+  ],
+  "legal": "I found no court ruling.",
+  "closeness": "Both analyses the chapter named were withdrawn. The notice does not by itself withhold Medicaid funds from California.",
+  "uncertain": "What enforcement, if any, follows against the Vermont hospital or California is not known.",
+  "sources": [
+   {
+    "label": "Rescission of Office for Civil Rights Documents Under Executive Order 14192",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/26/2026-01434/rescission-of-office-for-civil-rights-documents-under-executive-order-14192"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-151",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "On January 24, 2025, President Trump signed a memorandum bringing back the Mexico City Policy, which bars federal global health aid to foreign groups that perform or promote abortion. It told HHS and other agencies to carry it out.",
+  "key_dates": [
+   {
+    "date": "2025-01-24",
+    "event": "Presidential memorandum restored the Mexico City Policy."
+   }
+  ],
+  "legal": "I found no court ruling.",
+  "closeness": "The policy is back, but I could not confirm that HHS's Office of Global Affairs was put in charge of carrying it out across HHS.",
+  "uncertain": "HHS's internal assignment of the policy is not public in the sources I checked.",
+  "sources": [
+   {
+    "label": "The Mexico City Policy (Presidential Memorandum)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02176/the-mexico-city-policy"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "The Office of Global Affairs' role in carrying out the Mexico City policy was not confirmed."
+ },
+ {
+  "id": "ch14-015",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no CDC rule or data collection requiring reports of abortion complications or of every child born alive after an abortion. In September 2025, the CDC said its yearly abortion surveillance report was on pause. A bill to make state reporting to the CDC mandatory (H.R. 627) was introduced in 2025 but has not passed.",
+  "closeness": "Nothing matching the recommendation was found. See also ch14-014 and ch14-085.",
+  "uncertain": "I searched the Federal Register for CDC abortion surveillance and born-alive reporting, searched the text of all 131 laws of the 119th Congress, and ran a web search. The CDC's new director said in 2026 she planned to expand abortion data collection; no specific change was found. Newest source: August 2026.",
+  "sources": [
+   {
+    "label": "CDC says annual abortion surveillance report is on pause",
+    "publisher": "WVTF (NPR)",
+    "type": "news",
+    "url": "https://www.wvtf.org/news/2025-09-25/cdc-says-annual-abortion-surveillance-report-is-on-pause"
+   },
+   {
+    "label": "H.R. 627, Ensuring Accurate and Complete Abortion Data Reporting Act (introduced)",
+    "publisher": "Congress.gov",
+    "type": "government",
+    "url": "https://www.congress.gov/119/bills/hr627/BILLS-119hr627ih.htm"
+   },
+   {
+    "label": "CDC director and abortion surveillance (August 2026)",
+    "publisher": "Deseret News",
+    "type": "news",
+    "url": "https://www.deseret.com/politics/2026/08/20/abortion-surveillance-cdc-erica-schwartz-comstock-act/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-020",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "On March 31, 2025, a federal court in Texas struck down the FDA's 2024 rule on lab-developed tests and held that these tests are not medical devices. The FDA did not appeal and, on September 19, 2025, restored its earlier rule text. CRS says the ruling removes most, if not all, lab-developed tests from FDA oversight.",
+  "key_dates": [
+   {
+    "date": "2025-03-31",
+    "event": "Federal court vacates the FDA lab-developed test rule."
+   },
+   {
+    "date": "2025-09-19",
+    "event": "FDA removes the 2024 rule changes."
+   }
+  ],
+  "legal": "The U.S. District Court for the Eastern District of Texas vacated the rule in a final ruling on March 31, 2025. The FDA did not appeal.",
+  "closeness": "The chapter asked the FDA to create a way for labs to share their tests with other labs without the current burdens. The FDA created no such pathway; instead, a court ruling cut back FDA oversight of these tests in general. Same events as ch14-022.",
+  "uncertain": "CRS notes it is unclear exactly which tests count as lab-developed tests after the ruling, including tests shared between labs. Newest source is from December 2025.",
+  "sources": [
+   {
+    "label": "Medical Devices; Laboratory Developed Tests; Implementation of Vacatur",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/09/19/2025-18239/regulation-identification-number-0910-aj05-medical-devices-laboratory-developed-tests-implementation"
+   },
+   {
+    "label": "FDA Regulation of Laboratory-Developed Tests (LDTs) (IF11389)",
+    "publisher": "Congressional Research Service",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/IF11389.html"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-021",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "No law or rule was changed specifically for modified versions of existing tests. But on March 31, 2025, a federal court struck down the FDA's 2024 rule on lab-developed tests, and the FDA restored its earlier rule text on September 19, 2025. This leaves most lab-made tests outside FDA oversight.",
+  "key_dates": [
+   {
+    "date": "2025-03-31",
+    "event": "Federal court vacates the FDA lab-developed test rule."
+   },
+   {
+    "date": "2025-09-19",
+    "event": "FDA removes the 2024 rule changes."
+   }
+  ],
+  "legal": "The U.S. District Court for the Eastern District of Texas vacated the rule in a final ruling on March 31, 2025. The FDA did not appeal.",
+  "closeness": "The chapter wanted laws and rules revised to make modified tests easier to use. The court ruling lowered FDA rules for lab-made tests in general, but nothing targeted modified tests, and Congress has not acted. Same events as ch14-020 and ch14-022.",
+  "uncertain": "How the ruling applies to labs that modify FDA-approved tests is not clear from the sources. Newest source is from December 2025.",
+  "sources": [
+   {
+    "label": "Medical Devices; Laboratory Developed Tests; Implementation of Vacatur",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/09/19/2025-18239/regulation-identification-number-0910-aj05-medical-devices-laboratory-developed-tests-implementation"
+   },
+   {
+    "label": "FDA Regulation of Laboratory-Developed Tests (LDTs) (IF11389)",
+    "publisher": "Congressional Research Service",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/IF11389.html"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-037",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On January 22, 2026, NIH stopped allowing its funds to be used for research with human fetal tissue from elective abortions. NIH said it is putting its limited resources toward research models that are more relevant today. Research with tissue from miscarriages or stillbirths can still be funded.",
+  "key_dates": [
+   {
+    "date": "2026-01-22",
+    "event": "NIH issues notice NOT-OD-26-028."
+   }
+  ],
+  "legal": "I found no court ruling on the policy.",
+  "closeness": "The chapter wanted HHS to fund other research methods so that abortion-based research becomes outdated. NIH banned the funding directly and said it would favor other models, but I found no new funding program for alternatives. Same policy as ch14-012 and ch14-036.",
+  "uncertain": "Whether NIH created new grants for alternatives to fetal tissue is not known. Newest source is from January 2026.",
+  "sources": [
+   {
+    "label": "NOT-OD-26-028: NIH Policy on Research Involving Human Fetal Tissue",
+    "publisher": "National Institutes of Health",
+    "type": "government",
+    "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-028.html"
+   },
+   {
+    "label": "NIH Announces Major Policy Shift to End Use of Human Fetal Tissue in NIH-Supported Research",
+    "publisher": "National Institutes of Health",
+    "type": "government",
+    "url": "https://www.nih.gov/news-events/news-releases/nih-announces-major-policy-shift-end-use-human-fetal-tissue-nih-supported-research"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-045",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "In April 2025, NPR reported an internal memo from NIH's acting director telling the agency to study regret and detransition after gender transition in children and adults. The memo said leaders wanted funding announcements within six months.",
+  "key_dates": [
+   {
+    "date": "2025-04-11",
+    "event": "NPR reports NIH memo directing research on regret and detransition."
+   }
+  ],
+  "legal": "I found no court ruling on this research plan.",
+  "closeness": "The chapter asked NIH to fund studies on negative effects of gender transition treatments for young people. The memo points the same way and covers adults too, but I could not confirm that grants were actually offered or awarded.",
+  "uncertain": "Searched Grants.gov in October 2026 for NIH funding notices on detransition or gender transition outcomes and found none, and a web search found only April 2025 coverage of the memo. Notices posted only in the NIH Guide could have been missed. Newest source is from April 2025.",
+  "sources": [
+   {
+    "label": "White House orders NIH to research trans 'regret' and 'detransition'",
+    "publisher": "NPR",
+    "type": "news",
+    "url": "https://www.npr.org/2025/04/11/nx-s1-5355126/white-house-orders-nih-to-research-trans-regret-and-detransition"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "No NIH funding notice found on Grants.gov; check the NIH Guide for a notice on transition regret or detransition research."
+ },
+ {
+  "id": "ch14-079",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "I found no report that CMS approved the Idaho, South Carolina or Tennessee waivers. But on June 26, 2025, the Supreme Court ruled in Medina v. Planned Parenthood South Atlantic that Medicaid patients cannot sue to stop South Carolina from removing Planned Parenthood from its Medicaid program. The July 2025 budget law also barred Medicaid payments to certain abortion providers for one year; that bar ended July 4, 2026.",
+  "key_dates": [
+   {
+    "date": "2025-06-26",
+    "event": "Supreme Court rules for South Carolina in Medina v. Planned Parenthood South Atlantic."
+   },
+   {
+    "date": "2026-07-04",
+    "event": "One-year Medicaid bar in the budget law expires."
+   }
+  ],
+  "legal": "Supreme Court final ruling in Medina v. Planned Parenthood South Atlantic (June 26, 2025), 6-3 for South Carolina.",
+  "closeness": "The chapter wanted CMS to act on state waivers. The same goal moved forward through a Supreme Court case and a temporary law instead, not through CMS waiver approvals. See ch14-077 for the budget law.",
+  "uncertain": "An October 2026 web search found no CMS decision on the Idaho, South Carolina or Tennessee waiver requests, which were filed before the chapter was written. Newest source is from July 2026.",
+  "sources": [
+   {
+    "label": "Supreme Court upholds South Carolina's ban on Medicaid funds for Planned Parenthood",
+    "publisher": "OPB",
+    "type": "news",
+    "url": "https://www.opb.org/article/2025/06/26/supreme-court-upholds-south-carolinas-ban-on-medicaid-funds-for-planned-parenthood/"
+   },
+   {
+    "label": "Planned Parenthood regains federal funding as 'Big Beautiful' provision expires",
+    "publisher": "CT Mirror",
+    "type": "news",
+    "url": "https://ctmirror.org/2026/07/07/planned-parenthood-regains-federal-funding/"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "No CMS decision found on the three state waivers; confirm their status on Medicaid.gov's waiver list."
+ },
+ {
+  "id": "ch14-095",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On June 23, 2026, HHS's Office of Population Affairs posted a new Teen Pregnancy Prevention funding notice that stresses body literacy, informed consent and 'reproductive life goals,' and funds replication of programs 'proven effective through rigorous evaluation.' A former grantee told Stateline the notice no longer includes the list of approved, evaluated programs. HHS also ended 53 existing grants, and some grantees sued on July 14, 2026.",
+  "key_dates": [
+   {
+    "date": "2026-06",
+    "event": "HHS ends 53 Teen Pregnancy Prevention grants."
+   },
+   {
+    "date": "2026-06-23",
+    "event": "New Teen Pregnancy Prevention funding notice (AH-TP1-26-001) posted"
+   },
+   {
+    "date": "2026-07-14",
+    "event": "Grantees and SIECUS sue over the terminations."
+   }
+  ],
+  "legal": "A lawsuit over the grant terminations was filed July 14, 2026; I did not find its court or any ruling.",
+  "closeness": "The chapter wanted the approved-curricula lists abolished and replaced with selection criteria. The list appears to be gone from the funding notice, but the evidence-based requirement remains and I did not see new criteria.",
+  "uncertain": "The notice summary on Grants.gov does not mention the evidence review list; whether the full notice drops it comes from one news report. Whether HHS's separate evidence review website still lists programs is not known. Newest source is from July 2026.",
+  "sources": [
+   {
+    "label": "Feds have a new teen pregnancy prevention plan: Fertility and 'reproductive goals' (Stateline)",
+    "publisher": "Missouri Independent",
+    "type": "news",
+    "url": "https://missouriindependent.com/2026/07/24/repub/feds-have-a-new-teen-pregnancy-prevention-plan-fertility-and-reproductive-goals/"
+   },
+   {
+    "label": "Replicating Effective Teen Pregnancy Prevention (TPP) Programs (AH-TP1-26-001)",
+    "publisher": "Grants.gov",
+    "type": "government",
+    "url": "https://www.grants.gov/search-results-detail/362915"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Confirm in the full June 2026 funding notice (AH-TP1-26-001) whether the approved-program list was removed."
+ },
+ {
+  "id": "ch14-112",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not passed a law letting CMS use HRSA's 340B data in place of its own survey. Instead, in its November 2025 hospital outpatient rule, CMS said it would run its own survey of hospital drug costs, opening by early 2026, to inform 2027 payment rules.",
+  "closeness": "The chapter wanted CMS to rely on HRSA's 340B data. CMS is doing the opposite and running its own drug cost survey.",
+  "uncertain": "I searched the text of all 131 laws of the 119th Congress and found 340B mentioned only in a drug-benefit reporting rule, and checked the Federal Register. Bills that were introduced but not passed were not checked. Newest source is from September 2026.",
+  "sources": [
+   {
+    "label": "CY 2026 Hospital Outpatient (OPPS) and Ambulatory Surgical Center final rule (Nov. 25, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/11/25/2025-20907/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+   },
+   {
+    "label": "Overview of the 340B Drug Discount Program (IF13311)",
+    "publisher": "Congressional Research Service",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/IF13311.html"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-116",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no new federal advisory committee for women's preventive care. In January 2026, HRSA still used recommendations from the Women's Preventive Services Initiative, a HRSA-funded cooperative agreement. In August 2026, HRSA listed a new cooperative agreement competition for the same work, with awards expected in January 2027.",
+  "closeness": "The chapter wanted HHS to end the ACOG-led arrangement and set up a committee under federal advisory committee law. HRSA is keeping the cooperative agreement model; who will win the new award is not yet known.",
+  "uncertain": "Whether ACOG applied for or will receive the new award is not known. I checked the Federal Register and the federal grants listing but did not do a web search. Newest source is from August 2026.",
+  "sources": [
+   {
+    "label": "Update to the Women's Preventive Services Guidelines (Jan. 5, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/01/05/2025-24235/update-to-the-womens-preventive-services-guidelines"
+   },
+   {
+    "label": "Women's Initiative for Screening and Health (WISH), HRSA-27-072",
+    "publisher": "Simpler.Grants.gov",
+    "type": "government",
+    "url": "https://simpler.grants.gov/opportunity/b9c2ac9d-d8f0-45eb-9c6e-3b7446d01802"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-120",
+  "status": "in-effect-challenged",
+  "match": "partial",
+  "happened": "On March 11, 2026, HRSA issued new grant terms with limits tied to \"gender ideology.\" On June 8, 2026, HHS and HRSA issued new Ryan White HIV/AIDS Program funding notices that bar the use of program funds for gender transition care. Medical groups sued two days later.",
+  "key_dates": [
+   {
+    "date": "2026-03-11",
+    "event": "HRSA issues new general grant terms."
+   },
+   {
+    "date": "2026-06-08",
+    "event": "New Ryan White funding notices bar gender transition care."
+   },
+   {
+    "date": "2026-09-23",
+    "event": "Court holds a bench trial."
+   }
+  ],
+  "legal": "American Academy of HIV Medicine v. HRSA, U.S. District Court for the District of Massachusetts. The court combined the preliminary injunction request with a trial on the merits and held a bench trial on September 23, 2026. I found no ruling yet.",
+  "closeness": "The chapter asked HRSA to withdraw guidance encouraging this care. HRSA went further by barring program funds for it. I did not confirm whether the older guidance itself was formally withdrawn.",
+  "uncertain": "The court's decision after the September 2026 trial is not known. Newest source is from September 2026.",
+  "sources": [
+   {
+    "label": "American Academy of HIV Medicine v. U.S. Dept. of Health and Human Services",
+    "publisher": "Lambda Legal",
+    "type": "advocacy",
+    "url": "https://lambdalegal.org/case/american-academy-of-hiv-medicine-v-us-dept-health-and-human-services/"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Facts come from the plaintiffs' lawyers' case page; HRSA notice summaries on Grants.gov do not show the limits. Confirm with the full funding notices or court records."
+ },
+ {
+  "id": "ch14-127",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "The July 2025 budget law created a $50 billion Rural Health Transformation Program, giving states $10 billion a year from 2026 to 2030. On February 3, 2026, a spending law extended Medicare's telehealth flexibilities, including in rural areas, through December 31, 2027.",
+  "key_dates": [
+   {
+    "date": "2025-07-04",
+    "event": "Budget law creates the Rural Health Transformation Program."
+   },
+   {
+    "date": "2026-02-03",
+    "event": "Spending law extends Medicare telehealth flexibilities to Dec. 31, 2027."
+   }
+  ],
+  "legal": "I found no court ruling on these provisions.",
+  "closeness": "These steps support rural care and telehealth, but they were done by Congress with new money and short-term extensions, not mainly by cutting HHS rules. I found nothing on interstate licensing, including for volunteers.",
+  "uncertain": "How states are using the rural health money was not reviewed. Newest source is from February 2026.",
+  "sources": [
+   {
+    "label": "Public Law 119-21 (One Big Beautiful Bill Act), Sec. 71401",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+   },
+   {
+    "label": "Public Law 119-75 (further FY2026 appropriations), Sec. 6209",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-134",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "On January 20, 2025, President Trump signed Executive Order 14168, which defines sex as male or female and tells agencies not to treat sex as including gender identity. HHS stopped enforcing gender identity protections under its health nondiscrimination rule, and in June 2026 it published notice that a court had vacated those parts of the rule.",
+  "key_dates": [
+   {
+    "date": "2025-01-20",
+    "event": "Executive Order 14168 signed."
+   },
+   {
+    "date": "2025-10-22",
+    "event": "Federal court in Mississippi vacates gender identity parts of the 2024 Section 1557 rule."
+   },
+   {
+    "date": "2026-06-02",
+    "event": "HHS publishes notice of the vacatur."
+   }
+  ],
+  "legal": "In Tennessee v. Kennedy, the U.S. District Court for the Southern District of Mississippi vacated the gender identity provisions of the 2024 Section 1557 rule on October 22, 2025.",
+  "closeness": "The chapter wanted the Secretary's antidiscrimination statements to treat sex as separate from gender identity and sexual orientation. The executive order and HHS's actions do this for gender identity; I did not check the wording of the Secretary's own statements or anything on sexual orientation. Related to ch14-088 and ch14-159.",
+  "uncertain": "The text of current HHS antidiscrimination statements was not reviewed. Newest source is from June 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14168: Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02090/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal"
+   },
+   {
+    "label": "Notice of Vacatur Regarding Certain Provisions of the 2024 Nondiscrimination in Health Programs and Activities Final Rule",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11015/notice-of-vacatur-regarding-certain-provisions-of-the-2024-nondiscrimination-in-health-programs-and"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-138",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "In March 2026, HHS issued new Title X grant guidance that dropped some Biden-era standards. In 2026, HHS's Office of Population Affairs offered up to $4 million for an Infertility Training Center to help Title X clinics promote fertility awareness-based methods and body literacy. The notice also gives credit for engaging faith-based groups.",
+  "key_dates": [
+   {
+    "date": "2026-03-13",
+    "event": "New Title X continuation guidance issued."
+   },
+   {
+    "date": "2026-07-13",
+    "event": "Applications due for the Infertility Training Center."
+   }
+  ],
+  "legal": "I found no court ruling on these changes.",
+  "closeness": "The chapter wanted Title X to focus more on fertility awareness education and to end religious discrimination in grants. The training center does this for infertility care and invites faith-based partners, but I found no rule changing the whole program. Related to ch14-139.",
+  "uncertain": "Whether the training center was awarded, and what the newer Title X funding notice for 2027 requires, were not reviewed. Newest source is from mid-2026.",
+  "sources": [
+   {
+    "label": "Notice of Funding Opportunity: Infertility Training Center (PA-FPT-26-002)",
+    "publisher": "HHS Office of Population Affairs",
+    "type": "government",
+    "url": "https://files.simpler.grants.gov/opportunities/51419041-2606-4f7c-acdf-8981d131e2fd/attachments/09e3f4cb-d34e-469c-98ae-9bd46b46ca72/PA-FPT-26-002_ITC-NOFO.pdf"
+   },
+   {
+    "label": "Navigating Uncertainty: The Latest Challenge to the Title X Family Planning Safety Net",
+    "publisher": "KFF",
+    "type": "academic",
+    "url": "https://www.kff.org/quick-insights/navigating-uncertainty-the-latest-challenge-to-the-title-x-family-planning-safety-net/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-142",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The President has used the Defense Production Act often since 2025. In March 2025, Executive Order 14241 used it to boost mineral production. In 2026, he issued several more Defense Production Act orders and findings, including on coal, power grid equipment and petroleum.",
+  "closeness": "The chapter urged using the Defense Production Act only in the most serious cases. The administration has used it for a range of energy and mineral goals, which is not the restraint the chapter described.",
+  "uncertain": "Whether any of these uses involved HHS or medical supplies was not reviewed. Newest source is from September 2026.",
+  "sources": [
+   {
+    "label": "Trump Administration's Invocation of the Defense Production Act for Mineral Production (IN12540)",
+    "publisher": "Congressional Research Service",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/IN12540.html"
+   },
+   {
+    "label": "Presidential Waiver of Statutory Requirements Pursuant to Section 303 of the Defense Production Act (Feb. 19, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/02/19/2026-03380/presidential-waiver-of-statutory-requirements-pursuant-to-section-303-of-the-defense-production-act"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch14-155",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no proposed or final HHS rule setting out how the Office for Civil Rights enforces the Religious Freedom Restoration Act. HHS's August 2026 regulatory agenda lists a planned conscience rule for OCR, but no separate RFRA rule.",
+  "closeness": "Nothing matching the recommendation was found. The planned conscience rule (RIN 0945-AA24) is related but is not described as the RFRA rule.",
+  "uncertain": "I searched the Federal Register for HHS rules on RFRA and read the agenda entry for the planned OCR conscience rule (RIN 0945-AA24). That entry describes amending the 2024 conscience rule (45 CFR part 88) to clarify federal conscience laws; it does not mention RFRA procedures.",
+  "sources": [
+   {
+    "label": "HHS Regulatory Agenda (Aug. 14, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16597/regulatory-agenda"
+   },
+   {
+    "label": "RIN 0945-AA24: Clarifying How OCR Addresses Conscience Authorities in Health Care",
+    "publisher": "Reginfo.gov (OMB)",
+    "type": "government",
+    "url": "https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202510&RIN=0945-AA24"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch14-157",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On September 4, 2025, HHS's Office for Civil Rights sent a letter telling states in the Vaccines for Children Program that they and their providers must honor state religious and conscience exemptions from vaccine requirements.",
+  "key_dates": [
+   {
+    "date": "2025-09-04",
+    "event": "OCR letter to Vaccines for Children Program awardees."
+   }
+  ],
+  "legal": "I found no court ruling on the letter.",
+  "closeness": "The chapter wanted OCR to review religious accommodation requests from people who object to vaccines. OCR stepped into religious vaccine exemptions, but through state exemption laws in one program, not a general review process for individual requests.",
+  "uncertain": "Whether OCR handles individual complaints, such as from health workers, was not confirmed. Newest source is from September 2025.",
+  "sources": [
+   {
+    "label": "HHS Reinforces Religious and Conscience Vaccine Exemptions",
+    "publisher": "U.S. Department of Health and Human Services",
+    "type": "government",
+    "url": "https://www.hhs.gov/press-room/hhs-reinforces-religious-conscience-vaccine-exemptions.html"
+   },
+   {
+    "label": "HHS Underpins Religious and Conscience Exceptions from Childhood Vaccine Mandates",
+    "publisher": "Healthcare Innovation",
+    "type": "news",
+    "url": "https://www.hcinnovationgroup.com/policy-value-based-care/news/55314739/hhs-underpins-religious-and-conscience-exceptions-from-childhood-vaccine-mandates"
+   }
+  ],
+  "as_of": "2026-10-27"
+ }
+]

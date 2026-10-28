@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ch21-006",
+    "case_against": "NOAA runs the National Weather Service, whose 122 local forecast offices issue the public, marine, aviation, fire and flood forecasts and warnings people use every day. It also runs the satellites and research that make those forecasts better; hurricane track forecasts have improved steadily since the 1960s. Breaking up NOAA would put that system at risk and could weaken warnings that save lives. Congress rejected deep cuts for 2026 and funded NOAA well above the request.",
+    "harms": [
+      {
+        "who": "People in the path of hurricanes, tornadoes, floods and wildfires",
+        "what": "Could get later or less accurate warnings if forecasting, satellites and research are split up or cut."
+      },
+      {
+        "who": "Farmers, pilots, fishers and shippers",
+        "what": "Depend on NOAA forecasts and data to plan and work safely."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NOAA: Organization Overview and Issues for Congress (R47636)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47636.html"
+      },
+      {
+        "label": "Forecasting Tropical Cyclones: NOAA's Role (IF10719)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10719.html"
+      },
+      {
+        "label": "NOAA FY2026 Budget Request and Appropriations (IF13024)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13024.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-039",
+    "case_against": "Banning or requiring licenses for all exports to \"countries of concern\" would reach far beyond weapons and advanced chips to ordinary goods, including farm products. The U.S. is one of the world's largest farm exporters, and broad trade fights invite retaliation against those goods. After the 2018-2019 tariff fights, trading partners hit U.S. farm goods, and USDA paid about $25.7 billion to help farmers. Targeted controls on truly sensitive technology can protect security without that cost.",
+    "harms": [
+      {
+        "who": "Farmers and exporters",
+        "what": "Could lose major overseas customers through bans or retaliation."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Could again pay for aid to make up for lost sales, as they did after 2018."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Retaliatory Tariffs on U.S. Agriculture and USDA's Responses: FAQ (R48548)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48548.html"
+      },
+      {
+        "label": "Commerce revises license review policy for semiconductors exported to China",
+        "publisher": "Bureau of Industry and Security",
+        "type": "government",
+        "url": "https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-043",
+    "case_against": "Putting TikTok and WeChat on the Entity List would cut off apps that many Americans use to talk, work and share news; TikTok alone had more than 170 million U.S. users, the Supreme Court noted. When the government tried to restrict TikTok and WeChat by executive order in 2020, courts blocked those orders. Congress later chose a narrower path for TikTok, requiring a sale rather than a blanket ban, and that sale has closed.",
+    "harms": [
+      {
+        "who": "App users",
+        "what": "Could lose apps they use to keep in touch with friends, family and communities, including people overseas."
+      },
+      {
+        "who": "Small businesses and creators",
+        "what": "Could lose customers and income they reach through these apps."
+      }
+    ],
+    "history": [
+      {
+        "when": "2020, United States",
+        "what": "Executive orders 13942 and 13943 tried to restrict TikTok and WeChat in the U.S. Court injunctions blocked them, and the orders were later replaced.",
+        "lesson": "Broad app bans by executive action ran into legal limits; a narrower, law-based approach was used later."
+      }
+    ],
+    "sources": [
+      {
+        "label": "TikTok and China's Digital Platforms: Issues for Congress (IF12640)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12640.html"
+      },
+      {
+        "label": "TikTok Inc. v. Garland (2025)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/24pdf/604us1r07_k536.pdf"
+      },
+      {
+        "label": "TikTok divestiture deal closes",
+        "publisher": "Axios",
+        "type": "news",
+        "url": "https://axios.com/2026/01/23/tiktok-deal-trump-app-ban"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-044",
+    "case_against": "Weather Service forecasts and warnings are free to everyone. Fully commercializing forecasting could put basic warnings behind paywalls or make them depend on what is profitable to provide. Warnings about storms, floods and fire weather protect people who cannot pay, and Congress raised Weather Service funding for 2026 by about 8 percent instead of cutting it.",
+    "harms": [
+      {
+        "who": "Low-income and rural families",
+        "what": "Could lose free access to forecasts and warnings, or get them later."
+      },
+      {
+        "who": "Local emergency managers",
+        "what": "Rely on Weather Service forecasts to order evacuations and plan for disasters."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NOAA: Organization Overview and Issues for Congress (R47636)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47636.html"
+      },
+      {
+        "label": "NOAA FY2026 Budget Request and Appropriations (IF13024)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13024.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-054",
+    "case_against": "NOAA's research office develops the science behind better forecasts, including climate and weather research. While hurricane track forecasts have improved steadily since the 1960s, forecasts of how strong a storm will get have not kept pace, which is the kind of problem research works on. Disbanding most climate research would leave the country less prepared for heat, drought and extreme storms. Congress kept the office for 2026 but cut it by nearly 10 percent.",
+    "harms": [
+      {
+        "who": "Coastal communities",
+        "what": "Could get less warning when storms suddenly strengthen if research on forecasting stalls."
+      },
+      {
+        "who": "Farmers, cities and businesses",
+        "what": "Lose climate data used to plan for drought, heat and flooding."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Forecasting Tropical Cyclones: NOAA's Role (IF10719)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10719.html"
+      },
+      {
+        "label": "NOAA FY2026 Budget Request and Appropriations (IF13024)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13024.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-064",
+    "case_against": "The census counts everyone living in the country, and the count decides seats in Congress and how federal money is shared. The Census Bureau's own analysts predicted a citizenship question would lower responses from noncitizen households, by 5.8 percent in their updated estimate. That could leave states and cities with immigrant residents undercounted, costing them representation and funding. In 2019 the Supreme Court blocked the last attempt because the stated reason seemed \"contrived.\"",
+    "harms": [
+      {
+        "who": "States and cities with many immigrants",
+        "what": "Could lose seats in Congress and federal funds if residents are undercounted."
+      },
+      {
+        "who": "Citizens in mixed-status families",
+        "what": "May avoid the census out of fear, leaving their communities undercounted too."
+      }
+    ],
+    "history": [
+      {
+        "when": "2018-2019, Department of Commerce v. New York",
+        "what": "Commerce Secretary Wilbur Ross added a citizenship question to the 2020 census in March 2018. In June 2019 the Supreme Court blocked it, finding the stated Voting Rights Act reason \"seems to have been contrived.\"",
+        "lesson": "The last attempt failed in court and drew warnings from the Census Bureau's own experts about an undercount."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Department of Commerce v. New York (2019)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/18pdf/18-966_bq7c.pdf"
+      },
+      {
+        "label": "The Supreme Court Temporarily Blocks Citizenship Question on the 2020 Census (LSB10319)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB10319.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

@@ -1,0 +1,1749 @@
+[
+  {
+    "id": "ch21-001",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No move of the International Trade Administration or parts of the Bureau of Industry and Security to the U.S. Trade Representative was found. Both remain part of the Commerce Department, and BIS continues to issue export control rules.",
+    "closeness": "No match found.",
+    "uncertain": "Two searches (most recently October 2026) found no 2025-2026 plan or bill to move ITA or BIS to USTR. CRS reports from June 2025 and March 2026 describe ITA as still part of Commerce, with Commerce, Treasury and USTR all active in trade talks.",
+    "sources": [
+      {
+        "label": "Office of the U.S. Trade Representative: Overview and Issues for Congress in Brief (R48884, March 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48884.html"
+      },
+      {
+        "label": "International Trade Administration: Overview and Issues (IF13048, June 2025)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2025-06-30_IF13048_0c6fda56d49b1c0a08fda6e41bbadd575d853354.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-002",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The President's fiscal 2026 budget proposed eliminating the Economic Development Administration, but Congress kept it: the January 23, 2026 spending law (P.L. 119-74) gave it $400 million for its grant programs, about $466 million in total. The fiscal 2027 budget again proposes eliminating EDA. EDA kept operating and in March 2026 issued rules streamlining its grant requirements.",
+    "key_dates": [
+      {
+        "date": "2026-01-23",
+        "event": "FY2026 spending law funds EDA."
+      },
+      {
+        "date": "2026-03-17",
+        "event": "EDA streamlines grant rules."
+      },
+      {
+        "date": "2026-04-03",
+        "event": "FY2027 budget again proposes ending EDA."
+      }
+    ],
+    "closeness": "The administration has asked Congress to abolish EDA, matching the recommendation, but Congress rejected the first request and the second is pending. Funding was not moved to other grant programs.",
+    "uncertain": "Congress also reauthorized EDA in early January 2025, before this administration began. Final fiscal 2027 funding is not settled. Newest source is from August 2026.",
+    "sources": [
+      {
+        "label": "EDA: FY2027 Budget and Appropriations (IF13296, Aug. 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13296.html"
+      },
+      {
+        "label": "Economic Development Administration: Recent Appropriations and Historical Funding (R49312)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49312.html"
+      },
+      {
+        "label": "EDA rule: Streamlining the Requirements for Approved Projects (March 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05229/streamlining-the-requirements-for-approved-projects-for-public-works-and-economic-development"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-003",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The President's fiscal 2026 budget proposed moving the Labor Department's Bureau of Labor Statistics into the Commerce Department and organizing it with the Census Bureau and the Bureau of Economic Analysis under Commerce's Under Secretary for economic affairs. Congress did not make the move for fiscal 2026: the February 2026 spending law (P.L. 119-75) funds BLS in the Labor Department.",
+    "key_dates": [
+      {
+        "date": "2025-05",
+        "event": "FY2026 budget proposes moving BLS to Commerce."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 spending law keeps BLS in the Labor Department."
+      }
+    ],
+    "closeness": "Partial: the proposal brings the three agencies under one Commerce official but does not fully merge them into one agency, and it has not been carried out.",
+    "uncertain": "Whether the fiscal 2027 budget repeats the proposal, or whether any reorganization step was taken in 2026, was not confirmed. Newest source is from mid-2025.",
+    "sources": [
+      {
+        "label": "FY26 statistical agency budget developments",
+        "publisher": "American Statistical Association",
+        "type": "academic",
+        "url": "https://community.amstat.org/blogs/steve-pierson/2025/05/30/fy26-statistical-agency-budget-developments"
+      },
+      {
+        "label": "Trump cuts threaten jobs, inflation data collection",
+        "publisher": "Axios",
+        "type": "news",
+        "url": "https://www.axios.com/2025/06/12/trump-inflation-gdp-jobs-report"
+      },
+      {
+        "label": "Public Law 119-75 (FY2026 consolidated appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Whether the BLS-to-Commerce move was repeated in the FY2027 budget or acted on in 2026 still needs checking."
+  },
+  {
+    "id": "ch21-004",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No action was found placing the Patent and Trademark Office under OMB as a performance-based organization. USPTO has been a performance-based organization inside the Commerce Department since 2000, long before this period.",
+    "closeness": "No match. USPTO already has the performance-based status; the recommended move under OMB did not happen.",
+    "uncertain": "Federal Register searches and a news search found no 2025-2026 proposal to move USPTO under OMB.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-005",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Patent and Trademark Office and NIST were not merged; both continued to operate separately in 2025-2026.",
+    "closeness": "No match.",
+    "uncertain": "Federal Register searches and a news search found no 2025-2026 proposal to merge USPTO and NIST, and no law passed by the 119th Congress through October 2026 does so.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-006",
+    "status": "not-done",
+    "match": "none",
+    "happened": "NOAA was not dismantled. The President's fiscal 2026 budget proposed deep cuts, including ending its research office. Congress instead provided about $6.1 billion in appropriations for NOAA in a law enacted in January 2026, $1.6 billion more than requested.",
+    "key_dates": [
+      {
+        "date": "2025-06",
+        "event": "Fiscal 2026 budget request proposes eliminating NOAA's research office (OAR)."
+      },
+      {
+        "date": "2026-01",
+        "event": "Full-year fiscal 2026 appropriations law (P.L. 119-74) funds NOAA."
+      }
+    ],
+    "closeness": "No match for breaking up NOAA. Some research programs were moved to the National Weather Service; see ch21-054.",
+    "uncertain": "How many NOAA staff left in 2025-2026 and whether any functions were privatized or shifted to states. Search was limited by the session's web search cap; newest source is a March 2026 CRS report.",
+    "sources": [
+      {
+        "label": "NOAA FY2026 Budget Request and Appropriations (IF13024)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13024.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-007",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public information was found on whether the Commerce Secretary's office was fully staffed with political appointees or whether detailees were sent back to their bureaus.",
+    "closeness": "No match found; internal staffing changes are rarely published.",
+    "uncertain": "Commerce staffing data were not available through the sources that could be searched.",
+    "sources": [],
+    "as_of": "2026-10-28",
+    "recheck": "Commerce Office of the Secretary staffing (political appointees and returned detailees) in 2025-2026 still needs a source."
+  },
+  {
+    "id": "ch21-009",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "Under Executive Order 14217, Commerce Secretary Howard Lutnick terminated 14 discretionary advisory committees, announced in the Federal Register on June 10, 2025. They included committees at the Census Bureau, BEA, International Trade Administration and NOAA.",
+    "key_dates": [
+      {
+        "date": "2025-06-10",
+        "event": "Commerce announces termination of 14 discretionary advisory committees."
+      }
+    ],
+    "closeness": "Matches the abolition part for 14 committees. Whether every non-required committee was reviewed, and whether the rest were \"reconstituted,\" is not known. Same notice as ch21-070.",
+    "uncertain": "Whether more committees were ended later. Newest source is June 2025.",
+    "sources": [
+      {
+        "label": "Commerce notice: Termination of 14 Discretionary Federal Advisory Committees",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/10/2025-10398/notice-of-termination-of-14-discretionary-federal-advisory-committees"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-014",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No rule was found requiring foreign importers of goods under antidumping or countervailing duties to pay large cash deposits, register U.S. assets, or be barred from importing.",
+    "closeness": "No match.",
+    "uncertain": "Federal Register searches of Commerce and CBP documents and a news search found no 2025-2026 rule requiring larger deposits, U.S. asset registration or import bans for foreign importers of goods under duty orders.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-016",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No Commerce rule or policy was found that ends giving foreign companies the benefit of the doubt in trade duty cases. In June 2025 Commerce asked for comments on applying the higher \"all-others\" duty rate to goods sold through unaffiliated resellers, a narrower change.",
+    "closeness": "No direct match. The June 2025 proposal tightens one practice but does not change the overall approach the chapter describes.",
+    "uncertain": "Only one Federal Register document matches the June 2025 reseller proposal, so it does not appear to have been finalized. A broader Commerce rule changing trade remedy procedures was finalized in December 2024, before this administration. A news search found no other 2025-2026 change of this kind.",
+    "sources": [
+      {
+        "label": "ITA proposed rule on unaffiliated reseller assessment rates and CVD expedited reviews",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/04/2025-10158/determining-and-applying-unaffiliated-reseller-assessment-rates-modification-or-removal-of"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-021",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new Commerce method for setting normal values in Chinese antidumping cases was found. 2025-2026 reviews of Chinese goods continued to use the existing \"surrogate country\" approach. A December 2024 rule, before this administration, changed how surrogate countries are picked (by GDP per person) but kept the same approach.",
+    "closeness": "No match.",
+    "uncertain": "I checked Federal Register notices and searched news; no 2025-2026 change to the method was found.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-022",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No reorganization of the International Trade Administration's Industry and Analysis unit into standing supply chain teams was found.",
+    "closeness": "No match found.",
+    "uncertain": "Federal Register searches and a news search found no reorganization of Industry and Analysis into standing supply chain teams; the fiscal 2026 budget proposed a small cut to the unit, and a new Assistant Secretary took office in June 2026.",
+    "sources": [
+      {
+        "label": "International Trade Administration: Overview and Issues (IF13048, June 2025)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13048.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-026",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "BIS added 80 mostly Chinese entities to the Entity List in March 2025, ended a program that let foreign-owned chip plants in China skip licenses in August 2025, and issued a rule in September 2025 extending Entity List limits to companies 50% owned by listed firms. That rule was suspended for one year in November 2025 as part of a U.S.-China trade deal. In January 2026 BIS moved to case-by-case review for exports of some advanced chips, such as Nvidia's H200, to China.",
+    "key_dates": [
+      {
+        "date": "2025-03-25",
+        "event": "BIS adds 80 entities, mostly from China, to the Entity List."
+      },
+      {
+        "date": "2025-09-29",
+        "event": "BIS affiliates (50% ownership) rule takes effect."
+      },
+      {
+        "date": "2025-11-10",
+        "event": "BIS suspends the affiliates rule for one year."
+      },
+      {
+        "date": "2026-01-13",
+        "event": "BIS revises license review policy for advanced chips to China."
+      }
+    ],
+    "closeness": "Mixed. Some China controls were tightened, others eased or paused. No broad reversal of the 2009-2016 export control reform was found; in July 2026 BIS moved more items (suppressors) from the munitions list to Commerce controls.",
+    "uncertain": "Whether the affiliates rule suspension will end on November 10, 2026 or be extended. Search was limited by the session's web search cap.",
+    "sources": [
+      {
+        "label": "Commerce further restricts China's advanced computing capabilities",
+        "publisher": "Bureau of Industry and Security",
+        "type": "government",
+        "url": "https://www.bis.gov/press-release/commerce-further-restricts-chinas-super-intelligence-advanced-computing-capabilities"
+      },
+      {
+        "label": "Commerce expands Entity List to cover affiliates of listed entities",
+        "publisher": "Bureau of Industry and Security",
+        "type": "government",
+        "url": "https://www.bis.gov/press-release/department-commerce-expands-entity-list-cover-affiliates-listed-entities"
+      },
+      {
+        "label": "BIS issues one-year suspension of affiliates rule expansion",
+        "publisher": "Squire Patton Boggs",
+        "type": "law-firm",
+        "url": "https://www.squirepattonboggs.com/en/insights/publications/2025/11/bis-issues-one-year-suspension-of-affiliates-rule-expansion"
+      },
+      {
+        "label": "Commerce revises license review policy for semiconductors exported to China",
+        "publisher": "Bureau of Industry and Security",
+        "type": "government",
+        "url": "https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-027",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "A Justice Department rule that limits sending Americans' bulk sensitive data to countries of concern took effect April 8, 2025, under a 2024 executive order and emergency economic powers law. No export control program aimed at moving U.S. production out of China was found.",
+    "key_dates": [
+      {
+        "date": "2025-04-08",
+        "event": "DOJ Data Security Program rule takes effect."
+      }
+    ],
+    "closeness": "The data part is handled by the Justice Department, not Commerce export controls, and began under the prior administration. The production-shifting part was not found. Same program as ch21-042.",
+    "uncertain": "Whether BIS has used export controls specifically to encourage reshoring. Search was limited by the session's web search cap.",
+    "sources": [
+      {
+        "label": "Data Security Program",
+        "publisher": "U.S. Department of Justice, National Security Division",
+        "type": "government",
+        "url": "https://www.justice.gov/nsd/data-security"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-028",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No open public process for nominating emerging and foundational technologies for export control, with quarterly publication and challenges, was found.",
+    "closeness": "No match.",
+    "uncertain": "A Federal Register search of BIS documents for emerging and foundational technologies found nothing from 2025-2026, and a news search found no such process.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-029",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change was found to how interagency export license disputes are resolved.",
+    "closeness": "No match.",
+    "uncertain": "Dispute procedures are set by executive order; no new order on them was found in the Federal Register, and a news search found no change.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-031",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No policy was found denying export licenses to whole countries, such as China or Russia, that block U.S. end-use checks. BIS continued to add specific parties to the Unverified List, for example 18 parties in April 2025. In January 2026 BIS moved some advanced AI chip exports to China from a presumption of denial to case-by-case review with conditions.",
+    "closeness": "No match. The Unverified List targets individual parties, and the January 2026 chip change loosened, rather than tightened, licensing for China.",
+    "uncertain": "Federal Register rules and a news search were checked; the January 2026 chip rule requires buyer screening but no country-wide end-use test was found.",
+    "sources": [
+      {
+        "label": "BIS rule: Revisions to the Unverified List (April 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/25/2025-07185/revisions-to-the-unverified-list"
+      },
+      {
+        "label": "BIS revises export review policy for advanced AI chips destined for China and Macau (Jan. 2026)",
+        "publisher": "Morgan Lewis",
+        "type": "law-firm",
+        "url": "https://www.morganlewis.com/pubs/2026/01/bis-revises-export-review-policy-for-advanced-ai-chips-destined-for-china-and-macau"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-033",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No BIS rule was found removing the \"specially designed\" concept or eliminating license exceptions for countries of concern. In September 2025 BIS extended export restrictions to companies at least 50% owned by listed parties, a different kind of tightening, but suspended that rule for one year in November 2025.",
+    "closeness": "No match. The 2025 affiliates rule closed a different gap and is suspended.",
+    "uncertain": "Federal Register searches of BIS rules for \"specially designed\" and license exceptions found only unrelated changes (drones, firearms, Syria, UAE).",
+    "sources": [
+      {
+        "label": "BIS rule: Expansion of End-User Controls To Cover Affiliates of Certain Listed Entities (Sept. 30, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/30/2025-19001/expansion-of-end-user-controls-to-cover-affiliates-of-certain-listed-entities"
+      },
+      {
+        "label": "BIS rule: One Year Suspension of Expansion of End-User Controls for Affiliates (Nov. 12, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/11/12/2025-19846/one-year-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed-entities"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Only Federal Register keyword searches were done for this item; a news or law-firm check on 'specially designed' and license-exception changes is still missing."
+  },
+  {
+    "id": "ch21-034",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No 2025-2026 BIS rule moving China or Russia into a more restrictive export country group was found.",
+    "closeness": "No match found.",
+    "uncertain": "A web search and a Federal Register search of BIS rules through October 2026 found no 2025-2026 change to China's or Russia's country groups. Both were already in restrictive \"D\" groups before 2025 (Russia was moved into D:2 and D:4 in 2020 and further restricted in 2022); neither is in group E.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-035",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new broadening of the foreign direct product rules was found in 2025-2026. BIS took other steps: a September 2025 rule extended Entity List limits to companies at least 50% owned by listed firms (later suspended for a year), and in January 2026 BIS eased review of some advanced chip exports to China.",
+    "closeness": "No match for the foreign direct product rules themselves. The affiliates rule is a different tool with a related goal.",
+    "uncertain": "Federal Register searches for \"foreign direct product rule\" found no new expansion; smaller amendments may have been missed.",
+    "sources": [
+      {
+        "label": "BIS interim final rule: Expansion of End-User Controls To Cover Affiliates of Certain Listed Entities",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/30/2025-19001/expansion-of-end-user-controls-to-cover-affiliates-of-certain-listed-entities"
+      },
+      {
+        "label": "BIS rule: Revision to License Review Policy for Advanced Computing Commodities (January 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/15/2026-00789/revision-to-license-review-policy-for-advanced-computing-commodities"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-036",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No Commerce Department (BIS) rule was found lowering the de minimis U.S.-content threshold for export controls from 25% to 10% or 0%. The current rule text still uses the 25% and 10% levels.",
+    "closeness": "No match.",
+    "uncertain": "Searched the Federal Register for BIS documents on \"de minimis\" since January 2025 (only an August 2026 drone rule came up) and ran a web search; neither found a change to the threshold. Newest check is October 2026.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-037",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No BIS rule was found tightening deemed export rules for foreign nationals from countries of concern.",
+    "closeness": "No match.",
+    "uncertain": "Searched the Federal Register for BIS documents on \"deemed export\" since January 2025 and ran a web search for 2025-2026 deemed export rule changes; neither found a new rule. Newest check is October 2026.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-038",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No BIS rule was found narrowing the \"fundamental research\" exemption.",
+    "closeness": "No match.",
+    "uncertain": "Searched the Federal Register for BIS documents on \"fundamental research\" since January 2025 and ran a web search; neither found a change to the exemption. Research-security policies by other agencies (such as NIH or NSF) are separate and were not counted here.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-039",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No general ban on exports to countries of concern was put in place. In November 2025 the administration paused the BIS affiliates rule as part of a trade deal with China, and in January 2026 BIS allowed case-by-case licenses for some advanced chips to China.",
+    "closeness": "No match. Controls remain item- and entity-specific rather than a broad ban.",
+    "uncertain": "Future steps after the affiliates rule suspension ends in November 2026. Search was limited by the session's web search cap.",
+    "sources": [
+      {
+        "label": "Commerce revises license review policy for semiconductors exported to China",
+        "publisher": "Bureau of Industry and Security",
+        "type": "government",
+        "url": "https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china"
+      },
+      {
+        "label": "BIS issues one-year suspension of affiliates rule expansion",
+        "publisher": "Squire Patton Boggs",
+        "type": "law-firm",
+        "url": "https://www.squirepattonboggs.com/en/insights/publications/2025/11/bis-issues-one-year-suspension-of-affiliates-rule-expansion"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-040",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "BIS added many Chinese and other foreign entities to the Entity List in 2025, including rules on March 28, September 16 and October 9, 2025. Listed entities generally face a presumption of license denial. A September 2025 rule extending limits to companies 50% owned by listed firms was suspended for one year in November 2025.",
+    "key_dates": [
+      {
+        "date": "2025-03-28",
+        "event": "BIS adds dozens of entities, mostly in China, to the Entity List."
+      },
+      {
+        "date": "2025-09-16",
+        "event": "BIS adds and revises Entity List entries."
+      },
+      {
+        "date": "2025-09-29",
+        "event": "BIS affiliates (50% ownership) rule takes effect."
+      },
+      {
+        "date": "2025-11-10",
+        "event": "BIS suspends the affiliates rule for one year."
+      }
+    ],
+    "closeness": "Matches adding more entities. Some steps went the other way, such as removing an entity in November 2025 and easing some chip exports in January 2026. See ch21-026.",
+    "uncertain": "The total number of Russian entities added was not counted. Newest source is January 2026.",
+    "sources": [
+      {
+        "label": "BIS rule: Additions to the Entity List (March 28, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/03/28/2025-05427/additions-to-the-entity-list"
+      },
+      {
+        "label": "BIS rule: Additions and Revisions to the Entity List (September 16, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/16/2025-17893/additions-and-revisions-to-the-entity-list"
+      },
+      {
+        "label": "BIS rule: Additions to the Entity List (October 9, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/09/2025-19508/additions-to-the-entity-list"
+      },
+      {
+        "label": "BIS interim final rule: Expansion of End-User Controls To Cover Affiliates of Certain Listed Entities",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/30/2025-19001/expansion-of-end-user-controls-to-cover-affiliates-of-certain-listed-entities"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-042",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "President Biden signed Executive Order 14117 on February 28, 2024, using emergency economic powers law to limit transfers of Americans' bulk sensitive data to countries of concern. The Justice Department issued the final rule in December 2024. It took effect April 8, 2025, and more requirements began October 5, 2025.",
+    "key_dates": [
+      {
+        "date": "2024-02-28",
+        "event": "Executive Order 14117 signed."
+      },
+      {
+        "date": "2024-12-26",
+        "event": "DOJ issues final rule (28 CFR Part 202)."
+      },
+      {
+        "date": "2025-04-08",
+        "event": "Rule takes effect."
+      },
+      {
+        "date": "2025-10-05",
+        "event": "Due diligence, audit and reporting requirements take effect."
+      }
+    ],
+    "closeness": "Same mechanism (an emergency-powers executive order on data exports), but run by the Justice Department rather than Commerce's BIS, and started by the prior administration before this one enforced it.",
+    "uncertain": "How actively the program is enforced. No court challenge was found, but search was limited by the session's web search cap.",
+    "sources": [
+      {
+        "label": "Data Security Program",
+        "publisher": "U.S. Department of Justice, National Security Division",
+        "type": "government",
+        "url": "https://www.justice.gov/nsd/data-security"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-043",
+    "status": "not-done",
+    "match": "none",
+    "happened": "BIS did not add TikTok, ByteDance or WeChat to the Entity List. TikTok was instead handled under a 2024 law requiring sale or a ban. TikTok's U.S. business was moved into a joint venture controlled by American investors, a deal that closed in January 2026, with ByteDance keeping 19.9%.",
+    "key_dates": [
+      {
+        "date": "2025-01-17",
+        "event": "Supreme Court upholds the 2024 TikTok divest-or-ban law."
+      },
+      {
+        "date": "2026-01-22",
+        "event": "TikTok U.S. joint venture deal closes."
+      }
+    ],
+    "closeness": "No Entity List action. A different tool (a sale required by law) was used for TikTok; nothing was found for WeChat. See ch28-009.",
+    "uncertain": "Whether any WeChat action was taken. Search was limited by the session's web search cap.",
+    "sources": [
+      {
+        "label": "TikTok divestiture deal closes",
+        "publisher": "Axios",
+        "type": "news",
+        "url": "https://axios.com/2026/01/23/tiktok-deal-trump-app-ban"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-044",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The National Weather Service's forecasting was not commercialized. Congress funded the Weather Service at about $1.46 billion for fiscal 2026, about 8% more than fiscal 2025.",
+    "closeness": "No match. Weather Service funding went up.",
+    "uncertain": "Two searches (most recently October 2026) found no plan or contract to commercialize Weather Service forecasting. Commerce Secretary Lutnick said \"No\" when asked whether he agreed with privatizing parts of NOAA; NOAA leaders do have past ties to private weather firms, and NOAA buys some private weather data.",
+    "sources": [
+      {
+        "label": "NOAA FY2026 Budget Request and Appropriations (IF13024)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13024.html"
+      },
+      {
+        "label": "Trump appointees have ties to companies that stand to benefit from privatizing weather forecasts (AP)",
+        "publisher": "NBC New York",
+        "type": "news",
+        "url": "https://www.nbcnewyork.com/news/national-international/privatizing-weather-forecasts-trump-appointees-nws-downsized/6330668/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-046",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The National Weather Service was not made a performance-based organization. Congress funded it at about $1.46 billion for fiscal 2026. In March 2026 NOAA said it planned to reorganize into a leaner structure, but no performance-based organization was proposed.",
+    "closeness": "No match.",
+    "uncertain": "Searched the Federal Register and the web for a weather service performance-based organization plan in 2025-2026 and found none. Details of the planned 2026 NOAA reorganization were not confirmed. Newest source is March 2026.",
+    "sources": [
+      {
+        "label": "NOAA FY2026 Budget Request and Appropriations (IF13024)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13024.html"
+      },
+      {
+        "label": "AI Upgrades Eyed in Planned Reorganization of US Weather Agency",
+        "publisher": "Bloomberg",
+        "type": "news",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-05/us-weather-agency-targets-ai-upgrades-in-plans-for-overhaul"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-048",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No move of National Ocean Service survey work to the Coast Guard or U.S. Geological Survey was found. The fiscal 2026 and 2027 budget requests proposed cutting hydrographic survey funding instead, and NOAA's survey programs kept operating.",
+    "closeness": "No match.",
+    "uncertain": "Searched the Federal Register and the web (including NOAA budget documents and a July 2026 CRS report) for a transfer of survey work; none was found. Newest source is July 2026.",
+    "sources": [
+      {
+        "label": "NOAA FY2027 Budget Request and Appropriations (IF13275)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13275.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-050",
+    "status": "partly-blocked",
+    "match": "partial",
+    "happened": "President Trump's April 17, 2025 seafood order told Commerce to review marine national monuments for commercial fishing. Proclamations in April 2025, February 2026 and June 2026 removed monument fishing bans in several Pacific monuments and the Atlantic Northeast Canyons and Seamounts monument. A federal court in Hawaii stopped fishing in the Pacific Remote Islands monument in August 2025. Congress has not changed the fisheries or sanctuaries laws.",
+    "key_dates": [
+      {
+        "date": "2025-04-17",
+        "event": "Executive Order 14276 and a proclamation open Pacific Remote Islands monument waters to commercial fishing."
+      },
+      {
+        "date": "2025-08-08",
+        "event": "Federal district court in Hawaii vacates the fisheries agency letter that allowed fishing in that monument."
+      },
+      {
+        "date": "2026-02-06",
+        "event": "Proclamation opens the Atlantic Northeast Canyons and Seamounts monument to commercial fishing."
+      },
+      {
+        "date": "2026-06-11",
+        "event": "Proclamation 11035 opens parts of three more Pacific monuments."
+      }
+    ],
+    "legal": "On August 8, 2025, the U.S. District Court for the District of Hawaii ruled that the National Marine Fisheries Service letter allowing commercial fishing in the Pacific Remote Islands (Pacific Islands Heritage) monument was unlawful because it skipped public notice and comment, and vacated it. In May 2026 conservation groups sued in federal court in Washington, D.C. over the Northeast Canyons and Seamounts proclamation; the government asked the court to dismiss in July 2026, and no ruling was found.",
+    "closeness": "Same goal (fewer no-fishing zones), but mostly through marine monuments, not national marine sanctuaries, and not by harmonizing the two laws.",
+    "uncertain": "Whether the fisheries agency later reopened the Pacific Remote Islands monument through a formal rule, and whether the June 2026 proclamation has been challenged. A September 2026 order (EO 14430) also ordered a review of permits in sanctuaries. Newest source is July 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14276: Restoring American Seafood Competitiveness",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/22/2025-07062/restoring-american-seafood-competitiveness"
+      },
+      {
+        "label": "Proclamation 11035: Restoring American Commercial Fishing in the Pacific (June 11, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12283/restoring-american-commercial-fishing-in-the-pacific"
+      },
+      {
+        "label": "Commercial fishing in Pacific monument halted after court ruling (August 11, 2025)",
+        "publisher": "Hawaii Public Radio",
+        "type": "news",
+        "url": "https://www.hawaiipublicradio.org/local-news/2025-08-11/commercial-fishing-pacific-monument-halted"
+      },
+      {
+        "label": "New England fishermen ask to weigh in on Seamounts marine monument lawsuit",
+        "publisher": "SeafoodSource",
+        "type": "news",
+        "url": "https://www.seafoodsource.com/news/new-england-fishermen-ask-to-weigh-in-on-seamounts-marine-monument-lawsuit"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-051",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 20, 2025, President Trump signed an order (Initial Rescissions of Harmful Executive Orders and Actions) that revoked Executive Order 14008, the 2021 climate order that set the 30x30 conservation goal behind the America the Beautiful initiative.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14148 revokes Executive Order 14008."
+      }
+    ],
+    "closeness": "Same action: the order containing the 30x30 goal was withdrawn.",
+    "uncertain": "Whether specific ocean areas closed under the initiative have been reopened to fishing was not checked.",
+    "sources": [
+      {
+        "label": "Initial Rescissions of Harmful Executive Orders and Actions",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-052",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "Executive Order 14276 (April 2025) told Commerce to seek ideas to reduce burdens on fishing under the Endangered Species Act and Marine Mammal Protection Act. On November 21, 2025, the Fish and Wildlife Service and NOAA Fisheries proposed revising the ESA section 7 consultation rules. No final rule was found.",
+    "key_dates": [
+      {
+        "date": "2025-04-17",
+        "event": "Executive Order 14276 directs review of fishing burdens under ESA and MMPA."
+      },
+      {
+        "date": "2025-11-21",
+        "event": "Proposed revisions to ESA interagency consultation rules."
+      }
+    ],
+    "closeness": "Partly matches: ESA rules are being revised, but the changes are general rather than aimed at fisheries and Native subsistence, and no MMPA rule change was found.",
+    "uncertain": "Whether the ESA rules were finalized after the proposal. Newest source is November 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14276: Restoring American Seafood Competitiveness",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/22/2025-07062/restoring-american-seafood-competitiveness"
+      },
+      {
+        "label": "FWS and NMFS proposed rule: ESA Interagency Cooperation Regulations (November 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/11/21/2025-20551/endangered-and-threatened-wildlife-and-plants-interagency-cooperation-regulations"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-053",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On July 1, 2025, Commerce updated its NEPA procedures and NOAA proposed new and revised categorical exclusions, which let some actions skip detailed environmental review. Fisheries actions that do not substantially change fishing location, timing, effort, gear or harvest were already excluded and remain so.",
+    "key_dates": [
+      {
+        "date": "2025-07-01",
+        "event": "Commerce updates NEPA procedures; NOAA proposes categorical exclusion changes."
+      }
+    ],
+    "closeness": "Same direction (fewer repeated reviews), but no blanket NEPA exemption for fisheries actions was found.",
+    "uncertain": "Whether NOAA finalized its proposed categorical exclusions and how CEQ's 2025 NEPA changes apply to fisheries. Newest source is July 2025.",
+    "sources": [
+      {
+        "label": "Commerce: Procedures for Considering Environmental Impacts (NEPA), with NOAA categorical exclusions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/07/01/2025-12272/procedures-for-considering-environmental-impacts"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-054",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The President's fiscal 2026 budget proposed eliminating NOAA's Office of Oceanic and Atmospheric Research, including its climate programs. Congress kept the office and funded it at about $630 million, nearly 10% below fiscal 2025, and moved some of its programs to the Weather Service.",
+    "key_dates": [
+      {
+        "date": "2026-01",
+        "event": "Fiscal 2026 appropriations law (P.L. 119-74) keeps OAR at about $630 million."
+      }
+    ],
+    "closeness": "A smaller version: a cut of about 10% instead of disbanding most climate research. No lab consolidation was confirmed.",
+    "uncertain": "How the cut was split between climate and other research, and lab closures. Newest source is a March 2026 CRS report; search was limited by the session's web search cap.",
+    "sources": [
+      {
+        "label": "NOAA FY2026 Budget Request and Appropriations (IF13024)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13024.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-058",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14335 (August 13, 2025) told Commerce to propose a process for authorizing new kinds of commercial space activities and to move the Office of Space Commerce into the Secretary's office. In August 2026 the Office of Space Commerce invited companies to a pilot of a \"whole-of-government\" mission authorization framework.",
+    "key_dates": [
+      {
+        "date": "2025-08-13",
+        "event": "Executive Order 14335 on commercial space competition."
+      },
+      {
+        "date": "2026-08-20",
+        "event": "Office of Space Commerce announces mission authorization pilot."
+      }
+    ],
+    "closeness": "Close in mechanism: an executive order directing the Office of Space Commerce to build a unified authorization process. It covers novel activities, not all commercial space licensing, and is still a pilot.",
+    "uncertain": "Role of the National Space Council and whether the pilot becomes a final rule. Newest source is August 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14335: Enabling Competition in the Commercial Space Industry",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/19/2025-15822/enabling-competition-in-the-commercial-space-industry"
+      },
+      {
+        "label": "Office of Space Commerce: Notice of Mission Authorization Pilot Program",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17016/notice-of-mission-authorization-pilot-program"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-059",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public action was found giving the Census Bureau more political appointee positions. In June 2026 the Bureau named two new deputy directors: Michael Lachanski, who came from a senior advisor job in the Commerce Department, and John Studds, the Bureau's chief information officer.",
+    "closeness": "No match found.",
+    "uncertain": "The June 2026 announcement does not say whether either deputy post is a political appointment. Searched the Federal Register and the web twice for added Census appointee positions; none was confirmed. Newest source is June 2026.",
+    "sources": [
+      {
+        "label": "Census Bureau Announces Appointment of Two New Deputy Directors (June 12, 2026)",
+        "publisher": "U.S. Census Bureau",
+        "type": "government",
+        "url": "https://www.census.gov/newsroom/press-releases/2026/two-new-deputy-directors-appointed.html"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Confirm whether the June 2026 Census deputy director posts (Lachanski, Studds) are political appointee positions; if so, this is not 'not-done'."
+  },
+  {
+    "id": "ch21-064",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "In August 2025, President Trump directed the Commerce Department to start work on a new census that would leave out immigrants in the U.S. illegally. In February 2026, the Census Bureau proposed using a form with a citizenship question (taken from the American Community Survey) in its 2026 test for the 2030 census, planned for two sites from April to September 2026. Whether the question would be approved for the test or the 2030 census was not decided.",
+    "key_dates": [
+      {
+        "date": "2025-08",
+        "event": "President directs Commerce to begin work on a new census excluding people in the U.S. illegally."
+      },
+      {
+        "date": "2026-02-05",
+        "event": "Census Bureau proposes a citizenship question in its 2026 field test."
+      }
+    ],
+    "legal": "No court ruling on the test was found. Several Republican-led states have sued to exclude people without legal status from census counts; New York officials said in April 2026 they would consider legal action if the question is previewed for 2030.",
+    "closeness": "Same idea, but only a test so far. The list of 2030 census topics is due to Congress in 2027, and the Supreme Court blocked a similar question for the 2020 census.",
+    "uncertain": "Whether OMB approved the citizenship question for the test, and whether the test ran as planned, were not confirmed. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "Trump officials propose testing a citizenship question amid a push to alter the census",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://www.npr.org/2026/02/05/nx-s1-5584085/census-citizenship-question"
+      },
+      {
+        "label": "Census Bureau plans to use survey with a citizenship question in its test for 2030, alarming experts",
+        "publisher": "PBS NewsHour (AP)",
+        "type": "news",
+        "url": "https://www.pbs.org/newshour/politics/census-bureau-plans-to-use-survey-with-a-citizenship-question-in-its-test-for-2030-alarming-experts"
+      },
+      {
+        "label": "Joint letter from Speaker Menin and AG James on the 2030 Census",
+        "publisher": "New York City Council",
+        "type": "government",
+        "url": "https://council.nyc.gov/press/wp-content/uploads/sites/56/2026/04/Joint-letter-from-Speaker-Menin-and-AG-James-re-2030-US-Census.pdf"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still missing: whether OMB approved the citizenship question for the 2026 Census Test and whether the test ran with it."
+  },
+  {
+    "id": "ch21-065",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "On September 10, 2026, the Census Bureau proposed a rule that would bar any question about race, ethnicity or sexual orientation from the decennial census form used to count people. The comment period was extended to November 2, 2026. This would replace the planned combined race and ethnicity question from the 2024 federal standards with no such question at all on that form.",
+    "key_dates": [
+      {
+        "date": "2026-09-10",
+        "event": "Census Bureau proposes barring race and ethnicity questions from the census form."
+      },
+      {
+        "date": "2026-11-02",
+        "event": "Extended comment deadline."
+      }
+    ],
+    "closeness": "The administration did take control of the question, but went further than review: the proposal would drop race and ethnicity from the census count form, while keeping them on the American Community Survey.",
+    "uncertain": "Whether OMB has changed its 2024 race and ethnicity standards, and whether a final rule will be issued or challenged. Newest source is October 2026.",
+    "sources": [
+      {
+        "label": "Census Bureau proposed rule: Residence Criteria and Regulations for Demographic Questions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18481/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations"
+      },
+      {
+        "label": "Census Bureau: extension of comment period to November 2, 2026",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20328/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-066",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The Census Bureau's September 10, 2026 proposed rule would remove race, ethnicity and sexual orientation questions from the decennial census form and make all other demographic questions optional, except sex, date of birth and household relationship. It also asked for comments on adding a legal-status question.",
+    "key_dates": [
+      {
+        "date": "2026-09-10",
+        "event": "Census Bureau proposes limits on demographic questions."
+      },
+      {
+        "date": "2026-11-02",
+        "event": "Extended comment deadline."
+      }
+    ],
+    "closeness": "Similar goal of removing questions the bureau calls less needed, with the American Community Survey still available for them. It focuses on demographic questions rather than a review of every question. Same rule as ch21-065.",
+    "uncertain": "Whether a final rule will be issued and whether it will be challenged in court. Newest source is October 2026.",
+    "sources": [
+      {
+        "label": "Census Bureau proposed rule: Residence Criteria and Regulations for Demographic Questions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18481/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations"
+      },
+      {
+        "label": "Census Bureau: extension of comment period to November 2, 2026",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20328/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-070",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The Census Bureau cancelled the spring 2025 meetings of its advisory committees. On June 10, 2025, Commerce announced it had terminated the Census Bureau National Advisory Committee on Racial, Ethnic, and Other Populations, the Census Scientific Advisory Committee and the 2030 Census Advisory Committee, among 14 committees.",
+    "key_dates": [
+      {
+        "date": "2025-03-13",
+        "event": "National Advisory Committee meeting cancelled."
+      },
+      {
+        "date": "2025-06-10",
+        "event": "Commerce announces termination of the three Census committees."
+      }
+    ],
+    "closeness": "Matches the recommendation, and goes further by also ending the scientific and 2030 census committees. Same notice as ch21-009.",
+    "uncertain": "No court challenge was found. Newest source is June 2025.",
+    "sources": [
+      {
+        "label": "Commerce notice: Termination of 14 Discretionary Federal Advisory Committees",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/10/2025-10398/notice-of-termination-of-14-discretionary-federal-advisory-committees"
+      },
+      {
+        "label": "Census Bureau: National Advisory Committee meeting cancellation",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/03/13/2025-03963/national-advisory-committee-meeting-cancellation"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-076",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Patent and Trademark Office issued an August 4, 2025 memo on applying patent eligibility rules, and on September 26, 2025 an appeals panel decided Ex parte Desjardins, which found a machine learning training method eligible. The office added it to its examining manual on December 5, 2025. In Congress, the Patent Eligibility Restoration Act (S. 1546) had Senate Judiciary hearings in October 2025 and July 2026 but no committee vote.",
+    "key_dates": [
+      {
+        "date": "2025-08-04",
+        "event": "USPTO memo on evaluating subject matter eligibility."
+      },
+      {
+        "date": "2025-09-26",
+        "event": "Appeals Review Panel decides Ex parte Desjardins."
+      },
+      {
+        "date": "2025-10-08",
+        "event": "Senate Judiciary subcommittee hearing on the Patent Eligibility Restoration Act."
+      },
+      {
+        "date": "2026-07-14",
+        "event": "Full Senate Judiciary Committee hearing on patent eligibility."
+      }
+    ],
+    "closeness": "The administration re-examined eligibility for AI inventions through agency guidance. A reform bill is pending in Congress but has not passed a committee.",
+    "uncertain": "Whether the administration formally endorsed S. 1546 was not found. Newest source is July 2026.",
+    "sources": [
+      {
+        "label": "Advance notice of change to the MPEP in light of Ex parte Desjardins",
+        "publisher": "U.S. Patent and Trademark Office",
+        "type": "government",
+        "url": "https://www.uspto.gov/sites/default/files/documents/memo-desjardins.pdf"
+      },
+      {
+        "label": "Reminders on evaluating subject matter eligibility under 35 U.S.C. 101 (August 4, 2025)",
+        "publisher": "U.S. Patent and Trademark Office",
+        "type": "government",
+        "url": "https://www.uspto.gov/sites/default/files/documents/memo-101-20250804.pdf"
+      },
+      {
+        "label": "Hearing: The Patent Eligibility Restoration Act (October 8, 2025)",
+        "publisher": "Senate Judiciary Committee",
+        "type": "government",
+        "url": "https://www.judiciary.senate.gov/committee-activity/hearings/the-patent-eligibility-restoration-act_restoring-clarity-certainty-and-predictability-to-the-us-patent-system-10-08-2025"
+      },
+      {
+        "label": "Is the 4th Time a Charm? Congress Revisits Patent Eligibility Reform (July 2026)",
+        "publisher": "Holland & Knight",
+        "type": "law-firm",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/07/is-the-4th-time-a-charm-congress-revisits-patent-eligibility-reform"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-079",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new administration position for or against intellectual property waivers at the World Trade Organization was found in 2025-2026.",
+    "closeness": "No action found either way.",
+    "uncertain": "Searched the Federal Register and the web for a 2025-2026 U.S. position on WTO intellectual property waivers; results only covered the 2021-2023 debate. USTR statements inside WTO meetings were not reviewed one by one.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-080",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "No government-wide review or consolidation of federal civilian research was found. The administration did propose consolidating parts of one research agency: its fiscal 2026 budget asked to fold NIH's 27 institutes and centers into 8, which Congress did not adopt, and its fiscal 2027 budget asks to cut them to 22. The fiscal 2027 request is pending.",
+    "key_dates": [
+      {
+        "date": "2026-02-03",
+        "event": "Fiscal 2026 NIH funding law signed without the proposed consolidation."
+      },
+      {
+        "date": "2026-04-03",
+        "event": "Fiscal 2027 budget proposes cutting NIH institutes and centers from 27 to 22."
+      }
+    ],
+    "closeness": "Only the general direction: a proposed consolidation inside NIH, not a review of all civilian research. Budget cuts to research agencies are a different action.",
+    "uncertain": "Congress had not acted on the fiscal 2027 request as of the newest source (April 2026). Other agency reorganizations (such as at the Energy Department) were not counted.",
+    "sources": [
+      {
+        "label": "Trump budget seeks $5 billion NIH cut, fewer institutes, in 2027",
+        "publisher": "STAT",
+        "type": "news",
+        "url": "https://www.statnews.com/2026/04/03/trump-budget-nih-5-billion-cut-in-2027/"
+      },
+      {
+        "label": "NIH Budget Request",
+        "publisher": "National Institutes of Health, Office of Budget",
+        "type": "government",
+        "url": "https://officeofbudget.od.nih.gov/br.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-081",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The administration's fiscal 2026 budget proposed ending the $175 million Hollings Manufacturing Extension Partnership, and Commerce stopped funding some state centers in 2025. Congress rejected the cut and gave the program $175 million in the January 23, 2026 funding law. The fiscal 2027 budget again proposes ending the program, and that request is pending. No plan to privatize the centers was sent to Congress.",
+    "key_dates": [
+      {
+        "date": "2025-06",
+        "event": "Fiscal 2026 NIST budget request proposes eliminating the program."
+      },
+      {
+        "date": "2026-01-23",
+        "event": "Public Law 119-74 provides $175 million for the program."
+      },
+      {
+        "date": "2026-04-08",
+        "event": "Fiscal 2027 budget again proposes eliminating it."
+      }
+    ],
+    "closeness": "Ending federal funding matches part of the idea, but it was proposed through the budget, not a privatization bill. Congress rejected the fiscal 2026 version; the same proposal is pending in the fiscal 2027 budget.",
+    "uncertain": "How much fiscal 2026 money Commerce has actually released to centers, and the status of the July 2026 Senate bill to force restoration. Newest source is July 2026.",
+    "sources": [
+      {
+        "label": "NIST/NTIS FY2026 Congressional Budget Submission",
+        "publisher": "U.S. Department of Commerce",
+        "type": "government",
+        "url": "https://www.commerce.gov/sites/default/files/2025-06/NIST-NTIS-FY2026-Congressional-Budget-Submission.pdf"
+      },
+      {
+        "label": "Public Law 119-74 (Consolidated Appropriations, January 23, 2026)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
+      },
+      {
+        "label": "Trump's FY 2027 budget eliminates Manufacturing Extension Partnership program",
+        "publisher": "Manufacturing Dive",
+        "type": "news",
+        "url": "https://manufacturingdive.com/news/trumps-fy-2027-budget-eliminates-manufacturing-extension-partnership-program/816844/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-084",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 AI Action Plan told the State and Commerce Departments to use the U.S. position in international standard-setting bodies to push AI approaches that \"counter authoritarian influence,\" naming Chinese efforts to shape standards. In February 2026 NIST started an AI agent standards effort meant to feed international bodies. No NIST program to exclude China from standards bodies was found.",
+    "key_dates": [
+      {
+        "date": "2025-07-23",
+        "event": "White House releases America's AI Action Plan."
+      },
+      {
+        "date": "2026-02",
+        "event": "NIST launches AI agent standards initiative."
+      }
+    ],
+    "closeness": "Same direction for AI standards only: more U.S. weight in standards bodies to counter China, but not a general NIST push or the exclusion of China.",
+    "uncertain": "What concrete steps followed in specific standards bodies. Newest source is March 2026.",
+    "sources": [
+      {
+        "label": "America's AI Action Plan (July 2025)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf"
+      },
+      {
+        "label": "Eyeing China's growth, NIST launches new standards initiative for AI agents (February 20, 2026)",
+        "publisher": "Foundation for Defense of Democracies",
+        "type": "advocacy",
+        "url": "https://www.fdd.org/analysis/eyeing-chinas-growth-nist-launches-new-standards-initiative-for-ai-agents/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-086",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 20, 2025, President Trump signed Executive Order 14149, which bars federal officials from working to limit Americans' lawful speech and orders a review of past federal actions on online content moderation. NTIA head Arielle Roth, sworn in July 30, 2025, has spoken about free speech in international communications policy, but no NTIA-led review of online free speech policy was found.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14149 on ending federal censorship."
+      }
+    ],
+    "closeness": "Same goal, different agency: the order gave the review to the Attorney General and agency heads, not NTIA.",
+    "uncertain": "Searched the web and the Federal Register for a 2025-2026 NTIA review or comment request on online censorship; none was found. The results of the order's review were not found. Newest source is 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14149: Restoring Freedom of Speech and Ending Federal Censorship",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01902/restoring-freedom-of-speech-and-ending-federal-censorship"
+      },
+      {
+        "label": "Remarks of Assistant Secretary Arielle Roth at the Media Institute (2026)",
+        "publisher": "NTIA",
+        "type": "government",
+        "url": "https://ntia.gov/speech/testimony/2026/remarks-assistant-secretary-arielle-roth-media-institute-communications-forum-luncheon-series"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-087",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The President renewed the national emergency behind the 2019 ICTS supply chain order in May 2025 and May 2026, keeping those powers in place. A BIS rule banning certain Chinese- and Russian-linked connected vehicle technology was finished on January 16, 2025, before the new administration, and took effect March 17, 2025. Commerce carries out these powers through BIS.",
+    "key_dates": [
+      {
+        "date": "2025-01-16",
+        "event": "Connected vehicle ICTS rule published (before January 20, 2025)."
+      },
+      {
+        "date": "2025-05-14",
+        "event": "ICTS national emergency continued."
+      },
+      {
+        "date": "2026-05-13",
+        "event": "ICTS national emergency continued again."
+      }
+    ],
+    "closeness": "The authorities stay in use, but they are run by BIS, not NTIA. The main ICTS rule in force was finished before January 20, 2025, and no new 2025-2026 ICTS rule was confirmed.",
+    "uncertain": "A 2026 report said Commerce withdrew a planned drone ICTS rule; this was not confirmed in an official source. Newest source is May 2026.",
+    "sources": [
+      {
+        "label": "Continuation of the National Emergency on Securing the ICTS Supply Chain (May 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/14/2025-08785/continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications"
+      },
+      {
+        "label": "Continuation of the National Emergency on Securing the ICTS Supply Chain (May 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/13/2026-09671/continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications"
+      },
+      {
+        "label": "Commerce finalizes connected vehicle prohibitions (February 2025)",
+        "publisher": "Arnold & Porter",
+        "type": "law-firm",
+        "url": "https://www.arnoldporter.com/en/perspectives/advisories/2025/02/commerce-finalizes-connected-vehicle-prohibitions"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-088",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No NTIA program for short-term leasing of unused federal spectrum was found. Spectrum work in 2025-2026 focused on finding federal bands to auction under the July 2025 reconciliation law; in March 2026 NTIA named the first 5 megahertz for commercial use.",
+    "closeness": "No match. Spectrum steps in 2025-2026 focused on auctions and reallocation, not leasing.",
+    "uncertain": "Searched the Federal Register and the web for a 2025-2026 federal spectrum leasing or short-term access program; none was found. Newest source is April 2026.",
+    "sources": [
+      {
+        "label": "NTIA officially taps 5 megahertz of NOAA spectrum for wireless use",
+        "publisher": "Broadband Breakfast",
+        "type": "news",
+        "url": "https://broadbandbreakfast.com/ntia-officially-taps-5-megahertz-of-noaa-spectrum-for-wireless-use/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-091",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In 2025 NTIA restructured the $42.45 billion BEAD broadband program under \"Benefit of the Bargain\" reforms, which made states rebid projects and cut costs. NTIA says the changes saved at least $18 billion, and in January 2026 it asked for input on how to use the leftover funds.",
+    "key_dates": [
+      {
+        "date": "2025-10-28",
+        "event": "NTIA head describes Benefit of the Bargain results and savings."
+      },
+      {
+        "date": "2026-01-27",
+        "event": "NTIA notice of listening session on saved BEAD funds."
+      }
+    ],
+    "closeness": "NTIA did reset BEAD priorities, but around lower cost and technology choice rather than putting 5G infrastructure first.",
+    "uncertain": "The June 2025 policy notice itself was not found on a page that could be fetched. Newest source is January 2026.",
+    "sources": [
+      {
+        "label": "NTIA listening session on BEAD funds saved through Benefit of the Bargain reforms",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01594/ntia-listening-session-on-the-use-of-bead-funds-saved-through-the-trump-administrations-benefit-of"
+      },
+      {
+        "label": "Remarks of Assistant Secretary Arielle Roth at the Hudson Institute (October 28, 2025)",
+        "publisher": "National Telecommunications and Information Administration",
+        "type": "government",
+        "url": "https://www.ntia.gov/speech/testimony/2025/remarks-assistant-secretary-arielle-roth-hudson-institute"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-013",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On Aug 29, 2025, the Justice Department and the Department of Homeland Security launched a Trade Fraud Task Force to pursue importers and others who evade tariffs and duties, including antidumping and countervailing duties. In July 2026 the department said the task force had passed $1 billion in recoveries, penalties, forfeitures and charged losses, and it created a Global Trade & Commerce Enforcement Section. Large customs-duty settlements followed, such as a $549.5 million settlement in May 2026.",
+    "key_dates": [
+      {
+        "date": "Aug 29, 2025",
+        "event": "DOJ and DHS launch the Trade Fraud Task Force."
+      },
+      {
+        "date": "May 12, 2026",
+        "event": "$549.5 million False Claims Act settlement over evaded customs duties announced."
+      },
+      {
+        "date": "Jul 14, 2026",
+        "event": "DOJ reports task force passed $1 billion in recoveries and charged losses."
+      }
+    ],
+    "legal": "Individual cases are in the courts; I found no ruling against the task force itself.",
+    "closeness": "Matches the goal of collecting unpaid duties aggressively. The announced partners are Justice and Homeland Security (which includes Customs); the releases I read do not describe a leading role for Commerce or Treasury.",
+    "uncertain": "How much of the $1 billion is unpaid antidumping and countervailing duties versus other customs fraud. Newest source is from July 2026.",
+    "sources": [
+      {
+        "label": "Departments of Justice and Homeland Security Partnering on Cross-Agency Trade Fraud Task Force",
+        "publisher": "U.S. Department of Justice",
+        "type": "government",
+        "url": "https://www.justice.gov/opa/pr/departments-justice-and-homeland-security-partnering-cross-agency-trade-fraud-task-force"
+      },
+      {
+        "label": "Trade Fraud Task Force Surpasses $1 Billion in Recoveries and Charged Losses in Less Than One Year",
+        "publisher": "U.S. Department of Justice",
+        "type": "government",
+        "url": "https://www.justice.gov/opa/pr/trade-fraud-task-force-surpasses-1-billion-recoveries-and-charged-losses-less-one-year"
+      },
+      {
+        "label": "Perfectus Aluminum Inc. and Related Companies Agree to Pay $549.5M to Settle False Claims Act Allegations Relating to Evaded Customs Duties",
+        "publisher": "U.S. Department of Justice",
+        "type": "government",
+        "url": "https://www.justice.gov/opa/pr/perfectus-aluminum-inc-and-related-companies-agree-pay-5495m-settle-false-claims-act"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-057",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "Executive Order 14335, signed Aug 13, 2025, told the Commerce Secretary to move the Office of Space Commerce into the Office of the Secretary within 60 days. House appropriators have kept the office's funding within NOAA, and Federal Register notices from the office as late as August 2026 still list it as part of NOAA.",
+    "key_dates": [
+      {
+        "date": "Aug 13, 2025",
+        "event": "Executive Order 14335 orders the move within 60 days."
+      },
+      {
+        "date": "Aug 20, 2026",
+        "event": "Office of Space Commerce notice still lists it under NOAA."
+      }
+    ],
+    "legal": "None found.",
+    "closeness": "The order is exactly what the recommendation asked for, but I could not confirm the move has been completed. Same order as ch21-058.",
+    "uncertain": "No announcement that the move was completed was found in Federal Register or web searches; whether it is stalled by appropriations language is not clear. Newest source is from August 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14335: Enabling Competition in the Commercial Space Industry",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/19/2025-15822/enabling-competition-in-the-commercial-space-industry"
+      },
+      {
+        "label": "Notice of Mission Authorization Pilot Program (Office of Space Commerce, NOAA)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17016/notice-of-mission-authorization-pilot-program"
+      },
+      {
+        "label": "House appropriators continue to reject elevating NOAA's Office of Space Commerce to department level",
+        "publisher": "SpacePolicyOnline",
+        "type": "news",
+        "url": "https://spacepolicyonline.com/news/house-appropriators-continue-to-reject-elevating-noaas-office-of-space-commerce-to-department-level/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-072",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law (P.L. 119-21, section 70421) made the Opportunity Zones tax incentive permanent. It sets new rounds of zone designations every 10 years, starting from July 1, 2026, and tightens the income test for which census tracts qualify.",
+    "key_dates": [
+      {
+        "date": "Jul 4, 2025",
+        "event": "P.L. 119-21 makes Opportunity Zones permanent."
+      }
+    ],
+    "legal": "None found.",
+    "closeness": "Congress built on Opportunity Zones through tax law. The recommendation asked the Economic Development Administration to build its own programs on them; I found no EDA program tied to the zones.",
+    "uncertain": "Whether EDA changed its grant priorities to favor Opportunity Zones. I checked the law's text, not EDA grant notices.",
+    "sources": [
+      {
+        "label": "Public Law 119-21, sec. 70421 (Permanent renewal and enhancement of opportunity zones)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-085",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The National Technical Information Service still operates as its own Commerce Department unit. It issued its own Federal Register notices in 2026, and the FY2026 appropriations law (signed Jan 23, 2026) still contains rules addressed to it.",
+    "closeness": "No move of its functions into NIST was found.",
+    "uncertain": "I searched the Federal Register for 2025-2026 NTIS documents and any transfer to NIST, and the text of all public laws of the 119th Congress through October 2026.",
+    "sources": [
+      {
+        "label": "Request for Information Regarding the Digitization and Modernization of the National Technical Reports Library (NTIS, Sept 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20023/request-for-information-rfi-regarding-the-digitization-and-modernization-of-the-national-technical"
+      },
+      {
+        "label": "Public Law 119-74 (FY2026 appropriations), Commerce sec. 108",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-077",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "On Oct 17, 2025, the Patent and Trademark Office proposed new rules for when the Patent Trial and Appeal Board will agree to hear inter partes review challenges to patents, and withdrew a different 2024 proposal on the same topic. The comment period was extended in November 2025. In May 2026 the office extended and changed its pilot program for fast-tracking appeals to the Board. I found no final inter partes review rule as of October 2026.",
+    "key_dates": [
+      {
+        "date": "Oct 17, 2025",
+        "event": "Proposed rule on instituting inter partes review published."
+      },
+      {
+        "date": "Nov 7, 2025",
+        "event": "Comment period extended."
+      },
+      {
+        "date": "May 6, 2026",
+        "event": "Fast-Track Appeals Pilot Program extended and modified."
+      }
+    ],
+    "legal": "None found for the proposed rule.",
+    "closeness": "The proposal changes how the Board handles patent challenges, which the recommendation addressed. The recommendation asked for a balanced approach and fast, open processing; I found no data on processing speed, and whether the proposal is balanced is debated.",
+    "uncertain": "A Federal Register search through October 2026 found no final rule. Data on Board processing times was not found. Newest source is from May 2026.",
+    "sources": [
+      {
+        "label": "Revision to Rules of Practice Before the Patent Trial and Appeal Board (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/17/2025-19580/revision-to-rules-of-practice-before-the-patent-trial-and-appeal-board"
+      },
+      {
+        "label": "Revision to Rules of Practice Before the Patent Trial and Appeal Board (comment period extension)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19817/revision-to-rules-of-practice-before-the-patent-trial-and-appeal-board"
+      },
+      {
+        "label": "Extension and Modification of the Fast-Track Appeals Pilot Program",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08798/extension-and-modification-of-the-fast-track-appeals-pilot-program"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-010",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Senate confirmed William Kimmitt as Under Secretary of Commerce for International Trade, the head of the International Trade Administration, on July 29, 2025; he was sworn in August 7, 2025. David Fogel was sworn in as Assistant Secretary for Global Markets on October 15, 2025, and Steven Haines as Assistant Secretary for Industry and Analysis on June 3, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-07-29",
+        "event": "Senate confirms Kimmitt."
+      },
+      {
+        "date": "2025-08-07",
+        "event": "Kimmitt sworn in."
+      },
+      {
+        "date": "2025-10-15",
+        "event": "Fogel sworn in as Assistant Secretary for Global Markets."
+      },
+      {
+        "date": "2026-06-03",
+        "event": "Haines sworn in as Assistant Secretary for Industry and Analysis."
+      }
+    ],
+    "closeness": "The recommendation was to fill the agency's Assistant Secretary and Deputy Assistant Secretary posts quickly. The top post took about six months and two Assistant Secretary posts took nine months to more than a year. Same appointment as ch26-023.",
+    "uncertain": "The Enforcement and Compliance Assistant Secretary nominee was listed as awaiting confirmation in one source, and Deputy Assistant Secretary posts, which are not Senate-confirmed, were not checked. A June 2025 CRS report says the travel and tourism Assistant Secretary post has been vacant since it was created. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "William Kimmitt Sworn In as Under Secretary of Commerce for International Trade",
+        "publisher": "International Trade Administration",
+        "type": "government",
+        "url": "https://www.trade.gov/press-release/william-kimmitt-sworn-under-secretary-commerce-international-trade"
+      },
+      {
+        "label": "David L. Fogel sworn in as Assistant Secretary of Commerce",
+        "publisher": "International Trade Administration",
+        "type": "government",
+        "url": "https://www.trade.gov/press-release/david-l-fogel-sworn-assistant-secretary-commerce"
+      },
+      {
+        "label": "Steven Haines sworn in as Assistant Secretary of Commerce",
+        "publisher": "International Trade Administration",
+        "type": "government",
+        "url": "https://www.trade.gov/press-release/steven-haines-sworn-assistant-secretary-commerce"
+      },
+      {
+        "label": "International Trade Administration: Overview and Issues (IF13048)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13048.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-018",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No antidumping or countervailing duty investigation started by Commerce on its own was found in 2025-2026; new investigations found were started on industry petitions. Commerce last did this in November 2017, during the first Trump administration, when it started cases on aluminum sheet from China. It did start some narrower inquiries on its own, such as an October 2026 inquiry into whether Chinese aluminum products were getting around existing duty orders.",
+    "closeness": "No matching action found. Self-started circumvention inquiries enforce existing orders; they are not new duty cases.",
+    "uncertain": "Searched the Federal Register for self-initiated investigations by the International Trade Administration and ran a web search; both found only the 2017 cases and petition-based cases in 2025-2026. No general policy or process for self-initiation was found either.",
+    "sources": [
+      {
+        "label": "Common Alloy Aluminum Sheet From China: Initiation of Circumvention Inquiry",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20256/common-alloy-aluminum-sheet-from-the-peoples-republic-of-china-initiation-of-circumvention-inquiry-of-the"
+      },
+      {
+        "label": "In rare move, Trump's Commerce Secretary self-initiates Chinese aluminum trade remedy cases (2017)",
+        "publisher": "Kelley Drye & Warren",
+        "type": "law-firm",
+        "url": "https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/in-rare-move-trumps-commerce-secretary-self-initiates-chinese-aluminum-trade-remedy-cases"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-055",
+    "status": "not-done",
+    "match": "none",
+    "happened": "NOAA's Office of Marine and Aviation Operations was not broken up. It remained one of NOAA's six line offices in 2026, and the President's fiscal 2027 budget request asked for less money for most NOAA offices but not for this one.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked CRS reports on NOAA's fiscal 2026 and 2027 budgets (March and July 2026). Transfers of single ships or aircraft were not checked.",
+    "sources": [
+      {
+        "label": "NOAA FY2027 Budget Request and Appropriations (IF13275)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13275.html"
+      },
+      {
+        "label": "NOAA FY2026 Budget Request and Appropriations (IF13024)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13024.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-067",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No question-by-question review of the American Community Survey for usefulness or intrusiveness was found. Census Bureau notices in December 2025 and May 2026 renewing the survey kept the average household time at 40 minutes. The 2025 survey added three questions (on sewers, electric vehicles and solar panels) and reworded four, based on a content test run from 2020 to 2024.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for American Community Survey notices since January 2025, ran a web search, and read an October 2026 Census Bureau webinar transcript on 2025 content changes. A review that did not lead to a published change would not appear in these sources.",
+    "sources": [
+      {
+        "label": "American Community Survey and Puerto Rico Community Survey (comment request, Dec. 19, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/19/2025-23329/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      },
+      {
+        "label": "Understanding 2025 American Community Survey Content Changes (webinar transcript, Oct. 15, 2026)",
+        "publisher": "U.S. Census Bureau",
+        "type": "government",
+        "url": "https://www2.census.gov/about/training-workshops/2026/2026-10-15-understanding-acs-content-changes-transcript.pdf"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-069",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In July 2026, the Census Bureau said the Bureau of Labor Statistics had found errors in the poverty thresholds used for the Supplemental Poverty Measure, caused by method changes made in 2021. BLS published corrected thresholds for 2019-2024, and Census re-released revised estimates in August 2026. In September 2026 it reported a 13.1% supplemental poverty rate for 2025.",
+    "key_dates": [
+      {
+        "date": "2026-07-17",
+        "event": "Census Bureau announces errors found in SPM thresholds"
+      },
+      {
+        "date": "2026-08",
+        "event": "Census releases revised SPM estimates for 2019-2024"
+      },
+      {
+        "date": "2026-09-15",
+        "event": "Census publishes 2025 poverty report"
+      }
+    ],
+    "closeness": "The agencies checked and corrected one technical part of the measure, which touches on its accuracy, but this was an error fix, not the broad review of the measure the chapter asked for.",
+    "uncertain": "Whether the errors raised or lowered past poverty rates was not stated in the July 2026 statement; a Census blog said the corrections did not change year-to-year trends. No broader review was found. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Statement on the Supplemental Poverty Measure (July 17, 2026)",
+        "publisher": "U.S. Census Bureau",
+        "type": "government",
+        "url": "https://www.census.gov/newsroom/press-releases/2026/statement-on-supplemental-poverty-measure.html"
+      },
+      {
+        "label": "Revising Supplemental Poverty Measure Estimates from 2019 to 2024 (working paper)",
+        "publisher": "U.S. Census Bureau",
+        "type": "government",
+        "url": "https://www.census.gov/library/working-papers/2026/demo/sehsd-wp2026-17.html"
+      },
+      {
+        "label": "Poverty in 2025 (IN12737)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12737.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-071",
+    "status": "not-done",
+    "match": "none",
+    "happened": "EDA's grant decisions were not moved to the Assistant Secretary's office. A 2026 reorganization added offices required by a 2024 law and a headquarters grants management office, but EDA's six regional offices still run its main grant programs. After the change, the Assistant Secretary's office oversees only research and technical assistance programs.",
+    "closeness": "No matching action found. The reorganization added some central oversight of grant procedures but did not centralize funding decisions.",
+    "uncertain": "Based on an August 2026 CRS report that summarizes EDA's plan; how funding decisions are approved in practice was not confirmed.",
+    "sources": [
+      {
+        "label": "Economic Development Administration: An Overview of Roles (R49311)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49311.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-073",
+    "status": "not-done",
+    "match": "none",
+    "happened": "MBDA was not turned into a research office on free markets and regulation. Instead, a March 14, 2025 executive order told it to shrink to the minimum the law requires. A federal court in Rhode Island blocked that order for MBDA in May 2025, and Congress gave MBDA $50 million for fiscal 2026 to keep supporting minority businesses.",
+    "key_dates": [
+      {
+        "date": "2025-03-14",
+        "event": "Executive Order 14238 orders MBDA reduced to its legal minimum."
+      },
+      {
+        "date": "2025-05-13",
+        "event": "Federal court in Rhode Island issues a preliminary injunction."
+      },
+      {
+        "date": "2026-01-23",
+        "event": "FY2026 law provides $50 million for MBDA."
+      }
+    ],
+    "legal": "Rhode Island v. Trump: the U.S. District Court for the District of Rhode Island issued a preliminary injunction in May 2025 blocking the order's cuts at MBDA and other agencies. The government appealed; later rulings were not confirmed.",
+    "closeness": "No matching action found. The administration tried to shrink MBDA rather than give it a new research role.",
+    "uncertain": "The appeal's status and any later final ruling were not confirmed. Newest source: January 2026 law.",
+    "sources": [
+      {
+        "label": "Continuing the Reduction of the Federal Bureaucracy (EO 14238)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/"
+      },
+      {
+        "label": "Judge blocks Trump order against three federal agencies",
+        "publisher": "Wisconsin Examiner (States Newsroom)",
+        "type": "news",
+        "url": "https://wisconsinexaminer.com/2025/05/06/judge-blocks-trump-order-against-three-federal-agencies/"
+      },
+      {
+        "label": "Public Law 119-74 (FY2026 appropriations, including Commerce)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch21-082",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "On December 11, 2025, the Commerce Department announced that the Alliance for Performance Excellence and the Baldrige Foundation would take over most operations of the Baldrige Performance Excellence Program starting with the 2026 award cycle. They will run the award process, the Quest for Excellence conference, updates to the Baldrige framework and the fellows program. NIST keeps final legal responsibility for the award.",
+    "key_dates": [
+      {
+        "date": "2025-12-11",
+        "event": "Commerce announces transfer of most Baldrige operations to the Alliance and the Baldrige Foundation"
+      },
+      {
+        "date": "2026",
+        "event": "Transition begins with the 2026 award cycle"
+      }
+    ],
+    "closeness": "This is the handoff to the Baldrige Foundation the chapter recommends, but it is not complete: NIST and Commerce keep ultimate responsibility, and a partner group, the Alliance for Performance Excellence, shares the work. Whether the program now runs only on fees was not confirmed.",
+    "uncertain": "How the program is funded after the transition and whether any NIST staff remain were not confirmed. NIST's Board of Overseers still met in 2026. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Department of Commerce Announces Transition of Baldrige Performance Excellence Program",
+        "publisher": "National Institute of Standards and Technology",
+        "type": "government",
+        "url": "https://www.nist.gov/node/1900811"
+      },
+      {
+        "label": "Board of Overseers of the Malcolm Baldrige National Quality Award (meeting notice, Apr. 2, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06419/board-of-overseers-of-the-malcolm-baldrige-national-quality-award"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch21-092",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "At a February 4, 2026 House hearing, NTIA's Associate Administrator for Public Safety Communications said FirstNet's independence had blurred lines of accountability and proposed a bigger NTIA and Commerce role in its contract and spending decisions. Congress is weighing whether to renew FirstNet, whose legal authority expires in February 2027.",
+    "key_dates": [
+      {
+        "date": "2026-02-04",
+        "event": "NTIA testifies on FirstNet oversight before the House Energy and Commerce Committee."
+      }
+    ],
+    "closeness": "NTIA assessed FirstNet's management, which is part of the recommendation. No NTIA study of FirstNet's long-term value compared with newer technologies was found.",
+    "uncertain": "Based on an April 2026 CRS report. Whether NTIA has done a broader evaluation, and what Congress will decide on reauthorization, is not known.",
+    "sources": [
+      {
+        "label": "First Responder Network (FirstNet) Authority: Reauthorization and Selected Issues (R48923)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48923.html"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Based on one CRS report; confirm NTIA's position from its February 2026 testimony or reports."
+  }
+]

@@ -1,0 +1,1261 @@
+[
+  {
+    "id": "ch02-001",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In letters dated February 21, 2025, OMB Director Russ Vought told congressional appropriations leaders that OMB was giving the authority to sign apportionments back to its political Program Associate Directors (PADs). Career staff had held this role before.",
+    "key_dates": [
+      {
+        "date": "2025-02-21",
+        "event": "Vought letters say apportionment authority is re-delegated to the PADs."
+      }
+    ],
+    "closeness": "Direct match: political appointees (PADs) again sign apportionments, as in the first Trump term.",
+    "uncertain": "The letters were seen only as copies filed in a lawsuit (Sierra Club v. OMB) and through a statement by the top Democrat on House Appropriations. How the PADs use the authority day to day is not public.",
+    "sources": [
+      {
+        "label": "Ranking Member DeLauro releases update on OMB Director Russ Vought's move",
+        "publisher": "House Appropriations Committee Democrats",
+        "type": "government",
+        "url": "https://democrats-appropriations.house.gov/news/press-releases/ranking-member-delauro-releases-important-update-omb-director-russ-voughts-move"
+      },
+      {
+        "label": "Vought letters to appropriations leaders, filed in Sierra Club v. OMB (copy)",
+        "publisher": "Toxic Docs (court filing copy)",
+        "type": "court",
+        "url": "https://www.toxicdocs.org/d/zoOBQ0OR6mV15e2DoLYaXE9Ya?lightbox=1"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "The PAD re-delegation is known only from letter copies filed in a lawsuit and a House Democrats' statement; an official OMB source or court ruling confirming it is still in place was not found."
+  },
+  {
+    "id": "ch02-004",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public record was found of the OMB Director giving the President an early fiscal goal to guide budget planning.",
+    "closeness": "This is an internal budget step that would rarely be public, so no match could be confirmed either way.",
+    "uncertain": "Searched existing project research and the Federal Register. Internal OMB advice to the President is usually not published, and no web search was possible.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Internal OMB advice to the President is not published; needs reporting on whether an early deficit or fiscal target guided the FY2026 or FY2027 budget."
+  },
+  {
+    "id": "ch02-005",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public record was found of OMB splitting its six Resource Management Offices into smaller offices with more political appointees.",
+    "closeness": "No matching reorganization was found.",
+    "uncertain": "Searched existing project research and the Federal Register. OMB's internal structure is not always announced, and no web news search was possible.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Needs an OMB organization chart or news report showing whether the six Resource Management Offices or the number of PADs changed in 2025-2026."
+  },
+  {
+    "id": "ch02-006",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new order or OMB memo bringing back administrative pay-as-you-go was found. Trump's 2019 order on the policy (EO 13893) was revoked in January 2021 by EO 13992, and on January 20, 2025, EO 14148 rescinded EO 13992. A separate January 2025 order (EO 14192) caps new regulatory costs, which is a different tool (see ch02-015).",
+    "closeness": "No matching action was found. The regulatory cost cap in EO 14192 limits the cost of new rules, not the budget cost of agency actions.",
+    "uncertain": "Searched the Federal Register and news. Whether rescinding EO 13992 brought EO 13893 back into force has not been stated by OMB. The temporary version of the policy in the 2023 Fiscal Responsibility Act expired at the end of 2024.",
+    "sources": [
+      {
+        "label": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions"
+      },
+      {
+        "label": "Executive Order 13992: Revocation of Certain Executive Orders Concerning Federal Regulation (2021)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2021/01/25/2021-01767/revocation-of-certain-executive-orders-concerning-federal-regulation"
+      },
+      {
+        "label": "Executive Order 13893: Reinvigorating Administrative PAYGO (2019)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2019/10/16/2019-22749/increasing-government-accountability-for-administrative-actions-by-reinvigorating-administrative"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Not confirmed whether EO 14148's rescission of EO 13992 revived the 2019 administrative PAYGO order (EO 13893), or whether OMB applies it."
+  },
+  {
+    "id": "ch02-007",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14173 (January 21, 2025) told agencies to require contractors and grant recipients to certify they run no illegal DEI programs. Executive Order 14331 (August 2025) addressed banks denying services for political reasons. Executive Order 14398 (March 26, 2026) added a contract clause barring federal contractors from DEI-related discrimination.",
+    "key_dates": [
+      {
+        "date": "2025-01-21",
+        "event": "EO 14173 signed, with contractor certification requirement."
+      },
+      {
+        "date": "2025-08-07",
+        "event": "EO 14331, Guaranteeing Fair Banking for All Americans, signed."
+      },
+      {
+        "date": "2026-03-26",
+        "event": "EO 14398 adds a DEI contract clause for federal contractors."
+      }
+    ],
+    "legal": "In NADOHE v. Trump, a federal court in Maryland blocked the certification requirement in February 2025, but the U.S. Court of Appeals for the Fourth Circuit vacated that preliminary injunction on February 6, 2026. In Chicago Women in Trades v. Trump, a federal court in Illinois issued a preliminary injunction against the certification requirement as used by the Labor Department; that ruling was reported to be on appeal to the Seventh Circuit.",
+    "closeness": "The administration is using contracts and grants to push back on corporate DEI policies, as recommended. The recommendation's push for more transparency about who receives contracts was not found as a separate action.",
+    "uncertain": "Whether the Seventh Circuit has ruled in the Chicago Women in Trades case was not confirmed, and how agencies enforce the clauses is not public. Newest source is from April 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14173: Ending Illegal Discrimination and Restoring Merit-Based Opportunity",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02097/ending-illegal-discrimination-and-restoring-merit-based-opportunity"
+      },
+      {
+        "label": "Executive Order 14398: Addressing DEI Discrimination by Federal Contractors",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06286/addressing-dei-discrimination-by-federal-contractors"
+      },
+      {
+        "label": "Fourth Circuit vacates preliminary injunction against executive order requiring antidiscrimination certification",
+        "publisher": "Ropes & Gray",
+        "type": "law-firm",
+        "url": "https://www.ropesgray.com/en/insights/alerts/2026/02/fourth-circuit-vacates-preliminary-injunction-against-executive-order-requiring-antidiscrimination"
+      },
+      {
+        "label": "Federal contractors face escalating enforcement with new executive order",
+        "publisher": "Dechert",
+        "type": "law-firm",
+        "url": "https://www.dechert.com/knowledge/onpoint/2026/4/federal-contractors-face-escalating-enforcement-with-new-executi.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-009",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "OMB's Made in America Office is still operating. In 2026 it reviewed Buy America waiver requests from agencies, and in September 2026 its director, Michael Stumo, signed an OMB request for information on making essential medicines in the United States.",
+    "key_dates": [
+      {
+        "date": "2026-06-29",
+        "event": "USDA notice says Buy America waivers are subject to Made in America Office review."
+      },
+      {
+        "date": "2026-09-25",
+        "event": "Made in America Office issues request for information on domestic medicine manufacturing."
+      }
+    ],
+    "closeness": "The office was kept, as recommended. Whether it was strengthened (more staff, money or authority) was not confirmed.",
+    "uncertain": "No information was found on the office's budget or staff size. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "Request for Information: Domestic and Near Shore Manufacturing of Essential Medicines",
+        "publisher": "Federal Register (OMB)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19646/request-for-information-domestic-and-near-shore-manufacturing-of-essential-medicines-on-the-aspr-86-list"
+      },
+      {
+        "label": "Renewal of OF-2211 Build America Buy America Waiver Request Data Collection",
+        "publisher": "Federal Register (USDA)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13061/renewal-of-optional-form-of-2211-build-america-buy-america-waiver-request-data-collection"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-011",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On February 18, 2025, President Trump signed Executive Order 14215. It requires so-called independent regulatory agencies to send their significant proposed and final rules to the White House regulatory office (OIRA) for review. It also told the budget office (OMB) to review these agencies' spending against the President's priorities.",
+    "key_dates": [
+      {
+        "date": "2025-02-18",
+        "event": "Executive Order 14215, \"Ensuring Accountability for All Agencies,\" signed."
+      },
+      {
+        "date": "2025-02-24",
+        "event": "Order published in the Federal Register."
+      },
+      {
+        "date": "2026-06-29",
+        "event": "Supreme Court rules in Trump v. Slaughter that FTC commissioners can be removed without cause (related)."
+      }
+    ],
+    "legal": "No court ruling against the OIRA-review part of the order was found. In a related case, the Supreme Court ruled 6-3 on June 29, 2026 (Trump v. Slaughter) that the President may remove FTC commissioners, but left the Federal Reserve's protection in place.",
+    "closeness": "Very close: the order amends Executive Order 12866 so that independent agencies go through OIRA review, as recommended, and relies on the same Office of Legal Counsel view. It also adds budget oversight that the recommendation did not mention here.",
+    "uncertain": "How fully each independent agency is following the order in practice is not clear from public sources. Newest source is from June 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14215: Ensuring Accountability for All Agencies (Federal Register)",
+        "publisher": "U.S. Government Publishing Office",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2025-02-24/html/2025-03063.htm"
+      },
+      {
+        "label": "Executive Order on Independent Regulatory Agencies",
+        "publisher": "Orrick",
+        "type": "law-firm",
+        "url": "https://orrick.com/Insights/2025/02/Executive-Order-on-Independent-Regulatory-Agencies"
+      },
+      {
+        "label": "Supreme Court overrules Humphrey's Executor",
+        "publisher": "Venable LLP",
+        "type": "law-firm",
+        "url": "https://www.venable.com/insights/publications/2026/06/supreme-court-overrules-humphreys-executor"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-012",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 20, 2025, Executive Order 14148 revoked President Biden's 2023 order changing regulatory review (EO 14094). On January 31, 2025, Executive Order 14192 told OMB to revoke the 2023 version of Circular A-4 on cost-benefit analysis and bring back the 2003 version.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "EO 14148 revokes EO 14094 (Modernizing Regulatory Review)."
+      },
+      {
+        "date": "2025-01-31",
+        "event": "EO 14192 orders OMB to restore the 2003 Circular A-4."
+      }
+    ],
+    "closeness": "Direct match: both Biden-era changes the chapter named were undone. EO 14192 also adds a 10-for-1 deregulation rule (see ch02-015).",
+    "uncertain": "The date OMB formally reissued the 2003 Circular A-4 was not confirmed in the sources checked.",
+    "sources": [
+      {
+        "label": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions"
+      },
+      {
+        "label": "Executive Order 14192: Unleashing Prosperity Through Deregulation",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/06/2025-02345/unleashing-prosperity-through-deregulation"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-015",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 31, 2025, President Trump signed Executive Order 14192. It requires agencies to identify at least 10 existing rules or guidance documents to repeal for each new one, and caps new regulatory costs. OMB issued guidance on it (M-25-20) and in October 2025 sped up review of deregulatory actions (M-25-36).",
+    "key_dates": [
+      {
+        "date": "2025-01-31",
+        "event": "Executive Order 14192, \"Unleashing Prosperity Through Deregulation,\" signed."
+      },
+      {
+        "date": "2025-02",
+        "event": "OMB memo M-25-20 explains how agencies should carry out the 10-for-1 rule."
+      },
+      {
+        "date": "2025-10-21",
+        "event": "OMB memo M-25-36 shortens OIRA review times for deregulatory actions."
+      }
+    ],
+    "legal": "No court ruling on the order was found.",
+    "closeness": "EO 14192 revives the idea of first-term EO 13771 (2-for-1) in a stronger 10-for-1 form that also counts guidance documents. It does not reinstate EO 13771 or EO 13891 by name, or set up OIRA review of significant guidance as EO 13891 did. It does restore the 2003 OMB Circular A-4 and the 2018 Treasury-OMB tax rule review agreement.",
+    "uncertain": "The order text does not mention EO 13891, and no 2025 order reinstating it by name was found. How many rules were actually repealed under the 10-for-1 rule is not known here. Newest source is from late 2025.",
+    "sources": [
+      {
+        "label": "Fact Sheet: President Donald J. Trump Launches Massive 10-to-1 Deregulation Initiative",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-launches-massive-10-to-1-deregulation-initiative/"
+      },
+      {
+        "label": "M-25-20: Guidance Implementing Section 3 of Executive Order 14192",
+        "publisher": "Office of Management and Budget",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-20-Guidance-Implementing-Section-3-of-Executive-Order-14192-Titled-Unleashing-Prosperity-Through-Deregulation.pdf"
+      },
+      {
+        "label": "Trump Administration Institutes \"10-to-1\" Deregulation Rule",
+        "publisher": "Sabin Center for Climate Change Law, Columbia Law School",
+        "type": "academic",
+        "url": "https://climate.law.columbia.edu/content/trump-administration-institutes-10-1-deregulation-rule"
+      },
+      {
+        "label": "Unleashing Prosperity Through Deregulation (EO 14192)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-prosperity-through-deregulation/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-016",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new or strengthened version of the federalism executive order (EO 13132) was found.",
+    "closeness": "No matching action was found. An April 2025 order (EO 14260) went in a different direction, telling the Attorney General to challenge some state energy and climate laws.",
+    "uncertain": "Two Federal Register searches of presidential documents (for 'federalism' and 'Executive Order 13132') found no new federalism order. No web news search was possible.",
+    "sources": [
+      {
+        "label": "Executive Order 14260: Protecting American Energy From State Overreach",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/14/2025-06379/protecting-american-energy-from-state-overreach"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-017",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No updated version of Reagan's Executive Order 12630 on property takings was found.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Two Federal Register searches of presidential documents (for 'Executive Order 12630' and 'property rights takings') found nothing. No web news search was possible.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-020",
+    "status": "not-done",
+    "match": "none",
+    "happened": "None of the named laws, including the REINS Act, was found to have become law. The REINS Act (H.R. 142) was introduced in 2025. An attempt to add a budget version of REINS to the July 2025 reconciliation law was ruled out by the Senate parliamentarian, and House Republicans later added REINS language to a spending bill.",
+    "key_dates": [
+      {
+        "date": "2025",
+        "event": "REINS Act introduced in the 119th Congress (H.R. 142); Senate version introduced by Sen. Mike Lee."
+      },
+      {
+        "date": "2025 (mid-year)",
+        "event": "Senate parliamentarian rules a budget version of REINS out of the reconciliation bill."
+      }
+    ],
+    "closeness": "No match yet. Congress has considered some of these bills, but none was found to have passed both chambers.",
+    "uncertain": "I searched for the REINS Act's status and found no Senate passage. I did not separately check the Regulatory Accountability, SMART, GOOD, Early Participation, and Unfunded Mandates bills, so one could have moved without my finding it. A May 2026 letter shows renewed talk of REINS in reconciliation; its outcome is not known here.",
+    "sources": [
+      {
+        "label": "GOP renews deregulation push despite megalaw loss",
+        "publisher": "E&E News",
+        "type": "news",
+        "url": "https://www.eenews.net/articles/gop-renews-deregulation-push-despite-megalaw-loss/"
+      },
+      {
+        "label": "Lee Sponsors Introduction of REINS Act to Restore Constitutional Government",
+        "publisher": "Office of Sen. Mike Lee",
+        "type": "government",
+        "url": "https://www.lee.senate.gov/2025/2/lee-sponsors-introduction-of-reins-act-to-restore-constitutional-government"
+      },
+      {
+        "label": "Letter Opposing REINS in Reconciliation (May 5, 2026)",
+        "publisher": "National Consumer Law Center and others",
+        "type": "advocacy",
+        "url": "https://www.nclc.org/wp-content/uploads/2026/05/2026.05.05_Letter_Opposing-REINS-in-Reconciliation.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-021",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "The House passed the Midnight Rules Relief Act (H.R. 77) on February 12, 2025, by a vote of 212 to 208. The Senate version (S. 164) was approved by the Senate Homeland Security and Governmental Affairs Committee and placed on the Senate calendar on September 14, 2026. No Senate floor vote was found.",
+    "key_dates": [
+      {
+        "date": "2025-02-12",
+        "event": "House passes H.R. 77, 212-208."
+      },
+      {
+        "date": "2026-08-06",
+        "event": "Senate committee votes to report the Senate version, S. 164."
+      },
+      {
+        "date": "2026-09-14",
+        "event": "S. 164 placed on the Senate calendar."
+      }
+    ],
+    "closeness": "Same bill the chapter names. It has passed the House and cleared a Senate committee, but it is not law.",
+    "uncertain": "Official bill status data was checked through October 2026; no Senate floor vote or new law was found.",
+    "sources": [
+      {
+        "label": "H.R. 77, Midnight Rules Relief Act (engrossed in House)",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/119/bills/hr77/BILLS-119hr77eh.htm"
+      },
+      {
+        "label": "Bill status: S. 164, Midnight Rules Relief Act of 2025",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s164.xml"
+      },
+      {
+        "label": "Bill status: H.R. 77",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr77.xml"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-023",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In May 2025, the White House began a major overhaul of the National Security Council under Marco Rubio, then acting national security adviser. Reports said the NSC staff would be cut sharply and that many of its powers would shift to the State and Defense departments.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "News reports say the NSC overhaul is underway."
+      }
+    ],
+    "closeness": "The NSC was reshaped and shrunk, as the chapter wanted. Which directorates were eliminated or created was not confirmed. Same overhaul as ch01-016 and ch02-029.",
+    "uncertain": "The list of directorates that were cut, merged or added was not found. Newest source is from May 2025.",
+    "sources": [
+      {
+        "label": "White House conducting massive overhaul of National Security Council, officials say (AP)",
+        "publisher": "WSLS / Associated Press",
+        "type": "news",
+        "url": "https://www.wsls.com/news/politics/2025/05/23/white-house-conducting-massive-overhaul-of-national-security-council-officials-say/"
+      },
+      {
+        "label": "White House slashing staff in major overhaul of National Security Council, officials say",
+        "publisher": "Scripps News",
+        "type": "news",
+        "url": "https://www.scrippsnews.com/politics/white-house-slashing-staff-in-major-overhaul-of-national-security-council-officials-say"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "The May 2025 NSC overhaul is confirmed in news reports, but which directorates were eliminated, merged or created is still not confirmed."
+  },
+  {
+    "id": "ch02-025",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change was found giving the National Security Council its own authority and investigators to grant security clearances to its staff.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Searched existing project research and the Federal Register. Changes to how NSC staff clearances are handled may not be public, and no web news search was possible.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only the Federal Register and project research were checked; needs a news search for any change to how NSC staff security clearances are handled."
+  },
+  {
+    "id": "ch02-026",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Defense Department released a new National Defense Strategy on January 23, 2026 (see ch04-002). No public information was found on whether the NSC and OMB reviewed it or reviewed war plans and force planning, as recommended.",
+    "closeness": "A new strategy was issued, but the recommendation is about White House review of defense plans, which could not be confirmed.",
+    "uncertain": "White House review of war plans and strategy documents is usually classified or internal. Searched the Federal Register and existing project research; no web search was possible.",
+    "sources": [
+      {
+        "label": "2026 National Defense Strategy",
+        "publisher": "U.S. Department of Defense",
+        "type": "government",
+        "url": "https://media.defense.gov/2026/Jan/23/2003864773/-1/-1/0/2026-NATIONAL-DEFENSE-STRATEGY.PDF"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "White House review of strategy and war plans is mostly internal; needs reporting on any NSC or OMB review of the 2026 National Defense Strategy."
+  },
+  {
+    "id": "ch02-027",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "No process in which the National Security Council reviews all general and admiral promotions was found. Defense Secretary Pete Hegseth ordered cuts to the number of generals and admirals in May 2025 (see ch04-054), and in March 2026 news reports said he removed four officers from an Army one-star promotion list before sending it to the White House for review.",
+    "key_dates": [
+      {
+        "date": "2025-05-05",
+        "event": "Hegseth orders cuts to the number of generals and admirals."
+      },
+      {
+        "date": "2026-03-27",
+        "event": "Reports say Hegseth removed four officers from an Army one-star promotion list."
+      }
+    ],
+    "closeness": "Broader: senior officer promotions are getting closer political review, but by the Defense Secretary, not the NSC as the chapter proposed. The White House's normal step of reviewing promotion lists before the Senate is not new.",
+    "uncertain": "The promotion-list removals are known from news reports based on a New York Times story; the final outcome of the list was not confirmed. Any NSC role is not public. Newest source is from March 2026.",
+    "sources": [
+      {
+        "label": "Hegseth removes officers from promotion list",
+        "publisher": "Boston Globe",
+        "type": "news",
+        "url": "https://www.bostonglobe.com/2026/03/27/nation/hegseth-promotion-list/"
+      },
+      {
+        "label": "Pentagon cites 'meritocracy' as reported officer promotion removals draw Democratic criticism",
+        "publisher": "Fox News",
+        "type": "news",
+        "url": "https://www-ak-ms.foxnews.com/politics/pentagon-cites-meritocracy-officer-removals-draw-democratic-criticism.print"
+      },
+      {
+        "label": "Statutory Framework for Congressional Management of DOD General and Flag Officers (R44389)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44389.html"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Promotion-list removals rest on secondhand news reports of one New York Times story; final White House and Senate action on the list was not confirmed."
+  },
+  {
+    "id": "ch02-028",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Homeland Security Council and the Office of the National Cyber Director were not merged into the NSC. A March 2026 executive order tells a new task force to coordinate with the Homeland Security Council, and a June 2026 order gives duties to the National Cyber Director.",
+    "closeness": "Both offices still exist separately in 2026 orders, so the merger did not happen.",
+    "uncertain": "Internal staff sharing between these offices and the NSC is not public. Newest source is from June 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14395: Establishing the Task Force To Eliminate Fraud (refers to the Homeland Security Council)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/19/2026-05497/establishing-the-task-force-to-eliminate-fraud"
+      },
+      {
+        "label": "Executive Order 14412: Securing the Nation Against Advanced Cryptographic Attacks (refers to the National Cyber Director)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12909/securing-the-nation-against-advanced-cryptographic-attacks"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-029",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In May 2025, about four months into the term, the White House began cutting the National Security Council staff. About 90 to 95 policy experts on loan from other agencies were among those removed and could return to their home agencies.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "News reports say NSC detailees are being sent back as part of an overhaul."
+      }
+    ],
+    "closeness": "Detailees were sent home, as recommended, but in May 2025 rather than on the first day. Same overhaul as ch01-016 and ch02-023.",
+    "uncertain": "Whether replacements were brought in, and how many detailees remain, is not confirmed. Newest source is from May 2025.",
+    "sources": [
+      {
+        "label": "White House conducting massive overhaul of National Security Council, officials say (AP)",
+        "publisher": "WSLS / Associated Press",
+        "type": "news",
+        "url": "https://www.wsls.com/news/politics/2025/05/23/white-house-conducting-massive-overhaul-of-national-security-council-officials-say/"
+      },
+      {
+        "label": "White House slashing staff in major overhaul of National Security Council, officials say",
+        "publisher": "Scripps News",
+        "type": "news",
+        "url": "https://www.scrippsnews.com/politics/white-house-slashing-staff-in-major-overhaul-of-national-security-council-officials-say"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-033",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No action ending the older trade advisory committees was found. Instead, in March 2026 the U.S. Trade Representative renewed several of them, including the Advisory Committee for Trade Policy and Negotiations and the Industry Trade Advisory Committees, and asked for new members. An October 2025 executive order (EO 14354) also kept the Trade and Environment Policy Advisory Committee running.",
+    "key_dates": [
+      {
+        "date": "2025-10-06",
+        "event": "EO 14354 continues certain federal advisory committees."
+      },
+      {
+        "date": "2026-03-04",
+        "event": "USTR announces continuation of several trade advisory committees."
+      }
+    ],
+    "closeness": "The recommendation to drop legacy trade advisory committees was not carried out; at least one was formally continued. Changes to USTR's budget and staff were not checked.",
+    "uncertain": "Searched Federal Register USTR notices and presidential documents. USTR's budget and staffing were not checked. Newest source is from March 2026.",
+    "sources": [
+      {
+        "label": "Notice of Continuation: Advisory Committee for Trade Policy and Negotiations",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04242/notice-of-continuation-and-request-for-nominations-for-the-advisory-committee-for-trade-policy-and"
+      },
+      {
+        "label": "Notice of Continuation: Industry Trade Advisory Committees",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04861/notice-of-continuation-and-request-for-applications-for-the-industry-trade-advisory-committees"
+      },
+      {
+        "label": "Executive Order 14354: Continuance of Certain Federal Advisory Committees",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/06/2025-19485/continuance-of-certain-federal-advisory-committees"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-038",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "No executive order on the Global Change Research Program was found. In April 2025, the program's staff were dismissed and nearly 400 people working on the sixth National Climate Assessment were released. In December 2025 the administration invited new researchers to restart the report, and in July 2026 news reports said geochemist Matthew Wielicki, a critic of mainstream climate science, now leads the program.",
+    "key_dates": [
+      {
+        "date": "2025-04-28",
+        "event": "Authors of the sixth National Climate Assessment told they are released."
+      },
+      {
+        "date": "2025-12",
+        "event": "Administration invites new researchers to restart the assessment."
+      },
+      {
+        "date": "2026-07-09",
+        "event": "Reports say Matthew Wielicki now leads the Global Change Research Program."
+      }
+    ],
+    "closeness": "Partial: the program and its assessment were reshaped through staffing decisions, not the executive order the chapter called for. Bringing in researchers who question mainstream climate science is close to the chapter's call for different viewpoints, but no formal requirement was found.",
+    "uncertain": "When or in what form the sixth assessment will appear is not known, and the leadership change is known from news reports, not an official announcement. Newest source is from July 2026.",
+    "sources": [
+      {
+        "label": "US dismisses all authors of National Climate Assessment, email says",
+        "publisher": "Yahoo News",
+        "type": "news",
+        "url": "https://www.yahoo.com/news/trump-administration-dismisses-authors-key-205455670.html"
+      },
+      {
+        "label": "A climate skeptic will oversee the National Climate Assessment",
+        "publisher": "Eos (American Geophysical Union)",
+        "type": "news",
+        "url": "https://eos.org/research-and-developments/a-climate-skeptic-will-oversee-the-national-climate-assessment"
+      },
+      {
+        "label": "Top Website for Crucial U.S. Climate Information Goes Dark",
+        "publisher": "Scientific American",
+        "type": "news",
+        "url": "https://www.scientificamerican.com/article/u-s-national-climate-assessments-website-goes-dark/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-040",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The government website that hosted all past National Climate Assessments, including the 2023 fifth assessment prepared under President Biden, was taken down around June 30 to July 1, 2025. A May 2025 executive order (EO 14303) criticized agencies' use of a high-warming climate scenario.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "EO 14303, Restoring Gold Standard Science, signed."
+      },
+      {
+        "date": "2025-06-30",
+        "event": "Website hosting the National Climate Assessments goes offline."
+      }
+    ],
+    "closeness": "The administration stopped publishing the Biden-era assessment on its official site, which is close to refusing to accept it. No formal statement rejecting the assessment was found.",
+    "uncertain": "No formal review or rejection document was found. Newest source is from mid-2025.",
+    "sources": [
+      {
+        "label": "Top Website for Crucial U.S. Climate Information Goes Dark",
+        "publisher": "Scientific American",
+        "type": "news",
+        "url": "https://www.scientificamerican.com/article/u-s-national-climate-assessments-website-goes-dark/"
+      },
+      {
+        "label": "Website for top US climate reports goes dark",
+        "publisher": "E&E News",
+        "type": "news",
+        "url": "https://www.eenews.net/articles/website-for-top-us-climate-reports-goes-dark/"
+      },
+      {
+        "label": "Executive Order 14303: Restoring Gold Standard Science",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09802/restoring-gold-standard-science"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-041",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No order was found limiting the White House science office, the NSTC environment committee, or climate research working groups to advisory roles only. Related changes to the Global Change Research Program are covered in ch02-038.",
+    "closeness": "No matching formal limit was found, though climate research groups were cut back in other ways (ch02-038).",
+    "uncertain": "Searched Federal Register presidential documents and existing project research; no web search was possible for this item.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only Federal Register presidential documents and project research were checked; needs a news search on whether OSTP or NSTC climate bodies' roles were limited in 2025-2026."
+  },
+  {
+    "id": "ch02-043",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14151 (January 20, 2025) ended federal DEI programs. Executive Order 14303 (May 23, 2025) set 'Gold Standard Science' rules for agencies, criticized the use of a worst-case climate scenario, and told agencies to revoke policies issued under a 2021 Biden scientific integrity memo.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "EO 14151 ends federal DEI programs."
+      },
+      {
+        "date": "2025-05-23",
+        "event": "EO 14303, Restoring Gold Standard Science, signed."
+      }
+    ],
+    "closeness": "These orders remove equity and some climate language from science policy, as recommended. Whether OSTP's own manuals were revised was not checked.",
+    "uncertain": "How fully agencies have revised their science policy documents is not known.",
+    "sources": [
+      {
+        "label": "Executive Order 14303: Restoring Gold Standard Science",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09802/restoring-gold-standard-science"
+      },
+      {
+        "label": "Executive Order 14151: Ending Radical and Wasteful Government DEI Programs and Preferencing",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-044",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In February 2025, the Council on Environmental Quality (CEQ) removed all of its NEPA environmental review regulations, effective April 11, 2025, and made the removal final on January 8, 2026. Major agencies, including Interior, Energy, Defense, Transportation and Agriculture, published their own new NEPA procedures in early July 2025. CEQ's guidance tells agencies to focus on an action's direct effects.",
+    "key_dates": [
+      {
+        "date": "2025-02-25",
+        "event": "CEQ issues an interim final rule removing its NEPA regulations (effective April 11, 2025)."
+      },
+      {
+        "date": "2025-05-29",
+        "event": "Supreme Court decides Seven County Infrastructure Coalition v. Eagle County, narrowing NEPA review."
+      },
+      {
+        "date": "2025-07-03",
+        "event": "Several departments publish new NEPA procedures."
+      },
+      {
+        "date": "2026-01-08",
+        "event": "CEQ final rule makes the removal permanent."
+      }
+    ],
+    "legal": "In Seven County Infrastructure Coalition v. Eagle County (May 29, 2025), the Supreme Court said courts must give agencies substantial deference on NEPA reviews and that NEPA does not require studying separate upstream or downstream projects. No court ruling blocking CEQ's removal of its rules was found.",
+    "closeness": "Partial: instead of rewriting its rules like the 2020 version, CEQ removed them entirely and left procedures to each agency. No rule formally bans cumulative impact analysis, but CEQ guidance points agencies to direct effects and notes that NEPA's text does not use the term \"cumulative effects.\"",
+    "uncertain": "What each agency's new procedures say about cumulative effects was not checked one by one. The Harvard tracker lists no lawsuit against the removal or the agency procedures. Newest source is from June 2026.",
+    "sources": [
+      {
+        "label": "CEQ's removal of NEPA regulations (IF12960)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2025-04-09_IF12960_52145f04ea150693d67be8d0a896e4e6691231d8.html"
+      },
+      {
+        "label": "Removal of National Environmental Policy Act Implementing Regulations (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-08/html/2026-00178.htm"
+      },
+      {
+        "label": "NEPA environmental review requirements tracker",
+        "publisher": "Harvard Environmental and Energy Law Program",
+        "type": "academic",
+        "url": "https://eelp.law.harvard.edu/tracker/nepa-environmental-review-requirements"
+      },
+      {
+        "label": "Council on Environmental Quality withdraws NEPA regulations and issues interim guidance to agencies",
+        "publisher": "Crowell & Moring",
+        "type": "law-firm",
+        "url": "https://crowell.com/en/insights/client-alerts/council-on-environmental-quality-withdraws-nepa-regulations-and-issues-interim-guidance-to-agencies"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-045",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "CEQ removed its NEPA rules in 2025 (see ch02-044) instead of writing new ones that limit court review. On May 29, 2025, the Supreme Court ruled in Seven County Infrastructure Coalition v. Eagle County that courts must give agencies substantial deference on NEPA reviews. A Trump order also told officials to recommend ways for Congress to streamline court review.",
+    "key_dates": [
+      {
+        "date": "2025-05-29",
+        "event": "Supreme Court decides Seven County Infrastructure Coalition v. Eagle County."
+      },
+      {
+        "date": "2025-09-29",
+        "event": "CEQ guidance cites Seven County and tells agencies to focus on direct effects."
+      }
+    ],
+    "legal": "Supreme Court, Seven County Infrastructure Coalition v. Eagle County (May 29, 2025): courts must give agencies substantial deference in reviewing NEPA documents.",
+    "closeness": "Court review of NEPA analyses was narrowed, but mainly by a Supreme Court ruling, not by new NEPA rules as recommended. Limits on court remedies were not found.",
+    "uncertain": "Whether Congress will act on court-review changes is not known. Newest source is from June 2026.",
+    "sources": [
+      {
+        "label": "NEPA environmental review requirements tracker",
+        "publisher": "Harvard Environmental and Energy Law Program",
+        "type": "academic",
+        "url": "https://eelp.law.harvard.edu/tracker/nepa-environmental-review-requirements"
+      },
+      {
+        "label": "Removal of National Environmental Policy Act Implementing Regulations (final rule)",
+        "publisher": "U.S. Government Publishing Office",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-08/html/2026-00178.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-046",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No order was found making the Permitting Council's executive director an Executive Office appointee with power to direct permitting agencies. The President appointed Emily Domenech as executive director in May 2025; the job keeps its existing role of coordinating agency reviews and deadlines.",
+    "closeness": "No matching action was found. The Permitting Council's executive director continues to act through the council's existing role.",
+    "uncertain": "Searched Federal Register presidential documents twice (Permitting Council and permitting terms) and news. Informal White House direction of agencies through the council would not show in these sources.",
+    "sources": [
+      {
+        "label": "President Trump appoints Emily Domenech as Permitting Council Executive Director",
+        "publisher": "Federal Permitting Improvement Steering Council",
+        "type": "government",
+        "url": "https://www.permitting.gov/newsroom/press-releases/president-trump-appoints-emily-domenech-permitting-council-executive"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-047",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No executive order creating one unified approval process for major infrastructure projects was found. Narrower 2025 orders sped up permitting for specific sectors, such as data centers (EO 14318) and minerals (EO 14241).",
+    "closeness": "The sector orders share the goal of faster permitting, but they do not create the single process for all infrastructure that the chapter recommended.",
+    "uncertain": "Two Federal Register searches of presidential documents (permitting infrastructure; Permitting Council) found no unified process order. No web news search was possible.",
+    "sources": [
+      {
+        "label": "Executive Order 14318: Accelerating Federal Permitting of Data Center Infrastructure",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/07/28/2025-14212/accelerating-federal-permitting-of-data-center-infrastructure"
+      },
+      {
+        "label": "Executive Order 14241: Immediate Measures To Increase American Mineral Production",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/03/25/2025-05212/immediate-measures-to-increase-american-mineral-production"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-048",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On February 14, 2025, President Trump signed Executive Order 14213, creating a National Energy Dominance Council in the Executive Office of the President. The Interior Secretary chairs it and the Energy Secretary is vice chair. It advises the President on energy production and permitting.",
+    "key_dates": [
+      {
+        "date": "2025-02-14",
+        "event": "EO 14213 establishes the National Energy Dominance Council."
+      }
+    ],
+    "closeness": "A White House body now coordinates energy policy, but it is a council led by Cabinet secretaries, not a Senior Advisor reporting to the Chief of Staff. It focuses on energy more than environment.",
+    "uncertain": "How the council coordinates with CEQ and other White House offices in practice is not public.",
+    "sources": [
+      {
+        "label": "Executive Order 14213: Establishing the National Energy Dominance Council",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/20/2025-02928/establishing-the-national-energy-dominance-council"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-049",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 20, 2025, Executive Order 14148 revoked Executive Order 14008 (Tackling the Climate Crisis at Home and Abroad), the 2021 order that created the White House Office of Domestic Climate Policy.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "EO 14148 revokes EO 14008."
+      }
+    ],
+    "closeness": "Direct result: the order that set up the office was revoked. It was done by a broad rescission order, not the separate energy-advisor order the chapter described (see ch02-048).",
+    "uncertain": "No separate announcement closing the office was checked; the finding relies on the revocation of the order that created it.",
+    "sources": [
+      {
+        "label": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-050",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 20, 2025, President Trump signed Executive Order 14154. It disbanded the Interagency Working Group on the Social Cost of Greenhouse Gases and withdrew all of its estimates and guidance. On May 5, 2025, OMB, working with the EPA, told agencies to limit greenhouse gas analysis to what their laws plainly require, saying cases needing a dollar value for emissions will be \"few to none.\"",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14154, \"Unleashing American Energy,\" disbands the working group."
+      },
+      {
+        "date": "2025-05-05",
+        "event": "OMB memo M-25-27, issued with the EPA, carries out Section 6 of the order."
+      }
+    ],
+    "legal": "No court ruling on this part of the order was found.",
+    "closeness": "Very close: the working group was ended by executive order, and the follow-up guidance tells agencies that dollar estimates of greenhouse gas harm will rarely, if ever, be needed. It is not a total ban: where a law requires an estimate, agencies are to follow the 2003 version of OMB Circular A-4.",
+    "uncertain": "Whether every agency has stopped using social cost of carbon figures was not checked agency by agency. Newest source is from May 2025.",
+    "sources": [
+      {
+        "label": "Unleashing American Energy (EO 14154)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+      },
+      {
+        "label": "M-25-27: Guidance Implementing Section 6 of Executive Order 14154",
+        "publisher": "Office of Management and Budget",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-27-Guidance-Implementing-Section-6-of-Executive-Order-14154-Entitled-Unleashing-American-Energy.pdf"
+      },
+      {
+        "label": "Social Cost of Greenhouse Gases: Background and Recent Developments (IF12916)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12916.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-051",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No broad permitting reform law covering all agencies was found to have been enacted. Related executive actions on environmental reviews are covered in ch02-044.",
+    "closeness": "No matching law found. The executive branch changed NEPA procedures on its own (see ch02-044), which is a different mechanism.",
+    "uncertain": "Search tools were limited during this research, so I could not check the 2025-2026 status of permitting bills in Congress (for example, the House SPEED Act). A bill may have passed one chamber. This finding should be re-checked.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-054",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "The President's FY2026 budget proposed moving the High Intensity Drug Trafficking Areas (HIDTA) program to the Justice Department and the Drug-Free Communities program to HHS. Congress did not approve this: the Consolidated Appropriations Act, 2026, signed February 3, 2026, funded both programs at ONDCP. The FY2027 budget proposes the HIDTA move again.",
+    "key_dates": [
+      {
+        "date": "2025-05",
+        "event": "FY2026 ONDCP budget proposes moving HIDTA to DOJ and Drug-Free Communities to HHS."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 funding law keeps both programs at ONDCP."
+      },
+      {
+        "date": "2026-04",
+        "event": "FY2027 ONDCP budget repeats the HIDTA transfer proposal."
+      }
+    ],
+    "closeness": "The proposal matches the chapter, but Congress has not approved the moves; both programs stayed at ONDCP for FY2026.",
+    "uncertain": "Congress's response to the FY2027 proposal is not yet known. Newest source is from April 2026.",
+    "sources": [
+      {
+        "label": "FY 2026 ONDCP Congressional Budget Submission",
+        "publisher": "The White House (ONDCP)",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2025/05/FY-2026-ONDCP-CONGRESSIONAL-BUDGET-SUBMISSION.pdf"
+      },
+      {
+        "label": "FY 2027 ONDCP Congressional Budget Submission",
+        "publisher": "The White House (ONDCP)",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/04/FY-2027-ONDCP-CONGRESSIONAL-BUDGET-SUBMISSION-Format-Update-for-website-posting-with-cover.pdf"
+      },
+      {
+        "label": "Public Law 119-75, Consolidated Appropriations Act, 2026",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-056",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 20, 2025, Executive Order 14148 revoked Executive Order 14020, which had created the White House Gender Policy Council.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "EO 14148 revokes EO 14020 (Establishment of the White House Gender Policy Council)."
+      }
+    ],
+    "closeness": "Direct match: the order creating the council was revoked, as recommended. Related gender policy changes came in EO 14168 the same day.",
+    "uncertain": "Whether every guidance document tied to the council was withdrawn was not checked.",
+    "sources": [
+      {
+        "label": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions"
+      },
+      {
+        "label": "Executive Order 14168: Defending Women From Gender Ideology Extremism",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02090/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-057",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No appointment of a Special Assistant to the President (or higher) to coordinate policy on promoting life and family was found.",
+    "closeness": "No matching appointment was found.",
+    "uncertain": "Searched Federal Register presidential documents, news, and the White House's July 2025 report to Congress listing all staff titles, which shows no life or family policy title. A staffer could hold this portfolio under a general title.",
+    "sources": [
+      {
+        "label": "2025 Annual Report to Congress on White House Staff",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/2025-Annual-Report-to-Congress-on-White-House-Staff.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-010",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The administration kept Executive Order 12866, the order that sets White House (OIRA) review of regulations, and built new orders on top of it. Executive Order 14192 (January 31, 2025) told the Treasury Secretary and the OMB Director to bring back their April 2018 agreement, which puts most tax regulations through OIRA review. A 2023 agreement had exempted tax rules from that review.",
+    "key_dates": [
+      {
+        "date": "2023-06-09",
+        "event": "Treasury-OMB agreement exempts tax regulations from OIRA review"
+      },
+      {
+        "date": "2025-01-31",
+        "event": "Executive Order 14192 orders the 2018 agreement on tax rule review reinstated"
+      }
+    ],
+    "closeness": "Both parts of the recommendation happened: EO 12866 remains in force and OIRA review of Treasury tax rules was restored. Same order as ch02-012 and ch02-015.",
+    "uncertain": "The date the 2018 agreement was formally re-signed and how many tax rules OIRA has reviewed since were not checked. Newest source: February 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14192: Unleashing Prosperity Through Deregulation",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/06/2025-02345/unleashing-prosperity-through-deregulation"
+      },
+      {
+        "label": "Trump reinstates OIRA review of tax regulations",
+        "publisher": "Grant Thornton",
+        "type": "law-firm",
+        "url": "https://www.grantthornton.com/insights/newsletters/tax/2025/hot-topics/feb-11/trump-reinstates-oira-review-of-tax-regulations"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-018",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14303 (May 23, 2025), on 'Gold Standard Science,' requires agencies to correct scientific information that breaks its standards using the procedures of the Information Quality Act, under a senior political appointee. No similar new step on the Paperwork Reduction Act or the Privacy Act was found.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "Executive Order 14303 ties scientific integrity corrections to the Information Quality Act"
+      }
+    ],
+    "closeness": "The order uses the Information Quality Act more, which is one of the three laws the chapter names. The chapter's broader push on paperwork and privacy laws and on OIRA's statistics work was not found. Related to ch02-043.",
+    "uncertain": "Searched the Federal Register for OMB actions on the Paperwork Reduction Act and Privacy Act since January 2025, read the text of EO 14303, and ran one web search; no new OMB guidance on those laws was found. Changes in how OIRA reviews paperwork requests or privacy notices would not necessarily be published. Newest source: May 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14303: Restoring Gold Standard Science",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09802/restoring-gold-standard-science"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "No OMB memos on the Paperwork Reduction Act, Privacy Act or statistical policy since 2025 were found; check OMB's memoranda page directly."
+  },
+  {
+    "id": "ch02-019",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "Executive Order 14332 (August 7, 2025) told the OMB Director to revise the federal grants rules, known as the Uniform Guidance, including to let agencies end grants that no longer serve agency priorities. On May 29, 2026, OMB proposed a broad rewrite of its Guidance for Federal Financial Assistance, with comments due July 13, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-08-07",
+        "event": "Executive Order 14332 orders revisions to the Uniform Guidance"
+      },
+      {
+        "date": "2026-05-29",
+        "event": "OMB proposes revised Guidance for Federal Financial Assistance"
+      },
+      {
+        "date": "2026-07-13",
+        "event": "Comment period closes"
+      }
+    ],
+    "closeness": "OMB is revising its grants guidance, as the chapter recommends. The proposal also clarifies the rules' regulatory status, which relates to the chapter's call to hold grant rules to regulatory review standards.",
+    "uncertain": "The rule is not final. It is not known how much OIRA led the rewrite. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "Regulation for Federal Financial Assistance (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+      },
+      {
+        "label": "Executive Order 14332: Improving Oversight of Federal Grantmaking",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/12/2025-15344/improving-oversight-of-federal-grantmaking"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-037",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On September 23, 2025, OMB Director Russell Vought and OSTP Director Michael Kratsios issued research priorities for the FY2027 budget. The five priorities are critical and emerging technologies (such as AI and quantum), energy dominance, national and economic security, health and biotechnology, and space.",
+    "key_dates": [
+      {
+        "date": "2025-09-23",
+        "event": "OMB and OSTP issue FY2027 research and development priorities"
+      }
+    ],
+    "closeness": "The White House reset research priorities to match its agenda. The memo does not use the 'Industries of the Future' label, and it adds areas such as energy and space, so it is not clearly a narrower list.",
+    "uncertain": "The memo's full text was not read; this is based on a news summary. Whether agency budgets followed the new priorities is not known. Newest source: September 2025.",
+    "sources": [
+      {
+        "label": "FY2027 OMB-OSTP Research and Development Priorities Memo",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2025/09/FY27-OMB-OSTP-RD-Priorites-Memo-FINALSIGNED.pdf"
+      },
+      {
+        "label": "AI and quantum among top White House R&D priorities for FY2027",
+        "publisher": "American Institute of Physics (FYI)",
+        "type": "news",
+        "url": "https://www.aip.org/fyi/ai-and-quantum-among-top-white-house-r-d-priorities-for-fy2027"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-013",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress funded the Office of Management and Budget at $129 million for fiscal year 2026, the same as in 2025. The President had asked for $146.1 million. No separate funding increase for the regulatory review office (OIRA) was found.",
+    "closeness": "No matching action was confirmed. The President asked for more money for OMB as a whole, but Congress kept OMB funding flat, and OIRA does not get its own line in the spending law.",
+    "uncertain": "Checked the FY2026 spending law text (P.L. 119-75), a CRS overview of FY2026 funding, and an October 2026 web search for OMB's budget justification. How OMB divided its money among its offices, including OIRA staff levels, was not found in public sources. Newest source is from July 2026.",
+    "sources": [
+      {
+        "label": "Financial Services and General Government (FSGG) FY2026 Appropriations: Overview (R49017)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49017.html"
+      },
+      {
+        "label": "Public Law 119-75 (FY2026 consolidated appropriations)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "OIRA's own funding or staff level for FY2025-2027 was not found; check OMB's budget appendix or justification tables."
+  },
+  {
+    "id": "ch02-039",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In April 2025, NASA canceled its contract with ICF International, the company that helped coordinate the U.S. Global Change Research Program and the National Climate Assessment. Later that month, the authors working on the next National Climate Assessment were dismissed.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "Cancellation of the ICF contract supporting the Global Change Research Program is reported."
+      },
+      {
+        "date": "2025-04-28",
+        "event": "Authors of the sixth National Climate Assessment are told their work is ended."
+      }
+    ],
+    "closeness": "Broader: the administration ended a main climate research support contract, but no joint OSTP-OMB review of contractor independence, as the chapter recommends, was found.",
+    "uncertain": "The reasons given for the cancellation and the later status of the National Climate Assessment were not fully checked. Whether any formal contractor review took place is not known. Newest source is from September 2025.",
+    "sources": [
+      {
+        "label": "U.S. National Climate Assessment Likely Dead After Contract Canceled",
+        "publisher": "Eos (American Geophysical Union)",
+        "type": "news",
+        "url": "https://eos.org/research-and-developments/u-s-national-climate-assessment-likely-dead-after-contract-canceled"
+      },
+      {
+        "label": "Trump administration dismisses all authors of major climate report (CNN, via KTVZ)",
+        "publisher": "CNN",
+        "type": "news",
+        "url": "https://ktvz.com/cnn-other/2025/04/29/trump-administration-dismisses-all-authors-of-major-climate-report-throwing-us-assessment-into-limbo/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-042",
+    "status": "in-effect",
+    "match": "broader",
+    "happened": "On May 23, 2025, President Trump signed the order \"Restoring Gold Standard Science.\" It sets rules for how agencies use and explain science, including stating uncertainty, and says these rules do not apply to the non-scientific parts of agency decisions.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "Executive order \"Restoring Gold Standard Science\" signed (published May 29, 2025)."
+      }
+    ],
+    "legal": "No court ruling on this order was found in the sources checked.",
+    "closeness": "Broader: the order separates scientific standards from the non-scientific parts of decisions, which is close in spirit, but it does not set up a formal split between risk assessment and risk management.",
+    "uncertain": "How agencies have applied the order in specific risk decisions was not checked. Court challenges were not searched. Newest source is from May 2025.",
+    "sources": [
+      {
+        "label": "Restoring Gold Standard Science (Executive Order)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09802/restoring-gold-standard-science"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch02-055",
+    "status": "in-effect",
+    "match": "broader",
+    "happened": "On August 7, 2025, President Trump signed an order requiring senior political appointees at federal agencies to review funding announcements and discretionary grant awards to make sure they match agency priorities.",
+    "key_dates": [
+      {
+        "date": "2025-08-07",
+        "event": "Executive order \"Improving Oversight of Federal Grantmaking\" signed (published August 12, 2025)."
+      }
+    ],
+    "legal": "Court challenges to this order were not checked.",
+    "closeness": "Broader: the order applies to grantmaking across the government, not only the drug control office (ONDCP). It puts appointees in charge of grant reviews, which matches the chapter's goal of aligning grants with the President's priorities.",
+    "uncertain": "No source was found showing how ONDCP itself applied the order to its grants. An October 2026 web search found no lawsuit aimed directly at this order, though many grant cuts under earlier orders were challenged. Newest source is from August 2025.",
+    "sources": [
+      {
+        "label": "Improving Oversight of Federal Grantmaking (Executive Order)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/12/2025-15344/improving-oversight-of-federal-grantmaking"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Find ONDCP-specific grant actions (for example, changes to Drug-Free Communities or HIDTA awards) under the order."
+  }
+]

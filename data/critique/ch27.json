@@ -1,0 +1,165 @@
+[
+  {
+    "id": "ch27-002",
+    "case_against": "The PCAOB was created in 2002, after the Enron bankruptcy and the WorldCom scandal, to oversee the auditors who check public companies' books. FINRA polices brokers day to day. Folding both into the SEC would move this detailed oversight into an agency that already has a broad workload, and could leave fewer people watching auditors and brokers. Weaker audit oversight would likely make accounting fraud harder to catch.",
+    "harms": [
+      {
+        "who": "Investors and retirement savers",
+        "what": "Rely on honest audits and broker oversight to trust the numbers behind their investments."
+      },
+      {
+        "who": "Employees whose retirement savings are in company stock",
+        "what": "Depend on audits to catch false numbers before a company collapses."
+      }
+    ],
+    "history": [
+      {
+        "when": "2001-2002, Enron and WorldCom",
+        "what": "Enron declared bankruptcy, and then the WorldCom scandal broke in June 2002. Congress quickly passed the Sarbanes-Oxley Act, which created the PCAOB to oversee auditors under SEC supervision and limited the side services audit firms could sell to companies they audit.",
+        "lesson": "Auditor self-policing failed badly; a dedicated overseer was the fix. Abolishing it risks weakening that check."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Corporate Accountability: Sarbanes-Oxley Act of 2002 (RL31554)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/RL31554.html"
+      },
+      {
+        "label": "SEC appoints new chairman and board members of the PCAOB",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-16-sec-appoints-new-chairman-board-members-pcaob"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-036",
+    "case_against": "Treating most crypto as commodities instead of securities moves it outside the SEC rules that protect investors, such as requirements that brokers keep customer assets separate from their own. The 2022 collapse of FTX, which had over 100,000 creditors and billions in liabilities, showed what can happen without those protections. The Congressional Research Service noted that the SEC's customer-protection rule may have reduced some of the problems that led to FTX's bankruptcy.",
+    "harms": [
+      {
+        "who": "Everyday crypto investors",
+        "what": "Could lose money in collapses or frauds with fewer rules requiring disclosure and safekeeping of their assets."
+      }
+    ],
+    "history": [
+      {
+        "when": "November 2022, FTX",
+        "what": "FTX, one of the world's largest crypto exchanges, valued at about $32 billion, filed for bankruptcy within days of a loss of confidence. It listed over 100,000 creditors and $10 billion to $50 billion in liabilities.",
+        "lesson": "Crypto platforms that mixed customer money with their own business could fail suddenly. Looser rules make that more likely."
+      }
+    ],
+    "sources": [
+      {
+        "label": "What Happened at FTX and What Does It Mean for Crypto? (IN12047)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12047.html"
+      },
+      {
+        "label": "SEC Jurisdiction and Perceived Crypto-Asset Regulatory Gap: An FTX Case Study (IN12052)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12052.html"
+      },
+      {
+        "label": "SEC clarifies application of federal securities laws to crypto assets",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-047",
+    "case_against": "Congress created the CFPB in 2010 after the financial crisis, which a federal commission found was avoidable and fueled by risky subprime lending, unscrupulous lending practices and regulators who believed the industry could police itself. Before then, consumer financial protection powers were spread across several agencies. Abolishing the CFPB would return to that setup. Its inspector general found that 2025 stop-work orders paused 463 supervisory exams and reviews and caused a backlog of consumer complaints.",
+    "harms": [
+      {
+        "who": "Borrowers with mortgages, credit cards, student and payday loans",
+        "what": "Would lose the one federal agency focused only on protecting them from unfair or deceptive lending."
+      },
+      {
+        "who": "Servicemembers",
+        "what": "Could lose a key enforcer of the Military Lending Act and other protections."
+      }
+    ],
+    "history": [
+      {
+        "when": "2007-2009, financial crisis",
+        "what": "Risky subprime mortgages and widespread unscrupulous lending helped cause a housing collapse and the deepest recession since the 1930s, and millions lost jobs. The Financial Crisis Inquiry Commission found regulators had ignored warning signs.",
+        "lesson": "Scattered consumer oversight failed to stop abusive lending. The CFPB was Congress's answer; removing it rebuilds the old gap."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Introduction to Financial Services: The CFPB (IF10031)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10031.html"
+      },
+      {
+        "label": "Panel: Financial crisis was avoidable (AP)",
+        "publisher": "CBS News",
+        "type": "news",
+        "url": "https://www.cbsnews.com/news/panel-financial-crisis-was-avoidable/"
+      },
+      {
+        "label": "Inspector General releases report on impact of CFPB cutbacks",
+        "publisher": "Ballard Spahr, Consumer Finance Monitor",
+        "type": "law-firm",
+        "url": "https://www.consumerfinancemonitor.com/2026/09/10/inspector-general-releases-report-on-impact-of-cfpb-cutbacks/"
+      },
+      {
+        "label": "2025 Enforcement lookback",
+        "publisher": "Consumer Financial Protection Bureau",
+        "type": "government",
+        "url": "https://www.consumerfinance.gov/enforcement/enforcement-by-the-numbers/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch27-048",
+    "case_against": "The Supreme Court upheld the CFPB's funding in CFSA v. CFPB, so the condition for this recommendation never happened, yet the agency was largely shut down anyway. In 2025 it dropped or withdrew from 19 public enforcement cases and closed about 40 percent of pending investigations. Three federal courts have ruled the director must request the funding the law provides. Dissolving the bureau by order would bypass Congress, which created it by law.",
+    "harms": [
+      {
+        "who": "Consumers with pending complaints or cases",
+        "what": "Lost enforcement actions that could have returned money to them."
+      },
+      {
+        "who": "Honest lenders",
+        "what": "Compete with firms that face less oversight when enforcement stops."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Introduction to Financial Services: The CFPB (IF10031)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10031.html"
+      },
+      {
+        "label": "2025 Enforcement lookback",
+        "publisher": "Consumer Financial Protection Bureau",
+        "type": "government",
+        "url": "https://www.consumerfinance.gov/enforcement/enforcement-by-the-numbers/"
+      },
+      {
+        "label": "Third district court rejects OLC's interpretation of CFPB funding statute",
+        "publisher": "Ballard Spahr, Consumer Finance Monitor",
+        "type": "law-firm",
+        "url": "https://www.consumerfinancemonitor.com/2026/09/30/third-district-court-rejects-olcs-interpretation-of-cfpb-funding-statute/"
+      },
+      {
+        "label": "Inspector General releases report on impact of CFPB cutbacks",
+        "publisher": "Ballard Spahr, Consumer Finance Monitor",
+        "type": "law-firm",
+        "url": "https://www.consumerfinancemonitor.com/2026/09/10/inspector-general-releases-report-on-impact-of-cfpb-cutbacks/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

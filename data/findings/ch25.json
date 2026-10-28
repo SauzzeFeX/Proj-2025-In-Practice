@@ -1,0 +1,853 @@
+[
+  {
+    "id": "ch25-001",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On March 21, 2025, the SBA announced a reorganization that would cut about 43 percent of its workforce, roughly 2,700 of 6,500 jobs, by ending \"non-mission-critical positions and consolidating functions.\" The agency said its loan guarantee and disaster programs would not be affected. Congress later lowered the SBA's main operating budget from $361.2 million in fiscal 2024 to $323.1 million in fiscal 2026.",
+    "key_dates": [
+      {
+        "date": "2025-03-21",
+        "event": "SBA announces reorganization and 43% workforce cut"
+      },
+      {
+        "date": "2026-02-03",
+        "event": "Consolidated Appropriations Act, 2026 sets SBA salaries and expenses at $323.1 million"
+      }
+    ],
+    "closeness": "The SBA became smaller and said it was returning to its core mission, which matches the chapter's direction. No formal step limiting the agency to programs Congress has authorized was found, and the SBA also started some new efforts (see ch25-017).",
+    "uncertain": "Which specific programs were ended is not clear from the sources. Final staffing numbers after the cuts were not confirmed. Newest source: the February 2026 appropriations law.",
+    "sources": [
+      {
+        "label": "SBA to cut about 2,700 jobs",
+        "publisher": "PBS NewsHour",
+        "type": "news",
+        "url": "https://www.pbs.org/newshour/amp/politics/sba-to-cut-about-2700-jobs-while-trump-announces-it-will-take-over-handling-of-student-loans"
+      },
+      {
+        "label": "Consolidated Appropriations Act, 2026 (P.L. 119-75), Small Business Administration",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "Further Consolidated Appropriations Act, 2024 (P.L. 118-47)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ47/html/PLAW-118publ47.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-003",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The SBA stepped up recovery of suspected COVID-era loan fraud. In February 2026 it suspended 111,620 California borrowers tied to $8.6 billion in suspected fraud, and in April 2026 it sent 562,000 delinquent Paycheck Protection Program and COVID disaster loans flagged for fraud, worth about $22 billion, to Treasury for collection. It also updated its fraud penalty rules (March 2026) and its Do Not Pay data matching (September 2026).",
+    "key_dates": [
+      {
+        "date": "2026-02-06",
+        "event": "SBA suspends 111,620 California borrowers over suspected pandemic loan fraud"
+      },
+      {
+        "date": "2026-03-19",
+        "event": "SBA updates Program Fraud Civil Remedies Act rules"
+      },
+      {
+        "date": "2026-04-24",
+        "event": "SBA sends 562,000 suspected fraudulent loans to Treasury for collection"
+      }
+    ],
+    "closeness": "Repayment demands and collection match the chapter's goal. A single full public accounting of all PPP and EIDL fraud, as the chapter asked, was not found; the SBA's inspector general had earlier estimated over $200 billion in potential fraud.",
+    "uncertain": "A reported September 2026 joint DOJ-SBA action (870,000 suspended borrowers, $39 billion) was not confirmed in an SBA source. How much money has actually been recovered is not known. Newest source is September 2026.",
+    "sources": [
+      {
+        "label": "SBA sends 562,000 suspected fraudulent loans to Treasury for collections totaling $22 billion (News release 26-47)",
+        "publisher": "U.S. Small Business Administration",
+        "type": "government",
+        "url": "https://www.sba.gov/article/2026/04/24/sba-sends-562000-suspected-fraudulent-loans-treasury-collections-totaling-22-billion"
+      },
+      {
+        "label": "SBA suspends 111,620 California borrowers suspected of committing $8.6 billion in pandemic-era fraud (News release 26-29)",
+        "publisher": "U.S. Small Business Administration",
+        "type": "government",
+        "url": "https://www.sba.gov/article/2026/02/06/sba-suspends-111620-california-borrowers-suspected-committing-86-billion-pandemic-era-fraud"
+      },
+      {
+        "label": "Program Fraud Civil Remedies Act Regulations Statutory Updates",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/19/2026-05459/program-fraud-civil-remedies-act-regulations-statutory-updates"
+      },
+      {
+        "label": "Privacy Act of 1974; Matching Program (Do Not Pay)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18527/privacy-act-of-1974-matching-program"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-004",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No SBA rule or statement ending direct lending or ruling out new direct loan programs was found. The SBA still makes disaster loans directly; it reported $6 billion in disaster assistance in fiscal 2025.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked the Federal Register for SBA rules and notices since January 2025 and ran a web search; a March 2026 CRS report still describes the disaster program as direct lending. Newest source is March 2026.",
+    "sources": [
+      {
+        "label": "SBA Disaster Loan Interest Rates: Overview and Policy Options (R46963, March 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-03-02_R46963_706039aa0aed3140b70f73e94c5d0e38e4f7a0a2.html"
+      },
+      {
+        "label": "SBA delivers over $6 billion in assistance to disaster survivors in FY25 (News release 26-04)",
+        "publisher": "U.S. Small Business Administration",
+        "type": "government",
+        "url": "https://www.sba.gov/article/2025/11/04/sba-delivers-over-6-billion-assistance-disaster-survivors-fy25"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-005",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In August 2026 the SBA finalized a rule removing the 8(a) program's presumption that individuals of certain groups are socially disadvantaged. In September 2026 it finalized another rule removing affirmative action requirements from SBA programs.",
+    "key_dates": [
+      {
+        "date": "2026-08-11",
+        "event": "Final rule removing 8(a) presumption of social disadvantage"
+      },
+      {
+        "date": "2026-09-29",
+        "event": "Final rule removing affirmative action provisions from SBA programs takes effect"
+      }
+    ],
+    "closeness": "These rules move SBA programs toward treating all eligible small businesses the same way. No first-come, first-served policy or merger of duplicate programs was found.",
+    "uncertain": "Whether the 8(a) rule faces lawsuits was not checked.",
+    "sources": [
+      {
+        "label": "Reforms to 13 CFR 124.103 to remove the 8(a) program's rebuttable presumption",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16370/reforms-to-13-cfr-124103-to-remove-sbas-8a-programs-rebuttable-presumption-of-social-disadvantage"
+      },
+      {
+        "label": "Removing Constitutional Concerns From SBA Programs",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19878/removing-constitutional-concerns-from-sba-programs"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-007",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In March 2026 the SBA updated its rules for civil penalties for program fraud, and in September 2026 it renewed a data-matching program with Treasury's Do Not Pay system to find and prevent improper payments in its programs, including COVID-era loans.",
+    "key_dates": [
+      {
+        "date": "2026-03-19",
+        "event": "SBA updates Program Fraud Civil Remedies Act rules"
+      },
+      {
+        "date": "2026-09-11",
+        "event": "SBA publishes Do Not Pay data-matching program notice"
+      }
+    ],
+    "closeness": "These are anti-fraud safeguards, part of what the chapter asked for. No new requirement that the SBA adopt agency-wide performance measures was found. Same actions as ch25-003.",
+    "uncertain": "Whether the SBA adopted new performance metrics was not checked in detail. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Program Fraud Civil Remedies Act Regulations Statutory Updates",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/19/2026-05459/program-fraud-civil-remedies-act-regulations-statutory-updates"
+      },
+      {
+        "label": "Privacy Act of 1974; Matching Program (SBA and Do Not Pay)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18527/privacy-act-of-1974-matching-program"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Check whether the SBA adopted new program performance measures, the other half of this recommendation."
+  },
+  {
+    "id": "ch25-009",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "No law has changed the Regulatory Flexibility Act. A House bill, the Small Business Regulatory Flexibility Improvements Act (H.R. 421, introduced January 15, 2025), would require agencies to send draft proposed rules and small-business impact information to the SBA Office of Advocacy before publishing them. The House Judiciary Committee approved it 13-12 in June 2025, and a Senate version (S. 5178) was introduced July 30, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-01-15",
+        "event": "H.R. 421 introduced"
+      },
+      {
+        "date": "2025-06-10",
+        "event": "House Judiciary Committee orders H.R. 421 reported, 13-12"
+      },
+      {
+        "date": "2026-07-30",
+        "event": "Senate companion S. 5178 introduced"
+      }
+    ],
+    "closeness": "The bill gives Advocacy an early look at proposed rules, but it does not set the 60-day lead time the chapter named. See ch25-027, the same bill.",
+    "uncertain": "No floor vote was found, and the bill is not among laws enacted through October 2026. Newest source is July 2026.",
+    "sources": [
+      {
+        "label": "H.R. 421, Small Business Regulatory Flexibility Improvements Act (introduced text)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr421ih"
+      },
+      {
+        "label": "Sen. Rick Scott, Rep. Ben Cline push to end overregulation and cut red tape for small businesses (July 2026)",
+        "publisher": "Office of Sen. Rick Scott",
+        "type": "government",
+        "url": "https://www.rickscott.senate.gov/2026/7/sen-rick-scott-rep-ben-cline-push-to-end-overregulation-and-cut-red-tape-for-small-businesses"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-010",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or rule was found requiring agencies to count indirect costs in their small-business analyses under the Regulatory Flexibility Act.",
+    "closeness": "No action matched. Changing the Act's analysis requirements would take a law such as the Small Business Regulatory Flexibility Improvements Act, which has not passed (see ch25-027).",
+    "uncertain": "Checked the list of laws enacted through October 2026 and searched the Federal Register for related rules. Newest source: October 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-011",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law was found that presumes small businesses are exempt from new rules unless the SBA Office of Advocacy signs off. Earlier bills to expand Advocacy's role in rulemaking passed the House in 2015 and 2017 but did not become law.",
+    "closeness": "No matching action found in 2025-2026.",
+    "uncertain": "Two searches (most recently October 2026) found no 2025-2026 bill or executive order giving Advocacy sign-off power or presuming small businesses exempt. A 2025 bill (H.R. 358) would tighten agencies' small business reviews but gives no sign-off power; its status was not confirmed.",
+    "sources": [
+      {
+        "label": "SBA Office of Advocacy: overview, history, and current issues",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R43625.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-012",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress funded the SBA Office of Advocacy at $10,109,000 for fiscal 2026, the same amount as in fiscal 2024.",
+    "closeness": "No 50 percent increase was made; the budget stayed flat.",
+    "uncertain": "Compared the Office of Advocacy lines in P.L. 118-47 (FY2024) and P.L. 119-75 (FY2026). Staffing levels were not checked. Newest source: the FY2026 appropriations law.",
+    "sources": [
+      {
+        "label": "Consolidated Appropriations Act, 2026 (P.L. 119-75), Office of Advocacy",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "Further Consolidated Appropriations Act, 2024 (P.L. 118-47)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ47/html/PLAW-118publ47.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-013",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On February 19, 2025, President Trump signed an executive order telling agencies to review and identify regulations for repeal, including \"regulations that impose undue burdens on small business.\" An earlier January 31, 2025 order required agencies to cut 10 regulations for each new one. The SBA Office of Advocacy held many small-business roundtables in 2025-2026, mostly online and some regional, including on how agencies carry out these orders.",
+    "key_dates": [
+      {
+        "date": "2025-01-31",
+        "event": "Deregulation executive order signed"
+      },
+      {
+        "date": "2025-02-19",
+        "event": "Executive order on reviewing regulations, including small business burdens"
+      },
+      {
+        "date": "2026-01-23",
+        "event": "Office of Advocacy small business labor safety roundtable on the regulatory review orders"
+      }
+    ],
+    "closeness": "The orders focus on small business burdens but do not explicitly direct agencies to follow the Regulatory Flexibility Act. Advocacy's roundtables match the outreach part of the recommendation; a new online input platform was not confirmed.",
+    "uncertain": "Advocacy has long held roundtables, so how much of this is new is unclear. Newest source is 2026.",
+    "sources": [
+      {
+        "label": "Ensuring Lawful Governance and Implementing the President's DOGE Deregulatory Initiative",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/25/2025-03138/ensuring-lawful-governance-and-implementing-the-presidents-department-of-government-efficiency"
+      },
+      {
+        "label": "Unleashing Prosperity Through Deregulation",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/06/2025-02345/unleashing-prosperity-through-deregulation"
+      },
+      {
+        "label": "Small Business Labor Safety Roundtable (January 23, 2026)",
+        "publisher": "SBA Office of Advocacy",
+        "type": "government",
+        "url": "https://advocacy.sba.gov/2026/01/20/small-business-labor-safety-roundtable-january-23-2026"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-014",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On April 24, 2026, the SBA said it had referred about 562,000 suspected fraudulent PPP and COVID disaster loans, worth $22.2 billion, to Treasury for collection and sent borrower information to the Justice Department. In September 2026 the administration announced it would bar about 870,000 suspected fraudsters from future federal loans, alongside a joint SBA-Justice Department enforcement effort.",
+    "key_dates": [
+      {
+        "date": "2026-04-24",
+        "event": "SBA refers 562,000 suspected fraudulent pandemic loans ($22.2 billion) to Treasury"
+      },
+      {
+        "date": "2026-09-14",
+        "event": "Administration announces suspension of about 870,000 suspected fraudsters from future federal loans"
+      }
+    ],
+    "closeness": "Pursuing fraud and making ineligible borrowers repay matches the chapter. The sources do not show the SBA bringing in private-sector help to wind down the programs, which the chapter suggested.",
+    "uncertain": "Based on law-firm summaries of SBA and Justice Department announcements; how much money has been recovered is not known. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "SBA sends $22B in suspected fraudulent COVID-19 era loans to Treasury for collection",
+        "publisher": "Orrick (InfoBytes)",
+        "type": "law-firm",
+        "url": "https://infobytes.orrick.com/2026-05-01/sba-sends-22b-in-suspected-fraudulent-covid-19-era-loans-to-treasury-for-collection/"
+      },
+      {
+        "label": "SBA bars future loans in coordination with DOJ crackdown on PPP borrowers",
+        "publisher": "Foley & Lardner",
+        "type": "law-firm",
+        "url": "https://www.foley.com/insights/publications/2026/09/sba-bars-future-loans-in-coordination-with-doj-crackdown-on-ppp-borrowers/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-016",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Disaster loans stayed at the SBA. In January 2026 the SBA issued an interim rule to speed up its disaster loans by overriding some state and local rules that delay rebuilding.",
+    "closeness": "The SBA worked to improve its own disaster program rather than studying a move to another agency.",
+    "uncertain": "No study of moving disaster loans was found in the Federal Register, and a web search found no 2025-2026 proposal to move them to FEMA or another agency. Newest source is March 2026.",
+    "sources": [
+      {
+        "label": "Improving SBA Disaster Loan Ability To Provide Meaningful and Timely Assistance",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/29/2026-01797/improving-sba-disaster-loan-ability-to-provide-meaningful-and-timely-assistance"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-017",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On July 14, 2025, the SBA announced it was \"eliminating\" a rule that barred faith-based organizations from its disaster loans, saying they were eligible \"effective immediately.\" It also launched a Center for Faith. The SBA cited a Supreme Court ruling that such exclusions are unconstitutional. A 2022 SBA rule, before this administration, had already removed the religious limit for its 7(a), 504 and microloan business loans (see ch25-018).",
+    "key_dates": [
+      {
+        "date": "2025-07-14",
+        "event": "SBA announces faith-based organizations are eligible for disaster loans and launches Center for Faith"
+      }
+    ],
+    "closeness": "The SBA stopped applying the last major religious exclusion in its loan programs, which is the chapter's goal. It did so by announcement; no Federal Register rule and no notice to Congress were found.",
+    "uncertain": "A Federal Register search of SBA documents since January 2025 found no rule making the disaster-loan change, so it appears to have been a policy announcement. Whether Congress was formally notified is unknown. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "SBA launches Center for Faith, eliminates Biden ban on disaster relief for faith organizations (News release 25-62)",
+        "publisher": "U.S. Small Business Administration",
+        "type": "government",
+        "url": "https://legacy.sba.gov/article/2025/07/14/sba-launches-center-faith-eliminates-biden-ban-disaster-relief-faith-organizations"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-019",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "No new rule removing religious exclusions from SBA loan rules was found since 2025. The exclusion in the main 7(a) and 504 loan rule had already been removed in a June 30, 2022 rule, before the current administration. On July 14, 2025, the SBA announced that faith-based organizations were eligible for its disaster loans \"effective immediately,\" citing a Supreme Court ruling, but the written disaster loan rule (13 CFR 123.301) still lists the religious exclusion as of October 2026.",
+    "key_dates": [
+      {
+        "date": "2022-06-30",
+        "event": "SBA rule removes the religious exclusion from 7(a) and 504 eligibility rules (before January 20, 2025)."
+      },
+      {
+        "date": "2025-07-14",
+        "event": "SBA announces faith-based organizations are eligible for disaster loans (news release 25-62)."
+      }
+    ],
+    "closeness": "Same goal, different method: a policy announcement for disaster loans, not the formal rule the chapter asked for. The 7(a) and 504 change happened in 2022, before January 20, 2025. See ch25-017, which covers the same announcement.",
+    "uncertain": "Whether a formal rule will update the disaster loan text. Checked the current eCFR text of 13 CFR 120.110 and 123.301 (October 2026).",
+    "sources": [
+      {
+        "label": "SBA launches Center for Faith, eliminates Biden ban on disaster relief for faith organizations (News release 25-62)",
+        "publisher": "U.S. Small Business Administration",
+        "type": "government",
+        "url": "https://legacy.sba.gov/article/2025/07/14/sba-launches-center-faith-eliminates-biden-ban-disaster-relief-faith-organizations"
+      },
+      {
+        "label": "Regulatory Reform Initiative: Streamlining and Modernizing the 7(a), Microloan, and 504 Loan Programs (June 30, 2022)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2022/06/30/2022-13483/regulatory-reform-initiative-streamlining-and-modernizing-the-7a-microloan-and-504-loan-programs-to"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-020",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "Congress reauthorized the SBIR and STTR small-business research programs through September 30, 2031, in the Small Business Innovation and Economic Security Act, signed April 13, 2026. The programs had lapsed at the end of September 2025.",
+    "key_dates": [
+      {
+        "date": "2026-04-13",
+        "event": "Small Business Innovation and Economic Security Act (P.L. 119-83) signed"
+      }
+    ],
+    "closeness": "The programs were continued, as the chapter asked. The law also added security reviews of applicants (see ch25-021 and ch25-022).",
+    "uncertain": "The length of the lapse and its effect on awards were not checked. Newest source: the April 2026 law.",
+    "sources": [
+      {
+        "label": "Public Law 119-83, Small Business Innovation and Economic Security Act",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ83/html/PLAW-119publ83.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-021",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress reauthorized the SBIR and STTR small-business research programs through fiscal 2031 in the Small Business Innovation and Economic Security Act, signed April 13, 2026. The law added security reviews of applicants and new \"strategic breakthrough\" awards, but no increase in the share of agency research budgets set aside for SBIR was found in its text.",
+    "closeness": "The program was renewed, but the set-aside percentage the chapter wanted raised was not increased.",
+    "uncertain": "Based on a keyword review of the enacted text; a full reading was not done.",
+    "sources": [
+      {
+        "label": "Small Business Innovation and Economic Security Act (enrolled text)",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/119/bills/s3971/BILLS-119s3971enr.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-022",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The April 2026 SBIR and STTR reauthorization law (P.L. 119-83) did not add a rule requiring program money to be spent on capital investment in the United States. It did add reviews to screen out applicants with ties to foreign adversaries.",
+    "closeness": "The new security screening is related to keeping research benefits at home, but it is a different mechanism from a U.S. capital-spending requirement.",
+    "uncertain": "Checked the text of P.L. 119-83; no domestic capital-investment rule was found. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-83, Small Business Innovation and Economic Security Act",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ83/html/PLAW-119publ83.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-023",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The House unanimously passed the Made in America Manufacturing Finance Act (H.R. 3174) on December 1, 2025. It would double the 7(a) and 504 loan limit for small manufacturers from $5 million to $10 million. The Senate Small Business Committee approved its version (S. 1555) in July 2025, but the full Senate had not passed it. The SBA also set up an Office of Manufacturing and Trade.",
+    "key_dates": [
+      {
+        "date": "2025-05-01",
+        "event": "Bills introduced; SBA Administrator Loeffler endorses them"
+      },
+      {
+        "date": "2025-07-29",
+        "event": "Senate Small Business Committee approves S. 1555"
+      },
+      {
+        "date": "2025-12-01",
+        "event": "House passes H.R. 3174"
+      }
+    ],
+    "closeness": "Same idea, smaller size: a higher 7(a) cap for manufacturers, but $10 million rather than the $50 million the chapter cited.",
+    "uncertain": "The bill is not among laws enacted through October 2026; newest source on Senate status is March 2026.",
+    "sources": [
+      {
+        "label": "House passes SBA loan bill, Made in America Manufacturing Finance Act",
+        "publisher": "Manufacturing Dive",
+        "type": "news",
+        "url": "https://www.manufacturingdive.com/news/house-pass-sba-loan-bill-made-in-america-finance-act-10-million/806904/"
+      },
+      {
+        "label": "Administrator Loeffler applauds congressional proposal to increase capital for small manufacturers (News release 25-49)",
+        "publisher": "U.S. Small Business Administration",
+        "type": "government",
+        "url": "https://www.sba.gov/article/2025/05/01/administrator-loeffler-applauds-congressional-proposal-increase-capital-small-manufacturers"
+      },
+      {
+        "label": "CBO cost estimate: S. 1555, as reported July 29, 2025",
+        "publisher": "Congressional Budget Office",
+        "type": "government",
+        "url": "https://www.cbo.gov/publication/61769"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-024",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change refocusing the Small Business Investment Company program on small manufacturers was found. A January 2026 SBA rule changed SBIC licensing rules and removed barriers to investments in critical mineral extraction and processing and in designated critical technologies. Congress did not pass a law changing SBIC financing terms for manufacturers.",
+    "closeness": "The 2026 rule eases investment in some capital-heavy sectors (critical minerals), but it does not shift the program toward manufacturers in general or create longer-term loans for them.",
+    "uncertain": "Searched Federal Register SBA rules since 2025 and the list of enacted laws. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Small Business Investment Company (SBIC) Regulatory Amendments (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/02/2025-24232/small-business-investment-company-sbic-regulatory-amendments"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-025",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not created a medium-sized business category. In August 2026 the SBA proposed new size standards for 338 industries, which would change which firms count as small.",
+    "closeness": "Changing size standards is a different tool from creating a separate medium-sized category.",
+    "uncertain": "Checked enacted laws and SBA rules. Bills in Congress were not checked.",
+    "sources": [
+      {
+        "label": "Small Business Size Standards (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17042/small-business-size-standards"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-026",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The IMPROVE the SBA Act has not become law. The bill was introduced in 2022 (H.R. 7628) and died in committee; no 119th Congress version was found, and it does not appear in the laws enacted through October 2026.",
+    "closeness": "No action matched.",
+    "uncertain": "Checked the list of enacted laws through October 2026 and ran a web search for a 2025-2026 version; none was found. No administration statement supporting it was found either.",
+    "sources": [
+      {
+        "label": "IMPROVE the SBA Act",
+        "publisher": "House Committee on Small Business",
+        "type": "government",
+        "url": "https://smallbusiness.house.gov/legislation/improve-the-sba-act.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-027",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "The Small Business Regulatory Flexibility Improvements Act was reintroduced as H.R. 421 on January 15, 2025. It would require more detailed small-business analyses of rules and bar fines for many first-time paperwork violations by small businesses. The House Judiciary Committee approved it 13-12 in June 2025, and a Senate version (S. 5178) was introduced July 30, 2026. It has not become law.",
+    "key_dates": [
+      {
+        "date": "2025-01-15",
+        "event": "H.R. 421 introduced"
+      },
+      {
+        "date": "2025-06-10",
+        "event": "House Judiciary Committee orders H.R. 421 reported, 13-12"
+      },
+      {
+        "date": "2026-07-30",
+        "event": "Senate companion S. 5178 introduced"
+      }
+    ],
+    "closeness": "Same bill the chapter supports. It has cleared one House committee but not a floor vote. See ch25-009 and ch25-028.",
+    "uncertain": "No floor vote was found, and the bill is not among laws enacted through October 2026. Newest source is July 2026.",
+    "sources": [
+      {
+        "label": "H.R. 421, Small Business Regulatory Flexibility Improvements Act (introduced text)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr421ih"
+      },
+      {
+        "label": "Sen. Rick Scott, Rep. Ben Cline push to end overregulation and cut red tape for small businesses (July 2026)",
+        "publisher": "Office of Sen. Rick Scott",
+        "type": "government",
+        "url": "https://www.rickscott.senate.gov/2026/7/sen-rick-scott-rep-ben-cline-push-to-end-overregulation-and-cut-red-tape-for-small-businesses"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-028",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "No law has extended small-business review panels to all agencies. H.R. 421, the Small Business Regulatory Flexibility Improvements Act, would require agencies making covered proposed rules to share drafts with the SBA Office of Advocacy, which would then convene a review panel with small-business input. The House Judiciary Committee approved it 13-12 in June 2025; a Senate version was introduced in July 2026.",
+    "key_dates": [
+      {
+        "date": "2025-01-15",
+        "event": "H.R. 421 introduced"
+      },
+      {
+        "date": "2025-06-10",
+        "event": "House Judiciary Committee orders H.R. 421 reported, 13-12"
+      }
+    ],
+    "closeness": "The bill would spread panel reviews well beyond the three agencies that hold them now, but only for the rules it covers, and it has not passed. Same bill as ch25-027.",
+    "uncertain": "Exactly which rules the panel requirement would reach depends on the bill's definitions. Not among laws enacted through October 2026.",
+    "sources": [
+      {
+        "label": "H.R. 421, Small Business Regulatory Flexibility Improvements Act (introduced text)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr421ih"
+      },
+      {
+        "label": "Sen. Rick Scott, Rep. Ben Cline push to end overregulation and cut red tape for small businesses (July 2026)",
+        "publisher": "Office of Sen. Rick Scott",
+        "type": "government",
+        "url": "https://www.rickscott.senate.gov/2026/7/sen-rick-scott-rep-ben-cline-push-to-end-overregulation-and-cut-red-tape-for-small-businesses"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-029",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Project labor agreements were not barred. A September 2026 proposed overhaul of federal contracting rules keeps the requirement that agencies use project labor agreements on federal construction projects costing $35 million or more, unless an exception applies.",
+    "closeness": "The action ran opposite to the recommendation: the requirement from Executive Order 14063 remains in the proposed rules.",
+    "uncertain": "Court rulings on specific project labor agreement solicitations and the Fair and Open Competition Act's status were not checked.",
+    "sources": [
+      {
+        "label": "FAR Overhaul Parts 14, 28, 36, and 52 (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19158/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-14-28-36"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-030",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The House passed the INVEST Act of 2025 (H.R. 3383), a package of bills to make it easier for businesses to raise money, on December 11, 2025. It would, among other things, raise some crowdfunding limits, add an exam path to accredited-investor status, and extend some emerging growth company benefits. It had not become law as of October 2026.",
+    "key_dates": [
+      {
+        "date": "2025-12-11",
+        "event": "House passes the INVEST Act of 2025 (H.R. 3383)"
+      }
+    ],
+    "closeness": "The INVEST Act covers similar ground to the JOBS Act 4.0 the chapter supported, but it is a different bill and has not passed the Senate.",
+    "uncertain": "Senate action on the bill was not checked. Newest source: the House-passed text from December 2025.",
+    "sources": [
+      {
+        "label": "H.R. 3383, INVEST Act of 2025 (engrossed in House)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3383eh/html/BILLS-119hr3383eh.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-031",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "Kelly Loeffler, a former Intercontinental Exchange executive, founding CEO of the fintech company Bakkt, and CFA charterholder, became the 28th SBA Administrator in 2025.",
+    "closeness": "The Administrator has a background in corporate finance and investment. The chapter asked for experience in small-business finance or administrative law; her experience is mainly in large-company finance and technology.",
+    "uncertain": "This finding covers only the Administrator, not the other key staff the chapter mentions. Newest source: the SBA's biography page.",
+    "sources": [
+      {
+        "label": "Kelly Loeffler, Administrator",
+        "publisher": "U.S. Small Business Administration",
+        "type": "government",
+        "url": "https://legacy.sba.gov/person/kelly-loeffler"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-032",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "Congress cut the SBA's main operating account from $361.2 million in fiscal 2024 to $323.1 million in fiscal 2026, after the SBA announced in March 2025 that it would cut about 43 percent of its staff. The fiscal 2027 budget request proposes ending funding for nearly all of the SBA's 16 entrepreneurial development programs; Congress rejected similar cuts for fiscal 2026, and the fiscal 2027 request is pending. No SBA report to Congress ranking its programs by cost-effectiveness was found.",
+    "key_dates": [
+      {
+        "date": "2025-03-21",
+        "event": "SBA announces reorganization and staff cuts"
+      },
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 appropriations law lowers SBA salaries and expenses funding"
+      },
+      {
+        "date": "2026-05-27",
+        "event": "CRS summarizes FY2027 request to zero out most SBA training and counseling programs"
+      }
+    ],
+    "closeness": "The budget went down rather than being held flat while a review was done, and program cuts were proposed through the budget. The chapter's six-month program review ranked by cost-effectiveness was not found. See ch25-001.",
+    "uncertain": "An internal or unpublished program review may exist. Congress has not acted on the fiscal 2027 request. Newest source is May 2026.",
+    "sources": [
+      {
+        "label": "Consolidated Appropriations Act, 2026 (P.L. 119-75), Small Business Administration",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "Trump Administration's FY2027 Small Business Administration (SBA) Budget Request (IN12694)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12694.html"
+      },
+      {
+        "label": "SBA to cut about 2,700 jobs",
+        "publisher": "PBS NewsHour",
+        "type": "news",
+        "url": "https://www.pbs.org/newshour/amp/politics/sba-to-cut-about-2700-jobs-while-trump-announces-it-will-take-over-handling-of-student-loans"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch25-006",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "SBA's Office of Advocacy, led by Chief Counsel Casey Mulligan, released a first-year report in January 2026. It says the office helped cut about $110 billion in regulatory burden on small businesses, flagged more than 350 regulatory issues to agencies and helped change 23 rules. No new study measuring the total cost of federal rules on small businesses was found.",
+    "key_dates": [
+      {
+        "date": "2026-01",
+        "event": "Office of Advocacy publishes its first-year report."
+      }
+    ],
+    "closeness": "The office pursued the deregulation goal, but the specific research on the total cost of federal regulation was not found, and no new mandate or added funding was confirmed.",
+    "uncertain": "The report's figures come from a search summary; the report file could not be opened. Advocacy's funding for fiscal 2026 was not checked. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Office of Advocacy First Year Report (January 2026)",
+        "publisher": "SBA Office of Advocacy",
+        "type": "government",
+        "url": "https://advocacy.sba.gov/wp-content/uploads/2026/01/FINAL_First-Year-Report_012026.pdf"
+      },
+      {
+        "label": "Small Business Administration Office of Advocacy (IF12986)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12986.html"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "The first-year report still could not be opened (blocked); confirm its figures and check for any total-cost-of-regulation study."
+  },
+  {
+    "id": "ch25-015",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "On January 22, 2026, the SBA opened a review of more than $88 million in Paycheck Protection Program loans to Planned Parenthood affiliates. It sent 38 letters requiring affiliates to prove they were eligible. The SBA said earlier forgiveness does not stop it from reopening the loans, and affiliates that made false certifications could face repayment, loss of forgiveness, and possible referral for civil or criminal penalties.",
+    "key_dates": [
+      {
+        "date": "2026-01-22",
+        "event": "SBA opens review and sends 38 letters to affiliates."
+      }
+    ],
+    "closeness": "Closely matches the recommendation to review and possibly reverse forgiveness and refer misrepresentation. No final decision to reverse forgiveness, and no referral to the Justice Department, was confirmed.",
+    "uncertain": "The outcome of the review, any repayments, and any legal challenges were not found. A May 2026 news report described an update on recovery that could not be read. Newest confirmed source: January 2026.",
+    "sources": [
+      {
+        "label": "SBA Opens Review of Over $88 Million in Planned Parenthood Paycheck Protection Program Loans (News release 26-24)",
+        "publisher": "U.S. Small Business Administration",
+        "type": "government",
+        "url": "https://legacy.sba.gov/article/2026/01/22/sba-opens-review-over-88-million-planned-parenthood-paycheck-protection-program-loans"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch25-018",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "SBA no longer requires Form 1971, its religious eligibility worksheet. A rule effective August 1, 2022 removed the religious-business limit on SBA business loans, and SBA's loan procedures then dropped the form. A January 2024 notice from a lender trade group said SBA had confirmed the form is no longer required for any loan and had removed it from its website.",
+    "key_dates": [
+      {
+        "date": "2022-08-01",
+        "event": "SBA rule removing the religious-business restriction takes effect."
+      },
+      {
+        "date": "2024-01-10",
+        "event": "Trade group reports SBA removed Form 1971 from its website."
+      }
+    ],
+    "closeness": "Same result as the recommendation, but it happened under the previous administration, before 2025.",
+    "uncertain": "The form was renewed with OMB in December 2023, before the January 2024 notice; whether any version is still used was not confirmed on sba.gov.",
+    "sources": [
+      {
+        "label": "Regulatory Reform Initiative: Streamlining and Modernizing the 7(a), Microloan, and 504 Loan Programs (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2022/06/30/2022-13483/regulatory-reform-initiative-streamlining-and-modernizing-the-7a-microloan-and-504-loan-programs-to"
+      },
+      {
+        "label": "SBA clarifications regarding recently revised/reissued forms",
+        "publisher": "NAGGL (lender trade association)",
+        "type": "advocacy",
+        "url": "https://www.naggl.org/update-sba-clarifications-regarding-recently-revised-reissued-forms/"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Removal of the form is confirmed only by a trade group notice; sba.gov blocked automated checks, so confirm there."
+  },
+  {
+    "id": "ch25-033",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On May 19, 2025, the SBA reinstated a moratorium on approving new Community Advantage lending licenses, a type of Small Business Lending Company license created by a 2023 rule. It said it would stop expanding the program and require existing lenders to hold much more capital to keep taking part.",
+    "key_dates": [
+      {
+        "date": "2025-05-19",
+        "event": "SBA reinstates the moratorium on new Community Advantage licenses."
+      }
+    ],
+    "closeness": "Matches the call to halt expansion of licensed lenders for one category. No reinstated moratorium on regular Small Business Lending Company licenses was found, and the staffing and outsourcing parts were not confirmed.",
+    "uncertain": "Whether SBA still accepts applications for regular Small Business Lending Company licenses was not confirmed. Newest source: May 2025.",
+    "sources": [
+      {
+        "label": "SBA Overhauls Reckless Biden-Era Lending Program (News release 25-51)",
+        "publisher": "U.S. Small Business Administration",
+        "type": "government",
+        "url": "https://legacy.sba.gov/article/2025/05/19/sba-overhauls-reckless-biden-era-lending-program"
+      },
+      {
+        "label": "Small Business Lending Company (SBLC) Moratorium Rescission (2023 final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2023/04/12/2023-07181/small-business-lending-company-sblc-moratorium-rescission-and-removal-of-the-requirement-for-a-loan"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

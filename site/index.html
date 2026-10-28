@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Project 2025 in Practice</title>
+<meta name="description" content="Every recommendation in Project 2025, page-cited, next to what the federal government actually did and what courts said.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&display=swap">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="polish.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="top">
+  <div class="wrap top-grid">
+    <div class="top-main">
+      <p class="kicker"><span class="live-dot" aria-hidden="true"></span>A plain-language tracker, updated as things change</p>
+      <h1>Project 2025 <span>in practice</span></h1>
+      <p class="lede">Project 2025 is a 922-page plan, the "Mandate for Leadership," written by the Heritage Foundation and allied groups before the 2024 election. Here is <strong>every recommendation in it</strong>, with the page it came from, next to what the government actually did and what courts said.</p>
+      <div class="top-cta">
+        <a class="cta primary" href="#all">See every recommendation</a>
+        <a class="cta" href="#timeline">Watch the timeline</a>
+      </div>
+      <div class="top-score" id="top-score" role="group" aria-label="Summary"></div>
+    </div>
+    <aside class="top-cd" aria-labelledby="top-cd-h">
+      <p class="eyebrow light" id="top-cd-h">Next chance to change course</p>
+      <p class="top-cd-name" id="top-cd-name">—</p>
+      <p class="top-cd-when" id="top-cd-when"></p>
+      <div class="clock" id="top-clock" role="timer" aria-live="off"></div>
+      <a class="cta primary block" id="top-cd-link" href="https://vote.gov/" target="_blank" rel="noopener noreferrer">Check your voter registration</a>
+    </aside>
+  </div>
+</header>
+
+<nav class="tabs" aria-label="Sections">
+  <div class="wrap tabrow">
+    <a href="#overview" data-view="overview">Overview</a>
+    <a href="#all" data-view="all">Every recommendation</a>
+    <a href="#timeline" data-view="timeline">Timeline</a>
+    <a href="#stories" data-view="stories">Big stories</a>
+    <a href="#glossary" data-view="glossary">Glossary</a>
+    <a href="#method" data-view="method">How this works</a>
+    <button type="button" id="bigger" class="btn small" aria-pressed="false">Larger text</button>
+  </div>
+</nav>
+
+<main id="main">
+
+  <!-- OVERVIEW -->
+  <section id="view-overview" class="view">
+    <div class="wrap">
+      <div class="hero">
+        <div class="hero-main">
+          <p class="eyebrow">Of the recommendations checked so far</p>
+          <p class="hero-num"><span id="hero-pct">—</span><span class="pct">%</span></p>
+          <p class="hero-label" id="hero-label">have been carried out in full or in part.</p>
+        </div>
+        <div class="hero-side">
+          <div class="meter-block">
+            <div class="meter-head"><span>Research progress</span><strong id="prog-pct">—</strong></div>
+            <div class="meter"><i id="prog-fill"></i></div>
+            <p class="small muted" id="prog-label"></p>
+          </div>
+          <div class="meter-block">
+            <div class="meter-head"><span>Major recommendations checked</span><strong id="maj-pct">—</strong></div>
+            <div class="meter"><i id="maj-fill"></i></div>
+            <p class="small muted" id="maj-label"></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="stats" id="stats"></div>
+
+      <section class="panel" aria-labelledby="dates-h">
+        <h2 id="dates-h">Dates that matter</h2>
+        <p class="muted">The next chances to change course, and what you can do before each one.</p>
+        <div class="countdowns" id="countdowns"></div>
+      </section>
+
+      <p class="stance"><strong>Where we stand.</strong> We think Project 2025's agenda is harmful, so this site marks the parts of it now in effect in <strong>red</strong>, and the parts courts have blocked in <strong>blue</strong>: each of those is a win. The facts, quotes and sources are reported as accurately as we can, and you can check every one; the colors are our view.</p>
+
+      <section class="panel" aria-labelledby="whole-h">
+        <h2 id="whole-h">The whole plan at a glance</h2>
+        <p class="muted">Each bar is split by what we found. Grey hatching is the part not researched yet. Hover or tap a segment for numbers.</p>
+        <ul class="legend" id="status-legend"></ul>
+        <div class="bigbars" id="bigbars"></div>
+      </section>
+
+      <p class="note"><strong>How to read the numbers.</strong> Percentages count recommendations, and we split the plan into recommendations ourselves. Some are huge (closing a department), some are small (renaming an office), so a percentage is not a measure of importance. "Carried out in full or in part" counts items marked done, done but challenged in court, partly done, or partly blocked. Items not researched yet are left out of every percentage, never counted as "nothing happened."</p>
+
+      <section class="panel" aria-labelledby="ch-h">
+        <div class="ch-head">
+          <h2 id="ch-h">Progress by chapter</h2>
+          <div class="seg" role="group" aria-label="Group by">
+            <button type="button" class="btn small" id="by-chapter" aria-pressed="true">By chapter</button>
+            <button type="button" class="btn small" id="by-agency" aria-pressed="false">By agency</button>
+          </div>
+        </div>
+        <p class="muted">Bars show each chapter's recommendations. The percentage is the share of <em>checked</em> items carried out in full or in part; chapters with fewer than 5 checked items show a count instead. Click a chapter to see its list.</p>
+        <div id="map"></div>
+        <div id="agmap" hidden></div>
+      </section>
+    </div>
+    <div id="tip" class="tip" role="status" hidden></div>
+  </section>
+
+  <!-- BROWSE -->
+  <section id="view-all" class="view" hidden>
+    <div class="tools">
+      <div class="wrap">
+        <div class="row">
+          <label class="field grow"><span>Search</span>
+            <input id="q" type="search" placeholder="Try: schools, tariffs, FBI, climate, abortion" autocomplete="off">
+          </label>
+          <label class="field"><span>Chapter</span><select id="f-chapter"><option value="">All 30 chapters</option></select></label>
+          <label class="field"><span>Subject</span><select id="f-topic"><option value="">All subjects</option></select></label>
+        </div>
+        <div class="row">
+          <label class="field"><span>What happened</span><select id="f-status"><option value="">Anything</option></select></label>
+          <label class="field"><span>Size</span><select id="f-sig"><option value="">Any size</option><option value="major">Major</option><option value="moderate">Moderate</option><option value="minor">Minor</option></select></label>
+          <label class="field"><span>Who has to act</span><select id="f-needs"><option value="">Anyone</option><option value="executive">President or agency</option><option value="congress">Congress</option><option value="either">Either</option><option value="unclear">Unclear</option></select></label>
+        </div>
+        <div class="row meta">
+          <p id="count" class="muted" aria-live="polite"></p>
+          <button type="button" id="reset" class="btn ghost small">Clear filters</button>
+        </div>
+      </div>
+    </div>
+    <div class="wrap">
+      <ol id="rows" class="rows"></ol>
+      <p id="empty" class="empty" hidden>Nothing matches. Try fewer words or clear the filters.</p>
+      <button type="button" id="more" class="btn more" hidden>Show more</button>
+    </div>
+  </section>
+
+  <!-- TIMELINE -->
+  <section id="view-timeline" class="view" hidden>
+    <div class="wrap">
+      <div>
+        <h2>Timeline</h2>
+        <p class="muted">Every dated step we found, from Inauguration Day on. Drag the slider (or press play) to move through time and watch the actions and court fights add up. The list below shows what happened in the month you land on.</p>
+      </div>
+      <div class="panel tl-panel">
+        <div class="tl-top">
+          <div>
+            <p class="eyebrow">As of</p>
+            <p class="tl-date" id="tl-date">—</p>
+          </div>
+          <div class="tl-counts" id="tl-counts"></div>
+        </div>
+        <ul class="legend" id="tl-legend"></ul>
+        <div class="tl-chart" id="tl-chart"></div>
+        <div class="tl-controls">
+          <button type="button" class="btn small" id="tl-play" aria-pressed="false">Play</button>
+          <label class="tl-range"><span class="sr">Move through time</span><input type="range" id="tl-slider" min="0" max="1" value="1" step="1"></label>
+        </div>
+      </div>
+      <section class="panel" aria-labelledby="tl-month-h">
+        <h3 id="tl-month-h">What happened this month</h3>
+        <ol class="tl-list" id="tl-list"></ol>
+      </section>
+    </div>
+  </section>
+
+  <!-- STORIES -->
+  <section id="view-stories" class="view" hidden>
+    <div class="wrap">
+      <h2>Big stories</h2>
+      <p class="muted">Longer write-ups of major topics. Each one ties together several recommendations and follows them through agencies and courts.</p>
+      <div id="stories" class="list"></div>
+    </div>
+  </section>
+
+  <!-- GLOSSARY -->
+  <section id="view-glossary" class="view" hidden>
+    <div class="wrap">
+      <div>
+        <h2>Glossary</h2>
+        <p class="muted">Plain-English explanations of the terms, laws, programs and agencies that come up on this site. Anywhere you see a word with a dotted underline, tap it for its definition.</p>
+      </div>
+      <div class="gl-tools">
+        <label class="field grow"><span>Find a term</span><input id="gl-q" type="search" placeholder="Try: Schedule F, injunction, ICE, Title IX" autocomplete="off"></label>
+        <p id="gl-count" class="muted small"></p>
+      </div>
+      <div id="gl-list"></div>
+    </div>
+  </section>
+
+  <!-- METHOD -->
+  <section id="view-method" class="view method" hidden>
+    <div class="wrap">
+      <h2>How this works</h2>
+      <h3>Where the list comes from</h3>
+      <p>We read all 30 chapters of the 2023 "Mandate for Leadership" and wrote down each concrete recommendation: something a president, an agency, or Congress could actually do. Each one has the printed page number and a short exact quote. A script checks that every quote really appears on that page.</p>
+      <p>The text used is an <a href="https://archive.org/details/2025-mandate-for-leadership-full_20240706" target="_blank" rel="noopener">archived copy of the full PDF</a>. Heritage's original download link now goes to a landing page.</p>
+
+      <div class="cols">
+        <div>
+          <h3>How "closeness" is rated</h3>
+          <dl class="defs">
+            <dt>Direct match</dt><dd>Same idea and the same way of doing it.</dd>
+            <dt>Partial match</dt><dd>Same goal, but a different method or size.</dd>
+            <dt>Broad overlap</dt><dd>Only the general direction is shared.</dd>
+            <dt>No match found</dt><dd>No action matching the recommendation was found.</dd>
+          </dl>
+        </div>
+        <div>
+          <h3>What "status" means</h3>
+          <dl class="defs" id="status-defs"></dl>
+        </div>
+      </div>
+
+      <h3>Two chapters argue with themselves</h3>
+      <p>The <strong>Trade</strong> chapter has one author arguing for tariffs (Peter Navarro) and another arguing for free trade (Kent Lassman). The <strong>Export-Import Bank</strong> chapter has one author for closing it and one for keeping it. Items from those chapters are labeled with whose view they are.</p>
+
+      <h3>How the percentages work</h3>
+      <p>"Carried out in full or in part" is the share of <strong>researched</strong> recommendations marked done, done but challenged in court, partly done, or partly blocked. Recommendations not researched yet are left out of the percentage entirely. Every percentage on the site shows how many items it is based on, because a percentage of a few items can swing a lot.</p>
+      <p>Research so far started with the "major" recommendations, so the overall percentage currently leans toward big items. It will shift as smaller items are checked.</p>
+
+      <h3>Why other sites give different "percent done" numbers</h3>
+      <p>Other trackers say roughly half of Project 2025 has been carried out. Their numbers depend on how they split the plan into pieces and what they count as "done," so they are not directly comparable to ours.</p>
+      <ul class="links">
+        <li><a href="https://news.bloomberglaw.com/bloomberg-government-news/over-half-of-project-2025-now-in-place-heritage-foundation-says" rel="noopener" target="_blank">Heritage Foundation's own estimate (Bloomberg Law)</a></li>
+        <li><a href="https://progressivereform.org/publications/tracking-project-2025-update-oct2025" rel="noopener" target="_blank">Center for Progressive Reform tracker update</a></li>
+        <li><a href="https://www.pbs.org/newshour/amp/politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year" rel="noopener" target="_blank">PBS NewsHour: tracking the first year</a></li>
+        <li><a href="https://factually.co/fact-checks/politics/project-2025-implemented-proposals-track-rollbacks-6ac9d4" rel="noopener" target="_blank">Factually: why the counts differ</a></li>
+      </ul>
+
+      <h3>Source types</h3>
+      <p><span class="tag">government</span> official reports and notices. <span class="tag">court</span> filings and rulings. <span class="tag">news</span> reporting. <span class="tag">law firm</span> legal summaries. <span class="tag">academic</span> universities and research groups. <span class="tag advocacy">advocacy</span> groups with a point of view; read these with that in mind.</p>
+
+      <h3>Limits</h3>
+      <ul class="limits">
+        <li><strong>Splitting the plan into items is a judgment call.</strong> Another reader might count more or fewer.</li>
+        <li><strong>"Not researched yet" means not checked.</strong> It does not mean nothing happened.</li>
+        <li><strong>Courts move fast.</strong> Every finding shows the date it was checked.</li>
+        <li><strong>Facts versus view.</strong> The written findings describe what was proposed, done and ruled, in plain factual language. Our view (that this agenda is harmful) shows up only in the color coding, and we say so openly.</li>
+      </ul>
+
+      <h3>How to check for updates yourself</h3>
+      <p>Every recommendation has a "Follow this topic" box with ready-made searches. Here is what each one covers:</p>
+      <ul class="limits">
+        <li><strong>Federal Register:</strong> every new federal rule, proposed rule and executive order. If an agency changes a policy, it shows up here first. Sort by newest.</li>
+        <li><strong>Congress.gov:</strong> every bill, with its status (introduced, passed the House, signed into law).</li>
+        <li><strong>CourtListener:</strong> a free database of federal court filings and rulings, useful for checking whether a policy has been sued over or blocked.</li>
+        <li><strong>News:</strong> for context and for things that happen outside official channels. Prefer outlets that link to the documents they describe.</li>
+      </ul>
+      <p>Each finding also shows the date it was last checked. Anything older than a few months, especially court cases, may have changed.</p>
+
+      <h3>Words you may run into</h3>
+      <dl class="defs two">
+        <dt>Executive order</dt><dd>A written instruction from the president to federal agencies. It is not a law passed by Congress.</dd>
+        <dt>Injunction</dt><dd>A court order that pauses a policy while the case continues. "Preliminary" means it is early, not final.</dd>
+        <dt>Overrule</dt><dd>When a court decides an older court decision was wrong and no longer applies.</dd>
+        <dt>Independent agency</dt><dd>A federal body, like the FTC, that Congress set up to be somewhat separate from the president.</dd>
+        <dt>Rule (regulation)</dt><dd>A binding requirement an agency writes after public notice and comment.</dd>
+        <dt>Appropriations</dt><dd>The yearly laws in which Congress decides how much money agencies get.</dd>
+        <dt>Reconciliation</dt><dd>A budget process that lets some tax and spending bills pass the Senate with a simple majority.</dd>
+        <dt>Appeal</dt><dd>Asking a higher court to review a ruling.</dd>
+      </dl>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-grid">
+    <div>
+      <p class="foot-title">Project 2025 in practice</p>
+      <p>Independent project. Not affiliated with the Heritage Foundation, any political party, or any government body. Every quote links to its page in the plan, and every finding lists its sources. Data last built <span id="built"></span>.</p>
+    </div>
+    <div>
+      <p class="foot-title">Take part</p>
+      <ul class="foot-links">
+        <li><a href="https://vote.gov/" target="_blank" rel="noopener noreferrer">Register or check your registration</a></li>
+        <li><a href="https://www.house.gov/representatives/find-your-representative" target="_blank" rel="noopener noreferrer">Find your representative</a></li>
+        <li><a href="https://www.senate.gov/senators/senators-contact.htm" target="_blank" rel="noopener noreferrer">Contact your senators</a></li>
+        <li><a href="https://www.regulations.gov/" target="_blank" rel="noopener noreferrer">Comment on proposed rules</a></li>
+      </ul>
+    </div>
+    <div>
+      <p class="foot-title">On this site</p>
+      <ul class="foot-links">
+        <li><a href="#all">Every recommendation</a></li>
+        <li><a href="#timeline">Timeline</a></li>
+        <li><a href="#glossary">Glossary</a></li>
+        <li><a href="#method">How this works</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

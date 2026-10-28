@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ch23-001",
+    "chapter": 23,
+    "page": 718,
+    "title": "Abolish the Export-Import Bank",
+    "proposal": "This section says the Export-Import Bank, which uses taxpayer-backed loans and guarantees to support exports, should be shut down. It argues the Bank mostly helps large, well-financed companies.",
+    "quote": "understanding of what competitiveness is and how it is achieved and maintained. The Bank should be abolished.",
+    "agency": "Export-Import Bank",
+    "kind": "eliminate",
+    "needs": "congress",
+    "topic": "Economy & Trade",
+    "significance": "moderate",
+    "contested": "de Rugy (abolish EXIM) view; Hazelton's section argues for keeping the Bank"
+  },
+  {
+    "id": "ch23-002",
+    "chapter": 23,
+    "page": 724,
+    "title": "Do not reorient the Export-Import Bank to fight China",
+    "proposal": "This section says efforts to turn the Export-Import Bank into a tool for competing with China will fail and should not be used as a reason to keep it.",
+    "quote": "any attempts to reorient the agency and make it a weapon with which to fight against China are going to fail.",
+    "agency": "Export-Import Bank",
+    "kind": "policy-change",
+    "needs": "either",
+    "topic": "Economy & Trade",
+    "significance": "minor",
+    "contested": "de Rugy (abolish EXIM) view; Hazelton's section argues the Bank is needed to counter China"
+  },
+  {
+    "id": "ch23-003",
+    "chapter": 23,
+    "page": 727,
+    "title": "Keep the Export-Import Bank as a tool to counter China",
+    "proposal": "This section says the United States should keep the Export-Import Bank so American companies can compete for overseas deals, especially against China's large export financing.",
+    "quote": "and to relinquish EXIM as a powerful tool in America's asymmetrical warfare toolbox.",
+    "agency": "Export-Import Bank",
+    "kind": "policy-change",
+    "needs": "congress",
+    "topic": "Economy & Trade",
+    "significance": "moderate",
+    "contested": "Hazelton (keep EXIM) view; de Rugy's section says the Bank should be abolished"
+  }
+]

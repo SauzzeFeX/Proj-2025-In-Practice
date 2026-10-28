@@ -1,0 +1,3129 @@
+[
+  {
+    "id": "ch04-001",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 20, 2025, President Trump signed an order giving U.S. Northern Command a mission to secure the southern border and told the Defense Secretary to plan for it. The July 2025 reconciliation law gave the Defense Department $1 billion for border support and counterdrug missions.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive order \"Clarifying the Military's Role in Protecting the Territorial Integrity of the United States.\""
+      },
+      {
+        "date": "2025-07",
+        "event": "Reconciliation law (P.L. 119-21) provides $1 billion for border support and counterdrug missions."
+      }
+    ],
+    "legal": "No court ruling against the military's border support role was found. Separate cases about troop deployments inside U.S. cities are a different issue and are not covered here.",
+    "closeness": "Close: the military is supporting border security, as recommended. The order goes further by making border security a direct military mission for Northern Command, not only support to DHS.",
+    "uncertain": "Troop numbers at the border over time and any court cases about military-controlled border zones were not checked; search tools were limited. Newest source is from July 2025.",
+    "sources": [
+      {
+        "label": "Clarifying the Military's Role in Protecting the Territorial Integrity of the United States",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/clarifying-the-militarys-role-in-protecting-the-territorial-integrity-of-the-united-states/"
+      },
+      {
+        "label": "Defense funding in the 2025 reconciliation law (IN12580)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12580.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-002",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Defense Department released a new National Defense Strategy on January 23, 2026. It lists defending the U.S. homeland as the top priority and deterring China second. According to a CSIS analysis, it does not mention Taiwan.",
+    "key_dates": [
+      {
+        "date": "2026-01-23",
+        "event": "2026 National Defense Strategy released."
+      }
+    ],
+    "closeness": "Partial: China is a main focus, but the strategy puts homeland and Western Hemisphere security first, while the recommendation puts China first. It does not name the defense of Taiwan, which the recommendation stresses.",
+    "uncertain": "A classified 2025 interim guidance reportedly called China the \"sole pacing threat\"; its contents are not public. Budget choices may differ from the written strategy. Newest source is from January 2026.",
+    "sources": [
+      {
+        "label": "2026 National Defense Strategy",
+        "publisher": "U.S. Department of Defense",
+        "type": "government",
+        "url": "https://media.defense.gov/2026/Jan/23/2003864773/-1/-1/0/2026-NATIONAL-DEFENSE-STRATEGY.PDF"
+      },
+      {
+        "label": "The 2026 National Defense Strategy by the Numbers",
+        "publisher": "Center for Strategic and International Studies",
+        "type": "academic",
+        "url": "https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-003",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The January 2026 National Defense Strategy keeps planning for two conflicts but expects allies to carry most of a second one. It ranks deterring China second, after defending the homeland, and does not mention Taiwan, according to a CSIS analysis.",
+    "key_dates": [
+      {
+        "date": "2026-01-23",
+        "event": "2026 National Defense Strategy released."
+      }
+    ],
+    "closeness": "Only the general direction matches. Leaning on allies for a second conflict fits the idea of not sizing U.S. forces for two wars at once, but the strategy does not make defeating an invasion of Taiwan the first planning priority. See ch04-002 and ch04-079.",
+    "uncertain": "Classified planning guidance may say more about Taiwan than the public strategy. Newest source is from January 2026.",
+    "sources": [
+      {
+        "label": "2026 National Defense Strategy",
+        "publisher": "U.S. Department of Defense",
+        "type": "government",
+        "url": "https://media.defense.gov/2026/Jan/23/2003864773/-1/-1/0/2026-NATIONAL-DEFENSE-STRATEGY.PDF"
+      },
+      {
+        "label": "The 2026 National Defense Strategy by the Numbers",
+        "publisher": "Center for Strategic and International Studies",
+        "type": "academic",
+        "url": "https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-004",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The National Defense Strategy released January 23, 2026 makes 'burden-sharing and burden-shifting' to allies a main theme and says Europe should take the lead against Russia. At the June 2025 NATO summit, allies agreed to spend 5% of GDP on defense and related areas by 2035. An April 2025 order on arms sales also names allied burden-sharing as a goal.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "EO 14268 on foreign defense sales lists allied burden-sharing as a goal."
+      },
+      {
+        "date": "2025-06-25",
+        "event": "NATO allies agree to a 5% of GDP spending goal by 2035."
+      },
+      {
+        "date": "2026-01-23",
+        "event": "National Defense Strategy released, stressing burden-shifting to allies."
+      }
+    ],
+    "closeness": "Close match: allied burden-sharing is central to the 2026 strategy, and allies were pressed to spend more. See also ch04-006.",
+    "uncertain": "Whether allies will meet the new spending goals is not yet known. Newest source is from January 2026.",
+    "sources": [
+      {
+        "label": "2026 National Defense Strategy",
+        "publisher": "U.S. Department of Defense",
+        "type": "government",
+        "url": "https://media.defense.gov/2026/Jan/23/2003864773/-1/-1/0/2026-NATIONAL-DEFENSE-STRATEGY.PDF"
+      },
+      {
+        "label": "The 2026 National Defense Strategy by the Numbers",
+        "publisher": "CSIS",
+        "type": "academic",
+        "url": "https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some"
+      },
+      {
+        "label": "The Hague Summit Declaration",
+        "publisher": "NATO",
+        "type": "government",
+        "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/06/25/the-hague-summit-declaration"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-005",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On December 17, 2025, the State Department notified Congress of $11.1 billion in arms sales to Taiwan, and Taiwan's legislature passed a $24.8 billion special budget for U.S. arms in May 2026; after a May 2026 meeting with China's leader, further sales were put under review. Japan moved up its goal of spending 2% of GDP on defense to the year ending March 2026. On October 20, 2025, President Trump said the AUKUS submarine pact with Australia and the United Kingdom would go 'full steam ahead' after a review.",
+    "key_dates": [
+      {
+        "date": "2025-10-20",
+        "event": "Trump backs continuing AUKUS at a White House meeting with Australia's prime minister."
+      },
+      {
+        "date": "2025-12",
+        "event": "Japan approves extra budget to reach 2% of GDP on defense two years early."
+      },
+      {
+        "date": "2025-12-17",
+        "event": "$11.1 billion in Taiwan arms sales notified."
+      },
+      {
+        "date": "2026-05",
+        "event": "Taiwan passes $24.8 billion special arms budget; U.S. sales put under review."
+      }
+    ],
+    "closeness": "Partial: Taiwan and Japan are spending more and AUKUS continues, as the chapter wanted, but further Taiwan sales were paused in 2026 and no formal shared defense model among the four was found.",
+    "uncertain": "Whether the paused Taiwan sales went ahead is not known. Japan's 2% figure counts some defense-related items beyond the core budget. Newest source is from August 2026.",
+    "sources": [
+      {
+        "label": "Taiwan: Defense and Military Issues (IF12481)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12481.html"
+      },
+      {
+        "label": "Japan Poised to Increase Defense Spending to $70 Billion, 2% of its GDP",
+        "publisher": "USNI News",
+        "type": "news",
+        "url": "https://news.usni.org/2025/12/03/japan-poised-to-increase-defense-spending-to-70-billion-2-of-its-gdp"
+      },
+      {
+        "label": "AUKUS 'full steam ahead' after overnight Albanese-Trump call",
+        "publisher": "Baird Maritime",
+        "type": "news",
+        "url": "https://www.bairdmaritime.com/security/naval/naval-submersibles/aukus-full-steam-ahead-after-overnight-albanese-trump-call"
+      },
+      {
+        "label": "The 2026 National Defense Strategy by the Numbers",
+        "publisher": "CSIS",
+        "type": "academic",
+        "url": "https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-006",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "At the June 2025 NATO summit, allies agreed to spend 5% of GDP on defense and related areas by 2035. In October 2025, the Army ended the rotation of a brigade to Romania and nearby countries without replacing it. In May 2026, the Pentagon said it was cutting about 4,000 soldiers and reducing Army brigade combat teams in Europe from four to three, so that allies take \"primary responsibility for Europe's conventional defense.\"",
+    "key_dates": [
+      {
+        "date": "2025-06-25",
+        "event": "NATO allies agree to the 5% spending goal at The Hague."
+      },
+      {
+        "date": "2025-10-29",
+        "event": "Romania says a rotating U.S. brigade will leave and not be replaced."
+      },
+      {
+        "date": "2026-01-23",
+        "event": "National Defense Strategy calls for burden-shifting to European allies."
+      },
+      {
+        "date": "2026-05-19",
+        "event": "Pentagon announces cut from four to three Army brigade combat teams in Europe."
+      }
+    ],
+    "closeness": "Same goal and direction: Europe taking the lead on conventional defense while the U.S. reduces forces. The cuts so far (one rotating brigade and about 4,000 soldiers) are small compared with the roughly 80,000 U.S. troops in Europe.",
+    "uncertain": "Reports in 2026 said larger cuts were being considered, but no final decision on them was found. Exact current troop totals in Europe were not confirmed from an official source. Newest source is from May 2026.",
+    "sources": [
+      {
+        "label": "The Hague Summit Declaration",
+        "publisher": "NATO",
+        "type": "government",
+        "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/06/25/the-hague-summit-declaration"
+      },
+      {
+        "label": "U.S. to withdraw some troops from NATO's eastern flank, Romania says",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcnews.com/world/europe/us-troops-nato-eastern-flank-romania-russia-war-ukraine-rcna240436"
+      },
+      {
+        "label": "US Defense Department Says It Will Cut an Army Brigade in Europe",
+        "publisher": "Bloomberg Government",
+        "type": "news",
+        "url": "https://news.bloomberglaw.com/bloomberg-government-news/vance-says-poland-troop-decision-will-push-europe-to-step-up"
+      },
+      {
+        "label": "The 2026 National Defense Strategy by the Numbers",
+        "publisher": "Center for Strategic and International Studies",
+        "type": "academic",
+        "url": "https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-007",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The January 2026 Defense Strategy calls Israel the 'ideal ally' and urges regional partners to do more. In March and May 2026, during U.S. military operations against Iran, the administration used emergency powers to speed more than $30 billion in munitions and air and missile defense equipment to Israel, Jordan, Kuwait, Qatar and the UAE.",
+    "key_dates": [
+      {
+        "date": "2026-01-23",
+        "event": "Defense Strategy calls Israel the 'ideal ally.'"
+      },
+      {
+        "date": "2026-03-19",
+        "event": "Emergency sales notified to UAE, Kuwait and Jordan, including missile defense radars."
+      },
+      {
+        "date": "2026-05-01",
+        "event": "More emergency sales notified to Israel, Kuwait, Qatar and UAE."
+      }
+    ],
+    "closeness": "Support for Israel continued, and Gulf partners bought more of their own air and missile defenses. But U.S. forces also took a large direct role in regional air defense during the 2026 Iran conflict, which is different from partners handling it themselves.",
+    "uncertain": "Whether Gulf partners will take over their own defenses over time is not known. Newest source is from mid-2026.",
+    "sources": [
+      {
+        "label": "The Arab Gulf States, the Iran Conflict, and U.S. Relations: In Brief (R48971)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48971.html"
+      },
+      {
+        "label": "The 2026 National Defense Strategy by the Numbers",
+        "publisher": "CSIS",
+        "type": "academic",
+        "url": "https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-008",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "The January 2026 Defense Strategy says South Korea should take 'primary responsibility' for its own defense against North Korea, with 'critical but more limited' U.S. support. The allies have a roadmap to hand wartime command of forces to South Korea by early 2029, and South Korea's president pledged to raise defense spending to 3.5% of GDP.",
+    "key_dates": [
+      {
+        "date": "2026-01-23",
+        "event": "Defense Strategy calls for South Korea to take primary responsibility for its defense."
+      }
+    ],
+    "closeness": "Same idea as the recommendation and now official U.S. strategy. The handover of wartime command is planned but not finished.",
+    "uncertain": "The exact date of the wartime command transfer is not final; South Korea is reportedly considering 2028. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "South Korea: Background and U.S. Relations (IF10165)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10165.html"
+      },
+      {
+        "label": "The 2026 National Defense Strategy by the Numbers",
+        "publisher": "CSIS",
+        "type": "academic",
+        "url": "https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-009",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The July 2025 reconciliation law gave about $14.7 billion for nuclear forces. The January 2026 National Defense Strategy fully supports nuclear modernization. The Sentinel missile program has slipped to the early 2030s.",
+    "key_dates": [
+      {
+        "date": "2025-07",
+        "event": "Reconciliation law provides about $14.7 billion for nuclear forces."
+      },
+      {
+        "date": "2026-01-23",
+        "event": "National Defense Strategy backs nuclear modernization."
+      },
+      {
+        "date": "2026-02",
+        "event": "Air Force says Sentinel will reach initial capability in the early 2030s."
+      }
+    ],
+    "closeness": "Modernization continued with extra money, which matches the general direction. I found no confirmed decision to make the nuclear force bigger or to add new theater-level weapons, which is the main point of the recommendation.",
+    "uncertain": "How the $14.7 billion was split among programs, and the status of the sea-launched cruise missile (SLCM-N) and any new nuclear posture review, were not checked. Newest source is from February 2026.",
+    "sources": [
+      {
+        "label": "Defense funding in the 2025 reconciliation law (IN12580)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12580.html"
+      },
+      {
+        "label": "The 2026 National Defense Strategy by the Numbers",
+        "publisher": "Center for Strategic and International Studies",
+        "type": "academic",
+        "url": "https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some"
+      },
+      {
+        "label": "US Air Force sees early 2030s rollout for revamped Sentinel nuclear missile",
+        "publisher": "Defense News",
+        "type": "news",
+        "url": "https://www.defensenews.com/air/2026/02/17/us-air-force-sees-early-2030s-rollout-for-revamped-sentinel-nuclear-missile/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-011",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14265 (April 9, 2025) told the Defense Secretary to prefer commercial products and flexible contracting tools, including Rapid Capabilities Office methods. The July 2025 reconciliation law gave $16 billion to speed new technology and low-cost weapons into production. In 2026, the Space Force reorganized its buying into nine portfolio offices.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "EO 14265 on defense acquisition reform signed."
+      },
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law includes $16 billion for innovation and low-cost weapons."
+      }
+    ],
+    "closeness": "These steps move money and authority toward faster, flexible buying, as recommended. A broad shift of the regular defense budget from program lines to mission-focused innovation groups was not confirmed.",
+    "uncertain": "How much of the regular budget has moved to portfolio or mission-based accounts is not known.",
+    "sources": [
+      {
+        "label": "Executive Order 14265: Modernizing Defense Acquisitions and Spurring Innovation in the Defense Industrial Base",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06461/modernizing-defense-acquisitions-and-spurring-innovation-in-the-defense-industrial-base"
+      },
+      {
+        "label": "SASC/HASC Defense Reconciliation Overview",
+        "publisher": "House Armed Services Committee",
+        "type": "government",
+        "url": "https://armedservices.house.gov/uploadedfiles/obbb_hasc_and_sasc_defense_legislation_summary.pdf"
+      },
+      {
+        "label": "Defense Primer: U.S. Space Force (IF12610)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12610.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-013",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law gave the Defense Department $16 billion in one-time money, outside the regular yearly budget bills, to scale new technology and low-cost weapons into production. Executive Order 14265 (April 2025) also called for faster ways to buy new technology.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law signed with $16 billion for innovation."
+      }
+    ],
+    "closeness": "Money for new technology was provided outside the normal budget cycle, as suggested, but as a one-time law rather than a standing 'fast track' fund.",
+    "uncertain": "Whether Congress created a permanent fund for urgent prototypes was not checked.",
+    "sources": [
+      {
+        "label": "SASC/HASC Defense Reconciliation Overview",
+        "publisher": "House Armed Services Committee",
+        "type": "government",
+        "url": "https://armedservices.house.gov/uploadedfiles/obbb_hasc_and_sasc_defense_legislation_summary.pdf"
+      },
+      {
+        "label": "Executive Order 14265: Modernizing Defense Acquisitions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06461/modernizing-defense-acquisitions-and-spurring-innovation-in-the-defense-industrial-base"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-014",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14265 (April 9, 2025) ordered a review of all major weapons programs within 90 days; any program 15% behind schedule or over cost could be canceled. On April 30, 2025, Defense Secretary Hegseth ordered the Army to cut programs it called obsolete, including AH-64D helicopters, Gray Eagle drones, and extra Humvees and JLTVs.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "EO 14265 orders review of major defense programs for possible cancellation."
+      },
+      {
+        "date": "2025-04-30",
+        "event": "Hegseth memo directs Army to end several older programs."
+      }
+    ],
+    "closeness": "A program review with cancellations happened, as recommended. It was a one-time review ordered by the President, not a yearly 'Night Court' by each under secretary.",
+    "uncertain": "The full list of programs canceled after the review was not found. In May 2026, parts of the Army changes were being reviewed again.",
+    "sources": [
+      {
+        "label": "Executive Order 14265: Modernizing Defense Acquisitions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06461/modernizing-defense-acquisitions-and-spurring-innovation-in-the-defense-industrial-base"
+      },
+      {
+        "label": "2025 Army Transformation Initiative (R48606)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48606.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-016",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The July 2025 reconciliation law gave $25 billion for munitions and the industrial base. U.S. operations against Iran starting in February 2026 used large numbers of interceptors. In June 2026, OMB asked Congress for $21 billion more for munitions, and the Congressional Budget Office said refilling some interceptor stocks would likely take at least five years.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law includes $25 billion for munitions."
+      },
+      {
+        "date": "2026-06-24",
+        "event": "OMB requests $21 billion for munitions in a supplemental request."
+      }
+    ],
+    "closeness": "Money went to rebuilding stockpiles, which matches the goal in general. Spending was not tied specifically to items sent to Ukraine, and the 2026 Iran operations drew stocks down further.",
+    "uncertain": "Whether Congress approved the 2026 supplemental request is not known. Newest source is from October 2026.",
+    "sources": [
+      {
+        "label": "SASC/HASC Defense Reconciliation Overview",
+        "publisher": "House Armed Services Committee",
+        "type": "government",
+        "url": "https://armedservices.house.gov/uploadedfiles/obbb_hasc_and_sasc_defense_legislation_summary.pdf"
+      },
+      {
+        "label": "U.S. Military Operations Against Iran: Munitions and Missile Defense (IN12668)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12668.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-018",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The FY2026 defense law, signed December 18, 2025, expanded multiyear contracting. It authorizes multiyear contracts starting in FY2026 for several munitions, including Standard Missile-3 and -6 and Tomahawk missiles, and for UH-60 Black Hawk helicopters. It also requires the Defense Secretary to ask Congress for multiyear authority for major systems expected to stay in full-rate production for five or more years.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 NDAA (P.L. 119-60) signed with new multiyear procurement authorities."
+      }
+    ],
+    "closeness": "Direct: Congress gave the Defense Department more ability to use multiyear contracts, as the chapter recommended. The law still requires approval system by system rather than a blanket authority.",
+    "uncertain": "Which multiyear contracts have been signed under the new authority was not checked. Earlier defense laws also granted some multiyear authority, so the size of the increase is not measured here.",
+    "sources": [
+      {
+        "label": "Public Law 119-60, National Defense Authorization Act for Fiscal Year 2026 (secs. 112, 128, 804)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-019",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14415 (July 20, 2026) tells the Defense Department to stop granting most waivers, starting January 1, 2027, that let contractors use certain materials from restricted foreign sources. Contractors that still need a waiver must submit a plan to remove those materials from their supply chains.",
+    "key_dates": [
+      {
+        "date": "2026-07-20",
+        "event": "EO 14415 on defense supply chains and domestic acquisition signed."
+      },
+      {
+        "date": "2027-01-01",
+        "event": "Planned end of most waivers under the order."
+      }
+    ],
+    "closeness": "The order tightens a sourcing loophole, which matches the goal. It focuses on materials from adversary countries rather than the Build America, Buy America Act and allied production named in the chapter.",
+    "uncertain": "How the order will be applied is not yet known, since most waivers end in 2027.",
+    "sources": [
+      {
+        "label": "Executive Order 14415: Securing America's Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/23/2026-15003/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-029",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The FY2026 defense law (December 2025) directs the NSA Director to write guidance to protect AI systems from theft or sabotage by foreign governments. It also extends for FY2026 a limit on Defense Department funding for basic research partnerships with certain academic institutions tied to foreign adversaries. No full Defense Department plan to protect technology at universities, industry and labs, with penalties for theft, was found.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 NDAA signed, with AI theft-protection provisions."
+      }
+    ],
+    "closeness": "Broader: the law covers pieces of the issue (AI systems and some university partnerships). The broad, tailored plan the chapter called for was not confirmed.",
+    "uncertain": "Defense Department research security policies issued outside the law were not reviewed in full. Newest source is from December 2025.",
+    "sources": [
+      {
+        "label": "Cyber and Artificial Intelligence Provisions in the FY2026 NDAA (IF13197)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13197.html"
+      },
+      {
+        "label": "Public Law 119-60, National Defense Authorization Act for Fiscal Year 2026 (sec. 215)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-031",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14268 (April 9, 2025) told the State Department to work with Congress to review how arms sales are notified so cases are decided on time, and to propose higher dollar thresholds for notifying Congress. In March and May 2026, the administration used emergency powers to send more than $30 billion in arms to Middle East partners without the normal congressional review.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "EO 14268 orders review of congressional notification processes."
+      },
+      {
+        "date": "2026-03",
+        "event": "Emergency arms sales to Middle East partners skip normal review."
+      }
+    ],
+    "closeness": "The administration sought faster arms sales and less delay from congressional review, as the chapter wanted. No formal end to the informal 'tiered review' practice was found.",
+    "uncertain": "A May 2026 CRS report still describes the informal tiered review as in use and does not report any change to it, so the practice appears to continue. Newest source is from May 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14268: Reforming Foreign Defense Sales To Improve Speed and Accountability",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06464/reforming-foreign-defense-sales-to-improve-speed-and-accountability"
+      },
+      {
+        "label": "Arms Sales: Congressional Review Process (RL31675, May 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-05-13_RL31675_dee6ac8c032b5c442b8338bf2d8e824abfa095e4.html"
+      },
+      {
+        "label": "The Arab Gulf States, the Iran Conflict, and U.S. Relations (R48971)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48971.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-032",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14268 (April 2025) told State and Defense to narrow the U.S. Munitions List to the most sensitive technologies. The State Department then removed items from the list in an August 27, 2025 rule, removed firearm suppressors in July 2026, and removed certain underwater drones in September 2026.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "EO 14268 orders review of the U.S. Munitions List."
+      },
+      {
+        "date": "2025-08-27",
+        "event": "State Department rule makes targeted revisions to the Munitions List."
+      },
+      {
+        "date": "2026-09-18",
+        "event": "State Department removes certain uncrewed underwater vehicles from the list."
+      }
+    ],
+    "closeness": "Export rules were loosened, as recommended, but for all buyers by item, not through special treatment for close allies such as the UK, Canada and Australia.",
+    "uncertain": "Ally-specific export exemptions were not checked.",
+    "sources": [
+      {
+        "label": "ITAR: U.S. Munitions List Targeted Revisions (final rule)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/27/2025-16382/international-traffic-in-arms-regulations-us-munitions-list-targeted-revisions"
+      },
+      {
+        "label": "ITAR: Modification of U.S. Munitions List Category XX(a)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19211/international-traffic-in-arms-regulations-modification-of-us-munitions-list-category-xxa"
+      },
+      {
+        "label": "Executive Order 14268: Reforming Foreign Defense Sales",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06464/reforming-foreign-defense-sales-to-improve-speed-and-accountability"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-035",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No decision to stop using the MHS Genesis records system at military entrance processing stations was found. In 2025, Defense Secretary Hegseth issued memos on medical conditions that disqualify recruits, which is a separate issue.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Two news searches found no change to MHS Genesis use at entrance stations. A pilot program begun in 2024 lets some recruits with conditions found in their records enlist without a waiver, which is a different approach. The 2025 medical-standards memos were seen only in news coverage.",
+    "sources": [
+      {
+        "label": "Pentagon medical conditions memo coverage",
+        "publisher": "Task & Purpose",
+        "type": "news",
+        "url": "https://taskandpurpose.com/news/pentagon-medical-conditions/"
+      },
+      {
+        "label": "Pentagon's medical accession records pilot now covers up to 51 health conditions",
+        "publisher": "Federal News Network",
+        "type": "news",
+        "url": "https://federalnewsnetwork.com/defense-main/2024/10/pentagons-medical-accession-records-pilot-now-covers-up-to-51-health-conditions/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-036",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The defense bill for fiscal 2026 (Public Law 119-60), signed December 18, 2025, requires school districts to give military recruiters campus access equal to that given to employers and colleges, at least one recruiting event a year on request, and student contact lists within 30 days. It does not require students to take the ASVAB military test.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 defense law signed, including Section 531 on recruiter access to high schools."
+      }
+    ],
+    "legal": "No court challenge was found.",
+    "closeness": "Matches the recruiter-access part of the recommendation. The main idea, requiring all students in federally funded schools to take the ASVAB, has not been adopted by federal law or rule; some states, such as Alabama, set their own ASVAB testing days.",
+    "uncertain": "Searches found no federal bill or rule requiring the ASVAB for students. How schools have carried out the new access rules was not checked. Newest source is from December 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-60 (FY2026 National Defense Authorization Act), Sec. 531",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      },
+      {
+        "label": "Kelly, Cornyn Bill to Boost Military Service Recruiting Signed into Law",
+        "publisher": "Office of Sen. Mark Kelly",
+        "type": "government",
+        "url": "https://www.kelly.senate.gov/newsroom/press-releases/kelly-cornyn-bill-to-boost-military-service-recruiting-signed-into-law/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-038",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "In 2026, Defense Secretary Hegseth directed the department to increase the number of Junior ROTC units and gave the personnel under secretary authority to set each service's number of units. Senate Armed Services Chairman Roger Wicker praised the step on May 5, 2026. By law, the department must keep between 3,500 and 4,100 units starting October 1, 2026.",
+    "key_dates": [
+      {
+        "date": "2026-05-05",
+        "event": "Sen. Wicker statement on the Pentagon's JROTC expansion directive."
+      },
+      {
+        "date": "2026-10-01",
+        "event": "Legal range of 3,500 to 4,100 JROTC units takes effect."
+      }
+    ],
+    "closeness": "Same idea as the recommendation. How many new units have opened is not yet known.",
+    "uncertain": "The number of new units and their funding were not confirmed. Newest source is from May 2026.",
+    "sources": [
+      {
+        "label": "Chairman Wicker Commends Pentagon for JROTC Program Expansion",
+        "publisher": "Office of Sen. Roger Wicker",
+        "type": "government",
+        "url": "https://www.wicker.senate.gov/2026/5/chairman-wicker-commends-pentagon-for-junior-reserve-officers-training-corps-program-expansion"
+      },
+      {
+        "label": "Defense Primer: Junior Reserve Officers' Training Corps (IF11313)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11313.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-039",
+    "status": "in-effect-challenged",
+    "match": "partial",
+    "happened": "A January 27, 2025 executive order said people with gender dysphoria do not meet military standards. A February 7, 2025 Defense Department memo paused all new enlistments of people with a history of gender dysphoria. The Supreme Court let the policy take effect on May 6, 2025 while lawsuits continue.",
+    "key_dates": [
+      {
+        "date": "2025-01-27",
+        "event": "Executive Order 14183, \"Prioritizing Military Excellence and Readiness.\""
+      },
+      {
+        "date": "2025-02-07",
+        "event": "Defense memo pauses enlistment of people with a history of gender dysphoria."
+      },
+      {
+        "date": "2025-05-06",
+        "event": "Supreme Court lifts a lower-court block while appeals continue."
+      },
+      {
+        "date": "2026-06-01",
+        "event": "D.C. Circuit ruling in Talbott protects current-member plaintiffs only, not people seeking to enlist."
+      }
+    ],
+    "legal": "The Supreme Court stayed a lower-court injunction on May 6, 2025 (United States v. Shilling, Ninth Circuit case). On June 1, 2026, the D.C. Circuit, 2-1, upheld an injunction against the policy's retention rule for the named plaintiffs in Talbott v. United States; it did not cover people seeking to enlist. The government has asked the Supreme Court to review that ruling (No. 26-272).",
+    "closeness": "Direct for gender dysphoria. I found no matching change for HIV-positive recruits, which the recommendation also names. Related to ch04-040.",
+    "uncertain": "Whether any HIV-related enlistment rules changed was not checked; search tools were limited. Newest source is from October 2026.",
+    "sources": [
+      {
+        "label": "Prioritizing Military Excellence and Readiness (EO 14183)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/prioritizing-military-excellence-and-readiness/"
+      },
+      {
+        "label": "Pentagon bans trans people from joining military, pauses gender transition procedures",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/pentagon-ban-trans-people-joining-military-pauses-gender-transition-pr-rcna191569"
+      },
+      {
+        "label": "Supreme Court allows Trump to implement transgender military service ban",
+        "publisher": "ABC News",
+        "type": "news",
+        "url": "https://abcnews.com/Politics/supreme-court-allows-trump-implement-transgender-military-service/story?id=121528698"
+      },
+      {
+        "label": "Brief of West Virginia and 21 other states, United States v. Talbott, No. 26-272",
+        "publisher": "Supreme Court of the United States (docket filing)",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/DocketPDF/26/26-272/428173/20261001121402190_States%20Amicus%20Talbott.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-040",
+    "status": "partly-blocked",
+    "match": "direct",
+    "happened": "A January 27, 2025 executive order revoked the 2021 order that let transgender people serve, and the Defense Department set up procedures to separate service members with gender dysphoria. The Supreme Court let the policy take effect on May 6, 2025. On June 1, 2026, a divided federal appeals court in Washington, D.C., upheld an order that stops the military from discharging the transgender service members who sued in Talbott v. United States.",
+    "key_dates": [
+      {
+        "date": "2025-01-27",
+        "event": "Executive Order 14183 revokes EO 14004 on transgender service."
+      },
+      {
+        "date": "2025-05-06",
+        "event": "Supreme Court lifts a lower-court block while appeals continue."
+      },
+      {
+        "date": "2026-06-01",
+        "event": "D.C. Circuit, 2-1, upholds a preliminary injunction protecting the Talbott plaintiffs from discharge."
+      },
+      {
+        "date": "2026-10-01",
+        "event": "Twenty-two states file a brief backing the government's Supreme Court petition (No. 26-272)."
+      }
+    ],
+    "legal": "The Supreme Court stayed a nationwide injunction on May 6, 2025 (United States v. Shilling, Ninth Circuit case), allowing discharges to begin. On June 1, 2026, the U.S. Court of Appeals for the D.C. Circuit, 2-1, affirmed Judge Ana Reyes's March 2025 preliminary injunction against the policy's retention rule, as applied to the named plaintiffs. The government has asked the Supreme Court to review the ruling (No. 26-272).",
+    "closeness": "Direct: the order reverses the policy allowing transgender service and calls for removal, as recommended. The Pentagon estimated more than 4,200 active members had a gender dysphoria diagnosis. Related to ch04-039.",
+    "uncertain": "Advocacy groups say the district court later certified a class covering all transgender service members; how that works alongside the appeal was not confirmed from a court record. Whether the Supreme Court has acted on the petition, and how many members were separated, are not known. Newest source is from October 2026.",
+    "sources": [
+      {
+        "label": "Prioritizing Military Excellence and Readiness (EO 14183)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/prioritizing-military-excellence-and-readiness/"
+      },
+      {
+        "label": "Supreme Court allows Trump to implement transgender military service ban",
+        "publisher": "ABC News",
+        "type": "news",
+        "url": "https://abcnews.com/Politics/supreme-court-allows-trump-implement-transgender-military-service/story?id=121528698"
+      },
+      {
+        "label": "Brief of West Virginia and 21 other states, United States v. Talbott, No. 26-272",
+        "publisher": "Supreme Court of the United States (docket filing)",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/DocketPDF/26/26-272/428173/20261001121402190_States%20Amicus%20Talbott.pdf"
+      },
+      {
+        "label": "Federal appellate court blocks Trump's military ban, stopping discharge of transgender service members (NCLR and GLAD Law press release)",
+        "publisher": "Windy City Times",
+        "type": "advocacy",
+        "url": "https://windycitytimes.com/2026/06/01/federal-appellate-court-blocks-trumps-military-ban-stopping-discharge-of-transgender-service-members/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-041",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On March 31, 2025, Defense Secretary Hegseth ordered sex-neutral fitness standards for combat jobs. After a September 30, 2025 speech, a new Pentagon memo said combat units must meet a male standard on fitness tests. Non-combat jobs keep tests that differ by sex and age, plus a combat readiness test.",
+    "key_dates": [
+      {
+        "date": "2025-03-31",
+        "event": "Hegseth memo orders sex-neutral standards for combat arms jobs."
+      },
+      {
+        "date": "2025-09-30",
+        "event": "New fitness guidance after Hegseth's Quantico speech."
+      }
+    ],
+    "closeness": "Combat jobs now use one standard regardless of sex, as recommended. Non-combat jobs still use sex-normed tests, so the change is narrower than the chapter's call for job-based standards everywhere.",
+    "uncertain": "Whether the services have fully put the new standards in place was not confirmed. Newest source is from September 2025.",
+    "sources": [
+      {
+        "label": "Pentagon Issues New Guidance on Physical Fitness, Grooming Standards Following Quantico Speech",
+        "publisher": "USNI News",
+        "type": "news",
+        "url": "https://news.usni.org/2025/09/30/pentagon-issues-new-guidance-on-physical-fitness-grooming-standards-following-quantico-speech"
+      },
+      {
+        "label": "Hegseth orders fitness standards to be gender neutral for combat jobs (AP)",
+        "publisher": "News4JAX / Associated Press",
+        "type": "news",
+        "url": "https://www.news4jax.com/news/politics/2025/03/31/hegseth-orders-fitness-standards-to-be-gender-neutral-for-combat-jobs-many-already-are/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-043",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law was found that tells three- and four-star officers their main duty is military readiness. The FY2026 defense law added a rule that the President must tell Congress within five days, with a reason, when a Joint Chiefs member or combatant commander is removed.",
+    "closeness": "The recommended law was not passed. The FY2026 provision deals with removals, not officers' main duty.",
+    "uncertain": "Bills introduced but not passed were not checked. Newest source is from May 2026.",
+    "sources": [
+      {
+        "label": "Statutory Framework for Congressional Management of DOD General and Flag Officers (R44389)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44389.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-044",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 27, 2025, President Trump signed Executive Order 14184. It made reinstatement available to service members discharged only for refusing the COVID-19 vaccine, with their former rank, full back pay and benefits. Those who left voluntarily rather than be vaccinated could also return.",
+    "key_dates": [
+      {
+        "date": "2025-01-27",
+        "event": "EO 14184 signed."
+      }
+    ],
+    "closeness": "Direct match: reinstatement with rank and back pay, as recommended.",
+    "uncertain": "How many former service members asked to return and were reinstated was not found.",
+    "sources": [
+      {
+        "label": "Executive Order 14184: Reinstating Service Members Discharged Under the Military's COVID-19 Vaccination Mandate",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02180/reinstating-service-members-discharged-under-the-militarys-covid-19-vaccination-mandate"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-045",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 27, 2025, President Trump signed an order telling the Defense Secretary to abolish every diversity, equity, and inclusion (DEI) office in the department. It also barred the military and its schools from promoting \"divisive concepts\" or race or sex stereotyping, and ordered a review of the service academies.",
+    "key_dates": [
+      {
+        "date": "2025-01-27",
+        "event": "Executive Order \"Restoring America's Fighting Force\" signed."
+      }
+    ],
+    "legal": "No court ruling blocking the DEI-office part of this order was found.",
+    "closeness": "Very close: DEI offices were ordered abolished and the listed teachings barred, as recommended. The order also covers the Coast Guard and the service academies.",
+    "uncertain": "How fully each service carried out the order, and any lawsuits about academy curricula, were not checked. Source is the order text from January 2025.",
+    "sources": [
+      {
+        "label": "Restoring America's Fighting Force",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-americas-fighting-force/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-047",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On September 29, 2026, Defense Secretary Hegseth ordered the service academies to stop giving tenure to newly hired civilian faculty. The memo does not say current tenured professors lose tenure. CBS News reported an earlier review of every course at the academies and war colleges, but no results have been released.",
+    "key_dates": [
+      {
+        "date": "2025-01-27",
+        "event": "EO 14185 bans promoting 'divisive concepts' at military schools."
+      },
+      {
+        "date": "2026-09-29",
+        "event": "Hegseth memo ends new tenure appointments for civilian academy faculty."
+      }
+    ],
+    "closeness": "Tenure is being phased out for new hires, close to the recommendation. A course audit was reported but not made public, and existing tenure was not removed.",
+    "uncertain": "Results of the course review are not public. What will replace tenure for new hires is not stated. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "Hegseth halts tenure appointments for civilian faculty at military academies",
+        "publisher": "Military Times",
+        "type": "news",
+        "url": "https://militarytimes.com/news/pentagon-congress/2026/09/29/hegseth-halts-tenure-appointments-for-civilian-faculty-at-military-academies"
+      },
+      {
+        "label": "Military academies won't give tenure to civilian faculty, Hegseth says (AP)",
+        "publisher": "News4JAX / Associated Press",
+        "type": "news",
+        "url": "https://www.news4jax.com/news/politics/2026/09/29/military-academies-wont-give-tenure-to-civilian-faculty-hegseth-says/"
+      },
+      {
+        "label": "Executive Order 14185: Restoring America's Fighting Force",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02181/restoring-americas-fighting-force"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-048",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 24, 2025, President Trump signed an order enforcing the Hyde Amendment's limits on federal abortion funding. On January 30-31, 2025, the Defense Department rescinded its policy of paying travel costs and giving leave for service members to get abortions out of state; a February 4 memo restored travel pay for fertility care only. A February 7, 2025 memo paused gender transition procedures for service members.",
+    "key_dates": [
+      {
+        "date": "2025-01-24",
+        "event": "Executive Order 14182, \"Enforcing the Hyde Amendment.\""
+      },
+      {
+        "date": "2025-01-31",
+        "event": "Pentagon memo rescinds the abortion travel policy, citing EO 14182."
+      },
+      {
+        "date": "2025-02-07",
+        "event": "Defense memo pauses gender transition procedures for service members."
+      }
+    ],
+    "legal": "The transition-procedure pause is part of the policy the Supreme Court let take effect on May 6, 2025 (see ch04-040).",
+    "closeness": "Close for both parts: the Pentagon stopped paying travel for abortions and paused transition procedures. Federal law already barred military funding of most abortions themselves.",
+    "uncertain": "Whether the transition-procedure pause later became a permanent written ban was not separately checked. Newest source is from May 2025.",
+    "sources": [
+      {
+        "label": "Pentagon ends paying for travel for abortion and other reproductive care",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcnews.com/politics/national-security/pentagon-ends-policy-funding-travel-abortions-care-rcna190198"
+      },
+      {
+        "label": "Defense Department dumps travel policy for troops seeking abortions",
+        "publisher": "Military Times",
+        "type": "news",
+        "url": "https://www.militarytimes.com/news/pentagon-congress/2025/01/31/defense-department-dumps-travel-policy-for-troops-seeking-abortions/"
+      },
+      {
+        "label": "Pentagon bans trans people from joining military, pauses gender transition procedures",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/pentagon-ban-trans-people-joining-military-pauses-gender-transition-pr-rcna191569"
+      },
+      {
+        "label": "Enforcing the Hyde Amendment (EO 14182)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02175/enforcing-the-hyde-amendment"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-049",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "All troops received a 3.8% pay raise on January 1, 2026. The July 2025 reconciliation law gave about $9 billion for service member quality of life, including higher allowances and special pays. The President's FY2027 budget asks for a larger raise for junior enlisted troops (7% for E-1 to E-5); Congress had not finished acting on it.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law includes about $9 billion for quality of life."
+      },
+      {
+        "date": "2026-01-01",
+        "event": "3.8% military pay raise takes effect."
+      }
+    ],
+    "closeness": "Pay and allowances went up, in line with the goal. Whether any enlisted families still need food or housing aid was not checked, and the larger targeted raise is still pending.",
+    "uncertain": "The final FY2027 pay raise is not known; the Senate committee bill provides 3.6%. Data on food aid use by troops was not found.",
+    "sources": [
+      {
+        "label": "FY2027 NDAA: Military Basic Pay Raise Proposal (IN12706)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12706.html"
+      },
+      {
+        "label": "SASC/HASC Defense Reconciliation Overview",
+        "publisher": "House Armed Services Committee",
+        "type": "government",
+        "url": "https://armedservices.house.gov/uploadedfiles/obbb_hasc_and_sasc_defense_legislation_summary.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-052",
+    "status": "partly-blocked",
+    "match": "partial",
+    "happened": "Executive Order 14190 (January 29, 2025) targeted 'radical indoctrination' in K-12 schools, and Defense Department schools (DoDEA) then pulled books and lessons for review; a court-ordered list showed 596 titles under review. On October 20, 2025, a federal judge ordered the removed books and materials restored at five schools attended by the students who sued.",
+    "key_dates": [
+      {
+        "date": "2025-01-29",
+        "event": "EO 14190 on K-12 schooling signed."
+      },
+      {
+        "date": "2025-10-20",
+        "event": "Federal court orders books restored at five DoDEA schools."
+      }
+    ],
+    "legal": "U.S. District Court for the Eastern District of Virginia (Judge Patricia Tolliver Giles) granted a preliminary injunction on October 20, 2025, in an ACLU lawsuit (E.K. v. DoDEA), requiring DoDEA to restore removed library books and curricular materials at five schools. The government appealed to the Fourth Circuit, and the students cross-appealed; briefing was under way in mid-2026 and no appeals ruling was found.",
+    "closeness": "DoDEA reviewed and removed materials, as recommended, but a court blocked part of the removals. Changes to health policies in DoDEA schools were not checked.",
+    "uncertain": "No Fourth Circuit ruling or argument date was found as of mid-2026. DoDEA health policy changes were not checked.",
+    "sources": [
+      {
+        "label": "Judge orders immediate return of books removed from 5 DOD schools",
+        "publisher": "Military Times",
+        "type": "news",
+        "url": "https://www.militarytimes.com/news/your-military/2025/10/22/judge-orders-immediate-return-of-books-removed-from-5-dod-schools/"
+      },
+      {
+        "label": "Case: E.K. v. Department of Defense Education Activity (docket summary)",
+        "publisher": "Civil Rights Litigation Clearinghouse (University of Michigan)",
+        "type": "academic",
+        "url": "https://clearinghouse.net/case/46415/"
+      },
+      {
+        "label": "Amicus brief in E.K. v. DoDEA, Fourth Circuit (June 3, 2026)",
+        "publisher": "Lawyers' Committee for Civil Rights Under Law",
+        "type": "advocacy",
+        "url": "https://www.lawyerscommittee.org/wp-content/uploads/2026/06/EK-v.-DODEA-amicus-LCCRUL-NEA-et-al.6.3.26-Final-1.pdf"
+      },
+      {
+        "label": "Executive Order 14190: Ending Radical Indoctrination in K-12 Schooling",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02232/ending-radical-indoctrination-in-k-12-schooling"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-053",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law creating education savings accounts for military families was found. The July 2025 reconciliation law created a federal tax credit for gifts to scholarship groups, open to all eligible families, which is a broader and different tool.",
+    "closeness": "No matching law was found. The reconciliation law's scholarship tax credit is a general school choice measure, not military family education savings accounts.",
+    "uncertain": "Searched all laws passed by the 119th Congress (through October 2026), including the reconciliation law and the FY2026 defense law, plus CRS defense reports. Bills that were introduced but not passed were not checked.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (July 2025 reconciliation law), sec. 70411",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-054",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On May 5, 2025, Defense Secretary Hegseth ordered at least a 20% cut in active-duty four-star positions, a 20% cut in National Guard generals, and at least 10% more cuts to general and flag officers overall. As of September 30, 2025, there were 848 active-duty generals and admirals, against a legal maximum of 857.",
+    "key_dates": [
+      {
+        "date": "2025-05-05",
+        "event": "Hegseth memo orders cuts to general and flag officer positions."
+      }
+    ],
+    "closeness": "The number of generals is being cut, as recommended. The chapter's idea of the President limiting further promotions of particular officers was not confirmed as a policy. See also ch02-027.",
+    "uncertain": "Which positions were cut and whether the targets were met is not public. Newest source is from May 2026.",
+    "sources": [
+      {
+        "label": "Statutory Framework for Congressional Management of DOD General and Flag Officers (R44389)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44389.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-055",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change was found giving the Under Secretary of Defense for Intelligence and Security a formal role in providing top-line or dissenting views on intelligence assessments.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Checked a CRS defense intelligence primer (updated September 2026), which describes the position's dual role but no new duties. No web search was possible for this item.",
+    "sources": [
+      {
+        "label": "Defense Primer: National and Defense Intelligence (IF10525)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10525.html"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Only a CRS primer was checked; needs a news search for any 2025-2026 directive giving the USD(I&S) a role in top-line or dissenting intelligence views."
+  },
+  {
+    "id": "ch04-058",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The NSA and Cyber Command still share one leader. In December 2025, President Trump nominated Joshua Rudd for both jobs. At his January 2026 hearing, Rudd said he would assess the arrangement, and reports said the administration's internal position was to keep it.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "Joshua Rudd nominated to lead both NSA and Cyber Command."
+      },
+      {
+        "date": "2026-01-15",
+        "event": "Rudd confirmation hearing; says he will assess the dual-hat."
+      }
+    ],
+    "closeness": "The two organizations were not separated. Congress's armed services committees oppose a split, and the law requires certifications before one can happen.",
+    "uncertain": "Whether Rudd was confirmed, and any later review results, were not confirmed. Newest source is from January 2026.",
+    "sources": [
+      {
+        "label": "Joshua Rudd tapped as Cyber Command and NSA director",
+        "publisher": "DefenseScoop",
+        "type": "news",
+        "url": "https://defensescoop.com/2025/12/18/joshua-rudd-cyber-command-nsa-director-trump-nominee/"
+      },
+      {
+        "label": "Gen. Rudd on the Cybercom-NSA dual-hat at confirmation hearing",
+        "publisher": "DefenseScoop",
+        "type": "news",
+        "url": "https://defensescoop.com/2026/01/15/gen-rudd-cybercom-nsa-dual-hat-cyber-force/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-060",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No specific step was found aligning Defense Department and DHS intelligence work on critical infrastructure and the border. The military's border mission is covered in ch04-001.",
+    "closeness": "The military took on a larger border role (ch04-001), but no intelligence alignment between DOD and DHS was confirmed.",
+    "uncertain": "Searched existing project research and CRS intelligence reports; no web search was possible for this item. Such coordination may be classified.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only project research and CRS reports were checked; needs a news search for DOD-DHS intelligence coordination on the border or infrastructure in 2025-2026."
+  },
+  {
+    "id": "ch04-061",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new procedures were found guaranteeing independent intelligence analysis or ending a 'customer is always right' model in defense intelligence.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Checked a CRS defense intelligence primer, which restates the existing duty to keep analysis independent of politics, and existing project research. No web search was possible for this item.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only a CRS primer was checked; needs a news search for 2025-2026 changes to defense intelligence analytic standards or independence rules."
+  },
+  {
+    "id": "ch04-063",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Background investigations for civilian federal workers stayed with the Defense Counterintelligence and Security Agency (DCSA). A June 2026 OPM notice says OPM has transferred the background investigation mission and its records to DCSA and now keeps only its suitability decision files.",
+    "key_dates": [
+      {
+        "date": "2026-06-26",
+        "event": "OPM notice confirms investigations and records are held by DCSA."
+      }
+    ],
+    "closeness": "The opposite of the recommendation is in place: civilian investigations remain at DOD's DCSA, not OPM.",
+    "uncertain": "No pending plan to move investigations back to OPM was found. Newest source is from June 2026.",
+    "sources": [
+      {
+        "label": "Privacy Act of 1974; System of Records (OPM/Central-9 renamed OPM Suitability Adjudications Files)",
+        "publisher": "Federal Register (OPM)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12974/privacy-act-of-1974-system-of-records"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-064",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The July 2025 reconciliation law added $16 billion for military readiness across the services, including training and spare parts. The Army's FY2027 budget request totals $252.8 billion, including $37.7 billion it expects from a new reconciliation bill.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law includes $16 billion for readiness."
+      }
+    ],
+    "closeness": "More money went to readiness, but this research did not confirm a lasting increase in the Army's own budget compared with earlier years.",
+    "uncertain": "Army budget totals for FY2025 and FY2026 were not compared. The FY2027 amount is only a request.",
+    "sources": [
+      {
+        "label": "2025 Army Transformation Initiative (R48606)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48606.html"
+      },
+      {
+        "label": "SASC/HASC Defense Reconciliation Overview",
+        "publisher": "House Armed Services Committee",
+        "type": "government",
+        "url": "https://armedservices.house.gov/uploadedfiles/obbb_hasc_and_sasc_defense_legislation_summary.pdf"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Needs enacted Army budget totals for FY2024-FY2026 to confirm the Army budget grew; only the reconciliation readiness money and the FY2027 request are sourced."
+  },
+  {
+    "id": "ch04-065",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Army Transformation Initiative, launched May 1, 2025, set goals to field long-range missiles by 2027, drones in every division by the end of 2026, and counter-drone systems by 2026-2027. It also prioritizes the M1E3 tank, the FLRAA aircraft, and air defense battalions. Congress authorized 299 Precision Strike Missiles for FY2026.",
+    "key_dates": [
+      {
+        "date": "2025-04-30",
+        "event": "Hegseth memo on Army transformation."
+      },
+      {
+        "date": "2025-05-01",
+        "event": "Army launches the Transformation Initiative."
+      }
+    ],
+    "closeness": "Several of the chapter's modernization priorities, such as long-range fires and air and missile defense, were sped up. The Army's list changed somewhat from the original six priorities, and some programs were cut.",
+    "uncertain": "Whether the 2027 fielding dates will be met is not known. Parts of the initiative were being reviewed again in May 2026.",
+    "sources": [
+      {
+        "label": "2025 Army Transformation Initiative (R48606)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48606.html"
+      },
+      {
+        "label": "FY2026 Defense Budget: Funding for Selected Weapon Systems (R48860)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48860.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-066",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No decision to grow the Army's force structure by 50,000 soldiers was found.",
+    "closeness": "No matching action found.",
+    "uncertain": "Search tools were limited during this research, so I could not check Army end-strength numbers in recent defense laws or the Army's 2025 restructuring plans. This finding should be re-checked.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-067",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law gave $25 billion for munitions and $16 billion for readiness, including more spare parts. For FY2027, the Army asked for $11.4 billion for THAAD interceptors and $12.2 billion for PAC-3 MSE missiles, and the Defense Department asked for about $95 billion in missile procurement to rebuild stocks after the 2026 Iran operations.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law funds munitions and spare parts."
+      },
+      {
+        "date": "2026",
+        "event": "FY2027 request nearly triples missile procurement."
+      }
+    ],
+    "closeness": "Funding for munitions and parts rose, as recommended. Stockpiles were also heavily used in 2026, and CBO says refilling some interceptors will take years.",
+    "uncertain": "Actual production increases and final FY2027 funding are not yet known.",
+    "sources": [
+      {
+        "label": "The U.S. Army and the Golden Dome Program (IF13264)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13264.html"
+      },
+      {
+        "label": "U.S. Military Operations Against Iran: Munitions and Missile Defense (IN12668)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12668.html"
+      },
+      {
+        "label": "SASC/HASC Defense Reconciliation Overview",
+        "publisher": "House Armed Services Committee",
+        "type": "government",
+        "url": "https://armedservices.house.gov/uploadedfiles/obbb_hasc_and_sasc_defense_legislation_summary.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-069",
+    "status": "in-effect",
+    "match": "broader",
+    "happened": "Orders in January 2025 abolished diversity, equity and inclusion offices across the Defense Department (EO 14185) and barred people with gender dysphoria from service (EO 14183). In 2025, Defense Secretary Hegseth also changed fitness and grooming standards, saying the focus should be on warfighting.",
+    "key_dates": [
+      {
+        "date": "2025-01-27",
+        "event": "EO 14185 and EO 14183 signed."
+      },
+      {
+        "date": "2025-09-30",
+        "event": "New fitness and grooming guidance follows Hegseth speech."
+      }
+    ],
+    "closeness": "These department-wide actions match the general direction of the recommendation for the Army, but they were not Army-specific. See ch04-039, ch04-040, ch04-041 and ch04-045.",
+    "uncertain": "The policy on transgender service is still in court (see ch04-040).",
+    "sources": [
+      {
+        "label": "Executive Order 14185: Restoring America's Fighting Force",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02181/restoring-americas-fighting-force"
+      },
+      {
+        "label": "Executive Order 14183: Prioritizing Military Excellence and Readiness",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02178/prioritizing-military-excellence-and-readiness"
+      },
+      {
+        "label": "Pentagon Issues New Guidance on Physical Fitness, Grooming Standards Following Quantico Speech",
+        "publisher": "USNI News",
+        "type": "news",
+        "url": "https://news.usni.org/2025/09/30/pentagon-issues-new-guidance-on-physical-fitness-grooming-standards-following-quantico-speech"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-070",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No policy change was found to avoid sending the same National Guard soldiers on back-to-back federal and state deployments.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Searched existing project research and CRS defense reports (including one on reserve duty statuses); no web search was possible for this item.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only project research and CRS reports were checked; needs a news search for 2025-2026 National Guard dwell-time or deployment policy changes."
+  },
+  {
+    "id": "ch04-073",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The July 2025 reconciliation law gave about $29.2 billion for shipbuilding. On December 22, 2025, President Trump announced a \"Golden Fleet\" with a new class of large battleships, and a May 2026 Navy plan calls for at least 15 of them by 2055. The Navy had 291 ships in May 2026 and expected 299 by 2031, below its own 355-ship requirement.",
+    "key_dates": [
+      {
+        "date": "2025-07",
+        "event": "Reconciliation law provides about $29.2 billion for shipbuilding."
+      },
+      {
+        "date": "2025-12-22",
+        "event": "President announces the Golden Fleet and a new battleship class."
+      },
+      {
+        "date": "2026-05-11",
+        "event": "Navy shipbuilding plan includes 15 battleships by 2055."
+      }
+    ],
+    "closeness": "Same direction (more money and new ships), and the Navy still lists 355 ships as its requirement, but the fleet is projected to stay well under that number for years. The recommendation's focus on unmanned systems was not checked.",
+    "uncertain": "Fleet numbers come from a news report, not the Navy plan itself. Plans for unmanned ships and CBO's review of the 2026 plan were not checked. Newest source is from May 2026.",
+    "sources": [
+      {
+        "label": "Defense funding in the 2025 reconciliation law (IN12580)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12580.html"
+      },
+      {
+        "label": "President Trump announces new battleship",
+        "publisher": "U.S. Navy",
+        "type": "government",
+        "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4366856/president-trump-announces-new-battleship/"
+      },
+      {
+        "label": "Navy plans 15 Trump-class battleships by 2055",
+        "publisher": "Fortune",
+        "type": "news",
+        "url": "https://fortune.com/2026/05/11/navy-shipbuilding-budget-long-term-acquisition-15-trump-class-battleships-2055/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-075",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No action to recreate the Navy General Board was found.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Two web searches and a review of CRS defense reports found no plan to recreate the General Board. Navy leadership changed in April 2026, when Secretary John Phelan was removed. Newest source checked is from April 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-076",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On August 19, 2025, Navy Secretary John Phelan created a Naval Rapid Capabilities Office. Its director reports directly to the Navy Secretary, and it is meant to field urgent solutions within three years. It took over several earlier Navy fast-buying efforts, including NavalX and the Disruptive Capabilities Office.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "EO 14265 tells the Defense Department to use rapid capabilities office methods more widely."
+      },
+      {
+        "date": "2025-08-19",
+        "event": "Navy Secretary's memo creates the Naval Rapid Capabilities Office."
+      }
+    ],
+    "closeness": "Partial: the Navy created a rapid capabilities office to field technology quickly, as recommended. Reports do not describe it as modeled on the Space Development Agency or name a senior oversight board.",
+    "uncertain": "How the office is overseen, and how much it has fielded, was not confirmed. A later Navy release refers to a 'Department of the Navy Rapid Capabilities Office'; it may be the same office. Newest source is from 2026.",
+    "sources": [
+      {
+        "label": "Phelan establishes new Naval Rapid Capabilities Office",
+        "publisher": "Defense News",
+        "type": "news",
+        "url": "https://www.defensenews.com/news/your-navy/2025/08/26/phelan-establishes-new-naval-rapid-capabilities-office/"
+      },
+      {
+        "label": "DONRCO establishes National Security Plug and Play Consortium for rapid acquisition of advanced technologies",
+        "publisher": "U.S. Navy",
+        "type": "government",
+        "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4568863/donrco-establishes-national-security-plug-and-play-consortium-for-rapid-acquisi/"
+      },
+      {
+        "label": "Executive Order 14265: Modernizing Defense Acquisitions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06461/modernizing-defense-acquisitions-and-spurring-innovation-in-the-defense-industrial-base"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-077",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law gave $25 billion for munitions and industrial capacity. Its spending plan funds 111 SM-6 missiles and 16 SM-3 interceptors for the Navy, on top of regular FY2026 funding. In January 2026, Executive Order 14372 told the Defense Department to press underperforming contractors to speed production.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law includes $25 billion for munitions."
+      },
+      {
+        "date": "2026-01-07",
+        "event": "EO 14372 on contractor performance and production speed signed."
+      }
+    ],
+    "closeness": "Naval munitions buying increased, but this research did not confirm that production reached its maximum rate.",
+    "uncertain": "Actual production rates for naval munitions were not found.",
+    "sources": [
+      {
+        "label": "FY2026 Defense Budget: Funding for Selected Weapon Systems (R48860)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48860.html"
+      },
+      {
+        "label": "Executive Order 14372: Prioritizing the Warfighter in Defense Contracting",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/13/2026-00554/prioritizing-the-warfighter-in-defense-contracting"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-079",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The January 2026 National Defense Strategy keeps a two-conflict planning idea, but expects allies to handle most of a second conflict. CSIS calls this \"one plus\" planning. The strategy does not discuss force size or structure.",
+    "key_dates": [
+      {
+        "date": "2026-01-23",
+        "event": "2026 National Defense Strategy released."
+      }
+    ],
+    "closeness": "Partial: the strategy plans for two conflicts but not for U.S. forces to fight both alone, and it gives no service-by-service scenarios like those the recommendation asks for to size the Air Force. See ch04-003.",
+    "uncertain": "Classified planning scenarios may differ from the public strategy. Newest source is from January 2026.",
+    "sources": [
+      {
+        "label": "2026 National Defense Strategy",
+        "publisher": "U.S. Department of Defense",
+        "type": "government",
+        "url": "https://media.defense.gov/2026/Jan/23/2003864773/-1/-1/0/2026-NATIONAL-DEFENSE-STRATEGY.PDF"
+      },
+      {
+        "label": "The 2026 National Defense Strategy by the Numbers",
+        "publisher": "Center for Strategic and International Studies",
+        "type": "academic",
+        "url": "https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-080",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change removing 'pass-through' funding from the Air Force budget was found.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Searched existing project research and CRS defense budget reports; no web search was possible for this item.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only project research and CRS reports were checked; needs FY2026-FY2027 Air Force budget documents to see whether pass-through funding changed."
+  },
+  {
+    "id": "ch04-081",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No commitment to raise the Air Force budget by 5% a year above inflation was found.",
+    "closeness": "No matching action found. The July 2025 reconciliation law added defense money, including about $8.6 billion for air superiority, but that is a one-time addition, not a yearly growth rule, and is not all for the Air Force.",
+    "uncertain": "Search tools were limited during this research, so I could not compare Air Force budgets year over year after inflation. This finding should be re-checked.",
+    "sources": [
+      {
+        "label": "Defense funding in the 2025 reconciliation law (IN12580)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12580.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-082",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The FY2026 budget asked for 47 F-35As, and the FY2027 request asks for 38 F-35s in total, below the chapter's 60 to 80 a year. For the B-21 bomber, the reconciliation law's spending plan put about $4.5 billion toward the program, and in 2026 the Air Force and Northrop Grumman announced plans to expand production capacity.",
+    "key_dates": [
+      {
+        "date": "2026",
+        "event": "Air Force and Northrop Grumman announce plans to expand B-21 production capacity."
+      }
+    ],
+    "closeness": "B-21 production capacity is growing, in line with the goal, but no target of 15 to 18 bombers a year was found. F-35A buys stayed well below 60 to 80 a year.",
+    "uncertain": "The planned B-21 yearly production rate is not public. CRS figures for FY2027 F-35 numbers vary between sources.",
+    "sources": [
+      {
+        "label": "FY2026 Defense Budget: Funding for Selected Weapon Systems (R48860)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48860.html"
+      },
+      {
+        "label": "Air Force Fighter Force Structure (R49338)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49338.html"
+      },
+      {
+        "label": "U.S. Strategic Bombers (IF12945)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12945.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-085",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law included money for Sentinel, including $1.5 billion for risk reduction, according to a defense trade report. But after large cost overruns, the Air Force said in February 2026 that the restructured Sentinel missile would reach initial capability only in the early 2030s, and it needs new silos.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law adds Sentinel funding."
+      },
+      {
+        "date": "2026-02-17",
+        "event": "Air Force says restructured Sentinel will roll out in the early 2030s."
+      }
+    ],
+    "closeness": "Extra money was provided, but the program was delayed rather than accelerated. Same program as ch04-120.",
+    "uncertain": "The exact Sentinel amount in the reconciliation law comes from a trade publication summary. Newest source is from February 2026.",
+    "sources": [
+      {
+        "label": "US Air Force sees early 2030s rollout for revamped Sentinel nuclear missile",
+        "publisher": "Defense News",
+        "type": "news",
+        "url": "https://www.defensenews.com/air/2026/02/17/us-air-force-sees-early-2030s-rollout-for-revamped-sentinel-nuclear-missile/"
+      },
+      {
+        "label": "Defense reconciliation includes $1.5 billion for Sentinel risk reduction",
+        "publisher": "Defense Daily",
+        "type": "news",
+        "url": "https://www.defensedaily.com/congress-defense-reconciliation-includes-1-5-billion-for-sentinel-risk-reduction/uncategorized/"
+      },
+      {
+        "label": "FY2026 Defense Budget: Funding for Selected Weapon Systems (R48860)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48860.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-087",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Air Force chose Boeing to build the F-47 sixth-generation fighter (its next-generation air dominance system). Congress provided about $3.1 billion for it in the FY2026 funding law, and the FY2027 request includes $5 billion for development. Congress also funded the E-7 airborne radar plane at about $1.1 billion for FY2026.",
+    "key_dates": [
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 defense appropriations law funds the F-47 and E-7."
+      }
+    ],
+    "closeness": "The next-generation fighter is moving forward, as recommended. Progress on the advanced battle management system, moving-target strike, and resilient bases was not checked.",
+    "uncertain": "The status of the battle management system and base hardening was not checked. F-47 quantities and schedule are classified.",
+    "sources": [
+      {
+        "label": "FY2026 Defense Budget: Funding for Selected Weapon Systems (R48860)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48860.html"
+      },
+      {
+        "label": "Air Force Fighter Force Structure (R49338)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49338.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-089",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The Marine Corps eliminated its law enforcement battalions under its Force Design plan, which began in 2020. The 2nd Law Enforcement Battalion was scheduled to deactivate in October 2020, and the 3rd Law Enforcement Battalion held its deactivation ceremony on Okinawa on October 1, 2021. A November 2025 CRS report lists eliminating all law enforcement battalions as part of the plan.",
+    "key_dates": [
+      {
+        "date": "2020-03-23",
+        "event": "Force Design plan, including ending law enforcement battalions, announced."
+      },
+      {
+        "date": "2021-10-01",
+        "event": "3rd Law Enforcement Battalion deactivated on Okinawa."
+      }
+    ],
+    "closeness": "Same idea as the recommendation. It was carried out under the Marine Corps' 2020 Force Design plan, before the 2025 change in administration, not as a new action.",
+    "uncertain": "The deactivation date of the 1st Law Enforcement Battalion was not confirmed from an official source; one encyclopedia entry says all three were deactivated. Newest source is from November 2025.",
+    "sources": [
+      {
+        "label": "3rd Law Enforcement Battalion deactivation (video, October 2021)",
+        "publisher": "U.S. Marine Corps (Marines TV)",
+        "type": "government",
+        "url": "https://www.marines.mil/News/Marines-TV/videoid/816643/"
+      },
+      {
+        "label": "U.S. Marine Corps Force Design Initiative: Background and Issues for Congress (R47614)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2025-11-24_R47614_af528babb8d8f163ae7ea7f3a49c05e90f23df23.html"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Deactivation of the 1st Law Enforcement Battalion is not confirmed from an official source."
+  },
+  {
+    "id": "ch04-091",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The Marine Corps has no tank battalions; most of its more than 450 tanks went to the Army. Most towed cannon artillery was removed by 2021 under a plan to cut cannon batteries from 21 to 5, and amphibious vehicle companies were to drop from 6 to 4. The October 2025 Force Design update kept these changes.",
+    "key_dates": [
+      {
+        "date": "2020-03-23",
+        "event": "Force Design plan announced."
+      },
+      {
+        "date": "2025-10-23",
+        "event": "Commandant Gen. Eric Smith publishes 2025 Force Design update."
+      }
+    ],
+    "closeness": "Matches the recommendation to keep tanks gone and cut most tube artillery. These cuts mostly began before 2025; the current administration kept them.",
+    "uncertain": "The current number of cannon artillery batteries and amphibious vehicle companies was not confirmed. Newest source is from November 2025.",
+    "sources": [
+      {
+        "label": "U.S. Marine Corps Force Design Initiative (R47614)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2025-11-24_R47614_af528babb8d8f163ae7ea7f3a49c05e90f23df23.html"
+      },
+      {
+        "label": "Marine Corps Lays Out Aggressive Modernization Efforts in Force Design Update",
+        "publisher": "U.S. Marine Corps",
+        "type": "government",
+        "url": "https://www.marines.mil/News/Press-Releases/Press-Release-Display/Article/4325664/marine-corps-lays-out-aggressive-modernization-efforts-in-force-design-update/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-092",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The Marine Corps' Force Design plan, kept in the October 2025 update, nearly tripled rocket artillery and is fielding the NMESIS anti-ship missile system and the MADIS air defense system across Marine units. It also planned to double drone squadrons and to replace light armored vehicles with a new reconnaissance vehicle.",
+    "key_dates": [
+      {
+        "date": "2025-10-23",
+        "event": "2025 Force Design update stresses modernization."
+      }
+    ],
+    "closeness": "The Marines are buying rockets, drones and anti-ship and air defense missiles, as recommended. The new reconnaissance vehicle was still in development, and whether savings paid for these items directly was not confirmed.",
+    "uncertain": "Exact numbers of HIMARS batteries and drone squadrons fielded were not confirmed. Newest source is from November 2025.",
+    "sources": [
+      {
+        "label": "U.S. Marine Corps Force Design Initiative (R47614)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2025-11-24_R47614_af528babb8d8f163ae7ea7f3a49c05e90f23df23.html"
+      },
+      {
+        "label": "Marine Corps Lays Out Aggressive Modernization Efforts in Force Design Update",
+        "publisher": "U.S. Marine Corps",
+        "type": "government",
+        "url": "https://www.marines.mil/News/Press-Releases/Press-Release-Display/Article/4325664/marine-corps-lays-out-aggressive-modernization-efforts-in-force-design-update/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-096",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "At the start of FY2026 the Navy had 32 large amphibious ships, and a 2022 law requires at least 31. The July 2025 reconciliation law paid toward one America-class amphibious assault ship and one San Antonio-class amphibious transport dock, among 16 new ships.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law funds two large amphibious ships."
+      },
+      {
+        "date": "2025-10-01",
+        "event": "Navy starts FY2026 with 32 large amphibious ships."
+      }
+    ],
+    "closeness": "Partial: the fleet is at the level the chapter wanted and new ships were funded, but the 31-ship floor was set by Congress in 2022, and CRS says the Navy may have trouble staying at 31 as older ships retire.",
+    "uncertain": "The Navy's latest 30-year shipbuilding plan numbers were not checked. Newest source is from January 2026.",
+    "sources": [
+      {
+        "label": "Navy LPD-17 Flight II and LHA Amphibious Ship Programs (R43543, January 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-01-12_R43543_ada62d4763bbee3872ec97a77b5adeb83632ad18.html"
+      },
+      {
+        "label": "House Passes Reconciliation Bill With $150B for Defense, Sends it to Trump's Desk",
+        "publisher": "USNI News",
+        "type": "news",
+        "url": "https://news.usni.org/2025/07/03/house-passes-reconciliation-bill-with-150b-for-defense-sends-it-to-trumps-desk"
+      },
+      {
+        "label": "FY2026 Defense Budget: Funding for Selected Weapon Systems (R48860)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48860.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-097",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In April 2025, the Space Force published its first warfighting framework, which openly lists offensive options such as \"orbital strike\" against enemy satellites along with defensive operations. In March 2026, Space Force leaders told the House Armed Services Committee that offensive actions to \"disrupt, degrade, deny, or destroy\" enemy space capabilities are vital.",
+    "key_dates": [
+      {
+        "date": "2025-04-17",
+        "event": "Space Force releases \"Space Warfighting: A Framework for Planners.\""
+      },
+      {
+        "date": "2026-03-25",
+        "event": "Space Force testimony to House Armed Services describes offensive space actions as vital."
+      }
+    ],
+    "legal": "No court action applies.",
+    "closeness": "Same direction: the Space Force now publicly plans for both offense and defense, as recommended. Which offensive systems are being built and fielded is mostly classified, so how far the action goes is unclear.",
+    "uncertain": "Specific offensive space weapons programs and fielding dates are classified or not public. Newest source is from March 2026.",
+    "sources": [
+      {
+        "label": "Space Force publishes warfighting framework",
+        "publisher": "DefenseScoop",
+        "type": "news",
+        "url": "https://defensescoop.com/2025/04/17/space-force-warfighting-framework/"
+      },
+      {
+        "label": "Space Force written statement to House Armed Services Committee (Lt. Gen. Schiess)",
+        "publisher": "House Armed Services Committee",
+        "type": "government",
+        "url": "https://armedservices.house.gov/UploadedFiles/HASC-SF_Written_Statement_SCHIESS_OMB-Adjudicated.pdf"
+      },
+      {
+        "label": "Space warfare in 2026: A pivotal year for US readiness",
+        "publisher": "Defense News",
+        "type": "news",
+        "url": "https://www.defensenews.com/space/2026/01/05/space-warfare-in-2026-a-pivotal-year-for-us-readiness/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-098",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14369 (December 18, 2025) set a policy of being able to detect and counter threats to U.S. space interests from very low orbit through cislunar space (out to the Moon). It told the national security adviser to put in place a space security strategy covering that range within 180 days.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "EO 14369, Ensuring American Space Superiority, signed."
+      }
+    ],
+    "closeness": "The goal of covering cislunar space is now official policy, as recommended. Whether the Space Force has fielded new cislunar capabilities was not confirmed.",
+    "uncertain": "Whether the space security strategy was completed, and what the Space Force has deployed beyond Earth orbit, were not found.",
+    "sources": [
+      {
+        "label": "Executive Order 14369: Ensuring American Space Superiority",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23845/ensuring-american-space-superiority"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-099",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new U.S. policy on space arms control or 'rules of the road' was found, either accepting or limiting such agreements.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Checked EO 14369 on space superiority, which does not address space arms control, and CRS space reports. No web search was possible for this item.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only an executive order and CRS reports were checked; needs a search for the U.S. position on space arms control or norms at the UN in 2025-2026."
+  },
+  {
+    "id": "ch04-102",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14369 (December 18, 2025) made it U.S. policy to secure and defend American interests 'in, from, and to space,' including countering threats from low orbit to the Moon. Existing law already directs the Space Force to provide freedom of operation in space.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "EO 14369 signed."
+      }
+    ],
+    "closeness": "A clear U.S. space security policy was set, close to the recommendation. It was set by the President, with the national security adviser leading the strategy, rather than led by the Space Force.",
+    "uncertain": "The resulting space security strategy was not found in public sources.",
+    "sources": [
+      {
+        "label": "Executive Order 14369: Ensuring American Space Superiority",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23845/ensuring-american-space-superiority"
+      },
+      {
+        "label": "Defense Primer: U.S. Space Force (IF12610)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12610.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-105",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "An executive order published September 3, 2026 (EO 14423) created a Presidential Commission on the United States Space Academy, chaired by the NASA Administrator. The commission must report within 120 days on how to set up a NASA-led federal space academy.",
+    "key_dates": [
+      {
+        "date": "2026-09-03",
+        "event": "EO 14423 establishing the Space Academy commission published."
+      }
+    ],
+    "closeness": "A space academy is being studied, as the chapter suggested, but it would be led by NASA, not the Defense Department or Space Force, and is not tied to a research university.",
+    "uncertain": "The commission's report is not yet due. Whether the academy will train Space Force officers is not known.",
+    "sources": [
+      {
+        "label": "Executive Order 14423: Establishing the United States Space Academy",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/03/2026-18141/establishing-the-united-states-space-academy"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-106",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public expansion of Cyber Command's offensive or defensive operations under the 2018 presidential memo (NSPM-13) was confirmed. In March 2025, news outlets reported that Defense Secretary Hegseth paused offensive cyber operations against Russia; the Pentagon disputed the reports.",
+    "key_dates": [
+      {
+        "date": "2025-03-03",
+        "event": "Reports say offensive cyber operations against Russia were paused; Pentagon disputes."
+      }
+    ],
+    "closeness": "No matching expansion was found. The reported pause, if accurate, would run the other way for one country.",
+    "uncertain": "Most cyber operations are classified, and reports about the pause conflict. The status of NSPM-13 was not found.",
+    "sources": [
+      {
+        "label": "Hegseth orders suspension of Pentagon's offensive cyberoperations against Russia (AP)",
+        "publisher": "KSAT / Associated Press",
+        "type": "news",
+        "url": "https://www.ksat.com/news/politics/2025/03/03/hegseth-orders-suspension-of-pentagons-offensive-cyberoperations-against-russia/"
+      },
+      {
+        "label": "Pentagon denies reports Hegseth ordered halt in cyber operations against Russia",
+        "publisher": "Yahoo News",
+        "type": "news",
+        "url": "https://www.yahoo.com/news/pentagon-denies-reports-hegseth-ordered-170414648.html"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Cyber operations are mostly classified; needs any public statement on the status of NSPM-13 or expanded Cyber Command authorities in 2025-2026."
+  },
+  {
+    "id": "ch04-107",
+    "status": "ended",
+    "match": "partial",
+    "happened": "The NSA and Cyber Command's Election Security Group, set up for past elections, was not activated in early 2026; on April 28, 2026, the head of Cyber Command told senators he did not know whether it had been set up. On September 28, 2026, Defense Secretary Pete Hegseth said the NSA and military cyber forces would guard election systems during the November midterms.",
+    "key_dates": [
+      {
+        "date": "2026-04-28",
+        "event": "Cyber Command chief tells senators the Election Security Group's status is unknown."
+      },
+      {
+        "date": "2026-09-28",
+        "event": "Hegseth says military cyber forces will guard election systems for the midterms."
+      }
+    ],
+    "closeness": "Partial: Cyber Command's election role was paused for months, close to what the chapter wanted, but the September 2026 announcement brought military cyber forces back into election protection.",
+    "uncertain": "Whether the Election Security Group itself was formally restarted is not confirmed, and the work is mostly classified. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "US cyber team hasn't been activated yet to protect midterm elections from foreign meddling",
+        "publisher": "CNN (via KVIA)",
+        "type": "news",
+        "url": "https://kvia.com/politics/cnn-us-politics/2026/04/30/us-cyber-team-hasnt-been-activated-yet-to-protect-midterm-elections-from-foreign-meddling/"
+      },
+      {
+        "label": "Hegseth says national security, military cyber forces will guard US election systems during midterms",
+        "publisher": "WSMV",
+        "type": "news",
+        "url": "https://www.wsmv.com/2026/09/29/hegseth-says-national-security-military-cyber-forces-will-guard-us-election-systems-during-midterms/"
+      },
+      {
+        "label": "Federal Role in Elections Policy: Selected Recent Developments (IF13316)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13316.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-111",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public U.S. policy of retaliating with cyber or electronic warfare against foreign cyberattacks was found.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Such operations and policies are usually classified. Searched Federal Register presidential documents and CRS cyber reports; no web search was possible for this item.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Cyber policy is mostly classified; needs a search for any public 2025-2026 U.S. cyber deterrence or retaliation statement, such as in the National Security Strategy or a national cyber strategy."
+  },
+  {
+    "id": "ch04-112",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new Defense Department definition of irregular warfare, and no region-by-region threat description in the National Security Strategy, was found.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Checked a CRS report on special operations forces (updated December 2025), which does not mention a new definition. The December 2025 National Security Strategy text was not read.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "The December 2025 National Security Strategy text and DOD irregular warfare documents still need to be read for a new definition or regional threat descriptions."
+  },
+  {
+    "id": "ch04-113",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The January 2026 National Defense Strategy does not directly address irregular warfare, according to a CSIS analysis. No order naming Special Operations Command as lead for irregular warfare was found.",
+    "closeness": "No matching action was found.",
+    "uncertain": "The finding relies on a CSIS summary of the strategy; any classified guidance is not public.",
+    "sources": [
+      {
+        "label": "The 2026 National Defense Strategy by the Numbers",
+        "publisher": "CSIS",
+        "type": "academic",
+        "url": "https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some"
+      },
+      {
+        "label": "U.S. Special Operations Forces (SOF): Background and Considerations for Congress (RS21048)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/RS21048.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-115",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public tasking of Special Operations Command to counter China's Belt and Road Initiative was found.",
+    "closeness": "No matching action was found. Other U.S. efforts against Chinese influence in the Western Hemisphere are covered in ch04-117.",
+    "uncertain": "Special operations planning is mostly classified. Checked a CRS special operations report; no web search was possible for this item.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Special operations planning is mostly classified; needs a search for any public SOCOM role in countering the Belt and Road Initiative."
+  },
+  {
+    "id": "ch04-117",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The 2025 National Security Strategy calls for a 'Trump Corollary' to the Monroe Doctrine to deny outside rivals control of key assets in the hemisphere. After U.S. pressure, Panama left China's Belt and Road Initiative in February 2025, and in January 2026 Panama's supreme court annulled a Hong Kong firm's canal port concession. Congress raised the Development Finance Corporation's lending cap to $205 billion and funded a $400 million fund to counter Chinese influence.",
+    "key_dates": [
+      {
+        "date": "2025-02",
+        "event": "Panama ends its participation in the Belt and Road Initiative."
+      },
+      {
+        "date": "2026-01",
+        "event": "Panama's supreme court annuls the Panama Ports Company concession."
+      }
+    ],
+    "closeness": "The administration and Congress used several tools against Chinese economic influence in the region, as recommended. Results were mixed: Colombia joined a Belt and Road plan in May 2025.",
+    "uncertain": "How much the U.S. caused the Panama decisions is not certain. Newest source is from May 2026.",
+    "sources": [
+      {
+        "label": "U.S. Foreign Policy in the Western Hemisphere: Issues for Congress (R48960)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48960.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-120",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law gave about $14.7 billion for nuclear forces, including $4.5 billion to speed up B-21 bomber production. The first operational B-21 is due at Ellsworth Air Force Base in 2027, and LRSO cruise missile production is expected around 2027. The first Columbia-class submarine is about 12 to 18 months late, with delivery now aimed for 2028, and the Sentinel missile is not expected to reach initial capability until the early 2030s.",
+    "key_dates": [
+      {
+        "date": "2025-05",
+        "event": "Air Force says Sentinel will need new silos."
+      },
+      {
+        "date": "2025-07",
+        "event": "Reconciliation law provides about $14.7 billion for nuclear forces, including $4.5 billion for B-21 acceleration."
+      },
+      {
+        "date": "2026-02",
+        "event": "Air Force sets early-2030s initial capability for Sentinel."
+      }
+    ],
+    "closeness": "Extra money to speed up the B-21 matches the recommendation, but Sentinel and the first Columbia-class submarine are behind schedule rather than sped up. The F-35A was already certified to carry the B61-12 nuclear bomb before 2025.",
+    "uncertain": "B-21 production rates are classified. The Columbia-class delay figures come from Navy statements and a 2024 GAO estimate; no 2026 GAO update was found. Newest source is from February 2026.",
+    "sources": [
+      {
+        "label": "Defense funding in the 2025 reconciliation law (IN12580)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12580.html"
+      },
+      {
+        "label": "B-21 Production Is Speeding Up, But How Much and For How Long Is Still Unclear",
+        "publisher": "Air & Space Forces Magazine",
+        "type": "news",
+        "url": "https://www.airandspaceforces.com/?p=248885"
+      },
+      {
+        "label": "Navy says Columbia-class sub construction schedule improving",
+        "publisher": "USNI News",
+        "type": "news",
+        "url": "https://news.usni.org/2026/02/11/navy-says-columbia-class-sub-construction-schedule-improving"
+      },
+      {
+        "label": "US Air Force sees early 2030s rollout for revamped Sentinel nuclear missile",
+        "publisher": "Defense News",
+        "type": "news",
+        "url": "https://www.defensenews.com/air/2026/02/17/us-air-force-sees-early-2030s-rollout-for-revamped-sentinel-nuclear-missile/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-122",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "Congress gave NNSA's weapons programs about $20.4 billion in regular FY2026 funding. The July 2025 reconciliation law added about $3.9 billion for NNSA weapons activities. NNSA is running seven warhead modernization programs at once.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law adds about $3.9 billion for NNSA weapons activities."
+      }
+    ],
+    "closeness": "Warhead work received more money, in line with the goal. Funding for each named life extension program was not checked.",
+    "uncertain": "Whether each named program (B61-12, W80-4, W87-1, W88 Alt 370) was fully funded was not confirmed.",
+    "sources": [
+      {
+        "label": "NNSA FY2027 Budget and Policy Issues: In Brief (R48946)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48946.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-123",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "The July 2025 reconciliation law gave $2 billion for the nuclear sea-launched cruise missile (SLCM-N) and $400 million to speed its warhead. The FY2026 defense law (December 18, 2025) requires a limited operational deployment by September 2032. In December 2025, the administration announced new battleships that the Navy says will carry it.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law funds SLCM-N."
+      },
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 NDAA sets a September 2032 limited deployment target."
+      }
+    ],
+    "closeness": "The program was funded and sped up, as recommended. The 2032 target is later than the 'end of the decade' goal in the chapter.",
+    "uncertain": "Whether the 2032 date will be met is not known. Newest source is from January 2026.",
+    "sources": [
+      {
+        "label": "Nuclear-Armed Sea-Launched Cruise Missile (SLCM-N) (IF12084)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-01-08_IF12084_03ef999f9e94e8d14eb018c17c187dffbe009e02.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-124",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No decision to buy more Sentinel missiles or LRSOs than planned, or to expand warhead upload capacity, was found.",
+    "closeness": "No matching action found. The general nuclear funding increase is covered in ch04-009 and ch04-120.",
+    "uncertain": "Search tools were limited during this research. I did not see a program-by-program breakdown of the 2025 reconciliation law's nuclear money, which could include upload-related items. Reporting on upload plans after New START expired in 2026 was not checked. This finding should be re-checked.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-125",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law gave NNSA about $2.5 billion for production modernization, which includes plutonium pit work, and $600 million for infrastructure. The legal goal of making 80 pits a year 'as close to 2030 as possible' remains.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law funds NNSA production modernization."
+      }
+    ],
+    "closeness": "More money went to pit production and weapons facilities, as recommended. Whether pit production actually sped up was not confirmed.",
+    "uncertain": "Current pit production levels were not found; a trade report said reaching 30 pits a year may slip past 2026.",
+    "sources": [
+      {
+        "label": "NNSA FY2027 Budget and Policy Issues: In Brief (R48946)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48946.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-126",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "On October 30, 2025, President Trump said he had told the military to begin testing nuclear weapons \"on an equal basis\" with other countries. What kind of testing he meant was unclear, and no test has taken place. A December 2025 CRS report found no new concrete steps, and in April 2026 Nevada's senators said the administration was still weighing a return to explosive testing.",
+    "key_dates": [
+      {
+        "date": "2025-10-30",
+        "event": "President says he instructed the military to begin nuclear testing."
+      },
+      {
+        "date": "2025-12-16",
+        "event": "CRS reports the policy change remains unclear; readiness goal stays at 24-36 months."
+      },
+      {
+        "date": "2026-04-13",
+        "event": "Sen. Rosen says the administration is still weighing explosive testing."
+      }
+    ],
+    "closeness": "Related but not the same: the recommendation asks to restore readiness to test at the Nevada site. A presidential instruction to test was announced, but no explosive test or public step to shorten readiness time at Nevada was found.",
+    "uncertain": "Test readiness work is funded inside other NNSA programs, so specific readiness steps may not be public. Newest source is from April 2026.",
+    "sources": [
+      {
+        "label": "U.S. Nuclear Weapons Tests (IF11662)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2025-12-16_IF11662_8bdc835a5adcc1e7cb39b100ef46e82890298bb5.html"
+      },
+      {
+        "label": "Trump says he wants to resume nuclear testing. Here's what that would mean",
+        "publisher": "NPR (via KJZZ)",
+        "type": "news",
+        "url": "https://www.kjzz.org/npr-top-stories/2025-10-30/trump-says-he-wants-to-resume-nuclear-testing-heres-what-that-would-mean"
+      },
+      {
+        "label": "Rosen visits the Nevada National Security Site as administration weighs explosive testing",
+        "publisher": "Office of Sen. Jacky Rosen",
+        "type": "government",
+        "url": "https://www.rosen.senate.gov/2026/04/13/as-trump-administration-weighs-resuming-explosive-nuclear-testing-rosen-visits-the-nevada-national-security-site-to-observe-nuclear-stockpile-certification/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-127",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The New START treaty with Russia expired on February 5, 2026, without a replacement. Russia had offered to keep the treaty's main limits for one year if the U.S. did too, but no such understanding was reached. President Trump called for a new, modernized agreement that could include China.",
+    "key_dates": [
+      {
+        "date": "2026-02-05",
+        "event": "New START expires without a replacement."
+      }
+    ],
+    "closeness": "The U.S. did not accept a deal keeping old limits and sought a new agreement on its own terms, which fits the general direction. No formal statement rejecting specific disarmament proposals was found.",
+    "uncertain": "The reasons for not accepting Russia's offer were not stated in the sources checked. Later talks, if any, were not confirmed.",
+    "sources": [
+      {
+        "label": "Letter to President Trump on New START expiration (Feb. 6, 2026)",
+        "publisher": "Office of Sen. Jeff Merkley",
+        "type": "government",
+        "url": "https://www.merkley.senate.gov/wp-content/uploads/26.02.06-Letter-to-Trump-on-New-START-Expiration-FINAL.pdf"
+      },
+      {
+        "label": "United States, Russia New START treaty expires",
+        "publisher": "Boston Globe",
+        "type": "news",
+        "url": "https://www.bostonglobe.com/2026/02/04/nation/united-states-russia-new-start-treaty-expire"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-128",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public U.S. commitment to keep homeland missile defense out of arms control talks was found. The administration is building the Golden Dome missile defense system (see ch04-132), which Russian officials have criticized.",
+    "closeness": "No formal commitment was found, though no deal limiting missile defense was made either.",
+    "uncertain": "One web search on New START and missile defense found no such commitment. Private negotiating positions are not public.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only one web search was done; needs a check for any official statement that homeland missile defense is not negotiable in arms talks."
+  },
+  {
+    "id": "ch04-129",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No plan to buy 64 Next Generation Interceptors was found. A 2025 outside analysis projected 21 interceptors for deployment and 10 for testing, with first operational capability around 2028, and the program has had delays.",
+    "closeness": "The planned number is far below the chapter's 64.",
+    "uncertain": "The official planned quantity was not confirmed; the figures come from secondary reports. Golden Dome planning could change it.",
+    "sources": [
+      {
+        "label": "Could Golden Dome funding get Next Gen Interceptor back up to speed?",
+        "publisher": "Defense News",
+        "type": "news",
+        "url": "https://www.defensenews.com/pentagon/2025/08/06/could-golden-dome-funding-get-next-gen-interceptor-back-up-to-speed/"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Needs the official NGI procurement quantity from Missile Defense Agency FY2026-FY2027 budget documents; current figures come from a secondary report."
+  },
+  {
+    "id": "ch04-131",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "Congress authorized and funded more THAAD, SM-3 and Patriot interceptors for FY2026, adding money from the 2025 reconciliation law. For FY2027, the Army asked for $11.4 billion for THAAD and $12.2 billion for PAC-3 MSE missiles, part of a request that nearly triples missile procurement.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 NDAA authorizes $2.69 billion for PAC-3 MSE, above the request."
+      },
+      {
+        "date": "2026",
+        "event": "FY2027 request sharply increases interceptor buying."
+      }
+    ],
+    "closeness": "Buying more regional missile defense interceptors became a clear priority, as recommended. Heavy use in the 2026 Iran operations means stocks are still being rebuilt.",
+    "uncertain": "Final FY2027 funding is not yet known.",
+    "sources": [
+      {
+        "label": "FY2026 Defense Budget: Funding for Selected Weapon Systems (R48860)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48860.html"
+      },
+      {
+        "label": "The U.S. Army and the Golden Dome Program (IF13264)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13264.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-132",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 27, 2025, President Trump ordered a missile defense shield, later called Golden Dome, to defend against missiles from \"peer, near-peer, and rogue\" adversaries. The order noted past policy focused only on rogue nations. The July 2025 reconciliation law gave $24.4 billion for it, and a February 2026 defense spending law added about $13.4 billion.",
+    "key_dates": [
+      {
+        "date": "2025-01-27",
+        "event": "Executive order \"The Iron Dome for America\" signed."
+      },
+      {
+        "date": "2025-07",
+        "event": "Reconciliation law provides $24.4 billion for missile defense."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "Congress passes FY2026 defense spending with about $13.4 billion for Golden Dome."
+      }
+    ],
+    "legal": "No court case found.",
+    "closeness": "Very close on policy: the order drops the rogue-nation-only focus and aims to defend against Russian and Chinese missiles. The system itself is in early development and not yet built.",
+    "uncertain": "Total cost estimates vary widely (from $185 billion to over $1 trillion), and whether the system will work as planned is not known. Newest source is from February 2026.",
+    "sources": [
+      {
+        "label": "The Iron Dome for America",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/the-iron-dome-for-america/"
+      },
+      {
+        "label": "Golden Dome funding in the 2025 reconciliation law (IN12576)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12576.html"
+      },
+      {
+        "label": "Congress passes $839 billion budget for defense",
+        "publisher": "Air & Space Forces Magazine",
+        "type": "news",
+        "url": "https://www.airandspaceforces.com/congress-passes-839-billion-budget-defense/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-133",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Under the Golden Dome program ordered in January 2025, the Space Force made first awards for space-based interceptor prototypes in late November 2025, with flight tests expected around 2027. Executive Order 14369 (December 2025) calls for prototype next-generation missile defense technologies by 2028.",
+    "key_dates": [
+      {
+        "date": "2025-01-27",
+        "event": "Iron Dome for America (later Golden Dome) order signed."
+      },
+      {
+        "date": "2025-11",
+        "event": "First space-based interceptor prototype awards."
+      },
+      {
+        "date": "2025-12-18",
+        "event": "EO 14369 sets a 2028 goal for missile defense prototypes."
+      }
+    ],
+    "closeness": "Space-based defenses are being developed, as recommended. Directed-energy missile defense work was not confirmed.",
+    "uncertain": "Details of the space interceptor awards vary between reports. Directed-energy programs were not checked.",
+    "sources": [
+      {
+        "label": "The Iron Dome for America",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/the-iron-dome-for-america/"
+      },
+      {
+        "label": "Executive Order 14369: Ensuring American Space Superiority",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23845/ensuring-american-space-superiority"
+      },
+      {
+        "label": "Space Force Golden Dome orbital interceptor",
+        "publisher": "Executive Gov",
+        "type": "news",
+        "url": "https://www.executivegov.com/articles/space-force-golden-dome-orbital-interceptor"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Space interceptor award details come from trade press, and directed-energy missile defense funding was not checked."
+  },
+  {
+    "id": "ch04-134",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law gave about $25 billion for Golden Dome, including space-based sensors and faster defense against hypersonic weapons. The Missile Defense Agency's FY2026 budget planned to speed up the Glide Phase Interceptor against hypersonic weapons by two years, a program shared with Japan.",
+    "key_dates": [
+      {
+        "date": "2025-06-30",
+        "event": "Missile Defense Agency FY2026 budget plans two-year speedup of the Glide Phase Interceptor."
+      },
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law funds Golden Dome."
+      }
+    ],
+    "closeness": "Hypersonic defense and space sensors were funded and sped up, as recommended. Homeland cruise missile defense is part of Golden Dome's goals, but specific programs were not checked.",
+    "uncertain": "Whether the Glide Phase Interceptor speedup has held was not confirmed. Newest source is from mid-2025.",
+    "sources": [
+      {
+        "label": "SASC/HASC Defense Reconciliation Overview",
+        "publisher": "House Armed Services Committee",
+        "type": "government",
+        "url": "https://armedservices.house.gov/uploadedfiles/obbb_hasc_and_sasc_defense_legislation_summary.pdf"
+      },
+      {
+        "label": "Missile Defense Agency's FY26 budget targets homeland missile defense",
+        "publisher": "Defense News",
+        "type": "news",
+        "url": "https://www.defensenews.com/pentagon/2025/06/30/missile-defense-agencys-fy26-budget-targets-homeland-missile-defense/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-010",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The National Defense Strategy released January 23, 2026 says the department will keep 'a resource-sustainable approach to countering Islamic terrorists,' focused on groups that can and want to attack the U.S. homeland. It also asks regional partners to do more.",
+    "key_dates": [
+      {
+        "date": "2026-01-23",
+        "event": "National Defense Strategy calls for a 'resource-sustainable' counterterrorism approach"
+      }
+    ],
+    "closeness": "The strategy matches the chapter's call for counterterrorism at a sustainable cost. CSIS notes the strategy does not say outright that allies will lead counterterrorism in their regions, and U.S. strikes on the Houthis and in Nigeria continued.",
+    "uncertain": "The strategy text could not be opened (the Defense Department site blocked downloads), so this is based on a CSIS analysis that quotes it. Specific programs to build partners' counterterrorism forces were not checked. Newest source: early 2026.",
+    "sources": [
+      {
+        "label": "2026 National Defense Strategy",
+        "publisher": "U.S. Department of Defense",
+        "type": "government",
+        "url": "https://media.defense.gov/2026/Jan/23/2003864773/-1/-1/0/2026-NATIONAL-DEFENSE-STRATEGY.PDF"
+      },
+      {
+        "label": "The 2026 National Defense Strategy by the Numbers",
+        "publisher": "CSIS",
+        "type": "academic",
+        "url": "https://www.csis.org/analysis/2026-national-defense-strategy-numbers-radical-changes-moderate-changes-and-some"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Still based on CSIS's quotes; read the strategy's counterterrorism section directly when the PDF can be opened."
+  },
+  {
+    "id": "ch04-022",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14265 (April 9, 2025) told the Defense Secretary to create policies and tools that encourage acquisition officials to use flexible buying authorities and take 'measured and calculated risks.' It also applied a ten-for-one rule to new internal acquisition rules. By 2026, the Air Force was moving program offices under new Portfolio Acquisition Executives as part of the Pentagon's Acquisition Transformation Strategy.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "Executive Order 14265 orders acquisition reform and incentives for acquisition officials"
+      },
+      {
+        "date": "2026-08",
+        "event": "CRS reports the Air Force is setting up Portfolio Acquisition Executives under the Acquisition Transformation Strategy"
+      }
+    ],
+    "closeness": "The order calls for incentives and fewer internal rules, as the chapter recommends. It does not specifically reward fast decisions to start or end programs, and it keeps actions within the law. Related to ch04-011 and ch04-014.",
+    "uncertain": "It is not known what incentive policies DOD actually adopted under the order, or how much internal regulation was removed. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14265: Modernizing Defense Acquisitions and Spurring Innovation in the Defense Industrial Base",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06461/modernizing-defense-acquisitions-and-spurring-innovation-in-the-defense-industrial-base"
+      },
+      {
+        "label": "Defense Primer: U.S. Space Force (IF12610, August 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12610.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-023",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "Executive Order 14265 (April 9, 2025) told the Defense Secretary, working with the Army, Navy and Air Force secretaries, to send the President within 120 days a plan to reform, right-size and train the acquisition workforce. On November 7, 2025, Secretary Hegseth issued a memo overhauling the acquisition system that also directs changes in how acquisition staff are recruited, trained and rotated.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "Executive Order 14265 orders an acquisition workforce plan within 120 days"
+      },
+      {
+        "date": "2025-11-07",
+        "event": "Hegseth memo on transforming the acquisition system includes workforce training and rotation steps"
+      }
+    ],
+    "closeness": "The order asks for the same workforce assessment the chapter recommends. The order uses 'right-size,' which could mean fewer staff as well as more.",
+    "uncertain": "No public copy of the 120-day workforce plan was found, so what it found about needed staff levels is not known. Details of the November 2025 memo come from news summaries. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14265: Modernizing Defense Acquisitions and Spurring Innovation in the Defense Industrial Base",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06461/modernizing-defense-acquisitions-and-spurring-innovation-in-the-defense-industrial-base"
+      },
+      {
+        "label": "Hegseth unveils acquisition transformation speech, memo and guidance",
+        "publisher": "DefenseScoop",
+        "type": "news",
+        "url": "https://defensescoop.com/2025/11/07/hegseth-acquisition-transformation-speech-memo-guidance/"
+      },
+      {
+        "label": "DOD acquisition initiative includes focus on workforce",
+        "publisher": "FedWeek",
+        "type": "news",
+        "url": "https://www.fedweek.com/federal-managers-daily-report/dod-acquisition-initiative-includes-focus-on-workforce/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch04-024",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14265 (April 9, 2025) told DOD to set up field training teams to give hands-on training on new buying methods. In November 2025, Secretary Hegseth announced that Defense Acquisition University would be renamed Warfighting Acquisition University and would drop compliance-focused courses for training on commercial practices and fast buying. No step letting the university accredit outside schools was found.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "Executive Order 14265 orders acquisition field training teams"
+      },
+      {
+        "date": "2025-11-07",
+        "event": "Hegseth announces Defense Acquisition University will become Warfighting Acquisition University"
+      }
+    ],
+    "closeness": "Field training teams and the university's new focus change how acquisition staff are trained, but the university remains the central school. The chapter's specific idea of accrediting outside schools was not found.",
+    "uncertain": "Whether the renaming has been formally completed was not confirmed; one report said legislation was pending. Details come from news summaries of the memo. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14265: Modernizing Defense Acquisitions and Spurring Innovation in the Defense Industrial Base",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06461/modernizing-defense-acquisitions-and-spurring-innovation-in-the-defense-industrial-base"
+      },
+      {
+        "label": "Hegseth unveils overhaul of DOD acquisition systems",
+        "publisher": "MeriTalk",
+        "type": "news",
+        "url": "https://www.meritalk.com/articles/hegseth-unveils-overhaul-of-dod-acquisition-systems/"
+      },
+      {
+        "label": "The Department of War's new acquisition strategy",
+        "publisher": "Venable LLP",
+        "type": "law-firm",
+        "url": "https://www.venable.com/insights/publications/2025/11/the-department-of-wars-new-acquisition-strategy"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch04-026",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In November 2025, Under Secretary of Defense for Research and Engineering Emil Michael cut DOD's list of critical technology areas from 14 to six: applied AI, biomanufacturing, contested logistics, quantum and battlefield information dominance, scaled directed energy, and scaled hypersonics.",
+    "key_dates": [
+      {
+        "date": "2025-11-17",
+        "event": "DOD announces its critical technology list is cut from 14 areas to six"
+      }
+    ],
+    "closeness": "This is the change the chapter recommends. The announcement, as reported, stresses delivering usable technology within three years; it does not tie the list directly to great-power competition.",
+    "uncertain": "How funding shifted among the new areas was not checked. Newest source: November 2025.",
+    "sources": [
+      {
+        "label": "Department of Defense narrows R&D priorities list",
+        "publisher": "American Institute of Physics (FYI)",
+        "type": "news",
+        "url": "https://www.aip.org/fyi/department-of-defense-narrows-r-d-priorities-list"
+      },
+      {
+        "label": "DOD cuts critical technology areas to six",
+        "publisher": "DefenseScoop",
+        "type": "news",
+        "url": "https://defensescoop.com/2025/11/17/dod-six-critical-technology-areas-emil-michael-dow/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-030",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14268 (April 9, 2025) made it policy to build exportability features into weapons in the design phase. It told State and Defense to send a plan within 90 days to make exportability a requirement early in the acquisition process. Executive Order 14383 (February 6, 2026) built on this with an arms transfer strategy tied to U.S. industrial capacity.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "Executive Order 14268 calls for exportability in the design phase"
+      },
+      {
+        "date": "2026-02-06",
+        "event": "Executive Order 14383 sets an 'America First' arms transfer strategy"
+      }
+    ],
+    "closeness": "The orders adopt the chapter's idea of designing for export from the start. No funding mechanism paid back through later foreign sales, which the chapter also proposes, was found. Related to ch04-031.",
+    "uncertain": "It is not known whether DOD has made exportability a formal requirement in new programs. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14268: Reforming Foreign Defense Sales To Improve Speed and Accountability",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06464/reforming-foreign-defense-sales-to-improve-speed-and-accountability"
+      },
+      {
+        "label": "Executive Order 14383: Establishing an America First Arms Transfer Strategy",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/11/2026-02814/establishing-an-america-first-arms-transfer-strategy"
+      },
+      {
+        "label": "Transfer of Defense Articles: Foreign Military Sales (IF11437, July 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11437.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-033",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14268 (April 2025) ordered steps to speed up foreign military sales. On February 10, 2026, DOD moved the Defense Security Cooperation Agency and the Defense Technology Security Administration under the Under Secretary for Acquisition and Sustainment, creating what it called a 'single enterprise' for arms sales. The FY2026 defense law (sections 1211-1215) also includes provisions on the sales process.",
+    "key_dates": [
+      {
+        "date": "2025-04-09",
+        "event": "Executive Order 14268 orders faster foreign defense sales"
+      },
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 defense law includes foreign military sales provisions"
+      },
+      {
+        "date": "2026-02-10",
+        "event": "DOD moves arms sales agencies under the acquisition under secretary"
+      }
+    ],
+    "closeness": "Arms sales decisions were streamlined, as the chapter recommends. No specific increase in contracting staff for foreign sales was found. Related to ch04-031.",
+    "uncertain": "Whether contracting times for foreign sales have actually fallen from about 18 months was not found. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Transfer of Defense Articles: Foreign Military Sales (IF11437, July 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11437.html"
+      },
+      {
+        "label": "Executive Order 14268: Reforming Foreign Defense Sales To Improve Speed and Accountability",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06464/reforming-foreign-defense-sales-to-improve-speed-and-accountability"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-042",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In December 2025, Defense Secretary Pete Hegseth ordered an overhaul of the military Chaplain Corps, saying he wanted it refocused on religious ministry. Chaplains are to wear insignia showing their faith instead of their rank, the Army's 'Spiritual Fitness Guide' was dropped, and the list of religious identification codes is to be simplified.",
+    "key_dates": [
+      {
+        "date": "2025-12-16",
+        "event": "Hegseth announces Chaplain Corps overhaul in a video message and memo"
+      }
+    ],
+    "closeness": "The overhaul is presented as helping chaplains minister according to their faith, which matches the chapter's goal. It also includes changes the chapter does not mention, such as rank insignia and faith codes.",
+    "uncertain": "The memo text was not reviewed, and how far the changes have been carried out is not known. Some members of Congress and advocacy groups objected to the faith-code changes. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Hegseth orders overhaul of Chaplain Corps",
+        "publisher": "Military Times",
+        "type": "news",
+        "url": "https://militarytimes.com/news/your-military/2025/12/17/hegseth-orders-overhaul-of-chaplain-corps"
+      },
+      {
+        "label": "Hegseth calls for changes to military chaplains",
+        "publisher": "Stars and Stripes",
+        "type": "news",
+        "url": "https://www.stripes.com/branches/army/2025-12-17/hegseth-military-chaplains-20119952.html"
+      },
+      {
+        "label": "Statement on the Department of War's strengthening of the Chaplain Corps",
+        "publisher": "U.S. Department of Justice",
+        "type": "government",
+        "url": "https://www.justice.gov/opa/blog/statement-department-wars-strengthening-chaplain-corps"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-050",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The FY2026 defense law, signed December 18, 2025, authorized 4.4% more for military construction and family housing than the President requested, and added requirements for how DOD manages privately run base housing. The July 2025 reconciliation law also funded quality-of-life items, including housing (see ch04-049).",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law funds service member quality of life, including housing"
+      },
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 defense law adds housing funding and oversight rules"
+      }
+    ],
+    "closeness": "Congress put more money and oversight into base housing, as the chapter recommends. No specific change to consider families' needs when service members are reassigned was found.",
+    "uncertain": "The details of the new privatized housing rules and whether housing conditions improved were not checked. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "FY2026 NDAA: Military Construction and Housing Authorizations (R48899, April 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48899.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-051",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The FY2026 defense law, signed December 18, 2025, raised subsidies for the Military Child Care in Your Neighborhood fee-assistance program, extended a pilot that helps pay for in-home child care, and added rules for DOD child care centers. In April and May 2026, DOD's civilian personnel office issued memos on making full use of military spouse hiring flexibilities and on a Military Spouse Employment Initiative.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 defense law expands military child care support"
+      },
+      {
+        "date": "2026-04-01",
+        "event": "DOD memo on maximum use of military spouse employment flexibilities"
+      },
+      {
+        "date": "2026-05-04",
+        "event": "DOD memo on a Military Spouse Employment Initiative"
+      }
+    ],
+    "closeness": "The child care steps and spouse hiring memos match parts of the chapter's recommendation. No new 2025-2026 step on professional licensing for spouses was found.",
+    "uncertain": "The spouse employment memos were seen only by title on a DOD page; their contents were not read. Licensing changes in the FY2026 defense law were not confirmed. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "FY2026 NDAA: Military Child Care Programs (IN12648, February 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12648.html"
+      },
+      {
+        "label": "Military Spouse Employment",
+        "publisher": "Defense Civilian Personnel Advisory Service",
+        "type": "government",
+        "url": "https://www.dcpas.osd.mil/node/540"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch04-083",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In July 2025, the Air Force said it planned to buy up to 75 more KC-46A tankers beyond the 183 already planned. The FY2026 defense law raised the required minimum tanker fleet to 502 aircraft by FY2028 and let older KC-135s stay in service. For airlift, the Air Force is retiring some C-130H squadrons without replacing them one for one.",
+    "key_dates": [
+      {
+        "date": "2025-07",
+        "event": "Air Force says it plans up to 75 more KC-46A tankers"
+      },
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 defense law sets a 502-tanker minimum by FY2028"
+      }
+    ],
+    "closeness": "Tanker capacity is being protected and grown, as the chapter recommends. Airlift capacity is not growing; some older cargo planes are being retired without full replacement.",
+    "uncertain": "It is not known whether added tankers are aimed at dispersed operations in Europe and the Pacific. Newest source: March 2026.",
+    "sources": [
+      {
+        "label": "Refueling Tanker Aircraft: Background and Issues for Congress (IF13157, January 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13157.html"
+      },
+      {
+        "label": "Airlift Aircraft: Background and Issues for Congress (IF13184, March 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13184.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-086",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Air Force's plan as of late 2025 was to buy 10 of these electronic attack planes, now called EA-37B Compass Call. The FY2026 defense spending law, signed February 3, 2026, funded two more, bringing the planned fleet back to 12, the original program size.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 defense authorization law adds $60 million for Compass Call"
+      },
+      {
+        "date": "2026-01-20",
+        "event": "Compromise defense spending bill adds $474 million for two more EA-37Bs"
+      },
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 defense spending law (P.L. 119-75, division A) is signed"
+      }
+    ],
+    "closeness": "Congress added planes, moving toward the chapter's goal, but the total of about 12 is well short of the 20 the chapter recommends.",
+    "uncertain": "The added planes are listed in the spending bill's explanatory statement, not the law's text; later reports say the two aircraft were funded. Newest source: 2026.",
+    "sources": [
+      {
+        "label": "US lawmakers release $839B compromise defense spending bill",
+        "publisher": "Military Times",
+        "type": "news",
+        "url": "https://www.militarytimes.com/congress/2026/01/20/us-lawmakers-release-839b-compromise-defense-spending-bill/"
+      },
+      {
+        "label": "EA-37B Compass Call",
+        "publisher": "Air & Space Forces Magazine",
+        "type": "news",
+        "url": "https://www.airandspaceforces.com/weapons/ea-37b/"
+      },
+      {
+        "label": "EA-37B Compass Call fact sheet",
+        "publisher": "Air Combat Command, U.S. Air Force",
+        "type": "government",
+        "url": "https://www.acc.af.mil/About-Us/Fact-Sheets/Display/Article/3391327/ea-37b-compass-call/"
+      },
+      {
+        "label": "Consolidated Appropriations, P.L. 119-75",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch04-090",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The Marine Corps turned the 3rd Marine Regiment into the 3rd Marine Littoral Regiment in Hawaii in March 2022 and has been forming the 12th Marine Littoral Regiment in Okinawa, which received new anti-ship and air-defense systems in June 2026. Under its Force Design plan, the Marines also cut infantry battalions from 24 to 21 and made them smaller, settling on 811 Marines per battalion.",
+    "key_dates": [
+      {
+        "date": "2022-03-03",
+        "event": "3rd Marine Regiment becomes the 3rd Marine Littoral Regiment"
+      },
+      {
+        "date": "2025",
+        "event": "Force Design update says the Marines will not create a third littoral regiment"
+      },
+      {
+        "date": "2026-06",
+        "event": "12th Marine Littoral Regiment receives NMESIS and MADIS systems"
+      }
+    ],
+    "closeness": "Both parts of the recommendation are in place. Most of this began before 2025 under Force Design 2030 and continued under the current administration. The Marines dropped plans for a third littoral regiment.",
+    "uncertain": "Battalion sizes after 2023 were not checked. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "The U.S. Marine Corps Marine Littoral Regiment (IF12200, June 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12200.html"
+      },
+      {
+        "label": "U.S. Marine Corps Force Design Initiative (R47614, November 2025)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2025-11-24_R47614_af528babb8d8f163ae7ea7f3a49c05e90f23df23.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-095",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "The Navy's Medium Landing Ship program, first called the Light Amphibious Warship, plans 18 to 35 ships to move Marines between islands. The FY2026 defense law, signed December 18, 2025, lets the Navy use a block-buy contract for up to 15 of them. The Navy expects construction to start in late 2026 and the first ship to be delivered by 2029.",
+    "key_dates": [
+      {
+        "date": "2025-01-16",
+        "event": "Navy names the first ship, LSM-1 McClung"
+      },
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 defense law allows a block buy of up to 15 ships"
+      },
+      {
+        "date": "2026",
+        "event": "Construction expected to begin late in the year"
+      }
+    ],
+    "closeness": "This is the ship the chapter recommends. It is funded and authorized but not yet built.",
+    "uncertain": "Whether construction has started and the final number of ships are not known. The Marines' decision to skip a third littoral regiment could lower the number needed. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Navy Medium Landing Ship (LSM) Program (R46374, January 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R46374.html"
+      },
+      {
+        "label": "The U.S. Marine Corps Marine Littoral Regiment (IF12200, June 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12200.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-104",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "The FY2026 defense law, signed December 18, 2025, raised the maximum number of Space Force general officers from 21 to 24 and cut the Air Force limit from 171 to 168. As of September 30, 2025, the Space Force had 32 general officers, counting joint positions.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 defense law raises the Space Force general officer cap to 24"
+      }
+    ],
+    "closeness": "The number of Space Force general officer slots went up, as the chapter recommends, but only by three. At the same time, Defense Secretary Hegseth ordered cuts to general officers across the military (see ch04-054).",
+    "uncertain": "Whether the new slots have been filled is not known. Newest source: 2026.",
+    "sources": [
+      {
+        "label": "General and Flag Officers in the U.S. Armed Forces (R44389)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44389.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-121",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The administration kept the Sentinel missile program instead of extending the life of the Minuteman III. In February 2026, the Air Force said it expects to finish restructuring Sentinel by the end of 2026 and field an initial capability in the early 2030s. Because Sentinel was delayed from its original 2029 start, Minuteman III will stay in service longer than first planned.",
+    "key_dates": [
+      {
+        "date": "2024-07",
+        "event": "DOD keeps Sentinel after a major cost-overrun review"
+      },
+      {
+        "date": "2026-02",
+        "event": "Air Force targets a restructured Sentinel by end of 2026 and initial capability in the early 2030s"
+      }
+    ],
+    "closeness": "The administration has not adopted a Minuteman III life extension in place of Sentinel, which fits the chapter. But Sentinel delays mean the older missile must keep serving longer.",
+    "uncertain": "No specific congressional proposal to extend Minuteman III, or an administration position on one, was found. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "Defense Primer: LGM-35A Sentinel Intercontinental Ballistic Missile (IF11681, May 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11681.html"
+      },
+      {
+        "label": "US Air Force sees early 2030s rollout for revamped Sentinel nuclear missile",
+        "publisher": "Defense News",
+        "type": "news",
+        "url": "https://www.defensenews.com/air/2026/02/17/us-air-force-sees-early-2030s-rollout-for-revamped-sentinel-nuclear-missile/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-130",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The Golden Dome program, ordered in January 2025, is building a layered homeland missile defense (see ch04-132). In August 2026, the general leading Golden Dome reportedly said its first operational site had been set up at Fort Story, Virginia, to place defenses on the East Coast.",
+    "key_dates": [
+      {
+        "date": "2025-01-27",
+        "event": "President orders a homeland missile defense shield, later called Golden Dome"
+      },
+      {
+        "date": "2026-08",
+        "event": "First Golden Dome operational site reportedly set up at Fort Story, Virginia"
+      }
+    ],
+    "closeness": "Both ideas in the chapter, a layered defense and an East Coast site, are under way. The Fort Story site is aimed mainly at cruise missiles and hypersonic weapons, not the long-range ground-based interceptors the chapter's 'third site' refers to.",
+    "uncertain": "What systems are at Fort Story and how many sites are planned were not made public. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "The U.S. Army and the Golden Dome Program (IF13264, August 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13264.html"
+      },
+      {
+        "label": "The Iron Dome for America (executive order)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/the-iron-dome-for-america/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-109",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "GAO lists its 2022 recommendation that DOD align its policies and systems so it can see cyber incident reports across the whole department as \"open, partially addressed.\" DOD issued a new instruction in August 2023 and is building a unified reporting platform, with an estimated finish in November 2027.",
+    "key_dates": [
+      {
+        "date": "2022-11-14",
+        "event": "GAO report GAO-23-105084 makes the recommendation."
+      },
+      {
+        "date": "2023-08-09",
+        "event": "DOD issues an instruction on cyber incident response."
+      }
+    ],
+    "closeness": "Direct: DOD is working on the exact GAO recommendation named in the chapter, but it is not finished. Most of the steps listed began before 2025.",
+    "uncertain": "The date of GAO's latest status update was not shown; DOD's progress since then is not known.",
+    "sources": [
+      {
+        "label": "DOD Cybersecurity: Enhanced Attention Needed to Ensure Cyber Incidents Are Appropriately Reported and Shared (GAO-23-105084)",
+        "publisher": "U.S. Government Accountability Office",
+        "type": "government",
+        "url": "https://www.gao.gov/products/gao-23-105084"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-114",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "An Irregular Warfare Center already exists in law (10 U.S.C. 345). The FY2026 defense authorization law, signed December 18, 2025, moved oversight of the center to the Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict and approved $6 million for an \"Irregular Warfare Center of Excellence.\"",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 NDAA (P.L. 119-60) changes the center's oversight and authorizes funding."
+      }
+    ],
+    "closeness": "Direct: the center the chapter asks for exists and is funded. It was created by Congress before 2025, so the recent action is a change in oversight and funding, not a new center.",
+    "uncertain": "The center's size, staffing, and activities in 2025-2026 were not checked; the funding figure is an authorization, not an appropriation. Newest source is from December 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-60 (FY2026 National Defense Authorization Act, including the Coast Guard Authorization Act of 2025)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

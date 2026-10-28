@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ch01-002",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "A November 2025 records request from Senate Democrats says the current White House Counsel adopted a new policy on contacts with agencies, while the Justice Department's manual still contains the older policy. News reports also describe a February 2025 Justice Department memo that loosened limits on contacts with the White House. The text of neither policy was found.",
+    "key_dates": [
+      {
+        "date": "2025-11-21",
+        "event": "Senate Democrats' records request asks the Justice Department about the new White House contacts policy."
+      }
+    ],
+    "closeness": "Broader: the contacts policy appears to have been reexamined and changed, as the chapter suggests, but what the new policy allows, and whether it adds channels of communication, is not known.",
+    "uncertain": "The new White House Counsel policy is known only from how a Senate records request describes it; a reported February 9, 2025 Justice Department memo could not be found. Newest source is from November 2025.",
+    "sources": [
+      {
+        "label": "Records request to the Justice Department on White House contacts policy (Nov. 21, 2025)",
+        "publisher": "Office of Sen. Sheldon Whitehouse, U.S. Senate",
+        "type": "government",
+        "url": "https://www.whitehouse.senate.gov/wp-content/uploads/2025/11/White-House-Contacts-FOIA-Request-OAG-OIP-Andrew-Fiorillo-11-21-2025.pdf"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "The new White House Counsel contacts policy and the reported Feb. 9, 2025 DOJ memo are known only secondhand; their text was not seen."
+  },
+  {
+    "id": "ch01-007",
+    "status": "in-effect-challenged",
+    "match": "partial",
+    "happened": "On his first day, January 20, 2025, President Trump signed Executive Order 14171. It brought back Schedule F under a new name, \"Schedule Policy/Career.\" OPM finished the rule in early 2026, and a June 3, 2026 order moved about 8,000 employees into the new category.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14171 revives Schedule F as Schedule Policy/Career."
+      },
+      {
+        "date": "2026-02",
+        "event": "OPM issues the final rule (took effect in March 2026)."
+      },
+      {
+        "date": "2026-06-03",
+        "event": "Executive order moves about 8,000 employees into the category."
+      }
+    ],
+    "legal": "Lawsuits by federal employee unions and others are pending in federal district courts, including in D.C. and Maryland. No injunction or final ruling was found, per a Congressional Research Service summary.",
+    "closeness": "The recommendation is about the Office of Presidential Personnel planning early for political staffing, with Schedule F as an example. A day-one order shows Schedule F was ready at the start, but the office's internal planning is not public. Same actions as ch03-015.",
+    "uncertain": "How the Office of Presidential Personnel planned its staffing needs is not documented in public sources. Court status comes from CRS and news summaries, not dockets. Newest source is from June 2026.",
+    "sources": [
+      {
+        "label": "Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce (EO 14171)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/"
+      },
+      {
+        "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11412.html"
+      },
+      {
+        "label": "Trump moves about 8,000 federal positions to Schedule Policy/Career",
+        "publisher": "Federal News Network",
+        "type": "news",
+        "url": "https://federalnewsnetwork.com/workforce/2026/06/trump-moves-about-8000-federal-positions-to-schedule-policy-career/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch01-008",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Presidential Personnel Office has carried out some firings directly. On May 8, 2025, its deputy director, Trent Morse, emailed Librarian of Congress Carla Hayden to say her job was ended effective immediately.",
+    "key_dates": [
+      {
+        "date": "2025-05-08",
+        "event": "Presidential Personnel Office emails the Librarian of Congress that she is fired."
+      }
+    ],
+    "closeness": "Partial: the personnel office has acted as the office that delivers firings, as the chapter suggests. No order formally making it responsible for hiring and firing political staff across agencies was found.",
+    "uncertain": "How much of the hiring and firing of agency political staff the office controls day to day is not public. Searched Federal Register presidential documents and news. Newest source is from May 2025.",
+    "sources": [
+      {
+        "label": "Librarian of Congress fired",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://www.npr.org/2025/05/09/g-s1-65271/librarian-of-congress-fired"
+      },
+      {
+        "label": "Trump abruptly fires Librarian of Congress",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcnews.com/politics/trump-administration/trump-abruptly-fires-librarian-congress-rcna205749"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch01-010",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No specific policy was found on keeping groups of political appointees just below senior agency leaders. Related changes to the career workforce, such as Schedule Policy/Career, are covered in ch01-007.",
+    "closeness": "No action matching this staffing idea was found. Schedule Policy/Career (ch01-007) affects career employees, not political appointees.",
+    "uncertain": "Searched Federal Register presidential documents and existing project research. Appointee staffing levels by agency are not tracked in the sources checked, and no web search was possible.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "No data source tracks political appointee staffing just below senior agency levels; needs reporting or OPM data on appointee bench strength in 2025-2026."
+  },
+  {
+    "id": "ch01-015",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In January 2025, President Trump signed orders on each listed topic, including immigration enforcement (EO 14159), energy production (EO 14154), and ending diversity, equity and inclusion programs in government (EO 14151). Which White House policy council led each effort is not stated in the orders.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Orders on immigration enforcement, energy, and federal DEI programs signed."
+      }
+    ],
+    "closeness": "The administration acted early on all the listed priorities, but the recommendation is about the policy councils leading the work. The orders do not show which council led, so this matches only the general direction.",
+    "uncertain": "The internal role of the National Security Council, National Economic Council and Domestic Policy Council in these efforts is not public in the sources checked.",
+    "sources": [
+      {
+        "label": "Executive Order 14159: Protecting the American People Against Invasion",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-02006/protecting-the-american-people-against-invasion"
+      },
+      {
+        "label": "Executive Order 14154: Unleashing American Energy",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01956/unleashing-american-energy"
+      },
+      {
+        "label": "Executive Order 14151: Ending Radical and Wasteful Government DEI Programs and Preferencing",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Orders on each topic are confirmed, but which policy council led each effort is not public; needs reporting on the councils' coordinating role."
+  },
+  {
+    "id": "ch01-016",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In May 2025, the White House began a major cut to the National Security Council staff under Marco Rubio, then acting national security adviser. About 90 to 95 policy experts on loan from other agencies were among those removed and could return to their home agencies.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "News reports say the NSC staff overhaul is underway; detailees sent back to their agencies."
+      }
+    ],
+    "closeness": "Close match: the number of detailees on the NSC staff was sharply reduced. It was done about four months into the term, not as a set limit written into policy. Same action as ch02-029.",
+    "uncertain": "The final size of the NSC staff and how many detailees remain are not confirmed. Newest source is from May 2025.",
+    "sources": [
+      {
+        "label": "White House conducting massive overhaul of National Security Council, officials say (AP)",
+        "publisher": "WSLS / Associated Press",
+        "type": "news",
+        "url": "https://www.wsls.com/news/politics/2025/05/23/white-house-conducting-massive-overhaul-of-national-security-council-officials-say/"
+      },
+      {
+        "label": "White House slashing staff in major overhaul of National Security Council, officials say",
+        "publisher": "Scripps News",
+        "type": "news",
+        "url": "https://www.scrippsnews.com/politics/white-house-slashing-staff-in-major-overhaul-of-national-security-council-officials-say"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch01-005",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On October 31, 2025, a National Security Council memo barred reporters from entering 'Upper Press,' the press secretary's office area next to the Oval Office, without an appointment. Before, credentialed reporters could stop by on short notice. The memo said communications staff now handle sensitive security material.",
+    "key_dates": [
+      {
+        "date": "2025-10-31",
+        "event": "Reporters barred from the 'Upper Press' area without an appointment"
+      }
+    ],
+    "closeness": "The White House cut back one area long open to the press, which fits the chapter's call to reexamine press space. No broader removal of permanent press workspace, such as the briefing room or booths, was found.",
+    "uncertain": "Later changes to press workspace, for example during White House construction in 2025-2026, were not checked. Newest source: November 2025.",
+    "sources": [
+      {
+        "label": "White House restricts press office access, citing sensitive material",
+        "publisher": "Al Jazeera",
+        "type": "news",
+        "url": "https://www.aljazeera.com/news/2025/10/31/white-house-restricts-press-office-access-citing-sensitive-material"
+      },
+      {
+        "label": "White House restricts press access near Oval Office",
+        "publisher": "The Washington Times",
+        "type": "news",
+        "url": "https://www.washingtontimes.com/news/2025/nov/1/white-house-restricts-press-access-near-oval-office/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch01-006",
+    "status": "in-effect-challenged",
+    "match": "direct",
+    "happened": "On February 25, 2025, the White House said it would take over choosing which news outlets join the presidential press pool, a job the White House Correspondents' Association had long done. It also barred the Associated Press from pool events after a dispute over the AP's use of 'Gulf of Mexico.' The AP sued.",
+    "key_dates": [
+      {
+        "date": "2025-02-25",
+        "event": "White House announces it will choose press pool members instead of the Correspondents' Association"
+      },
+      {
+        "date": "2025-04-08",
+        "event": "District court orders AP's access restored but pauses its order for appeal"
+      },
+      {
+        "date": "2025-06-06",
+        "event": "Appeals court, 2-1, lets the White House keep the AP out of the Oval Office and Air Force One for now"
+      },
+      {
+        "date": "2025-11-24",
+        "event": "D.C. Circuit scheduled to hear arguments on the merits of the appeal"
+      }
+    ],
+    "legal": "In Associated Press v. Budowich, the U.S. District Court for D.C. granted the AP a preliminary injunction on April 8, 2025. On June 6, 2025, a D.C. Circuit panel partly stayed that order, 2-1, for small spaces like the Oval Office; the full D.C. Circuit denied rehearing on July 22, 2025. The merits appeal (No. 25-5109) was set for argument on November 24, 2025; no decision was found as of October 2026.",
+    "closeness": "The Correspondents' Association no longer runs the pool, as the chapter suggests reconsidering. The White House runs it itself rather than handing the job to a different group.",
+    "uncertain": "No merits decision from the D.C. Circuit was found in an October 2026 search, but the court docket itself could not be opened, so a recent ruling could have been missed. The takeover date comes from case summaries, not a White House document.",
+    "sources": [
+      {
+        "label": "Appeals court allows Trump to ban AP from smaller spaces for now",
+        "publisher": "CBS News",
+        "type": "news",
+        "url": "https://www.cbsnews.com/amp/news/appeals-court-allows-trump-to-ban-ap-from-white-house-press-pool-for-now"
+      },
+      {
+        "label": "Two D.C. Circuit judges' reservations about the circuit's AP decision (en banc denial)",
+        "publisher": "Reason (The Volokh Conspiracy)",
+        "type": "academic",
+        "url": "https://reason.com/volokh/2025/07/23/two-d-c-circuit-judges-reservations-about-the-circuits-white-house-press-pool-ap-gulf-of-america-decision/printer/"
+      },
+      {
+        "label": "Brief of the Associated Press, D.C. Circuit No. 25-5109",
+        "publisher": "Institute for Free Speech (court filing)",
+        "type": "court",
+        "url": "https://www.ifs.org/wp-content/uploads/2025/11/AP-Appellees-Brief.pdf"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Confirm on the D.C. Circuit docket (No. 25-5109, argued after Nov. 24, 2025) whether a merits ruling has issued."
+  },
+  {
+    "id": "ch01-003",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "After the change in administration, the Justice Department told courts it had reconsidered positions taken under the previous administration. For example, on February 7, 2025, the Solicitor General told the Supreme Court that the government's earlier position in United States v. Skrmetti, a case about a Tennessee law, no longer represented the United States' view.",
+    "key_dates": [
+      {
+        "date": "2025-02-07",
+        "event": "Solicitor General letter to the Supreme Court withdrawing the prior position in United States v. Skrmetti."
+      }
+    ],
+    "closeness": "Partial: the government did reverse earlier legal positions in pending cases, as recommended. The public record shows the Justice Department doing this; whether the White House Counsel led a formal review, as the chapter describes, is not public.",
+    "uncertain": "A full list of reversed positions was not compiled; news reports describe several more cases in early 2025. The White House Counsel's internal role is not known. Newest source is from February 2025.",
+    "sources": [
+      {
+        "label": "Letter of the Solicitor General in United States v. Skrmetti, No. 23-477 (Feb. 7, 2025)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/DocketPDF/23/23-477/342223/20250207133625781_Letter%2023-477.pdf"
+      },
+      {
+        "label": "Docket for United States v. Skrmetti, No. 23-477",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/23-477.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "ch10-009",
+    "case_against": "Price Loss Coverage and Agriculture Risk Coverage pay farmers when crop prices or revenues fall below set levels. Without a steady safety net, Congress has usually stepped in with emergency bailouts when prices crash, which are harder to plan for and cost billions. In 2018, for example, USDA approved up to $12 billion in aid after other countries put retaliatory tariffs on U.S. farm goods.",
+    "harms": [
+      {"who": "Grain, cotton and other crop farmers", "what": "They would lose regular protection against long price slumps that can wipe out a year's income."},
+      {"who": "Taxpayers", "what": "Emergency payments passed after a crisis can be large and unpredictable, as the record from fiscal 2000 and 2018 shows."}
+    ],
+    "history": [
+      {"when": "1996-2000, United States", "what": "Under the 1996 farm bill, grain and cotton growers got fixed contract payments. When crop prices fell, Congress passed nearly $15 billion in emergency farm aid in fiscal 2000 alone, on top of about $15 billion in regular payments.", "lesson": "Removing price protection did not end farm spending. It shifted it to emergency bailouts. Repealing ARC and PLC could repeat that pattern."}
+    ],
+    "sources": [
+      {"label": "Emergency Farm Assistance in FY2000: Description and State Distribution (RS20696)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/RS20696.html"},
+      {"label": "Farm Policy: USDA's 2018 Trade Aid Package (R45310)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R45310.html"},
+      {"label": "Farm Bill Primer: Farm Safety Net Programs (IF12218)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF12218.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-015",
+    "case_against": "Research shows SNAP work requirements mostly push people off food aid without helping them find jobs. A peer-reviewed study of Virginia found that work requirements cut participation among affected adults by 53%, with no clear effect on employment, and that homeless adults were especially likely to be screened out. The 2025 law applied the rules to adults up to 64 and to parents of children 14 and older. It also ended exemptions for veterans, homeless people and former foster youth.",
+    "harms": [
+      {"who": "Low-income adults, including older workers up to age 64", "what": "CBO estimated the new work rules would cut SNAP participation by about 2.4 million people in an average month."},
+      {"who": "Veterans, homeless people and former foster youth", "what": "They lost exemptions they had before, so they can now be cut off after three months without meeting the hours rule."},
+      {"who": "Parents of teenagers", "what": "Parents whose youngest child is 14 or older now face the work requirement, putting family food budgets at risk."}
+    ],
+    "history": [
+      {"when": "2013, Virginia", "what": "Virginia brought back SNAP work requirements in October 2013 after suspending them during the Great Recession. Economists found exits from SNAP rose 64% among affected adults, with no clear rise in employment.", "lesson": "When work requirements return, many people lose food aid without gaining work. The 2025 law applies these rules to more people than Virginia did."}
+    ],
+    "sources": [
+      {"label": "Employed in a SNAP? The Impact of Work Requirements on Program Participation and Labor Supply (Gray et al., 2023)", "publisher": "American Economic Journal: Economic Policy", "type": "academic", "url": "https://www.aeaweb.org/doi/10.1257/pol.20200561"},
+      {"label": "Employed in a SNAP? (working paper)", "publisher": "National Bureau of Economic Research", "type": "academic", "url": "https://nber.org/papers/w28877"},
+      {"label": "Reports show more than 2.7 million will lose SNAP benefits", "publisher": "Civil Eats", "type": "news", "url": "https://civileats.com/2025/08/12/congressional-budget-office-reports-more-than-2-7-million-americans-will-lose-snap-benefits/"},
+      {"label": "Public Law 119-21 (One Big Beautiful Bill Act)", "publisher": "GovInfo", "type": "government", "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-017",
+    "case_against": "Broad-based categorical eligibility lets low-income families with modest savings or earnings just above the regular limit keep food aid, so they are not punished for saving or taking a raise. When USDA proposed ending it in 2019, its own estimate was that about 3.1 million people would lose SNAP. USDA also said the change could hurt food security and lower savings among those cut off.",
+    "harms": [
+      {"who": "Working families with incomes near the limit", "what": "USDA estimated 1.7 million households, with 3.1 million people, would no longer qualify under its 2019 proposal."},
+      {"who": "Families trying to save", "what": "In most states that use this option there is no asset test, so ending it would bring back limits that discourage saving."}
+    ],
+    "sources": [
+      {"label": "Revision of Categorical Eligibility in SNAP (proposed rule, July 24, 2019)", "publisher": "Federal Register", "type": "government", "url": "https://www.govinfo.gov/content/pkg/FR-2019-07-24/html/2019-15670.htm"},
+      {"label": "The Supplemental Nutrition Assistance Program (SNAP): Categorical Eligibility (R42054)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R42054.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-018",
+    "case_against": "The 2021 update to the Thrifty Food Plan was the review the 2018 farm bill required, which says USDA must re-check what the plan contains every five years. It raised SNAP benefits by about 21%. Rolling it back would cut grocery money for every household on SNAP. The 2025 law already limits future updates so they cannot raise costs beyond inflation.",
+    "harms": [
+      {"who": "Households on SNAP", "what": "More than 40 million people rely on SNAP, and their benefit amounts are based on the Thrifty Food Plan."}
+    ],
+    "sources": [
+      {"label": "Farm Bill Primer: SNAP and Nutrition Title Programs (IF12255)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF12255.html"},
+      {"label": "SNAP and Related Nutrition Programs in P.L. 119-21: An Overview (R48552)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R48552.html"},
+      {"label": "Reports show more than 2.7 million will lose SNAP benefits", "publisher": "Civil Eats", "type": "news", "url": "https://civileats.com/2025/08/12/congressional-budget-office-reports-more-than-2-7-million-americans-will-lose-snap-benefits/"}
+    ],
+    "recheck": "No study was found on how well SNAP benefits covered food costs before and after 2021; the case rests on the size of the cut.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-023",
+    "case_against": "Community eligibility lets high-poverty schools serve free meals to every student without paperwork. Congress created it to get more children fed, cut forms for schools and families, and end the stigma of being the poor kid in the lunch line. By the 2018-2019 school year, about 30% of schools in the lunch program used it, serving nearly 13.7 million students. Ending it would bring back applications and leave some hungry children out.",
+    "harms": [
+      {"who": "Students in high-poverty schools", "what": "Children whose families do not fill out forms could lose free meals, and others could face the cafeteria stigma CEP was meant to remove."},
+      {"who": "School districts", "what": "Schools would have to collect and check meal applications again instead of serving everyone."}
+    ],
+    "sources": [
+      {"label": "Serving Free School Meals through the Community Eligibility Provision (CEP): Background and Participation (R46371)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R46371.html"}
+    ],
+    "as_of": "2026-10-27"
+  }
+]

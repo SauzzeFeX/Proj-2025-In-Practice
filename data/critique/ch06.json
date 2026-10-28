@@ -1,0 +1,121 @@
+[
+  {
+    "id": "ch06-007",
+    "case_against": "Freezing all foreign aid at once stops programs that keep people alive. Medicine, food and clinic care cannot simply be paused and restarted later. After the 2025 freeze and the cancellations that followed, researchers writing in The Lancet estimated that cutting USAID programs by about 83% could lead to more than 14 million extra deaths by 2030. A review of programs could have happened while lifesaving work continued.",
+    "harms": [
+      {"who": "Young children in low-income countries", "what": "The Lancet study projected more than 4.5 million extra deaths among children under 5 by 2030, about 700,000 a year, if the cuts continue."},
+      {"who": "People living with HIV", "what": "A 2025 study in The Lancet HIV estimated that donor aid cuts plus an end to PEPFAR support could mean 0.77 to 2.93 million more HIV deaths from 2025 to 2030."},
+      {"who": "Aid groups and their workers", "what": "Groups doing work the government had already approved were left unpaid. Some sued, and the case reached the Supreme Court."}
+    ],
+    "sources": [
+      {"label": "Research finds more than 14 million preventable deaths by 2030 if USAID defunding continues", "publisher": "UCLA Fielding School of Public Health", "type": "academic", "url": "https://ph.ucla.edu/news-events/news/research-finds-more-14-million-preventable-deaths-2030-if-usaid-defunding"},
+      {"label": "Study of USAID funding and deaths, with projections to 2030 (Cavalcanti et al., 2025)", "publisher": "The Lancet", "type": "academic", "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01186-9/fulltext"},
+      {"label": "Nearly 3 million extra deaths by 2030 could result from HIV funding cuts, study suggests", "publisher": "Live Science", "type": "news", "url": "https://www.livescience.com/health/hiv/nearly-3-million-extra-deaths-by-2030-could-result-from-hiv-funding-cuts-study-suggests"},
+      {"label": "Department of State v. AIDS Vaccine Advocacy Coalition (case file)", "publisher": "SCOTUSblog", "type": "news", "url": "https://www.scotusblog.com/cases/case-files/department-of-state-v-aids-vaccine-advocacy-coalition"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-009",
+    "case_against": "A blanket order to stop honoring agreements the Senate has not ratified would throw away commitments the U.S. has made, including climate agreements. Walking away tells other countries that U.S. promises last only until the next election. The U.S. is the only country that has joined the Paris climate agreement and then left it, and it has now done so twice.",
+    "harms": [
+      {"who": "U.S. diplomats and negotiators", "what": "Partners may be less willing to make deals if the U.S. can drop commitments with each change of president."},
+      {"who": "People exposed to climate risks", "what": "Leaving the Paris agreement and the UN climate treaty removes the U.S. from the main forums where countries set shared climate goals."}
+    ],
+    "sources": [
+      {"label": "U.S. Withdrawal from the Paris Agreement: Process and Potential Effects (R48504)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R48504.html"},
+      {"label": "Fact sheet: President Trump withdraws the United States from international organizations", "publisher": "The White House", "type": "government", "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-017",
+    "case_against": "The refugee program is for people who have already been screened and found to face persecution. Cutting it indefinitely leaves them stuck in danger or in camps. For fiscal 2026 the cap is the lowest in the program's history. Through June 30, 2026, the U.S. admitted 7,730 refugees, and CRS reports that all but three were South African. Choosing refugees mainly from one group undercuts the program's promise to judge people by the danger they face.",
+    "harms": [
+      {"who": "Refugees fleeing persecution around the world", "what": "People from almost every country, including those already in the screening process, were shut out after the January 2025 suspension."},
+      {"who": "Afghan refugees", "what": "CRS counted only three Afghan refugees among the 7,730 admitted in fiscal 2026 through June 30."}
+    ],
+    "sources": [
+      {"label": "U.S. Refugee Admissions Program in FY2025 and FY2026 (IF13277)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF13277.html"},
+      {"label": "Presidential Determination on Refugee Admissions for Fiscal Year 2026", "publisher": "Federal Register", "type": "government", "url": "https://www.govinfo.gov/content/pkg/FR-2025-10-31/pdf/2025-19752.pdf"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-018",
+    "case_against": "Remain in Mexico makes people seeking asylum wait in Mexico while their U.S. cases move forward. After reviewing the program, the Department of Homeland Security concluded in 2021 that its benefits did not outweigh its costs, especially the harm asylum seekers could face in Mexico. The newer deals send asylum seekers to Guatemala and Honduras, whose governments have said they did not sign formal safe third country agreements.",
+    "harms": [
+      {"who": "Asylum seekers, including families", "what": "They are made to wait in Mexico or sent to other countries, where DHS itself found they could face harm."},
+      {"who": "Guatemala and Honduras", "what": "These countries are asked to take in asylum seekers from elsewhere, though their own officials say no formal safe third country agreement was signed."}
+    ],
+    "sources": [
+      {"label": "Supreme Court Rules That Migrant Protection Protocols Rescission Was Not Unlawful (LSB10798)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB10798.html"},
+      {"label": "US signs agreements with Guatemala and Honduras to take asylum seekers", "publisher": "KRGV", "type": "news", "url": "https://www.krgv.com/news/us-signs-agreements-with-guatemala-and-honduras-to-take-asylum-seekers"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-028",
+    "case_against": "Maximum pressure was already tried, and it did not stop Iran's nuclear program. After the U.S. left the nuclear deal in May 2018 and brought sanctions back, CRS reports that Iran began breaking the deal's limits in mid-2019. That shortened the time experts thought Iran would need to get enough material for a bomb. Sanctions with no path back to a deal can push Iran's program forward instead of stopping it.",
+    "harms": [
+      {"who": "The U.S. and its partners in the Middle East", "what": "CRS reports that Iran answered rising sanctions after 2019 with nuclear steps and provocations in the Persian Gulf and Iraq."}
+    ],
+    "history": [
+      {"when": "2018-2019, United States and Iran", "what": "On May 8, 2018, President Trump ended U.S. participation in the 2015 nuclear deal and reimposed sanctions. By mid-2019, Iran began exceeding many of the deal's limits on its nuclear program.", "lesson": "The same strategy led Iran to expand its program, not end it. Today differs because UN sanctions have also returned, but the earlier result is a warning."}
+    ],
+    "sources": [
+      {"label": "Iran Sanctions (RS20871)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/RS20871.html"},
+      {"label": "Fact sheet: President Trump restores maximum pressure on Iran", "publisher": "The White House", "type": "government", "url": "https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-maximum-pressure-on-iran/"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-046",
+    "case_against": "Leaving international groups does not make them go away. It means other countries write the rules without the U.S. at the table. CRS notes concern that leaving the World Health Organization could let countries like China gain influence there. Leaving is fast, but getting back in can take years.",
+    "harms": [
+      {"who": "Americans who rely on international rules", "what": "The U.S. loses its voice in the 66 organizations it chose to leave in January 2026."},
+      {"who": "Programs these groups run", "what": "The January 2026 order also stopped U.S. funding to the groups it left."}
+    ],
+    "history": [
+      {"when": "1984-2003, UNESCO", "what": "The U.S. left UNESCO, the UN's education and culture agency, in 1984 over concerns about politics and spending. It did not return until 2003.", "lesson": "Once the U.S. leaves, coming back can take nearly 20 years. CRS notes UNESCO did make reforms while the U.S. was gone, so the record is mixed, but the U.S. had no vote during that time."}
+    ],
+    "sources": [
+      {"label": "Fact sheet: President Trump withdraws the United States from international organizations", "publisher": "The White House", "type": "government", "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/"},
+      {"label": "The World Health Organization (WHO): Background and U.S. Withdrawal (IN12496)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IN12496.html"},
+      {"label": "The United Nations Educational, Scientific, and Cultural Organization (UNESCO) (R42999)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R42999.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-051",
+    "case_against": "Cutting off aid groups that offer or discuss abortion does not seem to reduce abortions. A Stanford study in The Lancet Global Health looked at 26 African countries. It found that when the Mexico City Policy was in force, abortions rose about 40% in the countries most affected, because women lost access to birth control. The 2026 rules extend the policy to most foreign aid, so even more clinics could lose funding.",
+    "harms": [
+      {"who": "Women in low-income countries", "what": "The Stanford study found birth control use fell about 14% and pregnancies rose about 12% in heavily affected countries while the policy was in force."},
+      {"who": "Health clinics and aid groups", "what": "Groups that will not accept the rules lose U.S. funding, including for services unrelated to abortion."}
+    ],
+    "history": [
+      {"when": "2001-2008, sub-Saharan Africa", "what": "Researchers compared abortion rates in 26 countries while the Mexico City Policy was in force (2001-2008) with years when it was not. Abortions rose about 40% in countries most exposed to the policy.", "lesson": "The last broad use of this policy was linked to more abortions, not fewer. Today's version is wider, covering most foreign aid instead of mainly family planning."}
+    ],
+    "sources": [
+      {"label": "U.S. foreign policy to restrict abortion funding results in more abortions", "publisher": "Stanford University", "type": "academic", "url": "https://news.stanford.edu/stories/2019/06/u-s-foreign-policy-restrict-abortion-funding-results-abortions"},
+      {"label": "USA aid policy and induced abortion in sub-Saharan Africa: an analysis of the Mexico City Policy (Brooks, Bendavid, Miller)", "publisher": "The Lancet Global Health (via DOAJ)", "type": "academic", "url": "https://doaj.org/article/7ce1e807f4e84717b4fcf461b97c6ab3"},
+      {"label": "Protecting Life in Foreign Assistance rule", "publisher": "Federal Register", "type": "government", "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-27/pdf/2026-01519.pdf"},
+      {"label": "The Mexico City Policy: An Explainer", "publisher": "KFF", "type": "academic", "url": "https://www.kff.org/global-health-policy/the-mexico-city-policy-an-explainer/"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch06-052",
+    "case_against": "Diseases do not stop at borders. The World Health Organization helps countries work together on threats like pandemic flu, and the U.S. had long been its largest funder. CRS warned that leaving could hurt the WHO's work on pandemic preparedness and let China gain influence. The U.S. now has no vote on global health rules, though Americans still face the same disease threats.",
+    "harms": [
+      {"who": "Americans facing future outbreaks", "what": "The U.S. lost its formal role in the global system for tracking and responding to outbreaks when the withdrawal took effect in January 2026."},
+      {"who": "People in poor countries hit by health emergencies", "what": "CRS noted the withdrawal may affect the WHO's ability to provide health care in humanitarian emergencies."}
+    ],
+    "sources": [
+      {"label": "The World Health Organization (WHO): Background and U.S. Withdrawal (IN12496)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IN12496.html"},
+      {"label": "U.S. Withdrawal from the World Health Organization: Process and Implications (R46575)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R46575.html"},
+      {"label": "United States completes WHO withdrawal", "publisher": "U.S. Department of Health and Human Services", "type": "government", "url": "https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html"}
+    ],
+    "as_of": "2026-10-27"
+  }
+]

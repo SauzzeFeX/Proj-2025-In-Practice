@@ -1,0 +1,2109 @@
+[
+  {
+    "id": "ch09-001",
+    "status": "in-effect-challenged",
+    "match": "partial",
+    "happened": "In 2025 the administration canceled most USAID programs, and USAID stopped running foreign aid on July 1, 2025, with remaining work moved to the State Department. Congress canceled about $7.9 billion in foreign aid funds in July 2025. The fiscal 2026 spending law gave about $112 million for USAID operating costs, down 93% from $1.57 billion the year before.",
+    "key_dates": [
+      {
+        "date": "2025-03",
+        "event": "State Department says it will cancel more than 80% of USAID programs."
+      },
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops carrying out foreign aid; remaining programs move to State."
+      },
+      {
+        "date": "2025-07-24",
+        "event": "Rescissions Act of 2025 (P.L. 119-28) cancels about $7.9 billion in foreign aid funds."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "Fiscal 2026 spending law cuts USAID operating funds by about 93%."
+      }
+    ],
+    "legal": "Several lawsuits challenged USAID's closure and aid freeze in federal court in D.C. and Maryland. A federal judge found in March 2025 that the fast closure likely violated the Constitution; on September 26, 2025, the Supreme Court let the administration withhold about $4 billion while litigation continues.",
+    "closeness": "Much bigger than the recommendation, which called for cutting USAID to at least its 2019 budget. USAID was instead largely closed and its remaining work folded into State.",
+    "uncertain": "I did not compare 2026 spending to 2019 levels directly; CRS does not give them. The final outcome of the USAID closure lawsuits is not confirmed. Newest source: July 2026 (CRS).",
+    "sources": [
+      {
+        "label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "After months of cuts, State Department says it's officially shuttering USAID",
+        "publisher": "ABC News via WPVI",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "Senate clears amended bill to claw back billions in foreign aid and public media funding",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/management/2025/07/senate-clears-amended-bill-claw-back-billions-foreign-aid-and-public-media-funding/406793"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-002",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Congress canceled about $7.9 billion in already-approved foreign aid in July 2025. For fiscal 2026, Congress provided about $50.1 billion for the State Department and foreign aid, signed February 3, 2026. CRS calls this a 3.5% cut from 2025; House Republicans describe it as about 16% lower. The President had asked for $31.1 billion, a 41% cut.",
+    "key_dates": [
+      {
+        "date": "2025-07-24",
+        "event": "Rescissions Act of 2025 signed."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "Fiscal 2026 State and foreign aid funding signed (P.L. 119-75, Division F)."
+      }
+    ],
+    "legal": "Court cases over withheld aid are described in ch06-007 and ch09-001.",
+    "closeness": "Same goal, smaller scale. Congress made real cuts, but the fiscal 2026 cut was far smaller than the administration requested. Most of the reduction in aid came from executive cancellations and the rescission, not the regular budget.",
+    "uncertain": "The size of the cut depends on how it is measured; sources range from 3.5% to 16%. I did not confirm a figure for the whole international affairs (150) account. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "President Trump signs Chairman Diaz-Balart's FY26 National Security bill",
+        "publisher": "Office of Rep. Mario Diaz-Balart",
+        "type": "government",
+        "url": "https://mariodiazbalart.house.gov/media-center/press-releases/president-trump-signs-chairman-diaz-balarts-fy26-national-security"
+      },
+      {
+        "label": "Rescissions Act of 2025 (H.R. 4), enrolled text",
+        "publisher": "LegiScan",
+        "type": "government",
+        "url": "https://legiscan.com/US/text/HB4/2025"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-003",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "Secretary of State Marco Rubio also served as acting USAID Administrator in 2025, and foreign aid was moved into the State Department. On August 21, 2025, Rubio gave the State Department's Under Secretary for Foreign Assistance, Humanitarian Affairs and Religious Freedom all the powers of the Director of Foreign Assistance, along with those of several aid offices.",
+    "key_dates": [
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops running foreign aid; work moves to State."
+      },
+      {
+        "date": "2025-08-21",
+        "event": "Director of Foreign Assistance powers delegated to the new under secretary."
+      }
+    ],
+    "legal": "Lawsuits over USAID's closure are covered in ch09-001.",
+    "closeness": "Foreign aid came under one leader at State, but at under secretary rank rather than Deputy Secretary rank, and not through a USAID Administrator. USAID itself was largely closed instead.",
+    "uncertain": "Whether the separate Director of Foreign Assistance title is still filled is not known. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "Delegation of Authority No. 597 to the Under Secretary for Foreign Assistance, Humanitarian Affairs, and Religious Freedom",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/05/2025-17084/delegation-of-authority-to-the-under-secretary-for-foreign-assistance-humanitarian-affairs-and"
+      },
+      {
+        "label": "After months of cuts, State Department says it's officially shuttering USAID",
+        "publisher": "ABC News via WPVI",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "The Lenacapavir Partnership and the Evolution of U.S. Foreign Assistance (Under Secretary for Foreign Assistance, Humanitarian Affairs and Religious Freedom)",
+        "publisher": "U.S. Department of State",
+        "type": "government",
+        "url": "https://www.state.gov/releases/under-secretary-for-foreign-assistance-humanitarian-affairs-and-religious-freedom/2026/04/the-lenacapavir-partnership-and-the-evolution-of-u-s-foreign-assistance"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-004",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "A January 20, 2025 order paused foreign aid and said aid must line up with an \"America First\" foreign policy. In July 2025, the President revoked the 2010 global development policy (PPD-6). The fiscal 2026 foreign aid law, signed February 3, 2026, set aside at least $400 million for a Countering PRC Influence Fund. No step rebuilt USAID's earlier counter-China office, since USAID was largely closed.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14169 pauses and reviews foreign aid."
+      },
+      {
+        "date": "2025-07-15",
+        "event": "Memo revokes PPD-6 on global development."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "Fiscal 2026 law funds the Countering PRC Influence Fund."
+      }
+    ],
+    "legal": "Court cases on the aid freeze are covered in ch06-007 and ch09-001.",
+    "closeness": "Same general direction, judging aid by U.S. interests and funding counter-China work. The Countering PRC Influence Fund has existed in yearly spending laws since before 2025; a USAID counter-China structure and rewards for countries resisting Chinese loans were not found.",
+    "uncertain": "How the State Department uses the counter-China fund, and whether it set new aid criteria about Chinese lending, was not found.",
+    "sources": [
+      {
+        "label": "Executive Order 14169, Reevaluating and Realigning United States Foreign Aid",
+        "publisher": "Federal Register (GovInfo)",
+        "type": "government",
+        "url": "https://govinfo.gov/content/pkg/FR-2025-01-30/pdf/2025-02091.pdf"
+      },
+      {
+        "label": "Memorandum: Revoking PPD-6 on U.S. Global Development Policy (July 15, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/07/31/2025-14587/revoking-ppd-6-on-us-global-development-policy"
+      },
+      {
+        "label": "Public Law 119-75, Division F (fiscal 2026 State and foreign operations appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-005",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The fiscal 2026 foreign aid law, signed February 3, 2026, sets aside at least $400 million for a Countering PRC Influence Fund. It also bars aid money from going to projects that directly support China's Belt and Road Initiative or promote Chinese-made technology, unless the Secretary of State finds no national security harm. No rule cutting off all partners that work with Chinese entities was found.",
+    "key_dates": [
+      {
+        "date": "2026-02-03",
+        "event": "Fiscal 2026 law funds the counter-China fund and limits aid tied to Chinese projects and technology."
+      }
+    ],
+    "closeness": "Partial. The law funds counter-China programs and blocks some China-linked projects, but it does not cut off every partner that deals with Chinese entities. Similar provisions appeared in spending laws before 2025.",
+    "uncertain": "How the State Department enforces these limits on partners is not known. Checked the text of P.L. 119-75.",
+    "sources": [
+      {
+        "label": "Public Law 119-75, Division F (fiscal 2026 State and foreign operations appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-007",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On January 20, 2025, President Trump revoked the U.S. International Climate Finance Plan and ordered an end to climate finance commitments under the UN climate treaty. In early 2025, the U.S. canceled $4 billion in unpaid pledges to the Green Climate Fund. USAID, which ran the 2022-2030 Climate Strategy, was largely closed in 2025.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14162 revokes the International Climate Finance Plan."
+      },
+      {
+        "date": "2025-02",
+        "event": "U.S. rescinds $4 billion in Green Climate Fund pledges."
+      },
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops carrying out foreign aid."
+      }
+    ],
+    "legal": "No court ruling found on these climate actions.",
+    "closeness": "Same goal: removing climate policy from foreign aid. I did not find a formal order rescinding USAID's Climate Strategy by name; it lost force as USAID closed and the climate finance plan was revoked.",
+    "uncertain": "Whether any climate-related aid continues at State is unclear. Congress kept Global Environment Facility funding level in fiscal 2026. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14162, Putting America First in International Environmental Agreements",
+        "publisher": "Federal Register (GovInfo)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2025-01-30/html/2025-02010.htm"
+      },
+      {
+        "label": "Trump rescinds $4B in US pledges for UN climate fund",
+        "publisher": "E&E News",
+        "type": "news",
+        "url": "https://www.eenews.net/articles/trump-rescinds-4b-in-us-pledges-for-un-climate-fund/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-008",
+    "status": "in-effect",
+    "match": "broader",
+    "happened": "On January 20, 2025, President Trump ordered withdrawal from the Paris Agreement and an end to U.S. international climate finance plans. USAID's climate programs ended as most USAID programs were canceled and the agency stopped running aid on July 1, 2025.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14162 ends international climate finance plans."
+      },
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops running foreign aid."
+      }
+    ],
+    "legal": "No court ruling found on ending the climate programs specifically.",
+    "closeness": "USAID's climate offices and programs ended, but as part of closing nearly all of USAID, which goes further than the recommendation. Same action as ch09-007.",
+    "uncertain": "I did not find a list of which climate offices closed first. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14162, Putting America First in International Environmental Agreements",
+        "publisher": "Federal Register (GovInfo)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2025-01-30/html/2025-02010.htm"
+      },
+      {
+        "label": "After months of cuts, State Department says it's officially shuttering USAID",
+        "publisher": "ABC News via WPVI",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-009",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "A January 20, 2025 executive order revoked the U.S. International Climate Finance Plan and told aid agencies, including USAID and the Development Finance Corporation, to report on undoing policies made to carry it out. It said foreign energy talks should focus on economic efficiency and American prosperity. No policy telling aid staff to actively support oil and gas development abroad was found.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14162 revokes the International Climate Finance Plan."
+      },
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops running foreign aid; work moves to State."
+      }
+    ],
+    "closeness": "Partial. Climate-finance policy that discouraged fossil fuel projects was revoked, but no step to support oil and gas reserve management in poor countries was found.",
+    "uncertain": "Whether the Development Finance Corporation or State funded oil and gas projects abroad since 2025 was not checked. Checked the Federal Register and the laws passed by the 119th Congress.",
+    "sources": [
+      {
+        "label": "Executive Order 14162, Putting America First in International Environmental Agreements",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02010/putting-america-first-in-international-environmental-agreements"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-010",
+    "status": "in-effect",
+    "match": "broader",
+    "happened": "In 2025, the U.S. ended its international climate finance plan and canceled $4 billion in unpaid pledges to the UN's Green Climate Fund. Most USAID grants, including climate grants, were canceled.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14162 ends international climate finance."
+      }
+    ],
+    "legal": "Lawsuits over canceled aid awards are covered in ch09-001.",
+    "closeness": "Funding for climate groups ended, but through broad cuts and climate finance changes, not a specific ban on groups for their advocacy.",
+    "uncertain": "I did not find a policy that names or bars specific climate advocacy groups. Newest source: 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14162, Putting America First in International Environmental Agreements",
+        "publisher": "Federal Register (GovInfo)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2025-01-30/html/2025-02010.htm"
+      },
+      {
+        "label": "Trump rescinds $4B in US pledges for UN climate fund",
+        "publisher": "E&E News",
+        "type": "news",
+        "url": "https://www.eenews.net/articles/trump-rescinds-4b-in-us-pledges-for-un-climate-fund/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-011",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "A January 20, 2025 executive order told all agencies to close DEI offices and end chief diversity officer jobs, DEI plans and equity action plans. USAID's DEI structure ended with this order and with the agency's closure in 2025.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14151 ends federal DEI offices and positions."
+      },
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops running foreign aid."
+      }
+    ],
+    "legal": "Lawsuits over the DEI orders are covered elsewhere; I found no ruling restoring USAID's DEI office.",
+    "closeness": "The DEI positions, offices and plans the text named were ended, through a government-wide order and USAID's closure.",
+    "uncertain": "I did not find a USAID-specific notice on the DEI scorecard or dashboard. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14151, Ending Radical and Wasteful Government DEI Programs and Preferencing",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+      },
+      {
+        "label": "After months of cuts, State Department says it's officially shuttering USAID",
+        "publisher": "ABC News via WPVI",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-012",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "A January 21, 2025 order revoked the rule requiring affirmative action by federal contractors and told agencies to require recipients to certify they run no illegal DEI programs. A State Department rule, effective February 26, 2026, adds a term to foreign aid grants barring promotion of what it calls \"discriminatory equity ideology.\"",
+    "key_dates": [
+      {
+        "date": "2025-01-21",
+        "event": "Executive Order 14173 signed."
+      },
+      {
+        "date": "2026-02-26",
+        "event": "State Department foreign aid DEI award term takes effect."
+      }
+    ],
+    "legal": "I found no court ruling on the 2026 award term.",
+    "closeness": "Same goal and mechanism: DEI requirements were removed from award competitions, and a new term goes further by barring DEI promotion.",
+    "uncertain": "Some lawsuits challenge the DEI certification in other settings; I did not check their status here. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14173, Ending Illegal Discrimination and Restoring Merit-Based Opportunity",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02097/ending-illegal-discrimination-and-restoring-merit-based-opportunity"
+      },
+      {
+        "label": "Combating Discriminatory Equity Ideology in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01517/combating-discriminatory-equity-ideology-in-foreign-assistance-rules"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-013",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "President Trump's January 2025 orders ended federal DEI programs and told agencies to stop promoting \"gender ideology.\" In January 2026, the State Department issued two rules adding terms to foreign aid awards that bar promoting \"discriminatory equity ideology\" and \"gender ideology.\" Both took effect February 26, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Orders 14151 and 14168 signed."
+      },
+      {
+        "date": "2026-02-26",
+        "event": "State Department DEI and gender ideology award terms take effect."
+      }
+    ],
+    "legal": "I found no court ruling on the 2026 award terms.",
+    "closeness": "Same direction, by order and rule rather than a USAID directive, since USAID's work had moved to State.",
+    "uncertain": "I could not search for lawsuits against the 2026 rules after February 2026. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Combating Discriminatory Equity Ideology in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01517/combating-discriminatory-equity-ideology-in-foreign-assistance-rules"
+      },
+      {
+        "label": "Combating Gender Ideology in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01516/combating-gender-ideology-in-foreign-assistance"
+      },
+      {
+        "label": "Executive Order 14168, Defending Women from Gender Ideology Extremism",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-015",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "A State Department rule effective February 26, 2026 adds a term to foreign aid grants, cooperative agreements and voluntary contributions barring promotion of \"discriminatory equity ideology.\" If a recipient breaks it, the government must end the aid, may seek a refund, and may suspend or debar the group.",
+    "key_dates": [
+      {
+        "date": "2026-01-27",
+        "event": "State Department publishes DEI award term rule."
+      },
+      {
+        "date": "2026-02-26",
+        "event": "Rule takes effect."
+      }
+    ],
+    "legal": "I found no court ruling on the rule.",
+    "closeness": "Direct match: funding ends for partners that promote DEI practices, with possible debarment.",
+    "uncertain": "I found no reports of the term being enforced against a specific group. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Combating Discriminatory Equity Ideology in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01517/combating-discriminatory-equity-ideology-in-foreign-assistance-rules"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-016",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Nearly all USAID staff were placed on leave or let go in 2025 as the agency was closed. A 2026 State Department rule lets the government end aid to, and suspend or debar, groups that promote \"discriminatory equity ideology.\"",
+    "key_dates": [
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops running foreign aid."
+      },
+      {
+        "date": "2026-02-26",
+        "event": "State Department DEI award term takes effect."
+      }
+    ],
+    "legal": "Lawsuits over USAID staff cuts are covered in ch09-001.",
+    "closeness": "Grantees can now be cut off and debarred for promoting DEI, as proposed. Staff were removed because USAID closed, not because of their views on DEI.",
+    "uncertain": "I found no case of a group debarred under the rule. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Combating Discriminatory Equity Ideology in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01517/combating-discriminatory-equity-ideology-in-foreign-assistance-rules"
+      },
+      {
+        "label": "After months of cuts, State Department says it's officially shuttering USAID",
+        "publisher": "ABC News via WPVI",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-018",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "USAID's gender office was not renamed. Instead, it ended along with most of USAID, which stopped running foreign aid on July 1, 2025.",
+    "key_dates": [
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops running foreign aid."
+      }
+    ],
+    "legal": "Lawsuits over USAID's closure are covered in ch09-001.",
+    "closeness": "The office's resources were moved away, as proposed, but by closing the agency, not by renaming the office under a pro-life appointee.",
+    "uncertain": "I did not find a document on what happened to the Office of Gender Equality and Women's Empowerment itself. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "After months of cuts, State Department says it's officially shuttering USAID",
+        "publisher": "ABC News via WPVI",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs a source on what happened to USAID's gender office and its functions at State; web search ran out in this pass."
+  },
+  {
+    "id": "ch09-019",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "USAID's mission staff, including gender advisors, were let go or reassigned as USAID closed in 2025. A 2026 State Department rule bars aid recipients from promoting \"gender ideology.\"",
+    "key_dates": [
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops running foreign aid."
+      }
+    ],
+    "legal": "Lawsuits over USAID's closure are covered in ch09-001.",
+    "closeness": "The gender advisor network ended, but as part of closing USAID, not as a targeted step.",
+    "uncertain": "No record specific to the gender advisors was found; their end is inferred from the closing of USAID and the release of its staff. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "After months of cuts, State Department says it's officially shuttering USAID",
+        "publisher": "ABC News via WPVI",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "Combating Gender Ideology in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01516/combating-gender-ideology-in-foreign-assistance"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-020",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "USAID's Biden-era gender policy lapsed in practice when USAID closed in 2025. In January 2026, the State Department issued a rule barring foreign aid recipients from promoting \"gender ideology.\"",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14168 on gender ideology."
+      },
+      {
+        "date": "2026-02-26",
+        "event": "State Department gender ideology award term takes effect."
+      }
+    ],
+    "legal": "I found no court ruling on the 2026 rule.",
+    "closeness": "The Biden-era policy no longer guides aid, but I found no new policy refocused on women, children and families or a revised program regulation.",
+    "uncertain": "I did not find a formal notice rescinding the USAID gender policy. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Combating Gender Ideology in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01516/combating-gender-ideology-in-foreign-assistance"
+      },
+      {
+        "label": "Executive Order 14168, Defending Women from Gender Ideology Extremism",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs whether USAID's gender policy (ADS 205) was formally rescinded; web search ran out in this pass."
+  },
+  {
+    "id": "ch09-021",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "A January 20, 2025 order told agencies to remove \"gender ideology\" from their messages, forms and documents. In January 2026, the State Department added aid award terms barring promotion of gender ideology and, under the Mexico City Policy, abortion.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14168 signed."
+      },
+      {
+        "date": "2026-02-26",
+        "event": "State Department gender and pro-life award terms take effect."
+      }
+    ],
+    "legal": "I found no court ruling on the 2026 award terms.",
+    "closeness": "Similar goal: the order and rules remove gender ideology and abortion promotion from aid documents and awards. I did not confirm removal of the specific terms \"gender equality\" or \"reproductive health.\"",
+    "uncertain": "I could not check whether USAID web pages were edited or simply taken offline. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14168, Defending Women from Gender Ideology Extremism",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+      },
+      {
+        "label": "Combating Gender Ideology in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01516/combating-gender-ideology-in-foreign-assistance"
+      },
+      {
+        "label": "Protecting Life in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01519/protecting-life-in-foreign-assistance"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-023",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 24, 2025, President Trump reinstated the Mexico City Policy by presidential memo. In January 2026, the State Department issued three rules that apply it to most non-military foreign aid, including humanitarian aid, and to U.S. groups, international organizations and foreign governments. The rules apply to new grants from February 26, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-01-24",
+        "event": "Presidential memo reinstates the Mexico City Policy."
+      },
+      {
+        "date": "2026-01-27",
+        "event": "State Department publishes final rules expanding the policy."
+      },
+      {
+        "date": "2026-02-26",
+        "event": "Expanded policy applies to new grants and cooperative agreements."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Very close: the policy now reaches nearly all foreign aid, including humanitarian aid, as recommended. It was done by memo and rules rather than one executive order, and it adds limits on diversity programs and gender identity. Contracts are left for later rules. See ch06-051.",
+    "uncertain": "KFF estimates up to $39.8 billion in aid may be affected, but actual effects are unknown. Searches in October 2026 and law-firm summaries from early 2026 found no lawsuit against the 2026 rules. Newest source: March 2026.",
+    "sources": [
+      {
+        "label": "The Mexico City Policy: An Explainer",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/global-health-policy/the-mexico-city-policy-an-explainer/"
+      },
+      {
+        "label": "Promoting Human Flourishing in Foreign Assistance rules",
+        "publisher": "Federal Register (GovInfo)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-27/pdf/2026-01519.pdf"
+      },
+      {
+        "label": "State Department issues final Mexico City Policy",
+        "publisher": "Arnold & Porter",
+        "type": "law-firm",
+        "url": "https://www.arnoldporter.com/en/perspectives/advisories/2026/03/state-department-issues-final-mexico-city-policy"
+      },
+      {
+        "label": "Chairman Mast on President Trump's expansion of the Mexico City Policy",
+        "publisher": "House Foreign Affairs Committee",
+        "type": "government",
+        "url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-on-president-trump-s-expansion-of-the-mexico-city-policy-to-ensure-us-foreign-assistance-protects-life"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-024",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In May 2025, the U.S. told the UN Population Fund (UNFPA) it would deny future funding by using the Kemp-Kasten Amendment, a law that bars aid to groups found to support coercive abortion. UNFPA said the U.S. also ended more than 40 of its humanitarian projects worth about $335 million.",
+    "key_dates": [
+      {
+        "date": "2025-05-09",
+        "event": "UNFPA responds to the U.S. decision to end funding under Kemp-Kasten."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Same result: U.S. funding to UNFPA was blocked. It was done through a Kemp-Kasten finding, a tool used in Trump's first term, rather than the executive order the recommendation described. See ch09-023.",
+    "uncertain": "I did not find the State Department's own 2025 determination text. Newest source: May 2025.",
+    "sources": [
+      {
+        "label": "UNFPA statement on U.S. funding decision",
+        "publisher": "UNFPA",
+        "type": "government",
+        "url": "https://china.unfpa.org/en/news/statement-25050901"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-025",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 24, 2025, President Trump signed a memo reinstating the Mexico City Policy and revoking President Biden's January 28, 2021 memo.",
+    "key_dates": [
+      {
+        "date": "2025-01-24",
+        "event": "Presidential memo reinstates the Mexico City Policy."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Direct match. Same action as ch09-023.",
+    "uncertain": "No open questions on this step. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "The Mexico City Policy: An Explainer",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/global-health-policy/the-mexico-city-policy-an-explainer/"
+      },
+      {
+        "label": "Protecting Life in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01519/protecting-life-in-foreign-assistance"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-026",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "A State Department rule effective February 26, 2026 applies the Mexico City Policy to U.S. groups, public international organizations, foreign governments and parastatals, and requires it in sub-awards.",
+    "key_dates": [
+      {
+        "date": "2026-01-27",
+        "event": "\"Protecting Life in Foreign Assistance\" rule published."
+      },
+      {
+        "date": "2026-02-26",
+        "event": "Rule takes effect."
+      }
+    ],
+    "legal": "I found no court ruling on the rule.",
+    "closeness": "Direct match: the exemptions the text named were removed and sub-recipients are covered. See ch09-023.",
+    "uncertain": "I could not search for lawsuits filed after February 2026. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Protecting Life in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01519/protecting-life-in-foreign-assistance"
+      },
+      {
+        "label": "The Mexico City Policy: An Explainer",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/global-health-policy/the-mexico-city-policy-an-explainer/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-027",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The 2026 State Department pro-life rule requires recipients to apply the policy to sub-recipients and lets the government monitor, end awards, require refunds, and suspend or debar violators.",
+    "key_dates": [
+      {
+        "date": "2026-02-26",
+        "event": "\"Protecting Life in Foreign Assistance\" rule takes effect."
+      }
+    ],
+    "legal": "I found no court ruling on the rule.",
+    "closeness": "Penalties including debarment match. I did not find a requirement that all groups file compliance reports, or published implementation reports.",
+    "uncertain": "The rule requires recipients to keep records and lets U.S. officials inspect documents and activities of recipients and sub-recipients, but it does not require every group to file compliance reports or require the State Department to publish implementation reports. No implementation report was found. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Protecting Life in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01519/protecting-life-in-foreign-assistance"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-030",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The fiscal 2026 foreign aid law, signed February 3, 2026, says humanitarian aid funds shall be made available for vulnerable and persecuted ethnic and religious minorities, including genocide victims, and sets aside at least $40 million for international religious freedom programs. It names no dollar amount for religious minorities themselves.",
+    "key_dates": [
+      {
+        "date": "2026-02-03",
+        "event": "Fiscal 2026 law directs aid to persecuted religious minorities."
+      }
+    ],
+    "closeness": "Partial. Congress directed funds to persecuted religious minorities, but without a set amount and through the State Department, not USAID. Similar language appeared in spending laws before 2025.",
+    "uncertain": "How much was actually spent on religious minorities is not known. Checked section 7033 of P.L. 119-75.",
+    "sources": [
+      {
+        "label": "Public Law 119-75, Division F, sec. 7033 (international religious freedom)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "CRS R48624: State, Foreign Operations: FY2026 Budget and Appropriations (updated July 15, 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-031",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In January 2026, the State Department made three standard award terms, on abortion (the Mexico City Policy), \"gender ideology,\" and \"discriminatory equity ideology,\" required in new foreign aid grants, cooperative agreements and voluntary contributions.",
+    "key_dates": [
+      {
+        "date": "2026-02-26",
+        "event": "Three State Department award terms take effect."
+      }
+    ],
+    "legal": "I found no court ruling on the rules.",
+    "closeness": "Standard policy language now goes into most aid awards, as proposed. The rules cover grants, cooperative agreements and contributions, not contracts, and do not set conditions on multilateral funding generally.",
+    "uncertain": "Whether matching clauses were added to contracts was not checked. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Protecting Life in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01519/protecting-life-in-foreign-assistance"
+      },
+      {
+        "label": "Combating Gender Ideology in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01516/combating-gender-ideology-in-foreign-assistance"
+      },
+      {
+        "label": "Combating Discriminatory Equity Ideology in Foreign Assistance (final rule, Jan. 27, 2026)",
+        "publisher": "Federal Register (State Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01517/combating-discriminatory-equity-ideology-in-foreign-assistance-rules"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-032",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no record of a political appointee named USAID's Senior Procurement Executive. USAID stopped running foreign aid on July 1, 2025, and its remaining work moved to the State Department (see ch09-001).",
+    "closeness": "Not done as described; USAID's procurement office closed with the agency.",
+    "uncertain": "No targeted search was done.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only Federal Register checks so far (no results); still needs who led USAID procurement in 2025."
+  },
+  {
+    "id": "ch09-035",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "A January 20, 2025 order paused foreign aid for 90 days while political leaders reviewed every program. The review led to canceling most USAID awards.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14169 orders review of all foreign aid."
+      }
+    ],
+    "legal": "Court cases on the aid freeze are covered in ch06-007 and ch09-001.",
+    "closeness": "Policymakers did review programs, much more broadly than proposed. I found no restored dollar-threshold review process like the Senior Official Accountability Review.",
+    "uncertain": "I did not check whether State uses a standing review for large awards. Newest source: 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14169, Reevaluating and Realigning United States Foreign Aid",
+        "publisher": "Federal Register (GovInfo)",
+        "type": "government",
+        "url": "https://govinfo.gov/content/pkg/FR-2025-01-30/pdf/2025-02091.pdf"
+      },
+      {
+        "label": "CRS R48624: State, Foreign Operations: FY2026 Budget and Appropriations (updated July 15, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-036",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In September 2025, the State Department released the America First Global Health Strategy. It moves health aid from nonprofit groups to multi-year agreements with recipient governments, which must raise their own health spending. By December 2025, agreements had been signed with nine African countries; State later reported about 30.",
+    "key_dates": [
+      {
+        "date": "2025-09",
+        "event": "America First Global Health Strategy released."
+      },
+      {
+        "date": "2025-12",
+        "event": "First bilateral health agreements announced."
+      }
+    ],
+    "legal": "No court ruling found on the strategy.",
+    "closeness": "Moves away from large NGO and contractor partners, as proposed, but mainly toward national governments rather than local groups, and covers health more than humanitarian aid. See ch22-039.",
+    "uncertain": "Agreement texts are not fully public, and how much money still goes to NGOs is unclear. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "America First Global Health Strategy (September 2025)",
+        "publisher": "U.S. Department of State",
+        "type": "government",
+        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/america-first-global-health-strategy"
+      },
+      {
+        "label": "Delivering on President Trump's Commitment: America First Global Health Strategy and Bilateral Health MOUs",
+        "publisher": "U.S. Department of State",
+        "type": "government",
+        "url": "https://www.state.gov/releases/2025/12/delivering-on-president-trumps-commitment-america-first-global-health-strategy-and-bilateral-health-mous/"
+      },
+      {
+        "label": "KFF tracker: America First bilateral global health agreements",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/global-health-policy/kff-tracker-america-first-mou-bilateral-global-health-agreements/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-037",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no expansion of USAID's New Partnership Initiative. USAID stopped running foreign aid on July 1, 2025, and its remaining work moved to the State Department (see ch09-001).",
+    "closeness": "Not done; the initiative's home agency was closed.",
+    "uncertain": "No targeted search was done.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only Federal Register checks so far (no results); still needs whether State continued the New Partnership Initiative."
+  },
+  {
+    "id": "ch09-038",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No foreign aid policy ending cost-plus contracts or requiring fixed-amount awards was found. In May 2026 the Office of Management and Budget proposed the opposite for grants: removing fixed-amount awards from government-wide grant rules, saying they limit oversight.",
+    "closeness": "No matching action found. The 2026 grant proposal moves away from fixed-amount awards.",
+    "uncertain": "The OMB proposal covers grants and cooperative agreements, not contracts, and was not final as of October 2026. Searched the Federal Register for foreign aid procurement changes.",
+    "sources": [
+      {
+        "label": "Regulation for Federal Financial Assistance (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-042",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "The September 2025 America First Global Health Strategy uses multi-year agreements with recipient countries, most of which are to include a full move to country self-reliance. The U.S. pays all frontline drug and health worker costs in FY2026 and only a share after that, and countries must increase their own spending.",
+    "key_dates": [
+      {
+        "date": "2025-09",
+        "event": "America First Global Health Strategy released."
+      },
+      {
+        "date": "2026-04",
+        "event": "Planned start of the bilateral agreements."
+      }
+    ],
+    "legal": "No court ruling found on the strategy.",
+    "closeness": "Same idea: moving PEPFAR and malaria programs toward national ownership and funding. It is still being phased in.",
+    "uncertain": "How fast countries take over costs, and how PMI is handled in each agreement, is not fully known. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "America First Global Health Strategy (September 2025)",
+        "publisher": "U.S. Department of State",
+        "type": "government",
+        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/america-first-global-health-strategy"
+      },
+      {
+        "label": "Report to Congress: The Global Health Compacts and Bilateral Agreements (May 2026)",
+        "publisher": "U.S. Department of State",
+        "type": "government",
+        "url": "https://www.state.gov/wp-content/uploads/2026/05/Report-Global-Health-Compacts-007347-HRC1393376-Accessible-05.15.2026V1.pdf"
+      },
+      {
+        "label": "KFF tracker: America First bilateral global health agreements",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/global-health-policy/kff-tracker-america-first-mou-bilateral-global-health-agreements/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-046",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In January 2025, President Trump ordered withdrawal from the World Health Organization and the U.S. rejoined the Geneva Consensus Declaration, which opposes a right to abortion. In January 2026, the U.S. announced it would leave or stop funding 66 international organizations.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Order to withdraw from the WHO."
+      },
+      {
+        "date": "2026-01-07",
+        "event": "Memo on leaving 66 international organizations."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Same general direction, financial pressure on U.N. bodies and opposing abortion language. I found no USAID or State political appointee named to coordinate this.",
+    "uncertain": "I did not check U.S. positions on specific U.N. documents. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "White House and State Department announce withdrawals from international organizations",
+        "publisher": "Sabin Center for Climate Change Law, Columbia",
+        "type": "academic",
+        "url": "https://climate.law.columbia.edu/content/white-house-and-state-department-announce-withdrawals-international-organizations"
+      },
+      {
+        "label": "Trump administration rejoins pro-life Geneva Consensus Declaration",
+        "publisher": "Catholic News Agency",
+        "type": "news",
+        "url": "https://catholicnewsagency.com/amp/news/261927/trump-administration-rejoins-pro-life-geneva-consensus-declaration"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-047",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In early April 2025, the U.S. ended funding for World Food Programme emergency food aid in 14 countries, including Afghanistan, Yemen and Syria. Days later it restored funding in six countries, including Syria, but not in Afghanistan or Yemen. For fiscal 2026, Congress replaced the disaster aid and refugee aid accounts with one humanitarian account that is about 26% smaller.",
+    "key_dates": [
+      {
+        "date": "2025-04-07",
+        "event": "WFP reports the U.S. ended emergency food aid awards in 14 countries."
+      },
+      {
+        "date": "2025-04-09",
+        "event": "AP reports aid restored in six countries, not Afghanistan or Yemen."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "Fiscal 2026 law creates a $5.4 billion International Humanitarian Assistance account."
+      }
+    ],
+    "legal": "No court ruling found specific to these cuts.",
+    "closeness": "Close for Afghanistan and Yemen, and Congress did cut disaster aid. It differs for Syria, where aid was restored. The State Department called some cuts mistakes and did not cite Taliban or Houthi concerns in these reports.",
+    "uncertain": "I did not confirm later aid levels to Syria, Yemen or Afghanistan in 2026. Newest source: July 2026 (CRS).",
+    "sources": [
+      {
+        "label": "US restores urgent food aid but not in Afghanistan and Yemen",
+        "publisher": "Arab News (AP)",
+        "type": "news",
+        "url": "https://www.arabnews.com/node/2596361/world"
+      },
+      {
+        "label": "US ends life-saving food aid for millions",
+        "publisher": "AP via WSMV",
+        "type": "news",
+        "url": "https://www.wsmv.com/2025/04/07/us-ends-life-saving-food-aid-millions-world-food-program-calls-it-death-sentence/"
+      },
+      {
+        "label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-048",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no rule requiring country exit strategies that limit how long humanitarian responses last.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register and CRS reports on fiscal 2026 and 2027 foreign aid. Congress merged two humanitarian accounts into one for 2026, but no exit-strategy requirement was found.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-049",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In 2025, the U.S. cut many large humanitarian awards, including World Food Programme aid in several countries, as USAID's humanitarian bureau closed. The 2025 global health strategy names faith-based providers as key partners.",
+    "key_dates": [
+      {
+        "date": "2025-04",
+        "event": "U.S. ends some World Food Programme emergency aid."
+      }
+    ],
+    "legal": "Lawsuits over canceled aid awards are covered in ch09-001.",
+    "closeness": "Some large U.N. and NGO awards ended, but I found no clear shift of that money to local or faith-based groups.",
+    "uncertain": "I could not check reports of new large U.S. funding agreements with U.N. humanitarian agencies in late 2025. Newest source: 2025.",
+    "sources": [
+      {
+        "label": "America First Global Health Strategy (September 2025)",
+        "publisher": "U.S. Department of State",
+        "type": "government",
+        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/america-first-global-health-strategy"
+      },
+      {
+        "label": "CRS R48624: State, Foreign Operations: FY2026 Budget and Appropriations (updated July 15, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs whether humanitarian funds moved to local or faith-based groups, and any late-2025 U.S.-U.N. humanitarian funding deal; web search ran out in this pass."
+  },
+  {
+    "id": "ch09-053",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no new vetting rule for humanitarian partners to prevent aid diversion to terrorists.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register twice (State humanitarian rules and partner vetting); no new vetting rule for humanitarian partners was found.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-054",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no policy making U.S. aid depend on other donors paying their pledges. The 2025 health strategy requires recipient countries, not other donors, to raise their own spending.",
+    "closeness": "Not done; the co-investment rule targets recipient governments, which is different.",
+    "uncertain": "Searched the Federal Register and CRS reports on fiscal 2026 and 2027 foreign aid; no donor burden-sharing condition was found. The terms of any late-2025 U.S. funding deal with U.N. humanitarian agencies were not checked.",
+    "sources": [
+      {
+        "label": "America First Global Health Strategy (September 2025)",
+        "publisher": "U.S. Department of State",
+        "type": "government",
+        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/america-first-global-health-strategy"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs a news check on donor burden-sharing terms, including any late-2025 U.S.-U.N. humanitarian funding deal; web search ran out in this pass."
+  },
+  {
+    "id": "ch09-056",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In 2025, the President revoked international climate finance plans and the 2010 development policy that covered the DFC. In December 2025, Congress reauthorized the DFC through 2031, raised its investment cap to $205 billion, and allowed limited investment in wealthy countries in some sectors, such as energy.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14162 ends climate finance plans."
+      },
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 NDAA reauthorizes the DFC."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "The climate focus was dropped and national security goals stressed. But the DFC was expanded, not returned to a narrow original role, and I did not confirm the end of its gender and diversity programs.",
+    "uncertain": "The text of the DFC Modernization and Reauthorization Act (P.L. 119-60, Division H, Title LXXXVII) does not mention climate, gender or diversity; whether DFC dropped specific climate or women-focused programs was not found. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "DFC Secures Expanded Authorities with FY26 NDAA Signed into Law",
+        "publisher": "U.S. International Development Finance Corporation",
+        "type": "government",
+        "url": "https://www.dfc.gov/media/press-releases/dfc-secures-expanded-authorities-fy26-ndaa-signed-law"
+      },
+      {
+        "label": "Memorandum: Revoking PPD-6 on U.S. Global Development Policy (July 15, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/07/31/2025-14587/revoking-ppd-6-on-us-global-development-policy"
+      },
+      {
+        "label": "Executive Order 14162, Putting America First in International Environmental Agreements",
+        "publisher": "Federal Register (GovInfo)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2025-01-30/html/2025-02010.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-060",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The administration brought back the Schedule F idea under a new name, \"Schedule Policy/Career.\" OPM's final rule took effect in March 2026, and a June 2026 order moved about 8,000 federal employees into it. USAID could not pilot it, because USAID was largely closed in 2025.",
+    "key_dates": [
+      {
+        "date": "2026-03",
+        "event": "OPM final rule on Schedule Policy/Career takes effect."
+      },
+      {
+        "date": "2026-06-03",
+        "event": "Executive order moves about 8,000 employees into the new category."
+      }
+    ],
+    "legal": "At least three lawsuits are pending, including NTEU's case in D.C. and a union and watchdog case in Maryland. I found no injunction or merits ruling.",
+    "closeness": "The general idea, reinstating Schedule F, happened government-wide. The USAID-specific pilot did not, since most USAID staff were let go and its work moved to State.",
+    "uncertain": "Which State Department jobs that took over USAID work are in the new category is not known. Court status comes from CRS and news summaries. Newest source: 2026.",
+    "sources": [
+      {
+        "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11412.html"
+      },
+      {
+        "label": "Employee groups revive lawsuit to block Schedule F",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/workforce/2026/03/employee-groups-revive-lawsuit-block-schedule-f/411962/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-063",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no move of USAID's policy bureau into a budget office run by appointees. USAID stopped running foreign aid on July 1, 2025, and its remaining work moved to the State Department (see ch09-001).",
+    "closeness": "Not done as described; the bureau closed with USAID.",
+    "uncertain": "No targeted search was done.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only a Federal Register check so far (no results); still needs what happened to USAID's Bureau for Policy, Planning, and Learning."
+  },
+  {
+    "id": "ch09-064",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "A January 20, 2025 order paused foreign aid and ordered a review of every program within 90 days. In July 2025, the President revoked the 2010 global development policy (PPD-6). USAID's policies stopped guiding aid when the agency closed.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14169 pauses and reviews aid."
+      },
+      {
+        "date": "2025-07-15",
+        "event": "PPD-6 revoked."
+      }
+    ],
+    "legal": "Court cases on the aid freeze are covered in ch06-007.",
+    "closeness": "Policies were reviewed and withdrawn, more broadly than proposed. I found no specific freeze on USAID's policy manual.",
+    "uncertain": "I did not check what happened to the ADS policy manual itself. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14169, Reevaluating and Realigning United States Foreign Aid",
+        "publisher": "Federal Register (GovInfo)",
+        "type": "government",
+        "url": "https://govinfo.gov/content/pkg/FR-2025-01-30/pdf/2025-02091.pdf"
+      },
+      {
+        "label": "Memorandum: Revoking PPD-6 on U.S. Global Development Policy (July 15, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/07/31/2025-14587/revoking-ppd-6-on-us-global-development-policy"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-069",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In July 2025, Congress canceled about $7.9 billion in already-approved foreign aid at the President's request. The FY2026 request sought $22.3 billion more in cancellations, and the FY2026 law created a new account that can feed an \"America First Opportunity Fund.\"",
+    "key_dates": [
+      {
+        "date": "2025-07",
+        "event": "Rescissions Act of 2025 cancels about $7.9 billion in foreign aid."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 State and foreign aid law enacted."
+      }
+    ],
+    "legal": "Lawsuits over withheld foreign aid funds are covered in ch06-007 and ch09-001.",
+    "closeness": "Already-approved money was taken back rather than redirected within USAID to new priorities.",
+    "uncertain": "How much existing money was moved to new uses within State was not checked. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "CRS R48624: State, Foreign Operations: FY2026 Budget and Appropriations (updated July 15, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "Senate clears amended bill to claw back billions in foreign aid and public media funding",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/management/2025/07/senate-clears-amended-bill-claw-back-billions-foreign-aid-and-public-media-funding/406793"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-070",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "USAID's democracy bureau (DDI) was not restaffed or rewritten. Instead, USAID ended most of its democracy and other programs in 2025 and stopped running foreign aid on July 1, 2025, with remaining work moved to the State Department (see ch09-001). On August 6, 2026, the State Department announced about $2 billion in health and humanitarian awards to faith-based and community groups, led by World Vision, Samaritan's Purse and Compassion International.",
+    "key_dates": [
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops running foreign aid; remaining work moves to State."
+      },
+      {
+        "date": "2026-08-06",
+        "event": "State announces about $2 billion in awards to faith-based and community groups."
+      }
+    ],
+    "closeness": "The money shift toward faith-based groups matches part of the goal, but it came through State Department health and humanitarian awards, not DDI's central funds. The bureau itself was closed along with USAID rather than restaffed, and I found no rule limiting awards to new partners or a focus on minority or private-sector projects.",
+    "uncertain": "I found no document naming what happened to DDI's own funds. Searches covered DDI's fate and 2025-2026 faith-based awards. Award figures come from news reports of the State announcement; newest source August 2026.",
+    "sources": [
+      {
+        "label": "Trump administration to give faith-based groups $2B in funding for global health work (Aug. 12, 2026)",
+        "publisher": "NPR (via Texas Public Radio)",
+        "type": "news",
+        "url": "https://www.tpr.org/2026-08-12/trump-administration-to-give-faith-based-groups-2b-in-funding-for-global-health-work"
+      },
+      {
+        "label": "U.S. Agency for International Development: An Overview (IF10261, Sept. 5, 2025)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2025-09-05_IF10261_675e6d431c41d3c7bcbda03dda2ee4dd857e4c3e.html"
+      },
+      {
+        "label": "GAO-26-108754",
+        "publisher": "U.S. Government Accountability Office",
+        "type": "government",
+        "url": "https://files.gao.gov/reports/GAO-26-108754/index.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-074",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In 2025 the State Department froze nearly all foreign aid, including military aid to Lebanon, then released $95 million for Lebanon's army in March 2025 and about $230 million for Lebanese security forces in October 2025 as it pressed for Hezbollah's disarmament. In April 2026, news reports said the U.S. held up a cash shipment to Iraq and paused parts of security cooperation, saying it wanted Iraq to act against Iran-aligned armed groups.",
+    "key_dates": [
+      {
+        "date": "2025-03-04",
+        "event": "State releases $95 million in military aid to Lebanon's army."
+      },
+      {
+        "date": "2025-10-02",
+        "event": "U.S. reported to send $230 million to Lebanese security forces."
+      },
+      {
+        "date": "2026-04",
+        "event": "U.S. reported to halt an Iraq dollar shipment and pause some security cooperation."
+      }
+    ],
+    "closeness": "The U.S. used aid and cooperation as leverage over Lebanon and Iraq, which is in the same direction. But aid to Lebanon was restored and increased, and I found no policy limiting aid to Iran-allied states to narrow priorities like help for persecuted religious minorities. Aid to the Palestinian territories is covered elsewhere.",
+    "uncertain": "The Iraq steps come from reports citing unnamed officials; I found no official U.S. announcement of their terms or whether they were lifted. The Iraq cash shipments are Iraq's own oil revenue held in the U.S., not aid. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "State Department unfreezes $95 million in aid for the Lebanese army",
+        "publisher": "Axios",
+        "type": "news",
+        "url": "https://www.axios.com/2025/03/04/lebanon-state-department-unfreezes-aid"
+      },
+      {
+        "label": "US sends $230 million to Lebanon as it moves to disarm Hezbollah, sources say (Reuters)",
+        "publisher": "GV Wire",
+        "type": "news",
+        "url": "https://gvwire.com/2025/10/02/us-sends-230-million-to-lebanon-as-it-moves-to-disarm-hezbollah-sources-say/"
+      },
+      {
+        "label": "US halts Iraq dollar cash shipment after militia strikes, sources say (Reuters)",
+        "publisher": "Al-Monitor",
+        "type": "news",
+        "url": "https://www.al-monitor.com/originals/2026/04/us-halts-iraq-dollar-cash-shipment-after-militia-strikes-sources-say"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-077",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The African Growth and Opportunity Act lapsed in September 2025. The FY2026 spending law, signed February 3, 2026, extended it through December 31, 2026. In April 2026, the U.S. Trade Representative asked for comments on reforms before a longer renewal.",
+    "key_dates": [
+      {
+        "date": "2026-02-03",
+        "event": "P.L. 119-75 extends AGOA through December 31, 2026."
+      },
+      {
+        "date": "2026-04-29",
+        "event": "USTR seeks comments on modernizing AGOA."
+      }
+    ],
+    "legal": "No court ruling.",
+    "closeness": "AGOA was extended beyond 2025, as proposed, but only for a short time and without the governance and free-market conditions the text described.",
+    "uncertain": "I did not check whether Congress moved a longer reauthorization after April 2026. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Proclamation 11030: To Implement Certain Provisions in the Consolidated Appropriations Act, 2026 (AGOA)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10398/to-implement-certain-provisions-in-the-consolidated-appropriations-act-2026-and-for-other-purposes"
+      },
+      {
+        "label": "USTR: Request for Comments on the Modernization of AGOA",
+        "publisher": "Federal Register (USTR)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08347/request-for-comments-on-the-modernization-of-the-african-growth-and-opportunity-act-agoa"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-079",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "A January 20, 2025 order paused and reviewed all foreign aid, including aid to Latin America. After the review most USAID programs in the region were canceled; for example, reports said all but seven of about 80 USAID programs in Colombia were ended.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14169 orders review of all foreign aid."
+      }
+    ],
+    "legal": "Court cases on the aid freeze are covered in ch06-007.",
+    "closeness": "Aid to Latin America was reassessed and many programs ended, but as part of a worldwide review rather than a region-specific one. I found no new focus on free-market basics.",
+    "uncertain": "I found no official list of which Latin America programs survived. The Colombia figure comes from news and research reports from 2025.",
+    "sources": [
+      {
+        "label": "Executive Order 14169, Reevaluating and Realigning United States Foreign Aid",
+        "publisher": "Federal Register (GovInfo)",
+        "type": "government",
+        "url": "https://govinfo.gov/content/pkg/FR-2025-01-30/pdf/2025-02091.pdf"
+      },
+      {
+        "label": "Explainer: How Proposed U.S. Budget Cuts May Change Foreign Aid to the Americas",
+        "publisher": "Americas Society/Council of the Americas",
+        "type": "academic",
+        "url": "https://www.as-coa.org/articles/explainer-how-proposed-us-budget-cuts-may-change-foreign-aid-americas"
+      },
+      {
+        "label": "The fallout from USAID cuts: Latin America faces a humanitarian and environmental crisis",
+        "publisher": "DevelopmentAid",
+        "type": "news",
+        "url": "https://www.developmentaid.org/news-stream/post/191864/usaid-cuts-to-latin-america"
+      },
+      {
+        "label": "CRS R48624: State, Foreign Operations: FY2026 Budget and Appropriations (updated July 15, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-081",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no commitment to move the Latin America aid portfolio to local groups by 2030. USAID stopped running foreign aid on July 1, 2025, and its remaining work moved to the State Department (see ch09-001). A House bill, H.R. 6196, that would encourage State to use local groups for aid was approved by the House Foreign Affairs Committee in March 2026 but has not become law.",
+    "closeness": "Not done. The pending House bill points the same way but sets no 2030 target and is not limited to Latin America.",
+    "uncertain": "I searched for State Department localization targets for the Western Hemisphere and for any 2030 goal, and checked the local copy of 119th-Congress laws. I could not open the CBO page to confirm the bill's details beyond the search summary.",
+    "sources": [
+      {
+        "label": "CBO cost estimate, as ordered reported by the House Committee on Foreign Affairs on March 26, 2026",
+        "publisher": "Congressional Budget Office",
+        "type": "government",
+        "url": "https://www.cbo.gov/publication/62427"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-082",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On January 20, 2025, Executive Order 14151 ended diversity, equity and inclusion (DEI) programs and training across federal agencies, including USAID. Days later most USAID staff were placed on leave, and the agency was shut down over 2025. I found no order stopping all USAID training or replacing it with new training.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14151 ends DEI programs and training governmentwide."
+      },
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops running foreign aid."
+      }
+    ],
+    "closeness": "Only DEI training was ended, and by a governmentwide order rather than a USAID-specific one. Instead of replacing USAID training, the agency itself was closed (see ch09-001).",
+    "uncertain": "I searched for a USAID or State training directive in 2025 and found DEI stop-work orders but no full training halt. I did not find USAID's internal training notices.",
+    "sources": [
+      {
+        "label": "Executive Order 14151, Ending Radical and Wasteful Government DEI Programs and Preferencing",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-006",
+    "status": "not-done",
+    "match": "none",
+    "happened": "USAID's Bangkok regional mission was not refocused on cross-border projects to counter China. USAID was shut down in 2025: in March the State Department said it would take over many USAID functions, on July 1, 2025 USAID stopped carrying out foreign aid, and Congress cut USAID's operating budget by about 93 percent for fiscal 2026.",
+    "closeness": "Nothing matching found. The mission's parent agency was closed rather than redirected.",
+    "uncertain": "Checked the Federal Register (only three USAID documents since January 2025), reports on USAID's closure, and an October 2026 web search confirming USAID stopped carrying out aid on July 1, 2025. With USAID closed, this USAID-level change can no longer happen. The State Department, which took over aid work, may have done something similar that was not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "US ends USAID, aid to be distributed via State Department: Rubio",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://aa.com.tr/en/americas/us-ends-usaid-aid-to-be-distributed-via-state-department-marco-rubio/3618849"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-014",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "No channel for USAID staff to report political retaliation from the Biden years was found. But on February 6, 2025, President Trump ordered a government-wide task force on anti-Christian bias, and in April 2025 Secretary of State Rubio asked State Department staff to report, anonymously if they wished, bias against Christians from January 2021 to January 2025. USAID was shut down in 2025, and its remaining programs moved to the State Department on July 1, 2025.",
+    "key_dates": [
+      {
+        "date": "2025-02-06",
+        "event": "Executive Order 14202 sets up a task force on anti-Christian bias"
+      },
+      {
+        "date": "2025-04",
+        "event": "Rubio cable asks State Department staff to report Biden-era anti-Christian bias"
+      },
+      {
+        "date": "2025-07-01",
+        "event": "USAID stops carrying out foreign aid; State Department takes over remaining programs"
+      }
+    ],
+    "closeness": "The State Department set up a way to report one kind of Biden-era mistreatment, religious bias against Christians, not political retaliation in general. It is not clear that USAID staff were covered.",
+    "uncertain": "Known from one news report of the cable; the cable itself was not read. Whether former USAID staff could use it, and what came of the reports, is not known. Newest source: April 2025.",
+    "sources": [
+      {
+        "label": "Eradicating Anti-Christian Bias (Executive Order 14202)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/12/2025-02611/eradicating-anti-christian-bias"
+      },
+      {
+        "label": "State Department wants staff to report instances of alleged anti-Christian bias during Biden's term (AP)",
+        "publisher": "KBTX / Associated Press",
+        "type": "news",
+        "url": "https://www.kbtx.com/2025/04/14/state-department-wants-staff-report-instances-alleged-anti-christian-bias-during-bidens-term/?outputType=amp"
+      },
+      {
+        "label": "US ends USAID, aid to be distributed via State Department: Rubio",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://aa.com.tr/en/americas/us-ends-usaid-aid-to-be-distributed-via-state-department-marco-rubio/3618849"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Based on one news report of the April 2025 cable; confirm with a State Department source whether it covered former USAID staff."
+  },
+  {
+    "id": "ch09-017",
+    "status": "not-done",
+    "match": "none",
+    "happened": "USAID's civil rights issues were not moved back under its Office of Civil Rights. USAID was shut down in 2025: in March the State Department said it would take over many USAID functions, on July 1, 2025 USAID stopped carrying out foreign aid, and Congress cut USAID's operating budget by about 93 percent for fiscal 2026.",
+    "closeness": "Nothing matching found. The agency itself was closed, so the office was not rebuilt.",
+    "uncertain": "Checked the Federal Register (only three USAID documents since January 2025), reports on USAID's closure, and an October 2026 web search confirming USAID stopped carrying out aid on July 1, 2025. With USAID closed, this USAID-level change can no longer happen. The State Department, which took over aid work, may have done something similar that was not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "US ends USAID, aid to be distributed via State Department: Rubio",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://aa.com.tr/en/americas/us-ends-usaid-aid-to-be-distributed-via-state-department-marco-rubio/3618849"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-034",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No hiring of more USAID contracting and agreement officers with program funds was found. Instead, most USAID staff, including procurement staff, were let go. USAID was shut down in 2025: in March the State Department said it would take over many USAID functions, on July 1, 2025 USAID stopped carrying out foreign aid, and Congress cut USAID's operating budget by about 93 percent for fiscal 2026.",
+    "closeness": "Nothing matching found; staffing moved in the opposite direction.",
+    "uncertain": "Checked the Federal Register (only three USAID documents since January 2025), reports on USAID's closure, and an October 2026 web search confirming USAID stopped carrying out aid on July 1, 2025. With USAID closed, this USAID-level change can no longer happen. The State Department, which took over aid work, may have done something similar that was not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "US ends USAID, aid to be distributed via State Department: Rubio",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://aa.com.tr/en/americas/us-ends-usaid-aid-to-be-distributed-via-state-department-marco-rubio/3618849"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-050",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change requiring USAID's humanitarian bureau to use more fixed-amount awards for small local groups was found. USAID was shut down in 2025: in March the State Department said it would take over many USAID functions, on July 1, 2025 USAID stopped carrying out foreign aid, and Congress cut USAID's operating budget by about 93 percent for fiscal 2026.",
+    "closeness": "Nothing matching found. The bureau closed along with USAID, and humanitarian aid moved to the State Department.",
+    "uncertain": "Checked the Federal Register (only three USAID documents since January 2025), reports on USAID's closure, and an October 2026 web search confirming USAID stopped carrying out aid on July 1, 2025. With USAID closed, this USAID-level change can no longer happen. The State Department, which took over aid work, may have done something similar that was not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "US ends USAID, aid to be distributed via State Department: Rubio",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://aa.com.tr/en/americas/us-ends-usaid-aid-to-be-distributed-via-state-department-marco-rubio/3618849"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Check whether the State Department, which took over humanitarian aid, changed award rules to favor fixed-amount awards for small local groups."
+  },
+  {
+    "id": "ch09-051",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No hiring of more procurement officers for USAID's humanitarian bureau was found. USAID was shut down in 2025: in March the State Department said it would take over many USAID functions, on July 1, 2025 USAID stopped carrying out foreign aid, and Congress cut USAID's operating budget by about 93 percent for fiscal 2026.",
+    "closeness": "Nothing matching found; the bureau's staff were cut as USAID closed.",
+    "uncertain": "Checked the Federal Register (only three USAID documents since January 2025), reports on USAID's closure, and an October 2026 web search confirming USAID stopped carrying out aid on July 1, 2025. With USAID closed, this USAID-level change can no longer happen. The State Department, which took over aid work, may have done something similar that was not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "US ends USAID, aid to be distributed via State Department: Rubio",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://aa.com.tr/en/americas/us-ends-usaid-aid-to-be-distributed-via-state-department-marco-rubio/3618849"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-052",
+    "status": "not-done",
+    "match": "none",
+    "happened": "USAID's humanitarian bureau was not given control of its own contractor hiring. USAID was shut down in 2025: in March the State Department said it would take over many USAID functions, on July 1, 2025 USAID stopped carrying out foreign aid, and Congress cut USAID's operating budget by about 93 percent for fiscal 2026.",
+    "closeness": "Nothing matching found. The bureau closed along with USAID.",
+    "uncertain": "Checked the Federal Register (only three USAID documents since January 2025), reports on USAID's closure, and an October 2026 web search confirming USAID stopped carrying out aid on July 1, 2025. With USAID closed, this USAID-level change can no longer happen. The State Department, which took over aid work, may have done something similar that was not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "US ends USAID, aid to be distributed via State Department: Rubio",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://aa.com.tr/en/americas/us-ends-usaid-aid-to-be-distributed-via-state-department-marco-rubio/3618849"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-055",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No shared chief development officer between USAID and the Development Finance Corporation was found. USAID was shut down in 2025: in March the State Department said it would take over many USAID functions, on July 1, 2025 USAID stopped carrying out foreign aid, and Congress cut USAID's operating budget by about 93 percent for fiscal 2026. The FY2026 defense law (December 18, 2025) rewrote the Development Finance Corporation chief development officer's duties to work with other federal agencies, but did not make the post shared with another agency.",
+    "closeness": "Nothing matching found. USAID was closed, so the shared post was not created.",
+    "uncertain": "Checked the Federal Register (only three USAID documents since January 2025), reports on USAID's closure, and an October 2026 web search confirming USAID stopped carrying out aid on July 1, 2025. With USAID closed, this USAID-level change can no longer happen. The State Department, which took over aid work, may have done something similar that was not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "US ends USAID, aid to be distributed via State Department: Rubio",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://aa.com.tr/en/americas/us-ends-usaid-aid-to-be-distributed-via-state-department-marco-rubio/3618849"
+      },
+      {
+        "label": "Public Law 119-60, FY2026 NDAA (Title LXXXVII, DFC reauthorization)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-061",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No USAID program recruiting veterans, missionaries or faith community members into term-limited Schedule A jobs was found. USAID was shut down in 2025: in March the State Department said it would take over many USAID functions, on July 1, 2025 USAID stopped carrying out foreign aid, and Congress cut USAID's operating budget by about 93 percent for fiscal 2026.",
+    "closeness": "Nothing matching found; USAID cut rather than added staff.",
+    "uncertain": "Checked the Federal Register (only three USAID documents since January 2025), reports on USAID's closure, and an October 2026 web search confirming USAID stopped carrying out aid on July 1, 2025. With USAID closed, this USAID-level change can no longer happen. The State Department, which took over aid work, may have done something similar that was not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "US ends USAID, aid to be distributed via State Department: Rubio",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://aa.com.tr/en/americas/us-ends-usaid-aid-to-be-distributed-via-state-department-marco-rubio/3618849"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-062",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No USAID program rotating senior executives was found. USAID was shut down in 2025: in March the State Department said it would take over many USAID functions, on July 1, 2025 USAID stopped carrying out foreign aid, and Congress cut USAID's operating budget by about 93 percent for fiscal 2026.",
+    "closeness": "Nothing matching found; USAID's senior jobs were eliminated as the agency closed.",
+    "uncertain": "Checked the Federal Register (only three USAID documents since January 2025), reports on USAID's closure, and an October 2026 web search confirming USAID stopped carrying out aid on July 1, 2025. With USAID closed, this USAID-level change can no longer happen. The State Department, which took over aid work, may have done something similar that was not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "US ends USAID, aid to be distributed via State Department: Rubio",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://aa.com.tr/en/americas/us-ends-usaid-aid-to-be-distributed-via-state-department-marco-rubio/3618849"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-067",
+    "status": "not-done",
+    "match": "none",
+    "happened": "USAID communications staff were not centralized under its Legislative and Public Affairs bureau. USAID was shut down in 2025: in March the State Department said it would take over many USAID functions, on July 1, 2025 USAID stopped carrying out foreign aid, and Congress cut USAID's operating budget by about 93 percent for fiscal 2026.",
+    "closeness": "Nothing matching found. USAID's offices were closed rather than reorganized.",
+    "uncertain": "Checked the Federal Register (only three USAID documents since January 2025), reports on USAID's closure, and an October 2026 web search confirming USAID stopped carrying out aid on July 1, 2025. With USAID closed, this USAID-level change can no longer happen. The State Department, which took over aid work, may have done something similar that was not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "US ends USAID, aid to be distributed via State Department: Rubio",
+        "publisher": "Anadolu Agency",
+        "type": "news",
+        "url": "https://aa.com.tr/en/americas/us-ends-usaid-aid-to-be-distributed-via-state-department-marco-rubio/3618849"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-022",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In January 2025 the United States rejoined the Geneva Consensus Declaration, which opposes a right to abortion and supports the family. A State Department foreign aid rule published January 27, 2026 cites the Declaration as a foreign policy goal. No USAID Office of Women, Children, and Families was created; USAID itself was closed in 2025.",
+    "key_dates": [
+      {
+        "date": "2025-01",
+        "event": "United States rejoins the Geneva Consensus Declaration"
+      },
+      {
+        "date": "2026-01-27",
+        "event": "State Department rule on foreign aid cites the Declaration"
+      }
+    ],
+    "closeness": "The Declaration's goals are being pursued through State Department rules, as the chapter wanted, but not by the new USAID office it proposed. Whether faith-based and local partners are favored in awards was not confirmed.",
+    "uncertain": "No data on how many awards go to faith-based or local groups was found. Newest source is from January 2026.",
+    "sources": [
+      {
+        "label": "Combating Gender Ideology in Foreign Assistance",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01516/combating-gender-ideology-in-foreign-assistance"
+      },
+      {
+        "label": "Trump administration rejoins pro-life Geneva Consensus Declaration",
+        "publisher": "Catholic News Agency",
+        "type": "news",
+        "url": "https://catholicnewsagency.com/amp/news/261927/trump-administration-rejoins-pro-life-geneva-consensus-declaration"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-028",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The Helms Amendment stayed in force. The fiscal 2026 spending law, signed February 3, 2026, again says foreign aid funds may not be used to pay for abortions as a method of family planning.",
+    "key_dates": [
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 spending law (P.L. 119-75) repeats the Helms Amendment ban"
+      }
+    ],
+    "closeness": "The ban continued, as the chapter asked. Whether the administration issued guidance treating it as a complete ban with no exceptions was not confirmed.",
+    "uncertain": "No new State Department guidance interpreting Helms was found. Newest source is the February 2026 law.",
+    "sources": [
+      {
+        "label": "Public Law 119-75 (Consolidated Appropriations Act, 2026), Division F, Sec. 7018",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-040",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In September 2025 the State Department released the America First Global Health Strategy. It says less than 40 percent of health aid reached frontline supplies and health workers, and it moves aid into multi-year agreements with countries that shift overhead and technical help to governments, the private sector and faith-based groups.",
+    "key_dates": [
+      {
+        "date": "2025-09-18",
+        "event": "State Department releases the America First Global Health Strategy"
+      }
+    ],
+    "closeness": "A broad review and overhaul of health aid happened, and it names faith-based groups. It was done by the State Department after USAID closed, and it centers on frontline care and outbreak control rather than a stated focus on women, children and families (see ch09-036).",
+    "uncertain": "Which specific programs were cut as outdated is not fully public. Newest source is from September 2025.",
+    "sources": [
+      {
+        "label": "America First Global Health Strategy (fact sheet)",
+        "publisher": "U.S. Department of State",
+        "type": "government",
+        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/america-first-global-health-strategy"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-041",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No 'Resilient Families' funding call pooling separate health program funds was found since January 2025. USAID had posted a similar call, 'Investing in Resilient Families,' on November 27, 2020, before this administration. The State Department instead moved health aid into multi-year agreements with individual countries.",
+    "closeness": "Nothing matching found.",
+    "uncertain": "Searched the Federal Register and Grants.gov for the name, and reviewed the September 2025 global health strategy. The only match on Grants.gov is the 2020 USAID notice, which closed in January 2021.",
+    "sources": [
+      {
+        "label": "America First Global Health Strategy",
+        "publisher": "U.S. Department of State",
+        "type": "government",
+        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/america-first-global-health-strategy"
+      },
+      {
+        "label": "Investing in Resilient Families (7200-AA-21R00011), posted November 2020",
+        "publisher": "Grants.gov",
+        "type": "government",
+        "url": "https://www.grants.gov/search-results-detail/330058"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch09-043",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The September 2025 America First Global Health Strategy says every new country health agreement must make sure data systems are in place to track disease, service delivery and supply chains.",
+    "key_dates": [
+      {
+        "date": "2025-09-18",
+        "event": "Global health strategy requires data systems in new bilateral health agreements"
+      }
+    ],
+    "closeness": "Data tracking is required across health aid, in line with the goal. But it is framed as country data systems in new agreements, not as applying the earlier PEPFAR reporting reforms to all programs.",
+    "uncertain": "Details of the data requirements in signed agreements were not reviewed. Newest source is from September 2025.",
+    "sources": [
+      {
+        "label": "America First Global Health Strategy (fact sheet)",
+        "publisher": "U.S. Department of State",
+        "type": "government",
+        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/america-first-global-health-strategy"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-044",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The September 2025 America First Global Health Strategy says U.S. help will shift to supporting governments, including by leveraging the private sector and faith-based organizations. USAID's Center for Innovation and Impact closed with the rest of USAID.",
+    "key_dates": [
+      {
+        "date": "2025-09-18",
+        "event": "Global health strategy calls for leveraging private and faith-based groups"
+      }
+    ],
+    "closeness": "Shares the goal of working more with private and faith-based health groups, but not through the USAID center the chapter named, and no use of impact bonds was found.",
+    "uncertain": "How much funding actually goes to private or faith-based health groups was not found. Newest source is from September 2025.",
+    "sources": [
+      {
+        "label": "America First Global Health Strategy (fact sheet)",
+        "publisher": "U.S. Department of State",
+        "type": "government",
+        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/09/america-first-global-health-strategy"
+      },
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-068",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "On May 29, 2026, the Office of Management and Budget proposed government-wide grant rules that would bar agencies from favoring or disfavoring applicants because of their religious character. USAID was listed among the agencies on the proposal. No USAID guidance or new Schedule C attorney posts were found; USAID had closed in 2025.",
+    "key_dates": [
+      {
+        "date": "2026-05-29",
+        "event": "OMB proposes grant rule barring discrimination against faith-based applicants"
+      }
+    ],
+    "closeness": "The proposed rule addresses faith-based groups' eligibility, as the chapter wanted, but government-wide and not as quick USAID guidance. The part about political attorneys was not found.",
+    "uncertain": "The rule was still a proposal as of the newest source (May 2026).",
+    "sources": [
+      {
+        "label": "Regulation for Federal Financial Assistance (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-075",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "USAID's missions in the Middle East, like its missions elsewhere, were cut as the agency closed in 2025. In March 2025 the State Department said all non-statutory USAID jobs would be eliminated, and more than 80 percent of USAID programs had already been canceled.",
+    "key_dates": [
+      {
+        "date": "2025-03-28",
+        "event": "State Department announces it is shutting down USAID"
+      }
+    ],
+    "closeness": "Mission staff were cut, as recommended, and much further, as part of closing USAID everywhere. No shift of the savings to lower-cost local partners was found.",
+    "uncertain": "Middle East-specific staffing and funding figures were not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-078",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In 2025 the administration canceled more than 80 percent of USAID's programs, including many in Africa, and closed USAID instead of updating its country strategies.",
+    "key_dates": [
+      {
+        "date": "2025-03-28",
+        "event": "State Department says over 80 percent of USAID programs have been canceled"
+      }
+    ],
+    "closeness": "Many long-running programs in Africa ended, but through cancellation of most aid rather than a review of which programs were not performing. No new country strategies backing private-sector growth or diverse energy were found.",
+    "uncertain": "Africa-specific program counts were not found.",
+    "sources": [
+      {
+        "label": "State Department officially shutters USAID (AP)",
+        "publisher": "6abc / Associated Press",
+        "type": "news",
+        "url": "https://6abc.com/16097879"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-065",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In 2025, as USAID was being shut down, its website, archived websites from earlier administrations, and its online document library were taken down, according to a June 2025 Congressional Research Service report.",
+    "key_dates": [
+      {
+        "date": "2025-06-20",
+        "event": "CRS reports that USAID's website and document library have been taken down."
+      }
+    ],
+    "closeness": "The chapter wanted USAID's web pages and social media reviewed so material that did not fit the new policies could be removed. The actual step was bigger: the whole site and its records were taken offline as the agency closed (see ch09-001).",
+    "uncertain": "The exact date the site went down and whether any material was moved to State Department sites are not confirmed here. Newest source: June 2025.",
+    "sources": [
+      {
+        "label": "CRS IN12567: The Trump Administration's Foreign Assistance Review: Nuts and Bolts Issues and Congress's Role",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2025-06-20_IN12567_34d4aed8c27a48024a262f4963c18b2b2291e2c2.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

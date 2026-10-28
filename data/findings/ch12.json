@@ -1,0 +1,2189 @@
+[
+  {
+    "id": "ch12-001",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Congress did not repeal the Infrastructure Investment and Jobs Act or the Inflation Reduction Act. The July 4, 2025 reconciliation law cut back many Inflation Reduction Act tax credits and took back the unspent money in several of its Energy Department loan and grant programs, including loan subsidies, transmission programs and industrial grants. The Energy Department also cancelled 24 large awards worth about $3.7 billion in May 2025 and 321 more worth about $7.6 billion in October 2025.",
+    "key_dates": [
+      {
+        "date": "2025-05-30",
+        "event": "DOE cancels 24 clean energy demonstration awards."
+      },
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law cuts back clean energy tax credits and rescinds unspent funds in several IRA energy programs."
+      },
+      {
+        "date": "2025-10-02",
+        "event": "DOE announces cancellation of 321 awards."
+      },
+      {
+        "date": "2026-01-12",
+        "event": "Federal judge rules seven of the October cancellations unconstitutional."
+      }
+    ],
+    "legal": "On January 12, 2026, Judge Amit Mehta of the U.S. District Court for D.C. ruled that DOE's cancellation of seven awards violated equal protection because it was based on how recipients' states voted, and set those terminations aside. The ruling did not cover the other cancelled awards.",
+    "closeness": "Smaller than full repeal. Both laws remain, and many credits for nuclear, geothermal and batteries continue for longer. The law rescinded unspent money in about nine IRA energy accounts (sections 50123, 50141, 50142, 50144, 50145, 50151-50153 and 50161), not all unspent funds. See ch12-071.",
+    "uncertain": "How much money the rescissions removed in dollars was not confirmed. Whether the government appealed the January 2026 ruling was not found. Newest source is from October 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (2025 reconciliation law), sec. 50402",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Secretary Wright announces termination of 24 projects",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/secretary-wright-announces-termination-24-projects-generating-over-3-billion-taxpayer"
+      },
+      {
+        "label": "Unpacking DOE's October award cancellations",
+        "publisher": "EFI Foundation",
+        "type": "academic",
+        "url": "https://efifoundation.org/topics/innovation/unpacking-does-cancellations/"
+      },
+      {
+        "label": "Trump administration unlawfully cut clean energy grants, court rules",
+        "publisher": "ESG Dive",
+        "type": "news",
+        "url": "https://www.esgdive.com/news/trump-administration-unlawfully-cut-clean-energy-grants-court-rules/809586/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law, bill or plan to rename the Department of Energy was found. In 2025 the department renamed some of its own offices, such as turning the renewable energy office into the Office of Critical Minerals and Energy Innovation.",
+    "legal": "None.",
+    "closeness": "No match for the rename. The department's November 2025 reorganization shifted its focus in some ways the chapter describes, but the department keeps its name. See ch12-005 and ch12-034.",
+    "uncertain": "Two searches (October 2026) and a check of all laws passed in 2025-2026 found no rename. The fiscal 2026 spending law kept the department's name.",
+    "sources": [
+      {
+        "label": "Trump Energy Department drops renewables, promotes fusion in office reshuffle",
+        "publisher": "TechCrunch",
+        "type": "news",
+        "url": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-003",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new Under Secretary of Energy Security was created. The Office of Cybersecurity, Energy Security, and Emergency Response (CESER) was first set up in 2018, under the first Trump administration, with an Assistant Secretary as its head. DOE's November 2025 reorganization kept it as a direct report to the Under Secretary (S3), as before. Its funding was $190 million in 2026, down from $200 million.",
+    "closeness": "Nothing new matching was found. The office's Assistant Secretary rank dates from 2018, before January 20, 2025, and it still reports to the general Under Secretary rather than a new Under Secretary of Energy Security.",
+    "uncertain": "I read DOE's November 2025 realignment briefing. I did not confirm who heads CESER in 2026 or whether its head holds the Assistant Secretary title.",
+    "sources": [
+      {
+        "label": "Briefing on DOE Realignment (November 2025)",
+        "publisher": "U.S. Department of Energy (via Carbon Capture Coalition)",
+        "type": "government",
+        "url": "https://carboncapturecoalition.org/wp-content/uploads/2025/11/Realignment-Nov-2025.pdf"
+      },
+      {
+        "label": "Energy and Water Development: FY2027 Appropriations",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48944.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-004",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In the November 20, 2025 reorganization, the Energy Department merged the Office of Fossil Energy and Carbon Management with its geothermal office to form the Office of Hydrocarbons and Geothermal Energy. Carbon management is no longer in the office's name. Funding for the fossil energy account fell from $865 million in 2025 to $580 million in 2026.",
+    "key_dates": [
+      {
+        "date": "2025-11-20",
+        "event": "DOE reorganization announced"
+      }
+    ],
+    "closeness": "Carbon management was dropped from the name, as recommended, but the office did not return to its old name and now also covers geothermal energy.",
+    "uncertain": "How much carbon management work continues inside the new office is not clear.",
+    "sources": [
+      {
+        "label": "Energy and Water Development: FY2027 Appropriations",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48944.html"
+      },
+      {
+        "label": "New DOE re-organization raises uncertainty for American science",
+        "publisher": "Federation of American Scientists",
+        "type": "advocacy",
+        "url": "https://fas.org/publication/new-doe-re-organization-raises-uncertainty-for-american-science/"
+      },
+      {
+        "label": "Energy Department announces organizational realignment",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/energy-department-announces-organizational-realignment-strengthen-efficiency-and-unleash"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-005",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On November 20, 2025, the Energy Department released a new organization chart. It removed several offices, including the Office of State and Community Energy Programs, the Grid Deployment Office, the Office of Clean Energy Demonstrations and the Office of Manufacturing and Energy Supply Chains. Some of their work moved to a new Office of Critical Minerals and Energy Innovation.",
+    "key_dates": [
+      {
+        "date": "2025-11-20",
+        "event": "DOE announces organizational realignment."
+      }
+    ],
+    "closeness": "The named office was removed from the chart, as the chapter proposes. It was done by the department, not by Congress, and some programs Congress funded may continue under other offices. Same reorganization as ch12-029, ch12-034 and ch12-035.",
+    "uncertain": "Whether programs Congress created by law, such as weatherization and state energy grants, are still being run, and whether anyone has sued. Newest source is from November 2025.",
+    "sources": [
+      {
+        "label": "Energy Department announces organizational realignment",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/energy-department-announces-organizational-realignment-strengthen-efficiency-and-unleash"
+      },
+      {
+        "label": "Trump Energy Department drops renewables, promotes fusion in office reshuffle",
+        "publisher": "TechCrunch",
+        "type": "news",
+        "url": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle"
+      },
+      {
+        "label": "New DOE re-organization raises uncertainty for American science",
+        "publisher": "Federation of American Scientists",
+        "type": "advocacy",
+        "url": "https://fas.org/publication/new-doe-re-organization-raises-uncertainty-for-american-science/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-006",
+    "status": "in-effect-challenged",
+    "match": "partial",
+    "happened": "On January 20, 2025, the President directed the Energy Department to end the pause on new LNG export approvals. In May 2025 the department finished its 2024 LNG export study, concluding that exports are in the public interest. It then issued final approvals for projects including Commonwealth LNG (August 2025) and CP2 LNG (October 2025). DOE continues to use a 2020 categorical exclusion, which skips a full environmental review of the export itself.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Pause on LNG export approvals ended."
+      },
+      {
+        "date": "2025-05-19",
+        "event": "DOE finalizes response to comments on the 2024 LNG export study."
+      },
+      {
+        "date": "2025-10-21",
+        "event": "Final export approval for CP2 LNG."
+      },
+      {
+        "date": "2026-02-17",
+        "event": "Environmental groups ask the D.C. Circuit to review the CP2 export approval."
+      }
+    ],
+    "legal": "Sierra Club and NRDC filed a petition for review of DOE's CP2 export orders in the U.S. Court of Appeals for the D.C. Circuit (No. 26-1036) on February 17, 2026; as of October 1, 2026 it was fully briefed and pending. Separately, on August 25, 2026, the D.C. Circuit upheld FERC's approval of the CP2 terminal.",
+    "closeness": "Matches the call for fast approvals without climate-based delays, and DOE keeps relying on the categorical exclusion the chapter wanted kept. No new rule was needed for that.",
+    "uncertain": "The D.C. Circuit had not ruled on the DOE export case as of October 2026. Other project challenges, such as a Louisiana state permit case over Commonwealth LNG, were not reviewed in detail. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Energy Department approves final export authorization for Venture Global CP2 LNG",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/energy-department-approves-final-export-authorization-venture-global-cp2-lng"
+      },
+      {
+        "label": "Venture Global CP2 LNG progress report, October 2026",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/sites/default/files/2026-10/VG%20CP2%20October%202026%20DOE%20Progress%20Report.pdf"
+      },
+      {
+        "label": "Environmental groups sue DOE over approval of CP2 LNG export application",
+        "publisher": "Sierra Club",
+        "type": "advocacy",
+        "url": "https://www.sierraclub.org/press-releases/2026/02/environmental-groups-sue-doe-over-approval-cp2-lng-export-application"
+      },
+      {
+        "label": "DOE finalizes 2024 LNG export study",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/doe-finalizes-2024-lng-export-study-paving-way-stronger-american-energy-exports"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-007",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change to the Natural Gas Act extending automatic LNG export approvals to all U.S. allies was passed. A House bill, the American Gas for Allies Act (H.R. 2769, April 2025), would treat exports to NATO members and Ukraine as in the public interest for three years, but it stayed in committee. The Energy Department instead resumed approving LNG exports to non-free-trade countries case by case in 2025.",
+    "closeness": "Exports to allies became easier in practice through faster approvals (see ch12-006), but the law was not changed.",
+    "uncertain": "I searched for 2025-2026 bills and checked the local copy of 119th-Congress laws. Bill status is from bill trackers; newest source: May 2026.",
+    "sources": [
+      {
+        "label": "DOE finalizes 2024 LNG export study",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/doe-finalizes-2024-lng-export-study-paving-way-stronger-american-energy-exports"
+      },
+      {
+        "label": "H.R. 2769 (119th), American Gas for Allies Act: bill overview",
+        "publisher": "PolicySoup",
+        "type": "news",
+        "url": "https://policysoup.com/bills/hr2769-119"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-008",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 20, 2025, President Trump revoked Executive Order 14057, which had set clean-energy purchasing goals for federal operations. DOE then stayed its 2024 rule phasing out fossil fuel use in new and renovated federal buildings, most recently until March 1, 2027, while it reviews the rule.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14057 revoked."
+      },
+      {
+        "date": "2025-05-05",
+        "event": "DOE first stays the federal buildings clean-energy rule."
+      },
+      {
+        "date": "2026-09-02",
+        "event": "Stay extended to March 1, 2027."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Removes clean-energy purchasing pushes for federal buildings. I found no order reinstating the 2018 executive order the chapter named.",
+    "uncertain": "I did not check FEMP guidance or programs directly. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Unleashing American Energy (Executive Order 14154)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01956/unleashing-american-energy"
+      },
+      {
+        "label": "Repeal of Fossil Fuel Restrictions for New Federal Buildings and Major Renovations of Federal Buildings (stay)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17979/repeal-of-fossil-fuel-restrictions-for-new-federal-buildings-and-major-renovations-of-federal"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-009",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "A May 23, 2025 executive order told the Nuclear Regulatory Commission to rewrite its rules, with proposals within 9 months and final rules within 18 months. The NRC issued a new licensing framework for advanced reactors on March 30, 2026, and proposed other changes in 2026, including faster licensing for microreactors.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "Executive order 14300 signed"
+      },
+      {
+        "date": "2026-03-30",
+        "event": "Advanced reactor licensing framework (Part 53) final"
+      },
+      {
+        "date": "2026-05-01",
+        "event": "Microreactor licensing rule proposed"
+      }
+    ],
+    "closeness": "Closely matches the goal of simpler, faster licensing. Many of the rules are still proposals.",
+    "uncertain": "Several NRC rules were not final as of October 2026, and their effect on costs is not yet known.",
+    "sources": [
+      {
+        "label": "Ordering the Reform of the Nuclear Regulatory Commission (EO 14300)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09798/ordering-the-reform-of-the-nuclear-regulatory-commission"
+      },
+      {
+        "label": "Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06048/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors"
+      },
+      {
+        "label": "Licensing Requirements for Microreactors (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08550/licensing-requirements-for-microreactors-and-other-reactors-with-comparable-risk-profiles"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-010",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 20, 2025, President Trump revoked the 2021 order that created the Justice40 initiative and ordered agencies to end diversity, equity and inclusion and 'environmental justice' offices, positions and programs. These orders apply to the Energy Department.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "EO 14148 revokes EO 14008; EO 14151 signed"
+      }
+    ],
+    "closeness": "Matches the recommendation to end these programs. Specific DOE office closures were not individually confirmed here.",
+    "uncertain": "Which DOE offices and staff were affected was not checked in detail.",
+    "sources": [
+      {
+        "label": "Initial Rescissions of Harmful Executive Orders and Actions (EO 14148)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions"
+      },
+      {
+        "label": "Ending Radical and Wasteful Government DEI Programs and Preferencing (EO 14151)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-011",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "A February 14, 2025 executive order created a National Energy Dominance Council and told it to recommend a National Energy Dominance Strategy to the President. The Energy Secretary is the vice chair.",
+    "key_dates": [
+      {
+        "date": "2025-02-14",
+        "event": "Executive order 14213 signed"
+      }
+    ],
+    "closeness": "Similar idea, but the strategy is run by a White House council, not the Energy Department, and its focus is energy production rather than international energy security alone.",
+    "uncertain": "I searched for a published National Energy Dominance Strategy and found none; the order set a 100-day deadline for a plan to the President, which may not have been made public. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "Establishing the National Energy Dominance Council (EO 14213)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/20/2025-02928/establishing-the-national-energy-dominance-council"
+      },
+      {
+        "label": "About the National Energy Dominance Council",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/about-nedc"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-013",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The Energy Department canceled hundreds of technology demonstration and deployment awards in 2025 and removed its Office of Clean Energy Demonstrations. At the same time, it started new demonstration efforts, such as a reactor pilot program, and created a new fusion office aimed at commercialization.",
+    "key_dates": [
+      {
+        "date": "2025-05-30",
+        "event": "24 demonstration awards canceled"
+      },
+      {
+        "date": "2025-11-20",
+        "event": "DOE reorganization"
+      }
+    ],
+    "closeness": "Some deployment work was cut, but the labs were not limited to basic research, and Congress did not act to cut duplication across the labs.",
+    "uncertain": "No lab-by-lab change in mission was found.",
+    "sources": [
+      {
+        "label": "Secretary Wright announces termination of 24 projects",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/secretary-wright-announces-termination-24-projects-generating-over-3-billion-taxpayer"
+      },
+      {
+        "label": "Unpacking DOE's October award cancellations",
+        "publisher": "EFI Foundation",
+        "type": "academic",
+        "url": "https://efifoundation.org/topics/innovation/unpacking-does-cancellations/"
+      },
+      {
+        "label": "New DOE re-organization raises uncertainty for American science",
+        "publisher": "Federation of American Scientists",
+        "type": "advocacy",
+        "url": "https://fas.org/publication/new-doe-re-organization-raises-uncertainty-for-american-science/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-014",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In its November 2025 reorganization, the Energy Department combined and removed several offices and created new offices for fusion and for AI and quantum. Separately, the National Science Foundation began abolishing its 37 divisions in May 2025, regrouped its work around priorities such as AI and quantum, and reorganized its leadership in December 2025. No single government-wide review of all federal science agencies was found.",
+    "key_dates": [
+      {
+        "date": "2025-05",
+        "event": "NSF announces plan to abolish its 37 divisions"
+      },
+      {
+        "date": "2025-11-20",
+        "event": "DOE reorganization"
+      },
+      {
+        "date": "2025-12-15",
+        "event": "NSF leadership reorganization"
+      }
+    ],
+    "closeness": "DOE and NSF were each reshuffled, but a ranking of programs and a review across all science agencies were not found.",
+    "uncertain": "I did not confirm how the NSF changes affect its legal mission. Newest source: early 2026.",
+    "sources": [
+      {
+        "label": "New DOE re-organization raises uncertainty for American science",
+        "publisher": "Federation of American Scientists",
+        "type": "advocacy",
+        "url": "https://fas.org/publication/new-doe-re-organization-raises-uncertainty-for-american-science/"
+      },
+      {
+        "label": "Trump Energy Department drops renewables, promotes fusion in office reshuffle",
+        "publisher": "TechCrunch",
+        "type": "news",
+        "url": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle"
+      },
+      {
+        "label": "US govt's science foundation purges 37 divisions",
+        "publisher": "The Register",
+        "type": "news",
+        "url": "https://www.theregister.com/2025/05/09/nsf_axes_37_division/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-015",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On January 28, 2026, the Energy Department invited states to host Nuclear Lifecycle Innovation Campuses, which could include spent fuel storage and disposal, and asked for ideas that rely on private and state money with limited federal support. Twenty-six states applied, and five finalists were named on July 28, 2026. The Nuclear Waste Policy Act was not changed.",
+    "key_dates": [
+      {
+        "date": "2026-01-28",
+        "event": "DOE invites states to host campuses"
+      },
+      {
+        "date": "2026-07-28",
+        "event": "Five finalist states named"
+      }
+    ],
+    "closeness": "Gives private and state investors a larger role, but the law was not amended to allow market pricing or competition for waste services.",
+    "uncertain": "No site has been chosen. Newest source is from October 2026.",
+    "sources": [
+      {
+        "label": "Nuclear Energy: Overview of Congressional Issues",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R42853.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-016",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law gave NNSA extra money, including $400 million for the warhead of a new nuclear sea-launched cruise missile and $750 million each to speed up \"primary\" (pit) and \"secondary\" modernization. The fiscal 2026 spending law gave $20.4 billion for NNSA weapons activities. On October 15, 2026, NNSA approved full construction of the Savannah River pit production facility, a second pit site with Los Alamos.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law funds the sea-launched cruise missile warhead and pit modernization."
+      },
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 defense law sets reporting rules for the W93 warhead program."
+      },
+      {
+        "date": "2026-01-23",
+        "event": "FY2026 spending law provides $20.4 billion for NNSA weapons activities."
+      },
+      {
+        "date": "2026-10-15",
+        "event": "Savannah River pit facility baseline approved; full construction authorized."
+      }
+    ],
+    "closeness": "Close to the chapter's goal: Congress funded a new warhead (for the sea-launched cruise missile) and faster pit work, and the W93 program continues. Most of these programs began before 2025.",
+    "uncertain": "Whether pit production targets are being met was not checked. W93 progress details come only from the law's reporting rules. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (2025 reconciliation law), NNSA funding",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Public Law 119-74 (FY2026 consolidated appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
+      },
+      {
+        "label": "NNSA baselines Savannah River Plutonium Processing Facility",
+        "publisher": "National Nuclear Security Administration",
+        "type": "government",
+        "url": "https://www.energy.gov/nnsa/articles/nnsa-baselines-savannah-river-plutonium-processing-facility"
+      },
+      {
+        "label": "NNSA completes all planned components for the W80-4",
+        "publisher": "National Nuclear Security Administration",
+        "type": "government",
+        "url": "https://www.energy.gov/nnsa/articles/nnsa-completes-all-planned-components-w80-4-building-momentum-toward-first-production"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-017",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law provided extra shipbuilding money; the Navy planned to use about $26.5 billion of it to buy 16 of the 19 ships in its 2026 request. The Navy also announced a larger 'Golden Fleet' goal including new battleships. Naval Reactors funding was $2.13 billion in 2026, with an increase requested for 2027.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law adds shipbuilding funds"
+      }
+    ],
+    "closeness": "The Navy is growing its shipbuilding, as recommended. A new naval reactor development program was not specifically confirmed.",
+    "uncertain": "Details of the Golden Fleet goal had not been released as of January 2026.",
+    "sources": [
+      {
+        "label": "Navy Force Structure and Shipbuilding Plans: Background and Issues for Congress",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/RL32665.html"
+      },
+      {
+        "label": "National Nuclear Security Administration (NNSA) FY2027 Budget and Policy Issues: In Brief",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48946.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-018",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No ending of nonproliferation programs involving Iran or the United Nations was found. NNSA's nonproliferation budget was about $2.37 billion in 2026, and its 2027 request was 1 percent higher. NNSA still supports International Atomic Energy Agency safeguards, including monitoring Iran's nuclear program.",
+    "closeness": "Nothing matching was found. Members of Congress have raised concerns about proposed nonproliferation staff cuts, but the programs continue.",
+    "uncertain": "Which specific nonproliferation projects, if any, were ended was not found.",
+    "sources": [
+      {
+        "label": "National Nuclear Security Administration (NNSA) FY2027 Budget and Policy Issues: In Brief",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48946.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-019",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On August 26, 2026, President Trump signed Executive Order 14421, declaring a national emergency over foreign-made power grid equipment. It lets the Energy Secretary block the purchase or installation of grid equipment tied to covered foreign entities and set conditions on equipment already installed. It calls for rules within 120 days.",
+    "key_dates": [
+      {
+        "date": "2026-08-26",
+        "event": "Executive order 14421 signed"
+      }
+    ],
+    "closeness": "This is a new version of the 2020 order (EO 13920), as recommended.",
+    "uncertain": "Implementing rules were not out as of the newest source (August 2026).",
+    "sources": [
+      {
+        "label": "Declaring a National Emergency To Secure the United States Bulk-Power System (EO 14421)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17843/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-020",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "DOE announced a reorganization on November 20, 2025. Its new organization chart lists the Office of Electricity and the Office of Cybersecurity, Energy Security and Emergency Response as separate offices, and no longer shows the Grid Deployment Office. By March 2026, the Grid Deployment Office's power to approve electricity exports had been handed to the Office of Electricity.",
+    "key_dates": [
+      {
+        "date": "2025-11-20",
+        "event": "DOE announces realignment; Grid Deployment Office dropped from organization chart"
+      },
+      {
+        "date": "2026-01-23",
+        "event": "Last electricity export notice found issued by the Grid Deployment Office"
+      },
+      {
+        "date": "2026-03-23",
+        "event": "Electricity export notices now issued by the Office of Electricity under a 2026 delegation order"
+      }
+    ],
+    "closeness": "Part of the Grid Deployment Office's work moved into the Office of Electricity, as the chapter suggests, but the Office of Electricity was not merged with the cybersecurity and energy security office.",
+    "uncertain": "Only the electricity export authority was traced, through Federal Register notices; where other Grid Deployment Office programs, such as grid grants, went was not confirmed. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Energy Department Announces Organizational Realignment",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/energy-department-announces-organizational-realignment-strengthen-efficiency-and-unleash"
+      },
+      {
+        "label": "DOE organization chart, updated November 20, 2025",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/sites/default/files/2025-11/Organization-Chart-11.20.2025-2.pdf"
+      },
+      {
+        "label": "Application for Authorization To Export Electric Energy; Clear Power LLC (Office of Electricity notice)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21424/application-for-authorization-to-export-electric-energy-clear-power-llc"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Confirm where the Grid Deployment Office's grant programs were placed after the realignment."
+  },
+  {
+    "id": "ch12-021",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Office of Electricity was not eliminated. Its funding was cut from $280 million in 2025 to $235 million in 2026, and the 2027 request was about $204 million. No law ending its grant programs or DOE's commercial deployment funding as a whole was found.",
+    "closeness": "Funding was reduced, but the programs continue.",
+    "uncertain": "Which specific grant programs were cut was not checked.",
+    "sources": [
+      {
+        "label": "Energy and Water Development: FY2027 Appropriations",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48944.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-022",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Office of Nuclear Energy was not limited to basic research. Its funding stayed about $1.69 billion in 2026. The Energy Department continued supporting reactor demonstrations and started a reactor pilot program in 2025.",
+    "closeness": "The opposite of the recommendation: DOE expanded support for commercial reactor demonstrations.",
+    "uncertain": "Newest source is from October 2026.",
+    "sources": [
+      {
+        "label": "Energy and Water Development: FY2027 Appropriations",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48944.html"
+      },
+      {
+        "label": "Nuclear Energy: Overview of Congressional Issues",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R42853.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-024",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On May 30, 2025, the Energy Department canceled 24 demonstration awards worth over $3.7 billion, which it said mainly funded carbon capture and decarbonization projects. More awards were canceled in October 2025. The carbon management name was dropped from the fossil energy office in November 2025.",
+    "key_dates": [
+      {
+        "date": "2025-05-30",
+        "event": "24 awards canceled"
+      },
+      {
+        "date": "2025-11-20",
+        "event": "Office renamed in reorganization"
+      }
+    ],
+    "closeness": "Many carbon capture projects lost funding, but no law ended DOE carbon capture programs, and some related programs continue.",
+    "uncertain": "How much carbon capture research funding remains in 2026 was not confirmed.",
+    "sources": [
+      {
+        "label": "Secretary Wright announces termination of 24 projects",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/secretary-wright-announces-termination-24-projects-generating-over-3-billion-taxpayer"
+      },
+      {
+        "label": "Unpacking DOE's October award cancellations",
+        "publisher": "EFI Foundation",
+        "type": "academic",
+        "url": "https://efifoundation.org/topics/innovation/unpacking-does-cancellations/"
+      },
+      {
+        "label": "Energy and Water Development: FY2027 Appropriations",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48944.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-026",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The fossil energy office was not eliminated. In November 2025 it became the Office of Hydrocarbons and Geothermal Energy, which reports to a new Under Secretary for Energy. Fossil energy funding fell from $865 million in 2025 to $580 million in 2026.",
+    "key_dates": [
+      {
+        "date": "2025-11-20",
+        "event": "Office renamed in reorganization"
+      }
+    ],
+    "closeness": "The fallback idea (keep the office but focus it on energy supply) roughly happened; the office was not eliminated. Same action as ch12-004.",
+    "uncertain": "How the office's 2026 money is split between programs was not checked.",
+    "sources": [
+      {
+        "label": "Energy and Water Development: FY2027 Appropriations",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48944.html"
+      },
+      {
+        "label": "New DOE re-organization raises uncertainty for American science",
+        "publisher": "Federation of American Scientists",
+        "type": "advocacy",
+        "url": "https://fas.org/publication/new-doe-re-organization-raises-uncertainty-for-american-science/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-027",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law repealed a 2017 mandate to sell oil from the Strategic Petroleum Reserve and gave DOE $218 million for repairs and $171 million to buy oil. In October 2026, DOE authorized an emergency exchange of up to 400,000 barrels for a Louisiana refinery, to be paid back with extra barrels.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law (sec. 50401) repeals SPR sale mandate and funds refill."
+      },
+      {
+        "date": "2026-10-23",
+        "event": "DOE authorizes emergency SPR exchange."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Steps toward keeping the reserve for emergencies, such as ending a mandated sale. Whether any use is \"political\" is a judgment this tracker does not make.",
+    "uncertain": "I did not review every SPR sale or exchange since 2025. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-21, sec. 50401 (Strategic Petroleum Reserve)",
+        "publisher": "U.S. Government Publishing Office",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Energy Department Authorizes Strategic Petroleum Reserve Exchange to Support Fuel Supply Stability",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/energy-department-authorizes-strategic-petroleum-reserve-exchange-support-fuel-supply"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-028",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On March 24, 2025, the Energy Department withdrew efficiency standards for electric motors, ceiling fans, dehumidifiers and external power supplies, and postponed three other rules. On July 7, 2026, it formally proposed changing its \"process rule\" for setting standards, which it said would permanently end appliance mandates; the comment period was extended later that month. Congress has not repealed the law that requires efficiency standards.",
+    "key_dates": [
+      {
+        "date": "2025-03-24",
+        "event": "DOE withdraws four standards and postpones three rules."
+      },
+      {
+        "date": "2026-07-07",
+        "event": "DOE publishes proposed revised process rule for appliance standards."
+      }
+    ],
+    "closeness": "The department has rolled back some standards and proposed broader limits, matching the chapter's interim advice. The chapter's main step, changing or repealing the law, has not happened.",
+    "uncertain": "A Federal Register search through October 2026 found no final process rule. States filed comments opposing DOE's 2025 rollback proposals, but no lawsuit against the rollbacks was found. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Energy Department advances efforts to lower costs and increase consumer choice",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/energy-department-advances-efforts-lower-costs-and-increase-consumer-choice"
+      },
+      {
+        "label": "Procedures, Interpretations, and Policies for Consideration of New or Revised Energy Conservation Standards (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13674/energy-conservation-program-procedures-interpretations-and-policies-for-consideration-of-new-or"
+      },
+      {
+        "label": "Coalition of U.S. states and cities lays groundwork for legal challenge of DOE's appliance efficiency rollback",
+        "publisher": "Beveridge & Diamond",
+        "type": "law-firm",
+        "url": "https://www.bdlaw.com/publications/coalition-of-u-s-states-and-cities-lays-groundwork-for-legal-challenge-of-the-department-of-energys-appliance-efficiency-rollback/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-029",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Energy Department's November 20, 2025 reorganization did not list the Office of Energy Efficiency and Renewable Energy on its new chart. Reports say most of its work was folded into a new Office of Critical Minerals and Energy Innovation. Congress has not passed a law eliminating these applied energy programs.",
+    "key_dates": [
+      {
+        "date": "2025-11-20",
+        "event": "DOE announces organizational realignment."
+      }
+    ],
+    "closeness": "The office was removed as a separate unit, but its functions were mostly merged rather than ended, and Congress has not acted. Same reorganization as ch12-005.",
+    "uncertain": "How much of the office's budget and staff remain under the new office, and what Congress funded for 2026. Newest source is from November 2025.",
+    "sources": [
+      {
+        "label": "New DOE re-organization raises uncertainty for American science",
+        "publisher": "Federation of American Scientists",
+        "type": "advocacy",
+        "url": "https://fas.org/publication/new-doe-re-organization-raises-uncertainty-for-american-science/"
+      },
+      {
+        "label": "Trump Energy Department drops renewables, promotes fusion in office reshuffle",
+        "publisher": "TechCrunch",
+        "type": "news",
+        "url": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-030",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Funding for the renewable energy office was cut from $3.46 billion in 2025 to $1.95 billion in 2026, and the office was folded into a new Office of Critical Minerals and Energy Innovation. The July 2025 reconciliation law took back unspent Inflation Reduction Act money for several DOE programs. The 2027 request would cut the new office another 40 percent.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law rescinds unspent IRA balances"
+      },
+      {
+        "date": "2026-01-23",
+        "event": "2026 Energy and Water law enacted"
+      }
+    ],
+    "closeness": "Close to the recommendation: deep cuts and a rescission of unspent money. Remaining money was not limited only to basic research.",
+    "uncertain": "2027 funding was not final as of the newest source (June 2026).",
+    "sources": [
+      {
+        "label": "Energy and Water Development: FY2027 Appropriations",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48944.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-031",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The Grid Deployment Office was removed in the Energy Department's November 20, 2025 reorganization. Some of its work and staff moved to other offices.",
+    "key_dates": [
+      {
+        "date": "2025-11-20",
+        "event": "DOE reorganization removes the office"
+      }
+    ],
+    "closeness": "The office was eliminated as recommended. Whether its reliability work went to the energy security office (CESER) was not confirmed. See ch12-034.",
+    "uncertain": "Where all of its programs went was not fully confirmed.",
+    "sources": [
+      {
+        "label": "Trump Energy Department drops renewables, promotes fusion in office reshuffle",
+        "publisher": "TechCrunch",
+        "type": "news",
+        "url": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle"
+      },
+      {
+        "label": "New DOE re-organization raises uncertainty for American science",
+        "publisher": "Federation of American Scientists",
+        "type": "advocacy",
+        "url": "https://fas.org/publication/new-doe-re-organization-raises-uncertainty-for-american-science/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-033",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On August 12, 2026, the Energy Secretary announced that DOE would not move forward with three proposed National Interest Electric Transmission Corridors. DOE still published a draft 2026 National Transmission Needs Study in July 2026, as the law requires.",
+    "key_dates": [
+      {
+        "date": "2026-07-09",
+        "event": "Draft 2026 transmission needs study published"
+      },
+      {
+        "date": "2026-08-12",
+        "event": "DOE drops proposed corridors"
+      }
+    ],
+    "closeness": "DOE ended its corridor work, but it still does national transmission studies.",
+    "uncertain": "Whether the final 2026 needs study will be issued was not known.",
+    "sources": [
+      {
+        "label": "No NIETCs: U.S. Department of Energy Suspends Efforts to Designate National Interest Electricity Transmission Corridors",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11478.html"
+      },
+      {
+        "label": "Notice of Availability of Draft 2026 National Transmission Needs Study",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13844/notice-of-availability-of-draft-2026-national-transmission-needs-study-and-request-for-comment"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-034",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Grid Deployment Office was removed in the Energy Department's November 20, 2025 reorganization. Among the 321 awards cancelled in October 2025 were grid awards, such as a $26.8 million Grid Resilience and Innovation Partnerships award to Colorado's Tri-State. The July 2025 reconciliation law took back unspent Inflation Reduction Act money for three transmission programs, but not the infrastructure law's grid money.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law rescinds unspent IRA transmission funds (sections 50151-50153)."
+      },
+      {
+        "date": "2025-10-02",
+        "event": "DOE announces cancellation of 321 awards, including some grid awards."
+      },
+      {
+        "date": "2025-11-20",
+        "event": "Grid Deployment Office removed in reorganization."
+      }
+    ],
+    "closeness": "Partly matches: the office is gone, some grid awards were cancelled, and Congress took back some unspent transmission money. Most of the roughly $20 billion in infrastructure-law grid funding was not rescinded. Same reorganization as ch12-005.",
+    "uncertain": "A full count and dollar total of cancelled grid awards was not found. Newest source: November 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (2025 reconciliation law), sec. 50402",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Statement from Tri-State CEO on DOE cancellation of GRIP award",
+        "publisher": "Tri-State Generation and Transmission",
+        "type": "news",
+        "url": "https://tristate.coop/statement-tri-state-ceo-duane-highley-doe-cancellation-grip-award"
+      },
+      {
+        "label": "Trump Energy Department drops renewables, promotes fusion in office reshuffle",
+        "publisher": "TechCrunch",
+        "type": "news",
+        "url": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle"
+      },
+      {
+        "label": "Unpacking DOE's October award cancellations",
+        "publisher": "EFI Foundation",
+        "type": "academic",
+        "url": "https://efifoundation.org/topics/innovation/unpacking-does-cancellations/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-035",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On May 30, 2025, the Energy Department cancelled 24 awards from the Office of Clean Energy Demonstrations worth over $3.7 billion. Its projects made up over a third of 321 awards cancelled in October 2025. In the November 2025 reorganization, the department said the office was renamed as the new Office of Critical Minerals and Energy Innovation.",
+    "key_dates": [
+      {
+        "date": "2025-05-30",
+        "event": "24 demonstration awards cancelled."
+      },
+      {
+        "date": "2025-10-02",
+        "event": "321 awards cancelled; more than a third from this office."
+      },
+      {
+        "date": "2025-11-20",
+        "event": "Office removed in reorganization."
+      }
+    ],
+    "closeness": "Close in effect: the office no longer exists as a unit and many projects were cancelled. But Congress has not ended the demonstration programs it created in the 2021 infrastructure law, which the chapter asked for.",
+    "uncertain": "Whether any demonstration programs continue under the new office, and whether lawsuits over cancellations have succeeded. Newest source is from late 2025.",
+    "sources": [
+      {
+        "label": "Secretary Wright announces termination of 24 projects",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/secretary-wright-announces-termination-24-projects-generating-over-3-billion-taxpayer"
+      },
+      {
+        "label": "Unpacking DOE's October award cancellations",
+        "publisher": "EFI Foundation",
+        "type": "academic",
+        "url": "https://efifoundation.org/topics/innovation/unpacking-does-cancellations/"
+      },
+      {
+        "label": "Trump Energy Department drops renewables, promotes fusion in office reshuffle",
+        "publisher": "TechCrunch",
+        "type": "news",
+        "url": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-036",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Energy Department's loan office was not closed. The July 2025 reconciliation law renamed and expanded it as the Energy Dominance Financing program. The department says it has deployed about $30 billion to utilities and made new loans for nuclear plants, including a $1 billion loan for the Crane restart and a conditional commitment of up to $5 billion to Constellation announced October 27, 2026.",
+    "closeness": "The opposite of the recommendation: lending continues and was expanded. The office changed focus away from wind and solar toward nuclear, fossil and grid projects.",
+    "uncertain": "Total new loans since 2025 and any cancelled earlier loans were not fully tallied. Newest source is from October 27, 2026.",
+    "sources": [
+      {
+        "label": "Energy Dominance Financing office celebrates one year since passage of the Working Families Tax Cuts Act",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/energy-dominance-financing-office-celebrates-one-year-passage-working-families-tax-cuts"
+      },
+      {
+        "label": "Energy Department announces $5 billion loan to boost nuclear power",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-037",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The July 2025 reconciliation law renamed and expanded the loan office as Energy Dominance Financing, and DOE issued an interim rule in October 2025. DOE says it has made large loans to utilities and nuclear projects.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law creates Energy Dominance Financing"
+      },
+      {
+        "date": "2025-10-28",
+        "event": "Interim final rule published"
+      }
+    ],
+    "closeness": "Lending shifted toward grid and firm power, which is near the recommendation, but loans were not limited only to reliability and security, and new oversight steps were not confirmed. See ch12-036.",
+    "uncertain": "No independent review of the new loans was found.",
+    "sources": [
+      {
+        "label": "Energy Dominance Financing Amendments (interim final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/28/2025-19675/energy-dominance-financing-amendments"
+      },
+      {
+        "label": "Energy Dominance Financing office celebrates one year since passage",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/energy-dominance-financing-office-celebrates-one-year-passage-working-families-tax-cuts"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-039",
+    "status": "not-done",
+    "match": "none",
+    "happened": "ARPA-E was not eliminated. Congress gave it $350 million for 2026. The administration asked for $200 million for 2026 and again for 2027.",
+    "closeness": "The administration sought cuts, not elimination, and Congress did not make them.",
+    "uncertain": "2027 funding was not final as of June 2026.",
+    "sources": [
+      {
+        "label": "Energy and Water Development: FY2027 Appropriations",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48944.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-040",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public action ending the Clean Energy Corps by name was found. The Energy Department did cut staff in 2025 and removed several offices that had hired through the program.",
+    "closeness": "Staff and office cuts likely affected Clean Energy Corps jobs, but a formal end to the program was not confirmed.",
+    "uncertain": "I searched news for the Clean Energy Corps and for DOE's 2025 layoffs; I found reporting on cuts of probationary staff and offices but nothing ending the program by name. Clean Energy Corps jobs were very likely affected, but I could not confirm it.",
+    "sources": [
+      {
+        "label": "Trump Energy Department drops renewables, promotes fusion in office reshuffle",
+        "publisher": "TechCrunch",
+        "type": "news",
+        "url": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-042",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "An April 8, 2025 executive order told the Energy Secretary to create a single method for judging reserve margins across the grid that credits power plants based on how they actually performed. DOE released that analysis, its Resource Adequacy Report, on July 7, 2025. It found most regions adequate today but warned of future shortfalls.",
+    "key_dates": [
+      {
+        "date": "2025-04-08",
+        "event": "Executive order 14262 signed"
+      },
+      {
+        "date": "2025-07-07",
+        "event": "DOE Resource Adequacy Report released"
+      }
+    ],
+    "closeness": "Close in idea, since it credits wind and solar only for their proven output. It was done by DOE rather than by FERC, NERC and EIA redefining reserve margins together.",
+    "uncertain": "I found no FERC or NERC rule adopting DOE's method. Critics said the method was not open to public input. Newest source: 2025-2026 legal reviews.",
+    "sources": [
+      {
+        "label": "Strengthening the Reliability and Security of the United States Electric Grid (EO 14262)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/14/2025-06381/strengthening-the-reliability-and-security-of-the-united-states-electric-grid"
+      },
+      {
+        "label": "Department of Energy releases Resource Adequacy Report according to Trump EO mandate",
+        "publisher": "Ashurst Perkins Coie",
+        "type": "law-firm",
+        "url": "https://www.ashurstperkinscoie.com/en/insights/department-of-energy-releases-resource-adequacy-report-according-to-trump-eo-mandate/"
+      },
+      {
+        "label": "Enough Energy: a review of DOE's resource adequacy report",
+        "publisher": "Institute for Policy Integrity, NYU Law",
+        "type": "academic",
+        "url": "https://policyintegrity.org/publications/detail/enough-energy"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-043",
+    "status": "not-done",
+    "match": "none",
+    "happened": "EIA's most recent report on federal energy subsidies covers fiscal years 2016-2022 and was released August 1, 2023. As of October 2026 no newer edition or move to a regular one- or two-year schedule was found. EIA lost a large share of its staff in 2025 and dropped or delayed several other reports.",
+    "closeness": "No matching action found.",
+    "uncertain": "I rechecked EIA's subsidy report page in October 2026, which still lists the 2023 edition as the latest, and ran a web search on EIA's reports and staffing. A future edition could be in progress without notice.",
+    "sources": [
+      {
+        "label": "Federal Financial Interventions and Subsidies in Energy in Fiscal Years 2016-2022",
+        "publisher": "U.S. Energy Information Administration",
+        "type": "government",
+        "url": "https://www.eia.gov/analysis/requests/subsidy/"
+      },
+      {
+        "label": "US EIA, other statistical agencies face squeeze as staffing reductions mount",
+        "publisher": "S&P Global Commodity Insights",
+        "type": "news",
+        "url": "https://www.spglobal.com/commodity-insights/en/news-research/latest-news/natural-gas/080725-us-eia-other-statistical-agencies-face-squeeze-as-staffing-reductions-mount"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-046",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In 2025 the State Department closed its Bureau of Energy Resources as part of its reorganization; by July 2025 its remaining work was folded into State's own Bureau of Economic, Energy, and Business Affairs. The work did not move to the Energy Department. In 2026 the House Foreign Affairs Committee voted 45-0 for a bill (H.R. 5248) to bring back a State Department energy bureau.",
+    "key_dates": [
+      {
+        "date": "2025-07",
+        "event": "Bureau of Energy Resources folded into State's economic bureau"
+      },
+      {
+        "date": "2026-05",
+        "event": "House committee approves bill to revive a State energy bureau"
+      }
+    ],
+    "closeness": "The bureau was eliminated, as recommended, but its work stayed at State instead of moving to DOE's Office of International Affairs, and DOE staff did not replace its posts abroad.",
+    "uncertain": "News reports say a revival bill passed the House in 2026; I did not confirm Senate action. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "State Department cuts bureau tasked with expanding US energy exports",
+        "publisher": "E&E News (POLITICO)",
+        "type": "news",
+        "url": "https://www.eenews.net/articles/state-department-cuts-bureau-tasked-with-expanding-us-energy-exports"
+      },
+      {
+        "label": "Committee clears bill to revive State Department energy bureau",
+        "publisher": "E&E News (POLITICO)",
+        "type": "news",
+        "url": "https://www.eenews.net/articles/committee-clears-bill-to-revive-state-department-energy-bureau/"
+      },
+      {
+        "label": "House clears bill to create State Department energy bureau",
+        "publisher": "E&E News (POLITICO)",
+        "type": "news",
+        "url": "https://www.eenews.net/articles/house-oks-bill-to-create-state-department-energy-bureau/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-047",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On January 20, 2025, President Trump ordered withdrawal from the Paris climate agreement and revoked the U.S. International Climate Finance Plan, telling OMB to rescind frozen funds for it.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive order 14162 signed"
+      }
+    ],
+    "closeness": "Ends U.S. climate finance broadly, which covers the recommendation, though the order does not name climate reparations.",
+    "uncertain": "Whether DOE urged other countries to reconsider such payments was not checked.",
+    "sources": [
+      {
+        "label": "Putting America First in International Environmental Agreements (EO 14162)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02010/putting-america-first-in-international-environmental-agreements"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-048",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "A January 20, 2025 executive order told agencies to roll back limits on Alaska energy and resource development and to prioritize Alaska LNG. No separate Arctic strategy document was found.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive order 14153 signed"
+      }
+    ],
+    "closeness": "The Alaska energy part matches; a strategy defining U.S. Arctic interests and threats from Russia and China was not found.",
+    "uncertain": "I searched for a 2025-2026 national Arctic strategy and found none; the latest Arctic strategies date from 2022 (White House) and 2024 (Defense Department), before January 20, 2025. The administration's 2025 National Security Strategy mentions the Arctic.",
+    "sources": [
+      {
+        "label": "Unleashing Alaska's Extraordinary Resource Potential (EO 14153)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01955/unleashing-alaskas-extraordinary-resource-potential"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-054",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No 10-year plan to finish Cold War nuclear site cleanup by 2035 was found. Environmental Management funding was $8.56 billion in 2026, and the 2027 request would cut it by 5 percent.",
+    "closeness": "Nothing matching was found; funding is falling, not rising.",
+    "uncertain": "2027 funding was not final as of June 2026.",
+    "sources": [
+      {
+        "label": "Energy and Water Development: FY2027 Appropriations",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48944.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-059",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "No step to restart the Yucca Mountain licensing process was found in 2025 or 2026; the fiscal 2026 spending law gave about $12 million for nuclear waste disposal and does not mention Yucca. On July 28, 2026, the Energy Department named five states (Utah, Tennessee, Oklahoma, Louisiana and Idaho) as candidates for \"Nuclear Lifecycle Innovation Campuses\" that would include final disposition of used nuclear fuel.",
+    "key_dates": [
+      {
+        "date": "2026-01-23",
+        "event": "FY2026 spending law provides about $12 million for nuclear waste disposal."
+      },
+      {
+        "date": "2026-07-28",
+        "event": "DOE names five candidate states for nuclear lifecycle campuses."
+      }
+    ],
+    "legal": "None found.",
+    "closeness": "Only the general direction matches. The chapter's main step, restarting Yucca licensing, has not happened, and news reports say the administration is looking beyond Yucca. The new campus plan is a search for other places to handle used fuel, but it is not a formal second repository under the Nuclear Waste Policy Act.",
+    "uncertain": "Whether the campuses would include a permanent disposal site is unclear; DOE's announcement mentions \"final disposition\" but no repository. Final host states were expected by the end of 2026. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Nuclear Lifecycle Innovation Campuses contenders announced",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/nuclear-lifecycle-innovation-campuses-contenders-announced"
+      },
+      {
+        "label": "Why Trump is now looking beyond Yucca Mountain for storing nuclear waste",
+        "publisher": "Washington Examiner",
+        "type": "news",
+        "url": "https://www.washingtonexaminer.com/?p=4673967"
+      },
+      {
+        "label": "Public Law 119-74 (FY2026 consolidated appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
+      },
+      {
+        "label": "At confirmation hearing, Cortez Masto questions Wright about Yucca Mountain",
+        "publisher": "Office of Sen. Catherine Cortez Masto",
+        "type": "government",
+        "url": "https://www.cortezmasto.senate.gov/news/press-releases/at-confirmation-hearing-cortez-masto-questions-wright-about-yucca-mountain-national-security-and-support-for-critical-nevada-programs"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-060",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In January 2026 the Energy Department invited states to volunteer to host Nuclear Lifecycle Innovation Campuses, which could include spent fuel storage and disposal. Twenty-six states applied, and Idaho, Louisiana, Oklahoma, Tennessee and Utah were named finalists on July 28, 2026.",
+    "key_dates": [
+      {
+        "date": "2026-01-28",
+        "event": "DOE invites states"
+      },
+      {
+        "date": "2026-07-28",
+        "event": "Five finalists named"
+      }
+    ],
+    "closeness": "A volunteer, state-based process is similar to consent-based siting, but no site has been picked or built.",
+    "uncertain": "Final site choices and whether waste storage will be included are not known.",
+    "sources": [
+      {
+        "label": "Nuclear Energy: Overview of Congressional Issues",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R42853.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-061",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change to the Nuclear Waste Fund letting plant operators keep control of waste disposal money was found.",
+    "closeness": "Nothing matching was found.",
+    "uncertain": "I checked a CRS nuclear energy overview, the Federal Register and a news search for 2025-2026 Nuclear Waste Fund bills. A 2024 bill (Nuclear Waste Administration Act) would have created a new waste agency, but I found no 2025-2026 action letting operators control the money.",
+    "sources": [
+      {
+        "label": "Nuclear Energy: Overview of Congressional Issues",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R42853.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-062",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No step to re-create the Office of Civilian Radioactive Waste Management was found. Yucca Mountain remains the only legally named repository site but has no funding.",
+    "closeness": "Nothing matching was found. See ch12-059.",
+    "uncertain": "I read DOE's November 2025 realignment briefing, searched the Federal Register and news, and found no new radioactive waste office. Nuclear Waste Fund oversight stayed flat at about $12 million in the FY2026 budget request.",
+    "sources": [
+      {
+        "label": "Nuclear Energy: Overview of Congressional Issues",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R42853.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-063",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The sea-launched nuclear cruise missile (SLCM-N) continues. The July 2025 reconciliation law gave $2 billion for the missile and $400 million for its warhead, and the 2026 defense law requires limited deployment by September 2032. I found no reversal of the plan to retire the B83-1 bomb.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law funds SLCM-N"
+      },
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 defense law sets 2032 deployment goal"
+      }
+    ],
+    "closeness": "The cruise missile part matches. The B83 part does not: its retirement, planned since 2022, was not reversed.",
+    "uncertain": "Mid-2026 foreign news reports said the declassified U.S. defense strategy still plans to retire the B83-1; I did not find a U.S. official document confirming this. (The first Trump administration's 2018 Nuclear Posture Review had kept the B83, before January 20, 2025.)",
+    "sources": [
+      {
+        "label": "Nuclear-Armed Sea-Launched Cruise Missile (SLCM-N)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12084.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-064",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "NNSA is keeping two plutonium pit production sites. Los Alamos makes pits now, and on October 15, 2026, NNSA approved the cost and schedule baseline and full construction of the Savannah River pit facility.",
+    "key_dates": [
+      {
+        "date": "2026-10-15",
+        "event": "Savannah River pit facility baselined"
+      }
+    ],
+    "closeness": "Matches the recommendation. See ch12-016.",
+    "uncertain": "The Savannah River facility's cost and start date may change.",
+    "sources": [
+      {
+        "label": "NNSA baselines Savannah River Plutonium Processing Facility",
+        "publisher": "National Nuclear Security Administration",
+        "type": "government",
+        "url": "https://www.energy.gov/nnsa/articles/nnsa-baselines-savannah-river-plutonium-processing-facility"
+      },
+      {
+        "label": "National Nuclear Security Administration (NNSA) FY2027 Budget and Policy Issues: In Brief",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48946.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-065",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The U.S. has signed but never ratified the nuclear test ban treaty, and it was not sent to the Senate. On October 30, 2025, President Trump said he had told the military to start testing nuclear weapons \"on an equal basis\" with other countries. Energy Secretary Chris Wright later said the tests were \"system tests,\" not nuclear explosions.",
+    "key_dates": [
+      {
+        "date": "2025-10-30",
+        "event": "President says he directed nuclear weapons testing \"on an equal basis.\""
+      },
+      {
+        "date": "2025-11",
+        "event": "Energy Secretary says planned tests are system tests, not nuclear explosions."
+      }
+    ],
+    "legal": "None found.",
+    "closeness": "Close on signaling a willingness to test, and the treaty remains unratified. But no explosive test was found, and no public order telling NNSA to shorten its test readiness time was found. Same announcement as ch04-126.",
+    "uncertain": "One news snippet said NNSA was told to be able to test within six months; it could not be confirmed. A December 2025 CRS report found no concrete new steps and kept the 24-to-36-month readiness goal. In April 2026, Nevada's senators said the administration was still weighing explosive testing. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "U.S. Nuclear Weapons Tests (IF11662)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2025-12-16_IF11662_8bdc835a5adcc1e7cb39b100ef46e82890298bb5.html"
+      },
+      {
+        "label": "Trump says he wants to resume nuclear testing. Here's what that would mean",
+        "publisher": "NPR (via KJZZ)",
+        "type": "news",
+        "url": "https://www.kjzz.org/npr-top-stories/2025-10-30/trump-says-he-wants-to-resume-nuclear-testing-heres-what-that-would-mean"
+      },
+      {
+        "label": "Department of Energy officials to meet with White House to tamp down Trump's idea of explosive nuclear testing",
+        "publisher": "CNN via KVIA",
+        "type": "news",
+        "url": "https://kvia.com/?p=1426656"
+      },
+      {
+        "label": "Rosen visits the Nevada National Security Site as administration weighs explosive testing",
+        "publisher": "Office of Sen. Jacky Rosen",
+        "type": "government",
+        "url": "https://www.rosen.senate.gov/2026/04/13/as-trump-administration-weighs-resuming-explosive-nuclear-testing-rosen-visits-the-nevada-national-security-site-to-observe-nuclear-stockpile-certification/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-069",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "NNSA weapons funding grew: the July 2025 reconciliation law added $3.9 billion, and the 2027 request asks for $27.4 billion, 35 percent more than 2026. At the same time, the administration asked for deep cuts to non-nuclear DOE programs such as renewable energy.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law adds NNSA funds"
+      },
+      {
+        "date": "2026-04-03",
+        "event": "FY2027 budget request"
+      }
+    ],
+    "closeness": "Weapons spending is rising while non-nuclear programs are cut, but Congress has not formally moved money from one to the other.",
+    "uncertain": "2027 appropriations were not final as of the newest sources.",
+    "sources": [
+      {
+        "label": "National Nuclear Security Administration (NNSA) FY2027 Budget and Policy Issues: In Brief",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48946.html"
+      },
+      {
+        "label": "Energy and Water Development: FY2027 Appropriations",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48944.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-070",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "No FERC order requiring wind and solar to buy backup power, or creating separate markets for reliable and intermittent power, was found. FERC has approved grid operator rules that give wind, solar and storage less capacity credit based on how much they are expected to be available, such as Southwest Power Pool's method approved in 2025. FERC also held a resource adequacy conference in June 2025.",
+    "key_dates": [
+      {
+        "date": "2025-06",
+        "event": "FERC resource adequacy technical conference"
+      }
+    ],
+    "closeness": "Capacity credit rules that count wind and solar for less push in the same general direction, but they were proposed by the grid operators, and a similar rule for PJM was approved before January 20, 2025. Nothing requires backup power or separate markets.",
+    "uncertain": "Details of the FERC accreditation orders come from trade press and grid-operator filings, not the orders themselves.",
+    "sources": [
+      {
+        "label": "Meeting the Challenge of Resource Adequacy in RTO and ISO Regions; technical conference notice",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/06/2025-10353/meeting-the-challenge-of-resource-adequacy-in-regional-transmission-organization-and-independent"
+      },
+      {
+        "label": "PJM filing in FERC docket ER26-980 (Apr. 8, 2026)",
+        "publisher": "PJM Interconnection",
+        "type": "government",
+        "url": "https://www.pjm.com/pjmfiles/directory/etariff/FercDockets/9608/20260408-er26-980-001.pdf"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Confirm the dates and terms of FERC orders approving ELCC capacity accreditation for PJM, MISO and SPP from FERC eLibrary."
+  },
+  {
+    "id": "ch12-071",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 4, 2025 reconciliation law sped up the end of tax credits for wind and solar power. Projects must start construction within a year of the law or be placed in service by the end of 2027. Credits for batteries, nuclear and geothermal last longer but face new limits on foreign suppliers.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law signed."
+      }
+    ],
+    "closeness": "Repeals subsidies for some power sources (wind and solar) on a faster timeline, but keeps credits for others, including nuclear and geothermal. The chapter calls for repealing generation subsidies generally. See ch12-001.",
+    "uncertain": "The cited news source described the Senate-passed bill, which the House passed unchanged. Exact credit deadlines should be checked against IRS guidance. Newest source on this point is from July 2025.",
+    "sources": [
+      {
+        "label": "How the Big Beautiful Bill would raise state energy costs",
+        "publisher": "Canary Media",
+        "type": "news",
+        "url": "https://www.canarymedia.com/articles/clean-energy/big-beautiful-bill-state-costs"
+      },
+      {
+        "label": "Big Beautiful Bill and energy affordability",
+        "publisher": "Federation of American Scientists",
+        "type": "advocacy",
+        "url": "https://fas.org/publication/big-beautiful-bill/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-073",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Instead of FERC changing market rules, the Energy Department used emergency orders under section 202(c) of the Federal Power Act in 2025 and 2026 to keep several coal and other power plants running that had planned to close, including plants in Colorado, Indiana, Washington and Maryland.",
+    "key_dates": [
+      {
+        "date": "2025-04-08",
+        "event": "Executive order 14262 tells DOE to speed emergency orders"
+      }
+    ],
+    "legal": "On September 11, 2026, the D.C. Circuit Court of Appeals unanimously vacated DOE's first emergency order for the J.H. Campbell coal plant in Michigan, ruling that DOE must show a real emergency. The plant kept running under later orders, and challenges to orders for plants in Washington, Indiana and Colorado were pending in the D.C. and Ninth Circuits.",
+    "closeness": "Keeps dispatchable plants open, but through DOE emergency orders, not FERC market rule changes.",
+    "uncertain": "I found no FERC market rule change of this kind. DOE had not said whether it would appeal the Campbell ruling. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Federal Power Act: The Department of Energy's Emergency Authority",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48568.html"
+      },
+      {
+        "label": "Strengthening the Reliability and Security of the United States Electric Grid (EO 14262)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/14/2025-06381/strengthening-the-reliability-and-security-of-the-united-states-electric-grid"
+      },
+      {
+        "label": "Federal appeals court vacates first DOE order forcing operation of J.H. Campbell coal plant (Sept. 11, 2026)",
+        "publisher": "Michigan Attorney General",
+        "type": "government",
+        "url": "https://www.michigan.gov/ag/news/press-releases/2026/09/11/federal-appeals-court-vacates-first-doe-order-forcing-operation-of-jh-campbell-coal-plant"
+      },
+      {
+        "label": "DC Circuit decision emphasizes limits on DOE's emergency grid authority",
+        "publisher": "ArentFox Schiff",
+        "type": "law-firm",
+        "url": "https://www.afslaw.com/perspectives/energy-cleantech-counsel/dc-circuit-decision-emphasizes-limits-does-emergency-grid"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-074",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In September 2025, FERC directed NERC to write reliability standards on equipment and services from entities identified as national security risks. In August 2026, an executive order let the Energy Secretary bar grid equipment tied to covered foreign entities.",
+    "key_dates": [
+      {
+        "date": "2025-09-23",
+        "event": "FERC supply chain rule published"
+      },
+      {
+        "date": "2026-08-26",
+        "event": "Executive order 14421 signed"
+      }
+    ],
+    "closeness": "Addresses foreign-made grid parts, including possibly Chinese equipment, but no outright ban was in place yet, and transformer or substation investment was not checked.",
+    "uncertain": "NERC's new standards and DOE's rules were not final as of the newest sources.",
+    "sources": [
+      {
+        "label": "Supply Chain Risk Management Reliability Standards Revisions (FERC final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/23/2025-18394/supply-chain-risk-management-reliability-standards-revisions-equipment-and-services-produced-or"
+      },
+      {
+        "label": "Declaring a National Emergency To Secure the United States Bulk-Power System (EO 14421)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17843/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-075",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "FERC held a commissioner-led technical conference on resource adequacy in regional grid operator areas in June 2025. In June 2026 it required regional grid operators to show their rules handle large loads like data centers, or propose changes.",
+    "key_dates": [
+      {
+        "date": "2025-06-06",
+        "event": "Resource adequacy conference notice"
+      },
+      {
+        "date": "2026-06-18",
+        "event": "Large load proceeding opened"
+      }
+    ],
+    "closeness": "FERC looked at how grid operators secure enough power, but no broad reexamination of the operators themselves was found.",
+    "uncertain": "Results of these proceedings were not final.",
+    "sources": [
+      {
+        "label": "Meeting the Challenge of Resource Adequacy in RTO and ISO Regions; technical conference notice",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/06/2025-10353/meeting-the-challenge-of-resource-adequacy-in-regional-transmission-organization-and-independent"
+      },
+      {
+        "label": "Data Centers and the Electricity Grid: Frequently Asked Questions",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49326.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-077",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No FERC action confirming that states may choose whether to join regional grid operators, or allowing new kinds of power pools, was found.",
+    "closeness": "Nothing new matching was found. FERC's long-standing policy since 1999 already treats joining a regional grid operator as voluntary, so the first part of the recommendation describes existing policy.",
+    "uncertain": "I checked FERC rules in the Federal Register, CRS reports and a news search; I found no 2025-2026 FERC statement on state participation or new power pools.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-078",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "FERC kept its 2024 transmission planning rule (Order 1920), issuing a further rehearing order in April 2025. Separately, on August 12, 2026, the Energy Department dropped three proposed national transmission corridors, citing local concerns.",
+    "key_dates": [
+      {
+        "date": "2025-04-28",
+        "event": "Order 1920-B published"
+      },
+      {
+        "date": "2026-08-12",
+        "event": "DOE drops proposed corridors"
+      }
+    ],
+    "legal": "Challenges to Order 1920 were filed in several federal appeals courts and gathered in the Fourth Circuit; I found no ruling as of October 2026.",
+    "closeness": "The corridor part matches; the cost-sharing rules the chapter objected to remain in place.",
+    "uncertain": "I did not find the court schedule or whether FERC's newer commissioners plan to revise Order 1920. Newest source: 2026 trade press.",
+    "sources": [
+      {
+        "label": "Order No. 1920-B: Building for the Future Through Electric Regional Transmission Planning and Cost Allocation",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-06941/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation"
+      },
+      {
+        "label": "No NIETCs: U.S. Department of Energy Suspends Efforts to Designate National Interest Electricity Transmission Corridors",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11478.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-079",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "FERC made gas pipeline approvals easier: in October 2025 it removed a rule that delayed construction while rehearing requests were pending, and in May 2026 it proposed letting pipelines build more projects under blanket certificates. Its 2022 updated certificate policy statement had been turned into a draft in March 2022 and never took effect; on August 29, 2025, the Energy Secretary asked FERC to consider rescinding it.",
+    "key_dates": [
+      {
+        "date": "2025-08-29",
+        "event": "Energy Secretary asks FERC to rescind draft 2022 certificate policy"
+      },
+      {
+        "date": "2025-10-10",
+        "event": "Rehearing construction limit removed"
+      },
+      {
+        "date": "2026-05-27",
+        "event": "Blanket certificate expansion proposed"
+      }
+    ],
+    "closeness": "Speeds up approvals, but no FERC policy limiting decisions to need alone was found.",
+    "uncertain": "I did not confirm whether FERC voted to rescind the draft 2022 certificate policy. FERC still applies its 1999 certificate policy, which weighs more than need alone.",
+    "sources": [
+      {
+        "label": "Removal of Regulations Limiting Authorizations To Proceed With Construction Activities Pending Rehearing (FERC)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/10/2025-19533/removal-of-regulations-limiting-authorizations-to-proceed-with-construction-activities-pending"
+      },
+      {
+        "label": "Revisions to the Blanket Certificate Program (FERC proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10498/revisions-to-the-blanket-certificate-program"
+      },
+      {
+        "label": "DOE directs FERC to rescind the updated certificate policy statement",
+        "publisher": "Hunton Andrews Kurth",
+        "type": "law-firm",
+        "url": "https://www.hunton.com/the-nickel-report/doe-directs-ferc-to-rescind-the-updated-certificate-policy-statement"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-080",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On January 24, 2025, FERC withdrew its 2022 draft policy that would have had pipeline sponsors estimate upstream and downstream greenhouse gas emissions. On May 29, 2025, the Supreme Court ruled in Seven County Infrastructure Coalition v. Eagle County that agencies need not study the effects of separate upstream and downstream projects in environmental reviews.",
+    "key_dates": [
+      {
+        "date": "2025-01-24",
+        "event": "FERC withdraws draft greenhouse gas policy statement"
+      },
+      {
+        "date": "2025-05-29",
+        "event": "Supreme Court decision"
+      }
+    ],
+    "legal": "Supreme Court decision, May 29, 2025.",
+    "closeness": "Both steps narrow reviews in the recommended direction, but FERC said it would still estimate foreseeable emissions case by case, so reviews are not limited to the pipeline alone.",
+    "uncertain": "I did not review individual FERC pipeline orders after the ruling to see how much emissions analysis remains.",
+    "sources": [
+      {
+        "label": "Seven County Infrastructure Coalition v. Eagle County (opinion)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/24pdf/605us1r34_h3ci.pdf"
+      },
+      {
+        "label": "FERC terminates draft policy statement on climate change impacts of natural gas infrastructure",
+        "publisher": "White & Case",
+        "type": "law-firm",
+        "url": "https://www.whitecase.com/insight-alert/ferc-terminates-draft-policy-statement-climate-change-impacts-natural-gas"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-081",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no new FERC rule or law adding protection or pay for landowners whose land is taken for pipelines. In October 2025, FERC removed a 2020 rule that had barred pipeline construction while some rehearing requests were pending.",
+    "closeness": "No matching action found. The October 2025 FERC change goes in a different direction from added landowner protections.",
+    "uncertain": "I searched the Federal Register for FERC landowner and eminent domain rules and searched GovInfo for 119th Congress pipeline eminent domain bills; the one bill found (H.R. 9838, July 2026) would speed pipeline approvals rather than add landowner protections. State actions were not checked.",
+    "sources": [
+      {
+        "label": "Removal of Regulations Limiting Authorizations To Proceed With Construction Activities Pending Rehearing",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/10/2025-19533/removal-of-regulations-limiting-authorizations-to-proceed-with-construction-activities-pending"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Only one GovInfo bill search ran before its rate limit; search 119th Congress bills on Natural Gas Act landowner compensation."
+  },
+  {
+    "id": "ch12-082",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Energy Department ended its pause on LNG export approvals in January 2025 and found exports in the public interest in May 2025. FERC withdrew its draft greenhouse gas policy for gas projects on January 24, 2025, and in October 2026 proposed letting some LNG plant activities go forward without case-by-case orders.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "LNG approval pause ended"
+      },
+      {
+        "date": "2025-01-24",
+        "event": "FERC withdraws draft greenhouse gas policy statement"
+      },
+      {
+        "date": "2026-10-20",
+        "event": "FERC proposes LNG activity authorizations"
+      }
+    ],
+    "closeness": "Climate concerns are no longer stopping approvals, which matches the direction. FERC still estimates emissions case by case, so climate effects are not fully excluded.",
+    "uncertain": "I did not review individual FERC LNG terminal orders. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "DOE finalizes 2024 LNG export study",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/articles/doe-finalizes-2024-lng-export-study-paving-way-stronger-american-energy-exports"
+      },
+      {
+        "label": "Authorizations for Certain Activities at Liquefied Natural Gas Plants (FERC proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21443/authorizations-for-certain-activities-at-liquefied-natural-gas-plants"
+      },
+      {
+        "label": "FERC terminates draft policy statement on climate change impacts of natural gas infrastructure",
+        "publisher": "White & Case",
+        "type": "law-firm",
+        "url": "https://www.whitecase.com/insight-alert/ferc-terminates-draft-policy-statement-climate-change-impacts-natural-gas"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-083",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "A May 23, 2025 executive order told the NRC to set fixed deadlines: no more than 18 months for a decision on a new reactor and 1 year for continued operation of an existing one. The NRC finalized a new reactor licensing framework (Part 53) in March 2026 and proposed several more licensing rules in 2026 under the order.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "Executive order 14300 signed"
+      },
+      {
+        "date": "2026-03-25",
+        "event": "NRC final Part 53 licensing rule announced"
+      },
+      {
+        "date": "2026-07-16",
+        "event": "NRC proposes reactor licensing changes"
+      }
+    ],
+    "closeness": "The deadlines ordered are even shorter than the chapter suggested, but I found no NRC rule that writes them into its regulations.",
+    "uncertain": "I searched NRC rules in the Federal Register and news; none of the 2026 proposed rules I checked set the 18-month and 1-year decision deadlines. The NRC has said some rules will miss the order's November 2026 target.",
+    "sources": [
+      {
+        "label": "Ordering the Reform of the Nuclear Regulatory Commission (EO 14300)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09798/ordering-the-reform-of-the-nuclear-regulatory-commission"
+      },
+      {
+        "label": "Modernizing Reactor Licensing, Safety Oversight, and Siting Practices (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14341/modernizing-reactor-licensing-safety-oversight-and-siting-practices"
+      },
+      {
+        "label": "Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19568/regulatory-enhancements-for-reactor-licensing-decommissioning-and-operational-oversight"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-084",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The May 2025 executive order set a 1-year maximum for NRC decisions on keeping existing reactors running. The NRC expanded categorical exclusions from environmental review in March 2026 and proposed a broader rewrite of its environmental review rules in July 2026.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "Executive order 14300 signed"
+      },
+      {
+        "date": "2026-03-30",
+        "event": "Categorical exclusions rule final"
+      },
+      {
+        "date": "2026-07-07",
+        "event": "NRC environmental review rule proposed"
+      }
+    ],
+    "closeness": "Similar goal of faster license extensions through lighter environmental reviews; the main rule is still a proposal.",
+    "uncertain": "How much faster license renewals have become was not measured.",
+    "sources": [
+      {
+        "label": "Ordering the Reform of the Nuclear Regulatory Commission (EO 14300)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09798/ordering-the-reform-of-the-nuclear-regulatory-commission"
+      },
+      {
+        "label": "NRC Categorical Exclusions From Environmental Review (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06049/categorical-exclusions-from-environmental-review"
+      },
+      {
+        "label": "NRC Implementation of the National Environmental Policy Act (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13687/implementation-of-the-national-environmental-policy-act"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-085",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "The May 2025 executive order told the NRC to reconsider the 'as low as reasonably achievable' (ALARA) standard. On July 15, 2026, the NRC proposed removing ALARA requirements from its regulations and using a graded approach with fixed dose thresholds instead.",
+    "key_dates": [
+      {
+        "date": "2025-05-23",
+        "event": "Executive order 14300 signed"
+      },
+      {
+        "date": "2026-07-15",
+        "event": "NRC radiation protection rule proposed"
+      }
+    ],
+    "closeness": "The proposal would do what the chapter recommends: drop ALARA and use set standards based on dose. It is not final.",
+    "uncertain": "The rule is only proposed; the final version could differ. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Ordering the Reform of the Nuclear Regulatory Commission (EO 14300)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09798/ordering-the-reform-of-the-nuclear-regulatory-commission"
+      },
+      {
+        "label": "Reforming and Modernizing the NRC's Radiation Protection Framework (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14208/reforming-and-modernizing-the-nrcs-radiation-protection-framework"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-086",
+    "status": "not-done",
+    "match": "none",
+    "happened": "NRC still charges licensees fees to recover about 100 percent of its budget, as federal law requires. Its fiscal 2026 fee rule added fixed caps on service fees under Executive Order 14300, but did not move general costs to regular appropriations.",
+    "closeness": "No matching change to how NRC is funded. The fee caps are a different step aimed at cost predictability for applicants.",
+    "uncertain": "I checked NRC's 2025 and 2026 fee rules and Executive Order 14300. I did not search for pending bills to change NRC funding.",
+    "sources": [
+      {
+        "label": "Fee Schedules; Fee Recovery for Fiscal Year 2026",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12067/fee-schedules-fee-recovery-for-fiscal-year-2026"
+      },
+      {
+        "label": "Ordering the Reform of the Nuclear Regulatory Commission (Executive Order 14300)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09798/ordering-the-reform-of-the-nuclear-regulatory-commission"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-025",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "An executive order signed April 8, 2025, told the Secretary of Energy to speed up coal technologies, including uses of coal byproducts for products such as battery materials. On November 14, 2025, DOE offered up to $275 million for pilot plants that recover critical minerals from coal and industrial byproducts, and it later picked five coal-related projects to share $75 million.",
+    "key_dates": [
+      {
+        "date": "2025-04-08",
+        "event": "Executive order on coal directs DOE to support coal and coal-byproduct technologies."
+      },
+      {
+        "date": "2025-11-14",
+        "event": "DOE issues $275 million funding notice for minerals from coal and industrial byproducts"
+      },
+      {
+        "date": "2026",
+        "event": "DOE selects five coal-based projects for $75 million in negotiations"
+      }
+    ],
+    "closeness": "Close to the chapter's idea: DOE is paying for pilot plants that pull critical minerals from coal byproducts. DOE also funded smaller coal-waste mineral projects before January 20, 2025, so this continues earlier work on a larger scale.",
+    "uncertain": "The date of the five project selections and whether awards were finalized were not confirmed. Newest source: 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14261: Reinvigorating America's Beautiful Clean Coal Industry",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/14/2025-06380/reinvigorating-americas-beautiful-clean-coal-industry-and-amending-executive-order-14241"
+      },
+      {
+        "label": "Funding Notice: Mines & Metals Capacity Expansion (DE-FOA-0003583)",
+        "publisher": "U.S. Department of Energy",
+        "type": "government",
+        "url": "https://www.energy.gov/cmei/mining/funding-notice-mines-metals-capacity-expansion-piloting-product-critical-minerals-and"
+      },
+      {
+        "label": "CRS R47982: Critical Mineral Resources: National Policy and Critical Minerals List",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-01-08_R47982_65167d4c6278ab2af299deb310836ec5622fb724.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-032",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The fiscal 2026 energy spending law, signed January 23, 2026, took about $1.28 billion in unspent money from the civil nuclear credit program created by the 2021 infrastructure law and moved it to other DOE uses. No change to the 2021 law's hydropower incentives was found.",
+    "key_dates": [
+      {
+        "date": "2026-01-23",
+        "event": "FY2026 spending law repurposes about $1.28 billion of civil nuclear credit funds."
+      }
+    ],
+    "closeness": "Pulling most of the unspent civil nuclear credit money matches part of what the chapter suggested considering. The hydropower incentives were not touched, and the credit program itself was not repealed.",
+    "uncertain": "How much civil nuclear credit money remains, and whether DOE paid any credits, were not checked. I searched all 119th Congress laws for the hydropower sections. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-74 (FY2026 appropriations, including energy and water)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-038",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No rule requiring DOE loan applicants to certify compliance with the Uyghur Forced Labor Prevention Act, or to certify they have no other government-backed loans or bonds, was found. The July 2025 reconciliation law rewrote one DOE loan program as \"energy dominance financing\" but did not add these conditions.",
+    "closeness": "The chapter asked for two new loan conditions. Neither was found in law or rule.",
+    "uncertain": "I searched the Federal Register and read the loan section of the reconciliation law (P.L. 119-21, section 50403). An internal Loan Programs Office policy could have been missed. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-045",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No study of privatizing the Energy Information Administration was found. Congress gave the agency $135 million for fiscal 2026 in a law signed January 23, 2026. The agency lost a large share of its staff in 2025 and stopped or delayed some reports, such as its International Energy Outlook.",
+    "closeness": "The chapter suggested assessing privatization. Nothing like that was found; the agency shrank but remains a federal agency funded by Congress.",
+    "uncertain": "I searched the Federal Register, all 119th Congress laws, and the web for EIA privatization; news covered staff cuts but no privatization review. An internal DOE review would not necessarily be public. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-74 (FY2026 appropriations, including energy and water)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ74/html/PLAW-119publ74.htm"
+      },
+      {
+        "label": "US EIA will not release International Energy Outlook in 2025",
+        "publisher": "Argus Media",
+        "type": "news",
+        "url": "https://www.argusmedia.com/pt/news-and-insights/latest-market-news/2685395-us-eia-will-not-release-international-outlook-in-2025"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch12-056",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "On July 1, 2026, the Nuclear Regulatory Commission proposed changing its rules for commercial low-level radioactive waste disposal sites. The proposal would let sites set their own limits based on site conditions, cover some transuranic waste, and allow disposal of higher-concentration waste.",
+    "key_dates": [
+      {
+        "date": "2026-07-01",
+        "event": "NRC proposes new rules for low-level waste disposal."
+      }
+    ],
+    "closeness": "If adopted, the rule could let commercial sites accept more kinds of waste, which could help DOE use them more. But it is an NRC rule, not a DOE decision to use commercial sites more often.",
+    "uncertain": "No DOE policy on using commercial disposal sites more was found. Whether the NRC rule is final is not known. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Integrated Low-Level Radioactive Waste Disposal (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13302/integrated-low-level-radioactive-waste-disposal"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "No DOE Environmental Management decision to use commercial disposal sites more was found in the Federal Register or one web search; check EM program updates."
+  },
+  {
+    "id": "ch12-068",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The defense authorization law for fiscal 2026, signed December 18, 2025, changed the Nuclear Weapons Council's duties. It made the council the main body for linking DOD and DOE nuclear deterrence work and gave it the job of overseeing nuclear deterrence policy and resources at DOD and the National Nuclear Security Administration.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "NDAA section 1631 expands the Nuclear Weapons Council's oversight role."
+      }
+    ],
+    "closeness": "The chapter asked for a review so the council gives fuller oversight of DOE and DOD nuclear weapons policy. Congress gave it broader oversight duties by law; no separate executive branch review was found.",
+    "uncertain": "How the council has used its new duties is not public. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-60 (NDAA FY2026), section 1631",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

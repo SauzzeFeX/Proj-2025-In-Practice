@@ -1,0 +1,2935 @@
+[
+  {
+    "id": "ch11-001",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The administration's 2026 budget asked Congress to combine many K-12 programs into one block grant and to block-grant special education money. Congress did not do this. The 2026 spending law kept the main programs separate, with small increases for Title I and special education.",
+    "closeness": "The chapter wants all federal education money sent to states as no-strings block grants. A smaller consolidation was proposed but rejected, so nothing matching has happened. See also ch11-065.",
+    "uncertain": "The 2027 spending bills were not final as of the newest sources found (September 2026). The administration has proposed block grants again, and the outcome is not known.",
+    "sources": [
+      {
+        "label": "Congress rejects deep cuts, safeguards key K-12 funding in FY26 deal",
+        "publisher": "National Association of Elementary School Principals",
+        "type": "advocacy",
+        "url": "https://www.naesp.org/blog/congress-rejects-deep-cuts-safeguards-key-k-12-funding-in-fy26-deal/"
+      },
+      {
+        "label": "Senate Appropriations rejects K-12 grant consolidations in FY26 bill",
+        "publisher": "K-12 Dive",
+        "type": "news",
+        "url": "https://www.k12dive.com/news/senate-appropriations-rejects-k-12-grant-consolidations-in-fy-26-bill/756504/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The federal government still makes student loans directly. The July 2025 reconciliation law kept direct lending but set new borrowing limits and ended Grad PLUS loans for new borrowers starting July 1, 2026. In March 2026 the Education Department began moving loan collections to the Treasury Department.",
+    "closeness": "No move back to private lenders or to government-guaranteed private loans was found. The new borrowing limits may lead some students to use private loans, but that is a side effect, not a return to private lending. See ch11-019 and ch11-071.",
+    "uncertain": "Searched for plans to restore guaranteed private lending or sell the loan portfolio; found none. Newest source is from 2026.",
+    "sources": [
+      {
+        "label": "Student Loan Types and Limits in the FY2025 Budget Reconciliation Act",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12585.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-003",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law has been passed making national emergency declarations end after 60 days without Congress's approval. The Senate voted in 2025 on resolutions to end specific emergencies used for tariffs, but those votes did not change the National Emergencies Act.",
+    "closeness": "Nothing matching has happened. The National Emergencies Act still lets emergencies continue until the President or Congress ends them.",
+    "uncertain": "Searched for the ARTICLE ONE Act and other bills to make emergencies expire automatically. Found no sign that any passed either chamber in 2025 or 2026, but did not check every bill.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-004",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Congress has not passed a law to close the Education Department. Instead, a March 2025 executive order told the department to wind down as far as the law allows, and about a third of staff were laid off in 2025. By mid-2026 the department had signed 14 agreements moving the day-to-day running of many programs to other agencies, including Labor, HHS, Justice, Interior, State and Treasury.",
+    "key_dates": [
+      {
+        "date": "2025-03-20",
+        "event": "Executive order directs the department to wind down; mass layoffs follow."
+      },
+      {
+        "date": "2025-11-18",
+        "event": "First six interagency agreements announced."
+      },
+      {
+        "date": "2026-06-16",
+        "event": "Agreements move special education work to HHS and civil-rights investigations to Justice."
+      },
+      {
+        "date": "2026-07-30",
+        "event": "Senate HELP Committee advances S. 5046, which would undo about a quarter of the agreements."
+      }
+    ],
+    "legal": "A federal court in Massachusetts blocked the 2025 layoffs with a preliminary injunction, but the Supreme Court paused that order in July 2025. Unions, school districts, the NAACP and about 20 states have since challenged the interagency agreements; no court ruling on the agreements was found.",
+    "closeness": "Same goal, different mechanism. The chapter wants Congress to pass a law closing the department. That has not happened, so the department still legally exists. Moving work to other agencies by agreement is a smaller, reversible version.",
+    "uncertain": "Court status of the agreement lawsuits, and whether Congress will act on S. 5046 or 2027 spending limits. Newest sources are from September 2026.",
+    "sources": [
+      {
+        "label": "Education Department shutdown plans face a new hurdle",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/management/2026/09/education-department-shutdown-plans-face-new-hurdle/416003/"
+      },
+      {
+        "label": "Suit to block Education Department closure expanded amid agency transfers plans",
+        "publisher": "Kentucky Lantern (States Newsroom)",
+        "type": "news",
+        "url": "https://kentuckylantern.com/2025/11/25/repub/suit-to-block-education-department-closure-expanded-amid-agency-transfers-plans/"
+      },
+      {
+        "label": "NAACP supplemental complaint (14 agreements)",
+        "publisher": "Court filing via Thompson Coburn",
+        "type": "court",
+        "url": "https://www.thompsoncoburn.com/wp-content/uploads/2026/08/NAACP-Supplemental-Complaint202012331.1.pdf"
+      },
+      {
+        "label": "Education Department faces scrutiny over slashes to workforce, programs",
+        "publisher": "Federal News Network",
+        "type": "news",
+        "url": "https://federalnewsnetwork.com/workforce/2026/09/education-department-faces-scrutiny-over-slashes-to-workforce-programs/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-005",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On November 18, 2025, the Education Department signed an agreement giving the Labor Department a growing role in running K-12 programs from the Office of Elementary and Secondary Education, such as grants for migrant children, rural schools, English learners and homeless students. Congress did not turn these programs into block grants; the 2026 spending law kept the main programs separate.",
+    "key_dates": [
+      {
+        "date": "2025-11-18",
+        "event": "Education-Labor K-12 agreement announced"
+      }
+    ],
+    "closeness": "Day-to-day management moved out of the office, but the programs were not cut back, block-granted or ended by law. The Education Department says it keeps legal responsibility. See ch11-001 and ch11-006.",
+    "uncertain": "Which exact programs Labor now runs, and how much staff moved, is not fully public. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education announces six new agency partnerships",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-six-new-agency-partnerships-break-federal-bureaucracy"
+      },
+      {
+        "label": "Six new interagency partnerships",
+        "publisher": "Dorsey & Whitney",
+        "type": "law-firm",
+        "url": "https://www.dorsey.com/newsresources/publications/client-alerts/2025/11/six-new-interagency-partnerships"
+      },
+      {
+        "label": "Congress rejects deep cuts, safeguards key K-12 funding in FY26 deal",
+        "publisher": "National Association of Elementary School Principals",
+        "type": "advocacy",
+        "url": "https://www.naesp.org/blog/congress-rejects-deep-cuts-safeguards-key-k-12-funding-in-fy26-deal/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-006",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Through an interagency agreement, the Education Department moved Title I staff and day-to-day management to the Labor Department, not HHS. Title I is still a formula grant with its usual rules. The 2026 spending law kept Title I at about $18.4 billion and limited moving education money to other agencies. NPR reported in September 2026 that two attempts to pay Title I money through Labor's systems were halted after states objected.",
+    "key_dates": [
+      {
+        "date": "2025-11-18",
+        "event": "Agreement announced to move K-12 program management, including Title I, to Labor."
+      },
+      {
+        "date": "2026-09-24",
+        "event": "NPR reports Title I payments will again go through the Education Department's system."
+      }
+    ],
+    "legal": "The interagency agreements, including the one covering Title I, are challenged in lawsuits by states, school districts and others. No ruling on them was found.",
+    "closeness": "The chapter wants Title I moved to HHS as a no-strings block grant. Management moved to a different agency (Labor), the money did not become a block grant, and Congress has not changed the law. Same program-transfer idea as ch11-004 and ch11-012.",
+    "uncertain": "How much of Title I work Labor actually performs, and the outcome of lawsuits and of S. 5046. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "The Education Dept. hasn't been dismantled. It's become more inefficient, staff say",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going"
+      },
+      {
+        "label": "20 states push back as Ed Dept hands programs to other agencies",
+        "publisher": "Education Week",
+        "type": "news",
+        "url": "https://www.edweek.org/policy-politics/20-states-push-back-as-ed-dept-hands-programs-to-other-agencies/2025/12"
+      },
+      {
+        "label": "Congress rejects deep cuts, safeguards key K-12 funding in FY26 deal",
+        "publisher": "National Association of Elementary School Principals",
+        "type": "advocacy",
+        "url": "https://www.naesp.org/blog/congress-rejects-deep-cuts-safeguards-key-k-12-funding-in-fy26-deal/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-007",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Federal Title I funding has not been phased out. The 2026 spending law gave Title I grants to school districts about $18.4 billion, a $20 million increase over the year before.",
+    "closeness": "The chapter wants federal Title I money phased out over 10 years. Funding went up slightly instead, so nothing matching has happened.",
+    "uncertain": "The 2027 spending law was not final as of the newest sources (September 2026).",
+    "sources": [
+      {
+        "label": "Congress rejects deep cuts, safeguards key K-12 funding in FY26 deal",
+        "publisher": "National Association of Elementary School Principals",
+        "type": "advocacy",
+        "url": "https://www.naesp.org/blog/congress-rejects-deep-cuts-safeguards-key-k-12-funding-in-fy26-deal/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-008",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "Impact Aid was not ended or moved to the Defense Department or the Bureau of Indian Education. On November 18, 2025, the Education Department announced six agreements with other agencies; under the one with the Labor Department, Labor helps run most K-12 programs, including Impact Aid, while Education keeps legal responsibility. In September 2026, Labor announced the 2026 Impact Aid construction grant competition on Education's behalf.",
+    "key_dates": [
+      {
+        "date": "2025-11-18",
+        "event": "Education announces agreements moving administration of most K-12 programs, including Impact Aid, to Labor"
+      },
+      {
+        "date": "2026-09-21",
+        "event": "Labor posts Impact Aid construction grant competition for Education"
+      }
+    ],
+    "closeness": "The program moved to Labor, not to Defense or Interior, and no part of Impact Aid was ended. Only the general direction (moving it out of the Education Department) matches.",
+    "uncertain": "The school districts' association describes the arrangement as shared administration, and says fiscal 2026 payments still went through Education's payment systems. I did not read the agreement text itself. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education Announces Six New Agency Partnerships to Break Up Federal Bureaucracy (Nov. 18, 2025)",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-six-new-agency-partnerships-break-federal-bureaucracy"
+      },
+      {
+        "label": "Notice Announcing Impact Aid Discretionary Construction Grant Program Competition",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19240/notice-announcing-impact-aid-discretionary-construction-grant-program-competition"
+      },
+      {
+        "label": "Interagency Agreements (IAAs)",
+        "publisher": "National Association of Federally Impacted Schools",
+        "type": "advocacy",
+        "url": "https://www.nafisdc.org/interagency-agreements-iaas/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-009",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On November 18, 2025, the Education Department signed an agreement giving the Interior Department a bigger role in running Indian education programs, including K-12 grants, tribal college grants and Native career and technical education. The Education Department says it keeps legal responsibility for the programs.",
+    "key_dates": [
+      {
+        "date": "2025-11-18",
+        "event": "Education-Interior Indian education agreement announced"
+      }
+    ],
+    "closeness": "Close in direction, but it is an agreement to manage the programs, not a legal transfer by Congress. Whether the Native American vocational rehabilitation grants are included was not confirmed.",
+    "uncertain": "It is not confirmed whether the programs are run by the Bureau of Indian Education itself or another part of Interior. Newest source is from November 2025.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education announces six new agency partnerships",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-six-new-agency-partnerships-break-federal-bureaucracy"
+      },
+      {
+        "label": "Six new interagency partnerships",
+        "publisher": "Dorsey & Whitney",
+        "type": "law-firm",
+        "url": "https://www.dorsey.com/newsresources/publications/client-alerts/2025/11/six-new-interagency-partnerships"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-010",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The D.C. Opportunity Scholarship Program is still a voucher program for lower-income families, run through the Education Department. In April 2025 the department held its usual grant competition, and the FY2026 spending law (P.L. 119-75, February 2026) again funded the D.C. school choice program at $52.5 million under the existing rules. A House bill, H.R. 5181, would renew the program through 2032 with changes, but it had not passed as of October 2026.",
+    "closeness": "Nothing matching was found. The program was not made universal or moved to HHS.",
+    "uncertain": "I did not confirm every change in H.R. 5181; summaries describe it as a renewal with changes, not a universal program. Newest source: 2025-2026 bill listings.",
+    "sources": [
+      {
+        "label": "Applications for New Awards; Opportunity Scholarship Program (FY 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/23/2025-07024/applications-for-new-awards-opportunity-scholarship-program"
+      },
+      {
+        "label": "SOAR Act update could unlock more scholarship funds for families",
+        "publisher": "Cato Institute",
+        "type": "advocacy",
+        "url": "https://www.cato.org/blog/soar-act-update-could-unlock-more-scholarship-funds-families"
+      },
+      {
+        "label": "SOAR Act Improvements Act (H.R. 5181)",
+        "publisher": "Legilist",
+        "type": "news",
+        "url": "https://legilist.com/bill/119/hr/5181"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-011",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On May 21, 2025, the Education and Labor departments signed an agreement moving day-to-day management of career and technical education (Perkins) and adult education grants to Labor. They announced it as a \"workforce development partnership\" on July 15, 2025, and in September 2025 grantees began using Labor's payment system. Former officials and a union asked the department's inspector general in July 2026 to review the move.",
+    "key_dates": [
+      {
+        "date": "2025-05-21",
+        "event": "Education-Labor agreement on career, technical and adult education signed"
+      },
+      {
+        "date": "2025-07-15",
+        "event": "Agreement announced publicly"
+      },
+      {
+        "date": "2026-07-01",
+        "event": "Request for inspector general review reported"
+      }
+    ],
+    "closeness": "Matches the goal of moving these programs to Labor, but through an agreement rather than a law, so the Education Department still holds legal authority.",
+    "uncertain": "Education says its Office of Career, Technical, and Adult Education keeps legal authority; how much staff moved is not clear. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education and U.S. Department of Labor Implement Workforce Development Partnership",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-labor-implement-workforce-development-partnership"
+      },
+      {
+        "label": "News release 25-1173-NAT (July 15, 2025)",
+        "publisher": "U.S. Department of Labor",
+        "type": "government",
+        "url": "https://www.dol.gov/newsroom/releases/osec/osec20250715"
+      },
+      {
+        "label": "Former civil servants, union request IG investigation of transfer of education program to Labor",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/oversight/2026/07/former-civil-servants-union-request-ig-investigation-transfer-education-program-labor/414757/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-012",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On June 16, 2026, the Education Department signed an agreement moving day-to-day management of special education (IDEA) grants, monitoring and enforcement to HHS. The department says it keeps legal responsibility for IDEA. Congress rejected the administration's request to turn IDEA money into a block grant, and the 2026 spending law gave IDEA state grants about $14.2 billion.",
+    "key_dates": [
+      {
+        "date": "2026-06-16",
+        "event": "Education-HHS agreement on special education announced."
+      },
+      {
+        "date": "2026-07-30",
+        "event": "Senate HELP Committee advances S. 5046, which would reverse the special education move."
+      }
+    ],
+    "legal": "Lawsuits challenging the department's interagency agreements are pending. No court ruling on the special education agreement was found.",
+    "closeness": "The program moved toward HHS as the chapter suggests, but it stays under IDEA's rules and is not a no-strings block grant. The chapter named HHS's Administration for Community Living; the agreement did not say which HHS office would do the work. See ch11-004.",
+    "uncertain": "Which HHS office runs the work, whether 2027 grants will flow through HHS, and how courts and Congress will act. Newest source is from 2026.",
+    "sources": [
+      {
+        "label": "Takeaways from the Ed Dept-HHS special education agreement",
+        "publisher": "K-12 Dive",
+        "type": "news",
+        "url": "https://www.k12dive.com/news/takeaways-from-the-ed-dept-hhs-special-education-agreement/823287/"
+      },
+      {
+        "label": "Education Department moves special ed to HHS and civil rights to DOJ",
+        "publisher": "The College Investor",
+        "type": "news",
+        "url": "https://thecollegeinvestor.com/82463/education-department-moves-special-ed-to-hhs-and-civil-rights-to-doj/"
+      },
+      {
+        "label": "Congress rejects deep cuts, safeguards key K-12 funding in FY26 deal",
+        "publisher": "National Association of Elementary School Principals",
+        "type": "advocacy",
+        "url": "https://www.naesp.org/blog/congress-rejects-deep-cuts-safeguards-key-k-12-funding-in-fy26-deal/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-014",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On June 16, 2026, the Education and Justice departments announced an agreement letting Justice's Civil Rights Division investigate and resolve complaints that the Office for Civil Rights used to handle, which include disability discrimination complaints. The same day, special education grant management and monitoring went to HHS, not Justice.",
+    "key_dates": [
+      {
+        "date": "2026-06-16",
+        "event": "Education-Justice civil rights agreement and Education-HHS special education agreement announced."
+      }
+    ],
+    "legal": "No court ruling on these agreements found; a broader lawsuit over the department's wind-down is pending (see ch11-004).",
+    "closeness": "Civil rights complaint work moved toward Justice, as recommended, but by agreement rather than law, and special education office work went to HHS. Same agreements as ch11-020 and ch11-012.",
+    "uncertain": "I did not confirm whether any special education office staff who handle disability discrimination moved to Justice. Newest source: 2026.",
+    "sources": [
+      {
+        "label": "New DOE-DOJ interagency agreement: a meaningful shift in civil rights enforcement",
+        "publisher": "Littler Mendelson",
+        "type": "law-firm",
+        "url": "https://www.littler.com/news-analysis/asap/new-doe-doj-interagency-agreement-meaningful-shift-civil-rights-enforcement"
+      },
+      {
+        "label": "Education Department moves special ed to HHS and civil rights to DOJ",
+        "publisher": "The College Investor",
+        "type": "news",
+        "url": "https://thecollegeinvestor.com/82463/education-department-moves-special-ed-to-hhs-and-civil-rights-to-doj/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-015",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On November 18, 2025, the Education Department signed an agreement for the Labor Department to run most grant programs of the Office of Postsecondary Education, including TRIO and grants to Historically Black Colleges and Universities. Congress did not end these programs or move them by law.",
+    "key_dates": [
+      {
+        "date": "2025-11-18",
+        "event": "Education-Labor postsecondary agreement announced"
+      }
+    ],
+    "closeness": "Programs are now run by Labor, as the chapter wanted, but they were not ended and the move is not a legal transfer. Whether the Employment and Training Administration runs them is likely but was not confirmed for every program.",
+    "uncertain": "Not every program covered is listed in the sources found. Newest source is from November 2025.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education announces six new agency partnerships",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-six-new-agency-partnerships-break-federal-bureaucracy"
+      },
+      {
+        "label": "Six new interagency partnerships",
+        "publisher": "Dorsey & Whitney",
+        "type": "law-firm",
+        "url": "https://www.dorsey.com/newsresources/publications/client-alerts/2025/11/six-new-interagency-partnerships"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-016",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On September 10, 2025, the Education Department said it would stop discretionary grants to several minority-serving college programs, including Hispanic-Serving Institution grants, which it called unconstitutional. It said it would shift the money, reported at about $350 million, mainly to Historically Black Colleges and Universities and tribal colleges. Congress's FY2026 spending law (P.L. 119-75, February 2026) still set $493 million for the broader Title III-A and Title V grant programs.",
+    "key_dates": [
+      {
+        "date": "2025-09-10",
+        "event": "Education ends discretionary minority-serving institution grants and redirects funds to HBCUs and tribal colleges"
+      },
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 spending law funds Title III and Title V institutional aid"
+      }
+    ],
+    "legal": "Tennessee and Students for Fair Admissions sued over the Hispanic-Serving Institution program in federal district court in Tennessee in 2025. The Justice Department declined to defend it; Hispanic college groups were allowed to join the case in October 2025 to defend it. I found no ruling.",
+    "closeness": "Close to the recommendation's aim of limiting institutional aid to HBCUs and tribal colleges, but done by redirecting grants rather than by block grants or a law, and other programs such as Strengthening Institutions still exist. See ch11-015.",
+    "uncertain": "I did not confirm how the FY2026 money was split among programs, or the current state of the Tennessee lawsuit. Newest source: February 2026.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education Ends Funding for Racially Discriminatory Discretionary Grant Programs at Minority-Serving Institutions",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-ends-funding-racially-discriminatory-discretionary-grant-programs-minority-serving-institutions"
+      },
+      {
+        "label": "Education Department cancels $350M in grants for minority-serving institutions",
+        "publisher": "Higher Ed Dive",
+        "type": "news",
+        "url": "https://www.highereddive.com/news/education-department-cancels-350m-in-grants-for-minority-serving-instituti/759960/"
+      },
+      {
+        "label": "LatinoJustice and HACU will defend Hispanic-Serving Institutions in nationwide federal lawsuit",
+        "publisher": "LatinoJustice PRLDEF",
+        "type": "advocacy",
+        "url": "https://www.latinojustice.org/en/press/latinojustice-and-hacu-will-defend-hispanic-serving-institutions-nationwide-federal-lawsuit"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-017",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On November 18, 2025, the Education Department signed an agreement giving the State Department a larger role in running its international education and foreign language programs, including Title VI and Fulbright-Hays. On July 1, 2026, Education proposed rescinding those programs' regulations.",
+    "key_dates": [
+      {
+        "date": "2025-11-18",
+        "event": "Education-State international education agreement announced."
+      },
+      {
+        "date": "2026-07-01",
+        "event": "Proposal to rescind Title VI and Fulbright-Hays program regulations."
+      }
+    ],
+    "legal": "No court ruling on this agreement found.",
+    "closeness": "Programs tied to national security moved toward State, but through an agreement on day-to-day management, not a legal transfer. Same agreement as ch11-081.",
+    "uncertain": "I did not confirm exactly which programs and staff are covered. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education announces six new agency partnerships",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-six-new-agency-partnerships-break-federal-bureaucracy"
+      },
+      {
+        "label": "International Education Programs and Fulbright-Hays Program; Recission of Regulations",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13248/international-education-programs-and-fulbright-hays-program-recission-of-regulations"
+      },
+      {
+        "label": "Six new interagency partnerships",
+        "publisher": "Dorsey & Whitney",
+        "type": "law-firm",
+        "url": "https://www.dorsey.com/newsresources/publications/client-alerts/2025/11/six-new-interagency-partnerships"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-018",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No move of the National Center for Education Statistics to the Census Bureau was found. The Education Department asked for public input on redesigning its research and statistics arm, the Institute of Education Sciences, in September 2025, after large staff and contract cuts there in 2025.",
+    "closeness": "The statistics office was shrunk and a redesign was started, but it was not moved to Census and its research centers were not moved to the National Science Foundation.",
+    "uncertain": "I checked Federal Register notices on the Institute of Education Sciences through October 2026 and searched news for any plan to move NCES to Census or another agency; I found none. The FY2026 budget request proposed merging other statistical agencies at Commerce, but not NCES.",
+    "sources": [
+      {
+        "label": "Request for Information; Feedback on Redesigning the Institute of Education Sciences",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/25/2025-18608/request-for-information-feedback-on-redesigning-the-institute-of-education-sciences-ies"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-019",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In March 2026 the Education Department announced a three-phase agreement to move management of the roughly $1.7 trillion federal student loan portfolio to the Treasury Department. Treasury first takes over collection of defaulted loans. Later phases would add support for other loans and the FAFSA. No new government corporation has been created.",
+    "key_dates": [
+      {
+        "date": "2026-03-19",
+        "event": "Education Department announces student loan agreement with Treasury."
+      },
+      {
+        "date": "2026-05-28",
+        "event": "GAO says it will review the transfer of default collections."
+      }
+    ],
+    "legal": "Critics say federal law requires the Education Department to run the loan programs. No court ruling on the Treasury agreement was found.",
+    "closeness": "The chapter wants Federal Student Aid spun off into a new government corporation, with Treasury doing collections. The Treasury collections part matches; the corporation, board and end of direct lending have not happened and would need Congress.",
+    "uncertain": "Whether the second and third phases have started, and the result of GAO's review. Newest source is from mid-2026.",
+    "sources": [
+      {
+        "label": "Federal student loans will move to Treasury, further shrinking Education Department",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://www.npr.org/2026/03/19/nx-s1-5753906/student-loans-trump-treasury"
+      },
+      {
+        "label": "Education Dept hands federal student loan portfolio to Treasury",
+        "publisher": "Federal News Network",
+        "type": "news",
+        "url": "https://federalnewsnetwork.com/management/2026/03/education-dept-hands-federal-student-loan-portfolio-to-treasury-in-latest-step-to-dismantle-agency/"
+      },
+      {
+        "label": "GAO to probe federal student loan portfolio transfer to Treasury",
+        "publisher": "Bloomberg Government",
+        "type": "news",
+        "url": "https://news.bgov.com/bloomberg-government-news/gao-to-probe-federal-student-loan-portfolio-transfer-to-treasury"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-020",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On June 16, 2026, the Education and Justice departments announced an agreement letting the Justice Department's Civil Rights Division evaluate, investigate and resolve complaints that the Education Department's Office for Civil Rights used to handle alone. The Education Department says it keeps formal authority over the office and will still do mediation and policy guidance.",
+    "key_dates": [
+      {
+        "date": "2026-06-16",
+        "event": "Education-Justice civil rights agreement announced."
+      }
+    ],
+    "legal": "Lawsuits challenging the interagency agreements are pending. No court ruling on this agreement was found.",
+    "closeness": "Investigations shifted to Justice as the chapter proposes, but the office was not moved by law, and cases can still be resolved by agreement rather than only through lawsuits. See ch11-004.",
+    "uncertain": "Whether Office for Civil Rights staff will move to Justice, and how many cases Justice has taken. Newest source is from 2026.",
+    "sources": [
+      {
+        "label": "New DOE-DOJ interagency agreement: a meaningful shift in civil rights enforcement",
+        "publisher": "Littler Mendelson",
+        "type": "law-firm",
+        "url": "https://www.littler.com/news-analysis/asap/new-doe-doj-interagency-agreement-meaningful-shift-civil-rights-enforcement"
+      },
+      {
+        "label": "Education Department moves special ed to HHS and civil rights to DOJ",
+        "publisher": "The College Investor",
+        "type": "news",
+        "url": "https://thecollegeinvestor.com/82463/education-department-moves-special-ed-to-hhs-and-civil-rights-to-doj/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-022",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "A January 31, 2025 executive order told agencies to repeal ten rules for every new one. The Education Department removed several Biden-era and older rules, including the 2024 Title IX rule (September 2026), its Title VI disparate impact rules (July 2026) and old vocational education civil rights guidelines (July 2026). The July 2025 reconciliation law replaced the income-driven loan plans with a new Repayment Assistance Plan. For school meals, a January 2026 law and a May 2026 USDA rule let schools serve whole and 2% milk again.",
+    "key_dates": [
+      {
+        "date": "2025-01-31",
+        "event": "Deregulation executive order (EO 14192)"
+      },
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law changes loan repayment plans"
+      },
+      {
+        "date": "2026-01-14",
+        "event": "Whole Milk for Healthy Kids Act becomes law (P.L. 119-69)"
+      },
+      {
+        "date": "2026-05-08",
+        "event": "USDA rule expands milk options in school meals"
+      }
+    ],
+    "closeness": "A broad review and many repeals happened, and loan repayment was changed. School meal changes were small: whole milk was allowed back, but I found no repeal of the 2024 school meal nutrition rule on added sugars and sodium. See ch11-028, ch11-037 and ch11-041.",
+    "uncertain": "No single published review of all Biden-era education rules was found. I did not check every USDA school meal waiver.",
+    "sources": [
+      {
+        "label": "Unleashing Prosperity Through Deregulation (EO 14192)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/06/2025-02345/unleashing-prosperity-through-deregulation"
+      },
+      {
+        "label": "Rescinding Guidelines for Eliminating Discrimination in Vocational Education Programs",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14892/rescinding-guidelines-for-eliminating-discrimination-and-denial-of-services-on-the-basis-of-race"
+      },
+      {
+        "label": "Reimagining and Improving Student Education: Federal Student Loan Program Final Regulations",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08556/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations"
+      },
+      {
+        "label": "Expanding Fluid Milk Options in Child Nutrition Programs (final rule, May 8, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09212/expanding-fluid-milk-options-in-child-nutrition-programs"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-023",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In February 2025 the Education Department withdrew its fiscal 2025 Charter Schools Program competitions to bring them in line with the new administration's priorities. The new 2025 competitions used requirements from a 2019 notice rather than the 2022 requirements the chapter objected to, and the department said it removed a Biden-era review requirement. In 2026 the Labor Department began running a charter school grant competition on Education's behalf.",
+    "key_dates": [
+      {
+        "date": "2025-02-04",
+        "event": "Fiscal 2025 charter grant competitions withdrawn for review"
+      },
+      {
+        "date": "2025-05-15",
+        "event": "New 2025 charter developer grant competition uses 2019 requirements"
+      }
+    ],
+    "closeness": "The 2022 requirements appear to have been set aside in practice, but a formal rescission of the 2022 notice was not found.",
+    "uncertain": "I searched the Federal Register and news and found no notice formally rescinding the July 2022 priorities and requirements; they seem to have been set aside in practice. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "Withdrawal of Notice Inviting Applications and Cancellation of the Competition (CSP, Feb. 4, 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/04/2025-02139/withdrawal-of-notice-inviting-applications-and-cancellation-of-the-competition-for-the-expanding"
+      },
+      {
+        "label": "Applications for New Awards; CSP Developer Grants (FY 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/15/2025-08660/applications-for-new-awards-expanding-opportunity-through-quality-charter-schools-program-csp-grants"
+      },
+      {
+        "label": "Notice Announcing Charter Schools Program Grants to State Entities Competition (run by Labor for Education)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07671/notice-announcing-expanding-opportunity-through-quality-charter-schools-program-grants-to-state"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-024",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The Education Department removed the nonbinary category from the 2025-26 Civil Rights Data Collection, with changes approved by the Office of Management and Budget. When it released the 2023-24 data in September 2026, it also removed nonbinary information from all files, citing a 2025 executive order recognizing two sexes.",
+    "key_dates": [
+      {
+        "date": "2025-08-07",
+        "event": "Department submits revised data collection to OMB"
+      },
+      {
+        "date": "2026-09-04",
+        "event": "2023-24 data released with nonbinary data removed"
+      }
+    ],
+    "closeness": "The nonbinary category was dropped as recommended. Whether single-sex sports data were restored, and whether a new collection tied to enforcement was created, was not confirmed.",
+    "uncertain": "Changes to future data collections were still being made. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "Education Department stops collecting some LGBTQ student data",
+        "publisher": "K-12 Dive",
+        "type": "news",
+        "url": "https://www.k12dive.com/news/education-department-stops-collecting-some-lgbtq-student-data/826762/"
+      },
+      {
+        "label": "Federal civil rights data about students is finally out. It's different under Trump",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump"
+      },
+      {
+        "label": "Mandatory Civil Rights Data Collection (information collection submitted to OMB)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/07/2025-15038/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-025",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law delayed the 2022 borrower defense and closed school discharge rules for loans made before July 1, 2035, bringing back the earlier rules. On October 31, 2025, the Education Department issued a rule narrowing which employers count for Public Service Loan Forgiveness, but two federal courts struck it down on June 30, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law delays borrower defense and closed school rules."
+      },
+      {
+        "date": "2025-10-31",
+        "event": "PSLF employer rule published."
+      },
+      {
+        "date": "2026-06-30",
+        "event": "Federal courts in Massachusetts and D.C. vacate the PSLF rule."
+      },
+      {
+        "date": "2026-08-27",
+        "event": "Education Department appeals both PSLF rulings."
+      }
+    ],
+    "legal": "U.S. District Courts for the District of Massachusetts and the District of Columbia entered final judgments vacating the PSLF rule on June 30, 2026. The department appealed on August 27, 2026; the appeals are pending.",
+    "closeness": "The borrower defense and closed school rollback was done by Congress rather than negotiated rulemaking. The PSLF change was narrower than rescinding the 2022 PSLF rule and is blocked. Whether all arbitration limits were delayed is disputed.",
+    "uncertain": "Experts disagree on whether every part of the 2022 borrower defense rule was delayed. The PSLF appeals are unresolved. Newest source is from August 2026.",
+    "sources": [
+      {
+        "label": "GEN-25-04: Federal Student Loan Program Provisions Effective Upon Enactment Under the OBBB Act",
+        "publisher": "U.S. Department of Education, Federal Student Aid",
+        "type": "government",
+        "url": "https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-07-18/federal-student-loan-program-provisions-effective-upon-enactment-under-one-big-beautiful-bill-act"
+      },
+      {
+        "label": "Public Service Loan Forgiveness: Recent Legal Developments",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11472.html"
+      },
+      {
+        "label": "The One Big Beautiful Bill: Borrower Defense to Repayment Edition",
+        "publisher": "CAPPS (republishing a law-firm analysis)",
+        "type": "law-firm",
+        "url": "https://cappsonline.org/the-one-big-beautiful-bill-borrower-defense-to-repayment-edition/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-026",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "On May 1, 2025, the Education Department issued Dear Colleague Letter GEN-25-03 on how it approves colleges switching accreditors. The letter replaced the two 2022 letters on this topic (GEN-22-10 and GEN-22-11), which the department now marks as no longer in effect. Its August 2026 proposed accreditation rule would write the new approach into regulations.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Executive Order 14279 on accreditation signed."
+      },
+      {
+        "date": "2025-05-01",
+        "event": "Dear Colleague Letter on changing accrediting agencies."
+      },
+      {
+        "date": "2026-08-20",
+        "event": "Proposed accreditation rule published."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Replaces the two 2022 letters the chapter objected to in connection with a Florida law. Whether separate 2022 letters sent to accrediting agencies were also withdrawn was not confirmed.",
+    "uncertain": "The May 2025 letter's full text was not read; that it supersedes the 2022 letters comes from law-firm and higher-education summaries and the department's archive labels. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "(GEN-25-03) Changes to the Approval Process for Changing Accrediting Agencies",
+        "publisher": "U.S. Department of Education, Federal Student Aid",
+        "type": "government",
+        "url": "https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-04-30/changes-approval-process-changing-accrediting-agencies"
+      },
+      {
+        "label": "U.S. Department of Education issues Dear Colleague Letter on changing accrediting agencies",
+        "publisher": "Liebert Cassidy Whitmore",
+        "type": "law-firm",
+        "url": "https://www.lcwlegal.com/news/u-s-department-of-education-issues-dear-colleague-letter-on-changing-accrediting-agencies/"
+      },
+      {
+        "label": "Accreditation, Innovation, and Modernization (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17001/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies"
+      },
+      {
+        "label": "Reforming Accreditation To Strengthen Higher Education (Executive Order 14279)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07376/reforming-accreditation-to-strengthen-higher-education"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-027",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law was found barring the Education Department from spending money on the 2024 Title IX rule. The rule was instead struck down by a federal court in January 2025, and the department formally repealed it on September 29, 2026.",
+    "closeness": "The goal of ending the 2024 rule was reached through a court ruling and a new department rule, not the funding ban the chapter asked Congress to pass. See ch11-028.",
+    "uncertain": "Searched for appropriations riders and standalone bills blocking the 2024 rule; found none enacted. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "Title IX final rule vacated nationwide",
+        "publisher": "McGuireWoods",
+        "type": "law-firm",
+        "url": "https://www.mcguirewoods.com/client-resources/alerts/2025/1/title-ix-final-rule-vacated-nationwide/"
+      },
+      {
+        "label": "Education Department formally repeals 2024 Title IX rule",
+        "publisher": "Holland & Knight",
+        "type": "law-firm",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/09/education-department-formally-repeals-2024-title-ix-rule"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-028",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On January 9, 2025, a federal court in Kentucky vacated the 2024 Title IX rule nationwide. On January 31, 2025, the Education Department said it would enforce the 2020 rule. On September 29, 2026, the department published a final rule, without public comment, that removed the 2024 rule and restored the 2020 rule with minor changes. It did not add a definition of sex to the rule text.",
+    "key_dates": [
+      {
+        "date": "2025-01-09",
+        "event": "E.D. Ky. vacates the 2024 Title IX rule in Tennessee v. Cardona."
+      },
+      {
+        "date": "2025-01-31",
+        "event": "Education Department says it will enforce the 2020 rule."
+      },
+      {
+        "date": "2026-09-29",
+        "event": "Final rule restores the 2020 Title IX rule."
+      }
+    ],
+    "legal": "The 2024 rule was vacated by the U.S. District Court for the Eastern District of Kentucky (final judgment, January 2025). No lawsuit against the September 2026 rule was found.",
+    "closeness": "The 2020 rule is back, as the chapter asked. It took longer than day one, skipped notice and comment, and does not write a biological definition of sex into the rule, though the department says sex means biological sex.",
+    "uncertain": "Whether the 2026 rule will be challenged in court for skipping public comment. Newest source is from September 29, 2026.",
+    "sources": [
+      {
+        "label": "Education Department formally repeals 2024 Title IX rule",
+        "publisher": "Holland & Knight",
+        "type": "law-firm",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/09/education-department-formally-repeals-2024-title-ix-rule"
+      },
+      {
+        "label": "Title IX changes by Trump administration could tee up broader goal: defining sex in federal law",
+        "publisher": "Chalkbeat",
+        "type": "news",
+        "url": "https://www.chalkbeat.org/2026/09/29/education-department-reinstates-trump-title-ix-rules-from-2020/"
+      },
+      {
+        "label": "Title IX final rule vacated nationwide",
+        "publisher": "McGuireWoods",
+        "type": "law-firm",
+        "url": "https://www.mcguirewoods.com/client-resources/alerts/2025/1/title-ix-final-rule-vacated-nationwide/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-029",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The Title IX Clarification Act of 2026 (H.R. 8781 in the House, S. 5179 in the Senate) would define sex in Title IX as biological sex, male or female. The House Education and Workforce Committee approved it 18 to 15 in July 2026. It has not passed either chamber.",
+    "key_dates": [
+      {
+        "date": "2026-07",
+        "event": "House Education and Workforce Committee advances H.R. 8781."
+      }
+    ],
+    "closeness": "The bill matches the chapter's call to define sex in Title IX. No source found says it also adds due-process rules or new protections for faith-based schools, which the chapter also wants.",
+    "uncertain": "Whether the bill includes due-process or religious-school provisions, and whether the full House or Senate will vote. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "H.R. 8781 (reported in House)",
+        "publisher": "U.S. Government Publishing Office (govinfo)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr8781rh"
+      },
+      {
+        "label": "House Education Committee advances bill defining sex as biological under Title IX",
+        "publisher": "The College Investor",
+        "type": "news",
+        "url": "https://thecollegeinvestor.com/84975/house-education-committee-advances-bill-defining-sex-as-biological-under-title-ix/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-030",
+    "status": "in-effect-challenged",
+    "match": "direct",
+    "happened": "A January 20, 2025 executive order told all federal agencies to define sex as male or female based on biology, said gender identity is not part of sex, and told agencies to drop guidance that said otherwise. On January 31, 2025, the Education Department said it no longer reads sex in Title IX to include sexual orientation or gender identity. In June 2026 the Supreme Court said sex in Title IX refers to biological sex in a case on girls' sports.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive order on defining sex across the federal government."
+      },
+      {
+        "date": "2025-01-31",
+        "event": "Education Department guidance drops gender identity reading of Title IX."
+      },
+      {
+        "date": "2026-06",
+        "event": "Supreme Court decides West Virginia v. B.P.J."
+      }
+    ],
+    "legal": "The executive order has faced lawsuits over some of its uses outside schools; this review did not check each one. In West Virginia v. B.P.J. (June 2026) the Supreme Court upheld a state sports law and said Title IX's use of sex means biological sex.",
+    "closeness": "Matches the chapter's call to drop the gender identity reading of Title IX across all departments, and it was done at the start of the term as the chapter urged.",
+    "uncertain": "The status of each lawsuit over the executive order was not checked one by one. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "Executive order rolls back Title IX to pre-Biden rules, effective immediately",
+        "publisher": "Ballard Spahr",
+        "type": "law-firm",
+        "url": "https://www.ballardspahr.com/insights/alerts-and-articles/2025/02/executive-order-rolls-back-title-ix-to-pre-biden-rules-effective-immediately"
+      },
+      {
+        "label": "Title IX changes by Trump administration could tee up broader goal: defining sex in federal law",
+        "publisher": "Chalkbeat",
+        "type": "news",
+        "url": "https://www.chalkbeat.org/2026/09/29/education-department-reinstates-trump-title-ix-rules-from-2020/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-031",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 31, 2025, the Education Department said it would enforce Title IX under the 2020 rule and no longer read sex to include gender identity. On April 6, 2026, its Office for Civil Rights rescinded parts of six resolution agreements with five school districts and one college that had required gender-identity-based policies.",
+    "key_dates": [
+      {
+        "date": "2025-01-31",
+        "event": "Department returns to 2020 Title IX rule"
+      },
+      {
+        "date": "2026-04-06",
+        "event": "Parts of six Title IX resolution agreements rescinded"
+      }
+    ],
+    "closeness": "Some past gender identity cases were reviewed and undone. A full review of all such investigations by political appointees was not confirmed.",
+    "uncertain": "It is not known how many past investigations were reviewed in total. Newest source is from April 2026.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education rescinds illegal Title IX resolution agreements",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-rescinds-illegal-title-ix-resolution-agreements"
+      },
+      {
+        "label": "Trump Education Department rescinds Title IX pacts protecting LGBTQ students",
+        "publisher": "K-12 Dive",
+        "type": "news",
+        "url": "https://www.k12dive.com/news/trump-education-department-rescinds-title-ix-pacts-protecting-lgbtq-students/816776/"
+      },
+      {
+        "label": "Executive order rolls back Title IX to pre-Biden rules, effective immediately",
+        "publisher": "Ballard Spahr",
+        "type": "law-firm",
+        "url": "https://www.ballardspahr.com/insights/alerts-and-articles/2025/02/executive-order-rolls-back-title-ix-to-pre-biden-rules-effective-immediately"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-032",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On April 6, 2026, the Education Department rescinded parts of six Title IX resolution agreements and said the schools were no longer bound by terms such as gender-identity-based bathroom access and pronoun training. The department will not monitor or enforce those terms. At least one district has voted to reverse policies it adopted under the agreement.",
+    "key_dates": [
+      {
+        "date": "2026-04-06",
+        "event": "Parts of six Title IX resolution agreements rescinded"
+      }
+    ],
+    "closeness": "Matches the idea of telling schools they may undo these policies. Whether all open gender identity investigations were dropped was not confirmed. Same action as ch11-031.",
+    "uncertain": "No count of dismissed open gender identity complaints was found. Newest source is from April-May 2026.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education rescinds illegal Title IX resolution agreements",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-rescinds-illegal-title-ix-resolution-agreements"
+      },
+      {
+        "label": "Trump Education Department rescinds Title IX pacts protecting LGBTQ students",
+        "publisher": "K-12 Dive",
+        "type": "news",
+        "url": "https://www.k12dive.com/news/trump-education-department-rescinds-title-ix-pacts-protecting-lgbtq-students/816776/"
+      },
+      {
+        "label": "Title IX rescissions throw resolution agreements into uncertainty",
+        "publisher": "K-12 Dive",
+        "type": "news",
+        "url": "https://www.k12dive.com/news/title-ix-rescissions-throw-resolution-agreements-into-uncertainty/820787/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-035",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "An April 23, 2025 executive order told agencies to stop prioritizing disparate impact cases and told the Attorney General to review pending civil rights matters that rely on disparate impact. The Education Department removed disparate impact from its Title VI rules in July 2026 and says it will not pursue Title VI cases based only on disparate impact.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Executive order 14281 signed"
+      },
+      {
+        "date": "2026-07-24",
+        "event": "Education Department Title VI rule change published"
+      }
+    ],
+    "closeness": "Matches the goal. A public count of how many Education Department cases relied on disparate impact, or a review of each school resolution agreement, was not found. See ch11-036 and ch11-037.",
+    "uncertain": "Results of any case-by-case review at the Education Department were not found. Newest source is from July 2026.",
+    "sources": [
+      {
+        "label": "Restoring Equality of Opportunity and Meritocracy (EO 14281)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07378/restoring-equality-of-opportunity-and-meritocracy"
+      },
+      {
+        "label": "U.S. Department of Education removes disparate impact Title VI regulations",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-removes-disparate-impact-title-vi-regulations"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-036",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "An April 23, 2025 executive order told agencies to stop enforcing civil rights laws based on disparate impact alone. The Justice Department removed disparate impact from its Title VI rules in December 2025, and the Education Department did the same in July 2026. The Education Department says it will not pursue Title VI cases based only on disparate impact.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Executive order on disparate impact."
+      },
+      {
+        "date": "2025-12-10",
+        "event": "Justice Department final rule published."
+      },
+      {
+        "date": "2026-07-23",
+        "event": "Education Department removes disparate impact from its Title VI rules."
+      }
+    ],
+    "closeness": "Matches the goal. The change came through an executive order and separate rules from each department, not a single joint guidance document. Same actions as ch11-037.",
+    "uncertain": "No lawsuit against either department's rule was found. House members questioned the skipped public comment in August 2026. Newest source is from August 2026.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education removes disparate impact Title VI regulations",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-removes-disparate-impact-title-vi-regulations"
+      },
+      {
+        "label": "Executive order directed agencies to eliminate use and enforcement of disparate impact standard",
+        "publisher": "Harvard Environmental and Energy Law Program",
+        "type": "academic",
+        "url": "https://eelp.law.harvard.edu/tracker/rollback-executive-order-directed-agencies-to-eliminate-use-and-enforcement-of-disparate-impact-standard/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-037",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The Justice Department issued a final rule on December 9, 2025, published December 10, removing disparate impact from its Title VI regulations. The Education Department removed the disparate impact parts of its own Title VI regulations in July 2026. Both skipped public comment.",
+    "key_dates": [
+      {
+        "date": "2025-12-10",
+        "event": "Justice Department rule published in the Federal Register."
+      },
+      {
+        "date": "2026-07-23",
+        "event": "Education Department announces its rule."
+      }
+    ],
+    "closeness": "Matches the chapter's call for a regulation saying Title VI has no disparate impact standard. The departments acted in separate rules rather than one joint rule. Same actions as ch11-036.",
+    "uncertain": "No court challenge was found. Sources differ on the exact effective date of the Education Department rule. Newest source is from August 2026.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education removes disparate impact Title VI regulations",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-removes-disparate-impact-title-vi-regulations"
+      },
+      {
+        "label": "DOJ promulgates final rule removing disparate impact regulations under Title VI",
+        "publisher": "McGuireWoods",
+        "type": "law-firm",
+        "url": "https://www.mcguirewoods.com/client-resources/alerts/2025/12/doj-promulgates-final-rule-removing-disparate-impact-regulations-under-title-vi/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-038",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The 2016 Equity in IDEA (significant disproportionality) rule has not been rescinded. In September 2025 the Education Department proposed to stop collecting states' significant disproportionality data in its annual IDEA application, but it did not propose to rescind or pause the rule itself.",
+    "closeness": "Nothing matching was found. Dropping the data collection would be a smaller step in the same direction, and it was only proposed.",
+    "uncertain": "I ran Federal Register and news searches and found no rescission. I could not confirm whether the data-collection change was finalized in 2026. (A 2018 attempt to delay the rule, under the first Trump administration, was struck down by a federal court in 2019.)",
+    "sources": [
+      {
+        "label": "Federal data collection on special education racial disparities may end",
+        "publisher": "K-12 Dive",
+        "type": "news",
+        "url": "https://www.k12dive.com/news/federal-data-collection-special-education-racial-disparities-significant-disproportionality/758331/"
+      },
+      {
+        "label": "Ed Department Plans To Scale Back IDEA Data Collection",
+        "publisher": "Disability Scoop",
+        "type": "news",
+        "url": "https://www.disabilityscoop.com/2025/09/04/ed-department-plans-to-scale-back-idea-data-collection/31608/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-040",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On July 7, 2025, USDA's Food and Nutrition Service rescinded its May 2022 guidance that said schools had to treat gender identity and sexual orientation discrimination as sex discrimination to keep school meal funding. The step settled a lawsuit by a Louisiana school board. USDA said it would follow the 2020 Title IX rule and its own older rules, after a January 2025 order told agencies to treat sex as biological.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14168 on defining sex"
+      },
+      {
+        "date": "2025-07-07",
+        "event": "USDA rescinds 2022 school meal Title IX guidance"
+      }
+    ],
+    "legal": "The rescission settled Rapides Parish School Board v. HHS. Before that, courts had blocked the 2022 guidance in some states after suits by state attorneys general.",
+    "closeness": "USDA dropped the policy of tying school meal money to gender identity rules, which is the result the chapter wanted. But it was done by withdrawing guidance, not by a rule or law barring all agencies from doing this in the future. See ch11-030.",
+    "uncertain": "A later administration could reissue similar guidance, since no binding bar was created. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Guidance on discrimination on the basis of sex (rescission memo)",
+        "publisher": "USDA Food and Nutrition Service",
+        "type": "government",
+        "url": "https://www.fns.usda.gov/cn/guidance-discrimination-sex"
+      },
+      {
+        "label": "USDA rescinds guidance on interpretation of discrimination based on sex",
+        "publisher": "National CACFP Association",
+        "type": "advocacy",
+        "url": "https://www.cacfp.org/2025/07/07/usda-rescinds-guidance-on-interpretation-of-discrimination-based-on-sex/"
+      },
+      {
+        "label": "Defending Women From Gender Ideology Extremism (EO 14168)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02090/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-041",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law created a new Repayment Assistance Plan (RAP) and phases out the SAVE, PAYE and ICR plans. Starting July 1, 2026, new loans can use only RAP or a standard plan. Under the law, RAP payments are 1% to 10% of income depending on income level (no percentage below $10,000), minus $50 a month per dependent, with a $10 minimum, and any remaining debt is forgiven after 360 payments (30 years). The Education Department's final rule was published May 1, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law signed."
+      },
+      {
+        "date": "2026-05-01",
+        "event": "Final rule implementing the loan changes published."
+      },
+      {
+        "date": "2026-07-01",
+        "event": "RAP and new loan rules take effect."
+      }
+    ],
+    "closeness": "Close in structure: one new income-driven plan replaces the others for new loans. But RAP charges a share of total income rather than exempting income up to the poverty line, and it keeps forgiveness after 30 years, while the chapter wanted none. The older IBR plan stays open for existing borrowers.",
+    "uncertain": "Formula details are from the law's text (P.L. 119-21, section 82001). No court challenge to RAP was found. How many borrowers have moved to RAP is not known. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (2025 reconciliation law), text",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Reimagining and Improving Student Education: Federal Student Loan Program Final Regulations",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08556/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations"
+      },
+      {
+        "label": "Student Loan Changes in the One Big Beautiful Bill",
+        "publisher": "Savingforcollege.com",
+        "type": "news",
+        "url": "https://www.savingforcollege.com/article/student-loan-changes-one-big-beautiful-bill"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-044",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Higher Education Act still requires negotiated rulemaking. The Education Department used it in 2025 for student loan and accountability rules and in 2026 for accreditation rules. No law removing the requirement was found.",
+    "closeness": "Nothing matching was found; the department continued to use the process.",
+    "uncertain": "I checked Federal Register notices for 2025-2026 negotiated rulemaking, searched for bills to remove the requirement, and checked the local copy of 119th-Congress laws; I found none.",
+    "sources": [
+      {
+        "label": "Public Hearing; Negotiated Rulemaking Committees (2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/07/25/2025-13998/public-hearing-negotiated-rulemaking-committees"
+      },
+      {
+        "label": "Intent To Establish Negotiated Rulemaking Committee (accreditation, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01620/intent-to-establish-negotiated-rulemaking-committee"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-045",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On December 9, 2025, the Education Department and Missouri announced an agreement to end the SAVE plan, which had kept millions of borrowers in a payment pause during litigation. In 2026 the department told SAVE borrowers to pick a new plan. The July 2025 reconciliation law delayed the 2022 borrower defense and closed school rules to 2035. A rule narrowing PSLF employers was struck down in June 2026.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law delays borrower defense and closed school rules."
+      },
+      {
+        "date": "2025-12-09",
+        "event": "Agreement with Missouri to end SAVE announced."
+      },
+      {
+        "date": "2026-06-30",
+        "event": "Courts vacate the PSLF employer rule."
+      }
+    ],
+    "legal": "A federal court dismissed the Education Department's proposed SAVE settlement with Missouri, and the court steps that followed in early 2026 are reported differently by different sources. The PSLF rule was vacated by federal courts in Massachusetts and D.C.; appeals are pending.",
+    "closeness": "SAVE forbearance is ending and borrower defense and closed school rules were rolled back, as the chapter urges. PSLF changes are blocked. See ch11-025 and ch11-072.",
+    "uncertain": "The final court posture of the SAVE case and the deadline for borrowers to leave SAVE. Newest source on SAVE is from May 2026.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education announces agreement with Missouri to end SAVE plan",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-agreement-missouri-end-biden-administrations-illegal-save-plan"
+      },
+      {
+        "label": "Court dismisses ED's SAVE settlement, leaving more questions for borrowers",
+        "publisher": "NASFAA",
+        "type": "news",
+        "url": "https://www.nasfaa.org/news-item/38324/Court_Dismisses_ED_s_SAVE_Settlement_Leaving_More_Questions_for_Borrowers"
+      },
+      {
+        "label": "GEN-25-04: Federal Student Loan Program Provisions Effective Upon Enactment Under the OBBB Act",
+        "publisher": "U.S. Department of Education, Federal Student Aid",
+        "type": "government",
+        "url": "https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-07-18/federal-student-loan-program-provisions-effective-upon-enactment-under-one-big-beautiful-bill-act"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-046",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law ended Grad PLUS loans for new borrowers, capped Parent PLUS loans at $20,000 a year and $65,000 per student, set a $257,500 lifetime borrowing limit, and created one main income-driven plan (RAP). It kept subsidized loans and forgiveness after 30 years under RAP. Most changes began July 1, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law signed."
+      },
+      {
+        "date": "2026-07-01",
+        "event": "New loan limits and RAP take effect."
+      }
+    ],
+    "closeness": "Borrowing limits and a single income-driven plan match parts of the chapter's plan. Interest subsidies and forgiveness remain. The law's new earnings test cuts off federal loans for programs whose graduates earn too little, but colleges do not repay any share of unpaid loans, so it is not the risk-sharing the chapter described. See ch11-041 and ch11-071.",
+    "uncertain": "No switch to fair-value budget accounting was found in the law. The earnings test starts in July 2026, so its effects are not yet known. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "Student Loan Types and Limits in the FY2025 Budget Reconciliation Act",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12585.html"
+      },
+      {
+        "label": "Public Law 119-21 (2025 reconciliation law), sec. 84001 on low earning outcomes",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Reimagining and Improving Student Education: Federal Student Loan Program Final Regulations",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08556/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-047",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law revoking the National Education Association's congressional charter was passed. On July 16, 2025, Sen. Marsha Blackburn (S. 2310) and Rep. Mark Harris (H.R. 4450) introduced bills to repeal it; both were sent to the Judiciary committees, with no further action found. Similar bills in earlier Congresses also did not advance.",
+    "closeness": "Bills matching the recommendation were introduced, but none moved past committee.",
+    "uncertain": "I checked bill listings and the local copy of 119th-Congress laws. Bill status is from congress.gov text pages and trackers; newest source: 2025.",
+    "sources": [
+      {
+        "label": "S. 2310, National Education Association Charter Repeal Act (introduced)",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/119/bills/s2310/BILLS-119s2310is.htm"
+      },
+      {
+        "label": "H.R. 4450 (introduced)",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/119/bills/hr4450/BILLS-119hr4450ih.htm"
+      },
+      {
+        "label": "GOP renews push to revoke federal charter for nation's largest teachers' union",
+        "publisher": "Education Week",
+        "type": "news",
+        "url": "https://www.edweek.org/teaching-learning/gop-renews-push-to-revoke-federal-charter-for-nations-largest-teachers-union/2025/07"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-049",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "No law banning compelled speech in federally run schools was found. A January 29, 2025 executive order told the Education, Defense and HHS departments to plan how to end federal support for teaching 'gender ideology' and 'discriminatory equity ideology' in K-12 schools. Under it, Defense Department schools removed hundreds of books and some lessons for review in 2025.",
+    "key_dates": [
+      {
+        "date": "2025-01-29",
+        "event": "Executive order 14190 signed"
+      },
+      {
+        "date": "2025-10-20",
+        "event": "Court orders Defense schools to restore removed books at plaintiffs' schools"
+      }
+    ],
+    "legal": "In E.K. v. Department of Defense Education Activity, a federal district court in Virginia granted a partial preliminary injunction on October 20, 2025, ordering removed books and materials restored at the plaintiffs' five schools.",
+    "closeness": "The order points the same way but asks for a strategy and led to removing materials; it does not create a ban on requiring students or teachers to profess beliefs in D.C., BIE or Defense schools.",
+    "uncertain": "I did not find what BIE schools changed, or whether the October 2025 ruling was appealed. Newest source: October 2025.",
+    "sources": [
+      {
+        "label": "Ending Radical Indoctrination in K-12 Schooling (EO 14190)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02232/ending-radical-indoctrination-in-k-12-schooling"
+      },
+      {
+        "label": "Memorandum opinion granting in part preliminary injunction, E.K. v. DoDEA (Oct. 20, 2025)",
+        "publisher": "U.S. District Court, E.D. Va. (via ACLU of Virginia)",
+        "type": "court",
+        "url": "https://www.acluva.org/app/uploads/2025/04/2025.10.20-Dkt-58-Mem-Op-re-Order-Gr-in-part-PI.pdf"
+      },
+      {
+        "label": "Books about race and gender to be returned to school libraries on some military bases",
+        "publisher": "Michigan Public (NPR)",
+        "type": "news",
+        "url": "https://www.michiganpublic.org/2025-10-21/books-about-race-and-gender-to-be-returned-to-school-libraries-on-some-military-bases"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-050",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "No law of this kind was passed. A January 29, 2025 executive order defines 'discriminatory equity ideology' to include the idea that a person bears guilt for past acts by others of the same race, and calls for a plan to end federal funding that promotes it in K-12 schools. Under it, Defense Department schools removed books and lessons for review in 2025.",
+    "key_dates": [
+      {
+        "date": "2025-01-29",
+        "event": "Executive order 14190 signed"
+      },
+      {
+        "date": "2025-10-20",
+        "event": "Court orders Defense schools to restore removed books at plaintiffs' schools"
+      }
+    ],
+    "legal": "In E.K. v. Department of Defense Education Activity, a federal district court in Virginia granted a partial preliminary injunction on October 20, 2025, ordering removed books and materials restored at the plaintiffs' five schools.",
+    "closeness": "The order uses ideas close to the chapter's language, but it is a funding strategy, not a law for federally run schools. Same order as ch11-049.",
+    "uncertain": "I did not find what BIE schools changed, or whether the October 2025 ruling was appealed. Newest source: October 2025.",
+    "sources": [
+      {
+        "label": "Ending Radical Indoctrination in K-12 Schooling (EO 14190)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02232/ending-radical-indoctrination-in-k-12-schooling"
+      },
+      {
+        "label": "Memorandum opinion granting in part preliminary injunction, E.K. v. DoDEA (Oct. 20, 2025)",
+        "publisher": "U.S. District Court, E.D. Va. (via ACLU of Virginia)",
+        "type": "court",
+        "url": "https://www.acluva.org/app/uploads/2025/04/2025.10.20-Dkt-58-Mem-Op-re-Order-Gr-in-part-PI.pdf"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-051",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No federal Parents' Bill of Rights has become law. The House passed one in 2023, but it did not pass the Senate. No 2025 or 2026 floor vote on a federal version was found. Several states passed their own versions.",
+    "closeness": "Nothing matching has happened at the federal level, including the strict-scrutiny standard the chapter wants.",
+    "uncertain": "Searched for a 119th Congress Parents Bill of Rights and floor votes. A reintroduced bill may exist, but no passage was found.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-052",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or executive order was found requiring agencies to show that rules affecting parental rights pass strict scrutiny. Bills to require strict scrutiny for government actions that burden parental rights (S. 204 and H.R. 650) were introduced in January 2025 but were not passed.",
+    "closeness": "Nothing matching was enacted. The introduced bills cover the same idea but have not moved past committee as far as I found.",
+    "uncertain": "I checked Federal Register presidential documents, a news search and the local copy of 119th-Congress laws. Bill status comes from bill trackers; newest source: 2025.",
+    "sources": [
+      {
+        "label": "S. 204 (119th), Families' Rights and Responsibilities Act: bill overview",
+        "publisher": "PolicySoup",
+        "type": "news",
+        "url": "https://policysoup.com/bills/s204-119"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-053",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law letting parents sue schools under FERPA or PPRA was passed. On December 18, 2025, Rep. Harriet Hageman introduced the Parental Rights Relief Act (H.R. 6860), which would create that right to sue; I found no further action on it. A January 2025 executive order asked for a plan to protect parents' rights under these laws but did not create a right to sue.",
+    "closeness": "A bill matching the idea was introduced, but nothing was enacted.",
+    "uncertain": "I checked bill text, news and the local copy of 119th-Congress laws. I did not confirm whether H.R. 6860 allows recovery of legal costs. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "H.R. 6860, Parental Rights Relief Act (introduced)",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/119/bills/hr6860/BILLS-119hr6860ih.htm"
+      },
+      {
+        "label": "Congresswoman Harriet Hageman introduces bill to strengthen parental oversight",
+        "publisher": "Office of Rep. Harriet Hageman",
+        "type": "government",
+        "url": "https://hageman.house.gov/media/press-releases/congresswoman-harriet-hageman-introduces-bill-strengthen-parental-oversight"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-054",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "A January 29, 2025 executive order counts changing a student's name as part of 'social transition' and asks agencies to plan how to stop federal funds from supporting it. On May 20, 2026, the House passed the PROTECT Kids Act (H.R. 2616), 217-198. It would withhold federal funds from public elementary and middle schools that change a student's name, gender or pronouns in school records without parental permission. The Senate had not acted as of October 2026.",
+    "key_dates": [
+      {
+        "date": "2025-01-29",
+        "event": "Executive order 14190 signed"
+      },
+      {
+        "date": "2026-05-20",
+        "event": "House passes PROTECT Kids Act (H.R. 2616)"
+      }
+    ],
+    "closeness": "The House bill requires parental permission for name changes, as the chapter wants, but it is a funding condition for public schools, not a rule for federally run schools, and it covers school records. It has not become law.",
+    "uncertain": "I did not confirm whether the bill reaches Defense Department or BIE schools, or whether those schools adopted their own name policy. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "H.R. 2616, PROTECT Kids Act (reported in House)",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/119/bills/hr2616/BILLS-119hr2616rh.htm"
+      },
+      {
+        "label": "Politico: House passes bill mandating parental consent for student pronoun use (May 20, 2026)",
+        "publisher": "Office of Rep. Tim Walberg (reprint of Politico)",
+        "type": "news",
+        "url": "https://walberg.house.gov/media/in-the-news/politico-house-passes-bill-mandating-parental-consent-student-pronoun-use"
+      },
+      {
+        "label": "Ending Radical Indoctrination in K-12 Schooling (EO 14190)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02232/ending-radical-indoctrination-in-k-12-schooling"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-055",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "A January 29, 2025 executive order counts changing a student's pronouns as part of 'social transition' and asks agencies to plan how to stop federal funds from supporting it. On May 20, 2026, the House passed the PROTECT Kids Act (H.R. 2616), 217-198, which would withhold federal funds from public elementary and middle schools that change a student's pronouns without parental permission. The Senate had not acted as of October 2026.",
+    "key_dates": [
+      {
+        "date": "2025-01-29",
+        "event": "Executive order 14190 signed"
+      },
+      {
+        "date": "2026-05-20",
+        "event": "House passes PROTECT Kids Act (H.R. 2616)"
+      }
+    ],
+    "closeness": "Same House bill as ch11-054. It requires parental permission for pronoun changes, but as a funding condition for public schools rather than a rule for federally run schools, and it is not yet law.",
+    "uncertain": "I did not confirm whether the bill reaches Defense Department or BIE schools, or whether those schools adopted their own pronoun policy. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "H.R. 2616, PROTECT Kids Act (reported in House)",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/119/bills/hr2616/BILLS-119hr2616rh.htm"
+      },
+      {
+        "label": "Politico: House passes bill mandating parental consent for student pronoun use (May 20, 2026)",
+        "publisher": "Office of Rep. Tim Walberg (reprint of Politico)",
+        "type": "news",
+        "url": "https://walberg.house.gov/media/in-the-news/politico-house-passes-bill-mandating-parental-consent-student-pronoun-use"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-056",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law was found protecting staff in federally controlled schools who decline to use pronouns that differ from a person's sex.",
+    "closeness": "Nothing matching was found. Executive orders on sex and gender (see ch11-030) changed federal policy in general but did not create this protection.",
+    "uncertain": "I searched for Defense Department school pronoun policies and for federal bills protecting staff who decline to use pronouns, and checked the local copy of 119th-Congress laws. I found only state-level bills.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-059",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No education savings accounts for D.C. students were found. The D.C. Opportunity Scholarship Program continues as a voucher program. A January 2025 school choice executive order covered military families and BIE students but not D.C.",
+    "closeness": "Nothing matching was found.",
+    "uncertain": "I searched for 2025-2026 bills creating D.C. education savings accounts and found only older bills (2015-2019) and a 2026 Heritage Foundation proposal. The local copy of 119th-Congress laws has none.",
+    "sources": [
+      {
+        "label": "Expanding Educational Freedom and Opportunity for Families (EO 14191)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02233/expanding-educational-freedom-and-opportunity-for-families"
+      },
+      {
+        "label": "Applications for New Awards; Opportunity Scholarship Program (FY 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/23/2025-07024/applications-for-new-awards-opportunity-scholarship-program"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-060",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "A January 29, 2025 executive order told the Defense Secretary to review ways military families could use Defense Department funds for schools of their choice, including private and charter schools. A May 15, 2025 memo from Defense Secretary Pete Hegseth said the department was reviewing those options and ordered a separate review of homeschooling support. Congress has not created education savings accounts for military families.",
+    "key_dates": [
+      {
+        "date": "2025-01-29",
+        "event": "Executive order 14191 signed"
+      },
+      {
+        "date": "2025-05-15",
+        "event": "Hegseth memo on school choice and homeschooling review"
+      }
+    ],
+    "closeness": "A review was ordered, but no savings accounts were found to exist.",
+    "uncertain": "I found no published Defense plan or program letting military families spend Defense funds on schools of choice. Newest source: May 2025.",
+    "sources": [
+      {
+        "label": "Expanding Educational Freedom and Opportunity for Families (EO 14191)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02233/expanding-educational-freedom-and-opportunity-for-families"
+      },
+      {
+        "label": "Homeschooling Support for Military-Connected Families (memo, May 15, 2025)",
+        "publisher": "U.S. Department of Defense",
+        "type": "government",
+        "url": "https://media.defense.gov/2025/May/27/2003722214/-1/-1/1/HOMESCHOOLING-SUPPORT-FOR-MILITARY-CONNECTED-FAMILIES.PDF"
+      },
+      {
+        "label": "Pentagon orders review of military homeschool assistance programs",
+        "publisher": "Military Times",
+        "type": "news",
+        "url": "https://www.militarytimes.com/news/pentagon-congress/2025/05/27/pentagon-orders-review-of-military-homeschool-assistance-programs/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-061",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "A January 29, 2025 executive order told the Interior Secretary to review ways families of students eligible for Bureau of Indian Education schools could use federal funding for other schools. The bureau released a draft plan on June 30, 2025 that would set aside up to about $1.3 million for added services for families, held tribal consultations, and published a consultation report on January 22, 2026. No savings account option has been created.",
+    "key_dates": [
+      {
+        "date": "2025-01-29",
+        "event": "Executive order 14191 signed"
+      },
+      {
+        "date": "2025-06-30",
+        "event": "BIE draft implementation plan released"
+      },
+      {
+        "date": "2026-01-22",
+        "event": "BIE tribal consultation report published"
+      }
+    ],
+    "closeness": "A review and a draft plan happened, but the draft is much smaller than savings accounts for all BIE students. Same order as ch11-060.",
+    "uncertain": "I found no final plan. The $1.3 million figure is from news reporting on the draft. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "EO 14191 implementation plan overview (June 30, 2025)",
+        "publisher": "Bureau of Indian Affairs",
+        "type": "government",
+        "url": "https://www.bia.gov/sites/default/files/dup/tcinfo/6.30.2025_eo_14191_implementation_plan_overview_for_publish.pdf"
+      },
+      {
+        "label": "Tribal consultation report for EO 14191 (Jan. 22, 2026)",
+        "publisher": "Bureau of Indian Education",
+        "type": "government",
+        "url": "https://www.bie.edu/sites/default/files/documents/01.22.2026_tribal_consultation_report_for_eo_14191.mfb_1.pdf"
+      },
+      {
+        "label": "After outcry from tribes, federal agency scales back tribal school choice plan",
+        "publisher": "The Hechinger Report",
+        "type": "news",
+        "url": "https://hechingerreport.org/after-outcry-from-tribes-federal-agency-scales-back-tribal-school-choice-plan/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-062",
+    "status": "not-done",
+    "match": "none",
+    "happened": "IDEA has not been changed to let families direct their child's share of federal special education money. In June 2026 day-to-day management of IDEA grants moved to HHS, but the money still goes to states and school districts.",
+    "closeness": "Nothing matching was found. See ch11-012.",
+    "uncertain": "I searched for 2025-2026 IDEA portability or savings account bills and checked the local copy of 119th-Congress laws; I found none. The FY2026 spending law kept IDEA funding largely at current levels.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-063",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "A January 29, 2025 executive order told the Education Secretary to issue guidance on how states can use federal formula funds to support school choice. On March 31, 2025, the department told states they may set aside up to 3% of Title I money for direct student services, such as tutoring, that let parents choose. It issued more guidance, including on private school services, in August 2025, and adopted a grant priority for education choice in September 2025. Congress has not created Title I savings accounts.",
+    "key_dates": [
+      {
+        "date": "2025-01-29",
+        "event": "Executive order 14191 signed"
+      },
+      {
+        "date": "2025-03-31",
+        "event": "Title I school choice guidance sent to states"
+      },
+      {
+        "date": "2025-09-09",
+        "event": "Final education choice grant priority published"
+      }
+    ],
+    "closeness": "The guidance uses an existing Title I option for parent-chosen services, which is close in spirit, but it is small, optional for states, and not a savings account.",
+    "uncertain": "I did not find how many states used the 3% set-aside. Newest source: September 2025.",
+    "sources": [
+      {
+        "label": "Department of Education encourages states to expand education choice by leveraging flexibilities in Title I funds",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/department-of-education-encourages-states-expand-education-choice-leveraging-flexibilities-title-i-funds"
+      },
+      {
+        "label": "Trump admin tells states, schools how to use Title I for school choice",
+        "publisher": "Education Week",
+        "type": "news",
+        "url": "https://www.edweek.org/policy-politics/trump-admin-tells-states-schools-how-to-use-title-i-for-school-choice/2025/03"
+      },
+      {
+        "label": "Expanding Educational Freedom and Opportunity for Families (EO 14191)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02233/expanding-educational-freedom-and-opportunity-for-families"
+      },
+      {
+        "label": "Final Priorities: Secretary's Supplemental Priorities on Evidence-Based Literacy, Education Choice, and Returning Education to the States",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/09/2025-17310/final-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions-on"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-064",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The July 4, 2025 reconciliation law created a federal tax credit for donations to scholarship granting organizations, starting in 2027. Families can use the scholarships for private school tuition and other education costs. States must choose to take part. The Treasury Department issued rules for the credit on October 2, 2026.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law creates the credit (section 25F)"
+      },
+      {
+        "date": "2026-10-02",
+        "event": "Treasury issues temporary and proposed rules"
+      }
+    ],
+    "closeness": "Very close to the Educational Choice for Children Act idea. A difference is that each state must opt in each year for donors there to get the credit.",
+    "uncertain": "Which states will opt in for 2027 was not known as of the newest source (October 2026).",
+    "sources": [
+      {
+        "label": "Federal Scholarship Tax Credit (temporary regulations)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20264/federal-scholarship-tax-credit"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-065",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Congress did not pass a law letting states opt out of federal K-12 programs. Instead, the Education Department began approving \"Returning Education to the States\" waivers. On January 7, 2026, it let Iowa combine several state-level federal funding streams into one grant. Louisiana (May 20, 2026, about $18 million through 2029) and Indiana (June 16, 2026) got similar waivers.",
+    "key_dates": [
+      {
+        "date": "2026-01-07",
+        "event": "Education Department approves Iowa's funding flexibility waiver, the first of its kind."
+      },
+      {
+        "date": "2026-05-20",
+        "event": "Louisiana becomes the second state approved."
+      },
+      {
+        "date": "2026-06-16",
+        "event": "Indiana becomes the third state approved."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Smaller and by a different tool. The waivers let states pool some state-level funds (Indiana: about $50 million over four years), but districts cannot pool most federal money, and states cannot leave the programs. The chapter wanted Congress to let states opt out fully.",
+    "uncertain": "Iowa's first request asked to combine 10 programs; it was narrowed, and Louisiana asked for eight streams. Oklahoma's request was on hold. The project's copy of all 2025-2026 laws shows no opt-out law (such as the A-PLUS Act). Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education approves Louisiana's Returning Education to the States waiver",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-approves-louisianas-returning-education-states-waiver"
+      },
+      {
+        "label": "Education Department approves funding flexibility for Iowa, setting stage for more state waivers",
+        "publisher": "Chalkbeat",
+        "type": "news",
+        "url": "https://www.chalkbeat.org/2026/01/08/federal-education-waivers-give-iowa-more-funding-flexibility/"
+      },
+      {
+        "label": "Indiana gets federal waiver to combine education funds, change accountability",
+        "publisher": "WFYI (Indianapolis public media)",
+        "type": "news",
+        "url": "https://www.wfyi.org/education/2026-06-16/indiana-education-waiver-funds-accountability"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-066",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "An April 23, 2025 executive order told the Education Secretary to hold accreditors accountable, including by ending their recognition, if they require colleges to adopt unlawful diversity, equity, and inclusion practices. In August 2026 the department proposed new accreditation rules to carry out the order. The Higher Education Act itself was not changed.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Accreditation executive order 14279 signed"
+      },
+      {
+        "date": "2026-08-20",
+        "event": "Accreditation rule proposed"
+      }
+    ],
+    "closeness": "Same goal, pursued by executive order and rulemaking instead of a change to the law.",
+    "uncertain": "The final accreditation rule was not out as of October 2026. Details of the proposed rule were not reviewed in full.",
+    "sources": [
+      {
+        "label": "Reforming Accreditation To Strengthen Higher Education (EO 14279)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07376/reforming-accreditation-to-strengthen-higher-education"
+      },
+      {
+        "label": "Accreditation, Innovation, and Modernization (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17001/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-067",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The April 23, 2025 accreditation executive order told the Education Secretary to make sure accreditors do not use their federal role to push colleges to break state laws. The department's August 2026 proposed accreditation rule would bar accreditors from standards that require colleges to violate federal or state law, and says some accreditors have intruded on state and local authority over public colleges. Congress did not change the law.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Accreditation executive order 14279 signed"
+      },
+      {
+        "date": "2026-08-20",
+        "event": "Accreditation rule proposed"
+      }
+    ],
+    "closeness": "Similar goal but narrower: the proposed rule protects state laws, not state governance of public colleges in general, and it is not final. Same order as ch11-066.",
+    "uncertain": "I read the proposed rule text; I did not find a final rule. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Reforming Accreditation To Strengthen Higher Education (EO 14279)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07376/reforming-accreditation-to-strengthen-higher-education"
+      },
+      {
+        "label": "Accreditation, Innovation, and Modernization (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17001/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-068",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The April 23, 2025 accreditation executive order told the Education Secretary to make it easier for colleges to switch accreditors whose standards conflict with their values and mission. The August 2026 proposed accreditation rule would require accreditors to be neutral on viewpoint and ideology except for schools with a religious mission, and to judge academic freedom at religious schools in light of that mission. Congress did not add protections for religious colleges to the law.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Accreditation executive order 14279 signed"
+      },
+      {
+        "date": "2026-08-20",
+        "event": "Accreditation rule proposed"
+      }
+    ],
+    "closeness": "The proposed rule carves out room for religious missions, which is close to the chapter's aim, but it does not directly bar accreditors from interfering in religious colleges' governance, and it is not final.",
+    "uncertain": "I read the proposed rule text; I did not find a final rule. The Higher Education Act already requires accreditors to respect religious missions. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Reforming Accreditation To Strengthen Higher Education (EO 14279)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07376/reforming-accreditation-to-strengthen-higher-education"
+      },
+      {
+        "label": "Accreditation, Innovation, and Modernization (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17001/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-069",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "States were not given power to recognize accreditors. The Education Department still recognizes them, but the April 2025 executive order told it to resume recognizing new accreditors, and in February 2026 it issued guidance on how new accreditors can apply. In 2025, six Southern public university systems created a new accreditor, the Commission for Public Higher Education, which plans to seek federal recognition in late 2026 or later.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Accreditation executive order 14279 signed"
+      },
+      {
+        "date": "2026-02-27",
+        "event": "Guidance on initial recognition of accreditors"
+      }
+    ],
+    "closeness": "Only the general aim of more accreditor choice matches; the department kept its sole power to recognize accreditors. The state-system accreditor still must go through federal recognition.",
+    "uncertain": "Sources differ on when the new commission will apply for recognition (late 2026 to 2028). It was not recognized as of October 2026.",
+    "sources": [
+      {
+        "label": "Reforming Accreditation To Strengthen Higher Education (EO 14279)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07376/reforming-accreditation-to-strengthen-higher-education"
+      },
+      {
+        "label": "Regulatory Guidance on the Criteria and Process for Initial Recognition of an Accrediting Agency",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/27/2026-03953/regulatory-guidance-relating-to-the-criteria-and-process-for-initial-recognition-of-an-accrediting"
+      },
+      {
+        "label": "Commission for Public Higher Education and state laws",
+        "publisher": "Higher Ed Dive",
+        "type": "news",
+        "url": "https://www.highereddive.com/news/commission-public-higher-education-state-laws/818856/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-070",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Accreditation is still required for colleges to receive federal student aid. The Education Department's 2026 proposed accreditation rules revise how accreditors are recognized rather than removing them from the aid system.",
+    "closeness": "Nothing matching was found.",
+    "uncertain": "I checked 2025-2026 Federal Register accreditation actions, searched for bills removing accreditation from Title IV eligibility, and checked the local copy of 119th-Congress laws. Bills found, such as a July 2026 Warren bill, would reform accreditation rather than remove it.",
+    "sources": [
+      {
+        "label": "Accreditation, Innovation, and Modernization (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17001/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-071",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law ended Grad PLUS loans for new borrowers starting July 1, 2026, with a phase-out period for students already enrolled. Parent PLUS loans were kept but capped at $20,000 a year and $65,000 per student.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law signed."
+      },
+      {
+        "date": "2026-07-01",
+        "event": "Grad PLUS closed to new borrowers; Parent PLUS caps begin."
+      }
+    ],
+    "closeness": "Grad PLUS elimination matches. Parent PLUS was limited, not eliminated. Same law as ch11-041 and ch11-046.",
+    "uncertain": "Savings estimates for these changes were not checked against the chapter's $2.3 billion figure.",
+    "sources": [
+      {
+        "label": "Student Loan Types and Limits in the FY2025 Budget Reconciliation Act",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12585.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-072",
+    "status": "blocked",
+    "match": "broader",
+    "happened": "Public Service Loan Forgiveness was not ended. The July 2025 reconciliation law kept it and said payments under the new RAP plan count toward it. The Education Department issued a rule on October 31, 2025 to exclude employers it finds have a substantial illegal purpose. Federal courts in Massachusetts and D.C. vacated that rule on June 30, 2026, one day before it was to take effect.",
+    "key_dates": [
+      {
+        "date": "2025-03-12",
+        "event": "Executive order directs PSLF changes."
+      },
+      {
+        "date": "2025-10-31",
+        "event": "PSLF employer rule published."
+      },
+      {
+        "date": "2026-06-30",
+        "event": "Courts vacate the rule."
+      },
+      {
+        "date": "2026-08-27",
+        "event": "Department appeals."
+      }
+    ],
+    "legal": "The U.S. District Courts for the District of Massachusetts and the District of Columbia entered final judgments vacating the rule. The department appealed both on August 27, 2026.",
+    "closeness": "The chapter wants PSLF ended by Congress. Congress kept it. The only related action, narrowing which employers qualify, is much smaller and is blocked by courts.",
+    "uncertain": "Outcome of the appeals. Newest source is from August 31, 2026.",
+    "sources": [
+      {
+        "label": "Public Service Loan Forgiveness: Recent Legal Developments",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11472.html"
+      },
+      {
+        "label": "AG Campbell prevents U.S. Department of Education from imposing new restrictions on PSLF",
+        "publisher": "Massachusetts Attorney General's Office",
+        "type": "government",
+        "url": "https://www.mass.gov/news/ag-campbell-prevents-us-department-of-education-from-imposing-new-restrictions-on-public-service-loan-forgiveness"
+      },
+      {
+        "label": "GEN-25-04: Federal Student Loan Program Provisions Effective Upon Enactment Under the OBBB Act",
+        "publisher": "U.S. Department of Education, Federal Student Aid",
+        "type": "government",
+        "url": "https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-07-18/federal-student-loan-program-provisions-effective-upon-enactment-under-one-big-beautiful-bill-act"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-073",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law was found that removes or narrows the Education Secretary's power to cancel or change federal student loans. Earlier bills with this goal were introduced in past Congresses but did not pass. The Supreme Court limited the use of the HEROES Act for broad cancellation in 2023, before this administration.",
+    "closeness": "Nothing matching has been enacted. The July 2025 reconciliation law changed loan programs but this review found no provision limiting the Secretary's cancellation authority.",
+    "uncertain": "Searched for HEROES Act limits and reconciliation provisions on cancellation authority. A provision in the long reconciliation law could have been missed.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-074",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law delayed the 2022 borrower defense rule for loans made before July 1, 2035, which brings back the stricter 2019 rule. The Education Department still has power to grant borrower defense discharges.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law delays 2022 borrower defense rule"
+      }
+    ],
+    "closeness": "Borrower defense was narrowed, but the department's power was not removed and the clear-and-convincing-evidence standard was not adopted. See ch11-025.",
+    "uncertain": "How many borrower defense claims are still being approved was not checked. Newest source is from 2025.",
+    "sources": [
+      {
+        "label": "GEN-25-04: Federal Student Loan Program Provisions Effective Upon Enactment Under the OBBB Act",
+        "publisher": "U.S. Department of Education, Federal Student Aid",
+        "type": "government",
+        "url": "https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-07-18/federal-student-loan-program-provisions-effective-upon-enactment-under-one-big-beautiful-bill-act"
+      },
+      {
+        "label": "The One Big Beautiful Bill: Borrower Defense to Repayment Edition",
+        "publisher": "CAPPS (republishing a law-firm analysis)",
+        "type": "law-firm",
+        "url": "https://cappsonline.org/the-one-big-beautiful-bill-borrower-defense-to-repayment-edition/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-075",
+    "status": "blocked",
+    "match": "partial",
+    "happened": "Congress has not capped university overhead rates. In February 2025, NIH set a 15 percent cap on indirect costs for research grants. A federal court in Massachusetts permanently blocked it in April 2025, and the First Circuit upheld that ruling on January 5, 2026. The 2026 spending law kept a long-running ban on HHS changing how these rates are set.",
+    "key_dates": [
+      {
+        "date": "2025-02-07",
+        "event": "NIH announces 15 percent cap."
+      },
+      {
+        "date": "2025-04-04",
+        "event": "District court permanently blocks the cap."
+      },
+      {
+        "date": "2026-01-05",
+        "event": "First Circuit upholds the ruling."
+      }
+    ],
+    "legal": "Permanent injunction by the U.S. District Court for the District of Massachusetts, upheld by the First Circuit on January 5, 2026. The government did not seek Supreme Court review, according to secondary sources.",
+    "closeness": "Same goal of lowering overhead payments, but by a flat agency cap, not a law tying rates to what private funders pay. The cap was blocked, and Congress kept rules preventing it.",
+    "uncertain": "Caps at other agencies were not reviewed. The 2027 budget proposes the cap again; Congress had not acted as of the newest source (mid-2026).",
+    "sources": [
+      {
+        "label": "NIH Indirect Costs Policy for Research Grants: Recent Developments",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-04-17_IN12516_be9b78de7dbbb7220ddf69779afc193119178fe5.html"
+      },
+      {
+        "label": "Trump administration forgoes appeal in NIH F&A rates case, leaving injunction in place",
+        "publisher": "Federation of Associations in Behavioral and Brain Sciences",
+        "type": "advocacy",
+        "url": "https://fabbs.org/news/2026/04/fa-rates/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-076",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The April 23, 2025 accreditation executive order told the Education Secretary to deny, suspend or end recognition of accreditors that break federal law or fail recognition rules, and to resume recognizing new accreditors. The department issued guidance for new accreditors in February 2026 and proposed new recognition rules in August 2026.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Accreditation executive order 14279 signed"
+      },
+      {
+        "date": "2026-02-27",
+        "event": "Guidance on initial recognition"
+      },
+      {
+        "date": "2026-08-20",
+        "event": "Accreditation rule proposed"
+      }
+    ],
+    "closeness": "Matches the direction. No case was confirmed of the Secretary refusing to recognize an existing accreditor.",
+    "uncertain": "Results of any recognition reviews of specific accreditors were not found.",
+    "sources": [
+      {
+        "label": "Reforming Accreditation To Strengthen Higher Education (EO 14279)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07376/reforming-accreditation-to-strengthen-higher-education"
+      },
+      {
+        "label": "Regulatory Guidance on the Criteria and Process for Initial Recognition of an Accrediting Agency",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/27/2026-03953/regulatory-guidance-relating-to-the-criteria-and-process-for-initial-recognition-of-an-accrediting"
+      },
+      {
+        "label": "Accreditation, Innovation, and Modernization (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17001/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-077",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "An April 23, 2025 executive order told the Education Secretary to enforce Section 117 and require more detailed disclosure of foreign funding to colleges. The department opened Section 117 investigations of Harvard, the University of California, Berkeley, and the University of Pennsylvania in 2025, launched a new reporting portal in January 2026, and signed an agreement in February 2026 for the State Department to help with enforcement.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Executive order 14282 signed"
+      },
+      {
+        "date": "2026-01",
+        "event": "New Section 117 reporting portal opens"
+      },
+      {
+        "date": "2026-02",
+        "event": "Education-State agreement on Section 117 enforcement"
+      }
+    ],
+    "closeness": "Directly matches. The outcomes of the investigations were not found.",
+    "uncertain": "I did not find results of the Harvard, Berkeley or Penn investigations. Newest source: March 2026.",
+    "sources": [
+      {
+        "label": "Transparency Regarding Foreign Influence at American Universities (EO 14282)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07379/transparency-regarding-foreign-influence-at-american-universities"
+      },
+      {
+        "label": "U.S. Department of Education returns Section 117 foreign funding enforcement to Office of General Counsel, announces investigation into UC Berkeley",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-returns-section-117-foreign-funding-enforcement-office-of-general-counsel-announces-investigation-uc-berkeley"
+      },
+      {
+        "label": "Section 117 of the Higher Education Act: Reporting of Foreign Gifts and Contracts (IF12927, Mar. 25, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-03-25_IF12927_9e4e5e294f0adad0cb71eb69f92bbb9dca10fd61.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-078",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "On April 23, 2025, President Trump signed Executive Order 14282, telling the Education Secretary to enforce foreign gift reporting by colleges, including by working with the Attorney General. That month the department moved this enforcement to its Office of General Counsel and announced investigations of Harvard and, a week later, the University of California, Berkeley. It renewed its foreign gifts disclosure form in 2026.",
+    "key_dates": [
+      {
+        "date": "2025-04",
+        "event": "Education announces foreign gift investigations of Harvard and UC Berkeley"
+      },
+      {
+        "date": "2025-04-23",
+        "event": "Executive Order 14282 signed."
+      },
+      {
+        "date": "2026-04-15",
+        "event": "Education seeks comment on foreign gifts and contracts disclosure form."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "The order and the investigations match the recommendation. Referrals to the Justice Department were not confirmed.",
+    "uncertain": "The department's press release could not be opened; investigation details come from search summaries and a law-firm analysis that counts three new and one reopened investigation in 2025. Outcomes and any Justice Department referrals are not known. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "Transparency Regarding Foreign Influence at American Universities (Executive Order 14282)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07379/transparency-regarding-foreign-influence-at-american-universities"
+      },
+      {
+        "label": "U.S. Department of Education returns Section 117 enforcement to Office of General Counsel, announces investigation of UC Berkeley",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-returns-section-117-foreign-funding-enforcement-office-of-general-counsel-announces-investigation-uc-berkeley"
+      },
+      {
+        "label": "Agency Information Collection Activities; Foreign Gifts and Contracts Disclosures",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/15/2026-07304/agency-information-collection-activities-comment-request-foreign-gifts-and-contracts-disclosures"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-079",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "The House passed the DETERRENT Act (H.R. 1048) in March 2025. It would make colleges that fail to meet foreign gift reporting rules ineligible for federal student aid programs for at least two years. The Senate has not passed it.",
+    "key_dates": [
+      {
+        "date": "2025-03-27",
+        "event": "House-passed (engrossed) version of H.R. 1048 dated"
+      }
+    ],
+    "closeness": "The bill directly ties federal aid to foreign gift reporting, but it is not law.",
+    "uncertain": "Senate action after March 2025 was not checked in detail; no enrolled version was found.",
+    "sources": [
+      {
+        "label": "H.R. 1048, DETERRENT Act (Engrossed in House)",
+        "publisher": "U.S. Government Publishing Office (govinfo)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr1048eh"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-081",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "Congress has not ended the Title VI area studies programs. In November 2025 the Education Department gave the State Department a larger role in running them. On July 1, 2026, it proposed rescinding the program regulations so it can align the programs with new priorities.",
+    "key_dates": [
+      {
+        "date": "2025-11-18",
+        "event": "Education-State international education agreement"
+      },
+      {
+        "date": "2026-07-01",
+        "event": "Proposal to rescind program regulations"
+      }
+    ],
+    "closeness": "The programs were moved and may be reshaped, but they were not wound down. The 2026 grant competitions continued.",
+    "uncertain": "The FY2026 spending law (P.L. 119-75, February 2026) kept funding Title VI programs inside the higher education account, but the exact amount is set in an explanatory table I did not check. FY2027 funding was not settled as of October 2026.",
+    "sources": [
+      {
+        "label": "International Education Programs and Fulbright-Hays Program; Recission of Regulations (proposed)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13248/international-education-programs-and-fulbright-hays-program-recission-of-regulations"
+      },
+      {
+        "label": "Six new interagency partnerships",
+        "publisher": "Dorsey & Whitney",
+        "type": "law-firm",
+        "url": "https://www.dorsey.com/newsresources/publications/client-alerts/2025/11/six-new-interagency-partnerships"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-083",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 20, 2025, President Trump revoked the Biden order (EO 13992) that had canceled the two 2019 guidance executive orders. The 2019 orders were not reissued as new orders.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "EO 14148 revokes EO 13992"
+      }
+    ],
+    "closeness": "Revoking the revocation points the same way, but no new order restating the 2019 limits on guidance was found.",
+    "uncertain": "I found no new order restating the 2019 limits. Revoking a revoking order does not by itself bring back the original orders, and I found no official statement that EOs 13891 and 13892 are back in force. Some agencies, such as the EEOC in July 2026, still cite rules they adopted under EO 13891.",
+    "sources": [
+      {
+        "label": "Initial Rescissions of Harmful Executive Orders and Actions (EO 14148)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-084",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no executive order or Federal Register notice putting the Office for Civil Rights' Case Processing Manual through public notice and comment. Reports say OCR updated the manual in February 2025, its first revision since 2022, without a public comment process.",
+    "closeness": "No matching action found. In June 2026, much complaint handling moved to the Justice Department by agreement (see ch11-020).",
+    "uncertain": "I searched the Federal Register for the manual, reviewed the 2025 education executive orders, and ran a web search. The February 2025 update is known from education newsletters and law-firm summaries; the Education Department site blocked automated access.",
+    "sources": [
+      {
+        "label": "Office for Civil Rights releases updated Case Processing Manual",
+        "publisher": "Special Education Action",
+        "type": "advocacy",
+        "url": "https://www.specialeducationaction.com/p/office-for-civil-rights-releases-b26"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-085",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No executive order requiring grant applicants to promise to uphold the First Amendment was found. An August 2025 order on grant oversight added political review of grants but did not include this pledge.",
+    "closeness": "Nothing matching was found.",
+    "uncertain": "I searched Federal Register presidential documents and news for a First Amendment pledge in federal grant forms. New grant certifications added in 2025-2026 concern DEI and immigration, not a First Amendment promise.",
+    "sources": [
+      {
+        "label": "Improving Oversight of Federal Grantmaking (EO 14332)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/12/2025-15344/improving-oversight-of-federal-grantmaking"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-086",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "A January 20, 2025 executive order called for a federal hiring plan that uses skills tests, as required by the Chance to Compete Act of 2024. The resulting Merit Hiring Plan, issued May 29, 2025, calls for removing degree requirements that are not needed. The Office of Personnel Management (OPM) began reviewing all 604 federal job series and, in April 2026, dropped degree requirements for federal IT managers.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive order 14170 on federal hiring"
+      },
+      {
+        "date": "2025-05-29",
+        "event": "Merit Hiring Plan issued"
+      },
+      {
+        "date": "2026-04",
+        "event": "OPM drops degree requirements for federal IT managers"
+      }
+    ],
+    "closeness": "The policy matches the idea that degrees should be required only when needed, but it comes through a hiring plan and job-by-job reviews, not a single executive order of the kind recommended.",
+    "uncertain": "I did not find how many job series have dropped degree requirements so far. Newest source: October 2026 OPM recruitment plan.",
+    "sources": [
+      {
+        "label": "Reforming the Federal Hiring Process and Restoring Merit to Government Service (EO 14170)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02094/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service"
+      },
+      {
+        "label": "Merit Hiring Plan (May 29, 2025)",
+        "publisher": "Chief Human Capital Officers Council / OPM",
+        "type": "government",
+        "url": "https://chcoc.gov/sites/default/files/Merit%20Hiring%20Plan%205-29-2025%20FINAL.pdf"
+      },
+      {
+        "label": "Trump administration tosses degree requirements for federal IT managers",
+        "publisher": "Maryland Matters",
+        "type": "news",
+        "url": "https://marylandmatters.org/2026/04/21/trump-administration-tosses-degree-requirements-for-federal-it-managers/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-087",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no executive order about the online list of colleges that sought religious exemptions from Title IX.",
+    "closeness": "No matching action found.",
+    "uncertain": "I reviewed the 2025 education executive orders and searched the Federal Register. I did not check whether the Education Department removed the list from its website without an order.",
+    "sources": [],
+    "as_of": "2026-10-28",
+    "recheck": "The Education Department site blocked automated access; check whether the archived Title IX religious exemption list is still posted."
+  },
+  {
+    "id": "ch11-090",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no executive order expanding the accreditors that D.C. Opportunity Scholarship schools may use, and no law removing the program's accreditation rules. The department ran its usual grant competition for the program in April 2025.",
+    "closeness": "No matching action found.",
+    "uncertain": "I reviewed the 2025 education executive orders and searched the Federal Register for Opportunity Scholarship notices, which were routine.",
+    "sources": [
+      {
+        "label": "Applications for New Awards; Opportunity Scholarship Program",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/23/2025-07024/applications-for-new-awards-opportunity-scholarship-program"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-091",
+    "status": "in-effect-challenged",
+    "match": "partial",
+    "happened": "January 2025 executive orders told agencies to list and end diversity, equity and inclusion grants and to stop funds that promote gender ideology. A January 29, 2025 order asked for a list of all federal funding that supports these ideas in K-12 schools. An August 2025 order added political review of new grants.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "EO 14151 and EO 14168 signed"
+      },
+      {
+        "date": "2025-01-29",
+        "event": "EO 14190 signed"
+      },
+      {
+        "date": "2025-08-07",
+        "event": "EO 14332 on grant oversight"
+      }
+    ],
+    "legal": "In National Association of Diversity Officers in Higher Education v. Trump, the Fourth Circuit Court of Appeals vacated a preliminary injunction against parts of EO 14151 and EO 14173 on February 6, 2026, letting them be enforced. A separate injunction against EO 14173's certification rule in Chicago Women in Trades v. Trump was on appeal in the Seventh Circuit. Other suits over specific grant cancellations continue.",
+    "closeness": "Close in purpose; the orders require reviews and cuts, though a single public accounting report was not found.",
+    "uncertain": "Whether the required reports were published was not found. I did not confirm whether the Fourth Circuit plaintiffs sought Supreme Court review. Newest source: March 2026.",
+    "sources": [
+      {
+        "label": "Ending Radical and Wasteful Government DEI Programs and Preferencing (EO 14151)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+      },
+      {
+        "label": "Defending Women From Gender Ideology Extremism (EO 14168)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02090/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal"
+      },
+      {
+        "label": "Improving Oversight of Federal Grantmaking (EO 14332)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/12/2025-15344/improving-oversight-of-federal-grantmaking"
+      },
+      {
+        "label": "Fourth Circuit: anti-DEI executive orders likely not facially unconstitutional",
+        "publisher": "Pillsbury Winthrop Shaw Pittman",
+        "type": "law-firm",
+        "url": "https://www.pillsburylaw.com/en/news-and-insights/fourth-circuit-anti-dei-executive-orders-likely-not-facially-unconstitutional.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-092",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no executive order requiring a review of results for the GEAR UP and 21st Century Community Learning Centers programs. The Education Department held new GEAR UP grant competitions in 2025 and kept collecting 21st Century annual performance reports.",
+    "closeness": "No matching action found.",
+    "uncertain": "I reviewed the 2025 education executive orders and searched the Federal Register for both programs. Budget proposals to cut these programs were not checked.",
+    "sources": [
+      {
+        "label": "Applications for New Awards; GEAR UP (State Grants)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/11/2025-10537/applications-for-new-awards-gaining-early-awareness-and-readiness-for-undergraduate-programs-state"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-093",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no order to reissue the 2018 Federal Commission on School Safety report. An April 23, 2025 executive order on school discipline cites that report but does not order an update.",
+    "closeness": "No matching action found. The discipline order (Executive Order 14280) relies on the 2018 report's findings.",
+    "uncertain": "I reviewed the 2025 education executive orders and searched the Federal Register for the commission and school safety reports.",
+    "sources": [
+      {
+        "label": "Reinstating Commonsense School Discipline Policies",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07377/reinstating-commonsense-school-discipline-policies"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-094",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "A March 20, 2025 executive order told the Education Secretary to take all steps allowed by law to close the department. About a third of staff were laid off in 2025, and by mid-2026 the department had signed 14 agreements moving the running of many programs to other agencies.",
+    "key_dates": [
+      {
+        "date": "2025-03-20",
+        "event": "Executive order 14242 signed"
+      }
+    ],
+    "closeness": "The department moved faster than a report would; no formal report to Congress on consolidation was found. See ch11-004.",
+    "uncertain": "Whether a written plan was sent to Congress was not confirmed. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "Improving Education Outcomes by Empowering Parents, States, and Communities (EO 14242)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/03/25/2025-05213/improving-education-outcomes-by-empowering-parents-states-and-communities"
+      },
+      {
+        "label": "Education Department shutdown plans face a new hurdle",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/management/2026/09/education-department-shutdown-plans-face-new-hurdle/416003/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-095",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no executive order requiring a report on action civics. A January 29, 2025 order on K-12 schooling revived the 1776 Commission and promotes patriotic education, but does not call for this report.",
+    "closeness": "No matching action found. Executive Order 14190 is related in direction (see ch11-049).",
+    "uncertain": "I reviewed the 2025 education executive orders and searched the Federal Register for \"action civics\" with no results.",
+    "sources": [
+      {
+        "label": "Ending Radical Indoctrination in K-12 Schooling",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02232/ending-radical-indoctrination-in-k-12-schooling"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-096",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no executive order or Education Department notice to update the 1966 Coleman report on family structure and student achievement.",
+    "closeness": "No matching action found.",
+    "uncertain": "I reviewed the 2025 education executive orders and searched the Federal Register for Education Department notices mentioning the Coleman report, with no results.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-097",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no executive order requiring a full accounting of CARES Act education spending or a report on how much federal education money reaches classrooms.",
+    "closeness": "No matching action found.",
+    "uncertain": "I reviewed the 2025 education executive orders and searched the Federal Register for Education Department CARES Act notices. I did not check Inspector General or GAO reports.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-098",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The April 23, 2025 accreditation executive order told the Attorney General and Education Secretary to investigate the American Bar Association's law school accrediting council and assess its federal recognition. In 2026 the Federal Trade Commission and the Justice Department's Antitrust Division urged state courts, including Tennessee's, to stop relying on ABA accreditation for bar admission, and in October 2026 the Justice Department reportedly warned the ABA it could face an antitrust investigation over its limits on part-time law faculty.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Accreditation executive order 14279 signed"
+      },
+      {
+        "date": "2026-05",
+        "event": "FTC and DOJ comments to Tennessee Supreme Court on ABA reliance"
+      },
+      {
+        "date": "2026-10",
+        "event": "DOJ reportedly warns ABA of possible antitrust probe"
+      }
+    ],
+    "closeness": "Antitrust agencies are now pressing the ABA, which matches the chapter's aim, but through comments and warnings; no antitrust lawsuit or formal investigation had been announced.",
+    "uncertain": "The October 2026 warning is known from news reports citing other outlets; I did not see the letter. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Reforming Accreditation To Strengthen Higher Education (EO 14279)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/28/2025-07376/reforming-accreditation-to-strengthen-higher-education"
+      },
+      {
+        "label": "FTC Chairman Urges States to Dump ABA Law School Accreditation",
+        "publisher": "Bloomberg Law",
+        "type": "news",
+        "url": "https://news.bloomberglaw.com/business-and-practice/ftc-chairman-urges-states-to-dump-aba-law-school-accreditation"
+      },
+      {
+        "label": "DOJ warns ABA over part-time law faculty limits (Oct. 15, 2026)",
+        "publisher": "PYMNTS",
+        "type": "news",
+        "url": "https://www.pymnts.com/?p=4316642"
+      },
+      {
+        "label": "FTC, DOJ urge Tennessee to rethink ABA accreditation requirement for bar entry",
+        "publisher": "Legal Tech Monitor",
+        "type": "news",
+        "url": "https://www.legaltechmonitor.com/2026/05/ftc-doj-urge-tennessee-to-rethink-aba-accreditation-requirement-for-bar-entry/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-099",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In early 2025 the Education Department canceled 104 of 109 grants in two teacher-training programs, about $600 million. Other competitive grants were also canceled. Congress did not end competitive grant programs or cut formula grants by 10 percent; the 2026 spending law slightly raised Title I and IDEA.",
+    "key_dates": [
+      {
+        "date": "2025-04-04",
+        "event": "Supreme Court lets the teacher-grant cancellations proceed while the case continues."
+      }
+    ],
+    "legal": "In April 2025 the Supreme Court, in a 5-4 emergency order, paused a lower court order to restore the teacher grants. A federal district judge in Massachusetts later ruled the related anti-DEI directive and terminations unlawful, but grantees must seek money in the Court of Federal Claims.",
+    "closeness": "Some competitive grants were cut, but by cancelling individual awards, not by Congress ending the programs. The 10 percent formula cut did not happen.",
+    "uncertain": "The total value of all cancelled Education grants was not tallied. The 2027 spending law was not final. Newest source is from 2026.",
+    "sources": [
+      {
+        "label": "Supreme Court allows Trump to halt millions in teacher training grants",
+        "publisher": "SCOTUSblog",
+        "type": "news",
+        "url": "https://www.scotusblog.com/2025/04/supreme-court-allows-trump-to-halt-millions-in-teacher-training-grants/"
+      },
+      {
+        "label": "Judge vacates anti-DEI directive that led to teacher training grant cuts",
+        "publisher": "K-12 Dive",
+        "type": "news",
+        "url": "https://www.k12dive.com/news/judge-vacates-anti-dei-directive-that-led-to-teacher-training-grant-cuts/830931/"
+      },
+      {
+        "label": "Congress rejects deep cuts, safeguards key K-12 funding in FY26 deal",
+        "publisher": "National Association of Elementary School Principals",
+        "type": "advocacy",
+        "url": "https://www.naesp.org/blog/congress-rejects-deep-cuts-safeguards-key-k-12-funding-in-fy26-deal/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-100",
+    "status": "not-done",
+    "match": "none",
+    "happened": "GEAR UP was not ended. The Education Department held 2025 GEAR UP state and partnership grant competitions, and in June 2026 it sought approval to renew the GEAR UP application forms.",
+    "closeness": "Nothing matching was found.",
+    "uncertain": "Checked Federal Register notices for 2025-2026. Whether the administration proposed cutting GEAR UP in its budgets, and the 2026 funding level, was not confirmed.",
+    "sources": [
+      {
+        "label": "Applications for New Awards; GEAR UP State Grants (FY 2025)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/11/2025-10537/applications-for-new-awards-gaining-early-awareness-and-readiness-for-undergraduate-programs-state"
+      },
+      {
+        "label": "GEAR UP Application Packages for Partnership and State Grants (information collection, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12775/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-013",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress kept funding the special institutions in the fiscal 2026 spending law, signed February 3, 2026: $43.4 million for the American Printing House for the Blind, $92.5 million for the National Technical Institute for the Deaf, and $167.4 million for Gallaudet University and its schools. The administration's fiscal 2026 request had asked for the same amounts.",
+    "closeness": "The chapter wanted these set-asides phased out. They continue at full program levels.",
+    "uncertain": "I checked the fiscal 2026 spending law (P.L. 119-75), the fiscal 2026 budget justifications, and searched for the 2027 request; the 2027 budget summary could not be opened. Newest source: February 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-75 (FY2026 appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "FY2026 Congressional Justification: Gallaudet University",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/media/document/fy-2026-congressional-justification-gallaudet-university-110136.pdf"
+      },
+      {
+        "label": "FY2026 Congressional Justification: American Printing House for the Blind",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/media/document/fy-2026-congressional-justification-american-printing-house-blind-110138.pdf"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "The FY2027 Education budget summary could not be opened; check whether it proposes phasing out these set-asides."
+  },
+  {
+    "id": "ch11-034",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On March 28, 2025, the Education Department's Student Privacy Policy Office sent a letter to state and local school leaders, with a cover letter from Secretary Linda McMahon, listing parents' right to inspect and review their children's education records as a top priority. In a complaint letter to California, the office said FERPA gives parents full rights to their children's records until age 18.",
+    "key_dates": [
+      {
+        "date": "2025-03-28",
+        "event": "Education Department letter to schools on FERPA duties, stressing parents' right to see records."
+      }
+    ],
+    "closeness": "This matches the chapter's call for the Secretary to make clear that FERPA gives parents full access to their children's records.",
+    "uncertain": "The department told one district to expect new FERPA guidance or rules; none was found as of the newest source (June 2026 CRS report).",
+    "sources": [
+      {
+        "label": "CRS R46799: The Family Educational Rights and Privacy Act (FERPA): Legal Issues",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-06-05_R46799_ab046875ffe38de60406c87fb0aa78a0fbb1ba84.html"
+      },
+      {
+        "label": "A trio of letters from the U.S. Department of Education further shape Trump-McMahon education policy",
+        "publisher": "EdNC",
+        "type": "news",
+        "url": "https://www.ednc.org/a-trio-of-letters-from-the-u-s-department-of-education-further-shape-trump-mcmahon-education-policy/"
+      },
+      {
+        "label": "Trump administration takes on school emails as parental rights issue",
+        "publisher": "The 74",
+        "type": "news",
+        "url": "https://www.the74million.org/article/trump-administration-takes-on-school-emails-as-parental-rights-issue/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-048",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No congressional hearing on the National Education Association's use of federal money was found. In July 2025, members of Congress introduced bills to repeal or revise the union's federal charter, including H.R. 4450.",
+    "closeness": "The chapter asked for hearings. Bills were introduced instead, and none has passed.",
+    "uncertain": "I ran two targeted web searches for House or Senate hearings on the union and its charter, and searched all 119th Congress laws. Results showed only bills, such as H.R. 4450, which was referred to the House Judiciary Committee. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "H.R. 4450, National Education Association Charter Repeal Act (introduced)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4450ih/html/BILLS-119hr4450ih.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-057",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress did not raise D.C. Opportunity Scholarship amounts in law. The fiscal 2026 spending law kept the D.C. school program's federal payment at $52.5 million, the same level as in recent years. A bill to update the program, H.R. 5181, was approved by a House committee in September 2025 but has not passed; it would let the program set a lower maximum scholarship, not raise it.",
+    "closeness": "The chapter wanted scholarship amounts raised closer to D.C. public school per-student spending. No increase has become law.",
+    "uncertain": "I read the introduced text of H.R. 5181; a committee-reported version was not posted on GovInfo. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-75 (FY2026 appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "H.R. 5181, SOAR Act Improvements Act (introduced text)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5181ih/html/BILLS-119hr5181ih.htm"
+      },
+      {
+        "label": "H.R. 5181, SOAR Act Improvements Act",
+        "publisher": "The Lobby News",
+        "type": "news",
+        "url": "https://www.thelobbynews.com/congress/bills/119/house-bill/5181"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-058",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "H.R. 5181, the SOAR Act Improvements Act, was introduced September 8, 2025, and approved by the House Oversight Committee 25-20 on September 10, 2025. It would apply the program's random-selection rule only when it does not interfere with a school's regular admission standards, and would no longer require participating schools to give a set test, letting the Institute of Education Sciences test students in its study instead. It has not passed the House.",
+    "key_dates": [
+      {
+        "date": "2025-09-10",
+        "event": "House Oversight Committee approves H.R. 5181."
+      }
+    ],
+    "closeness": "The bill would give participating private schools more control over admissions and drop the school testing requirement, matching the chapter's idea, but it is not law.",
+    "uncertain": "Based on the introduced text; a committee-reported version was not posted on GovInfo. No floor action was found as of October 2026.",
+    "sources": [
+      {
+        "label": "H.R. 5181, SOAR Act Improvements Act (introduced text)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5181ih/html/BILLS-119hr5181ih.htm"
+      },
+      {
+        "label": "H.R. 5181, SOAR Act Improvements Act",
+        "publisher": "The Lobby News",
+        "type": "news",
+        "url": "https://www.thelobbynews.com/congress/bills/119/house-bill/5181"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-080",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new Education Department rule clarifying \"regular and substantive interaction\" for competency-based or online programs was found. The department's 2025-2026 rulemaking focused on student loans, the 2025 reconciliation law, and accreditation.",
+    "closeness": "The chapter asked for new rules on teacher-student interaction in these programs. None has been proposed.",
+    "uncertain": "I searched the Federal Register for the phrase and for Education Department distance-education and competency-based actions, and searched the full text of the August 2026 accreditation proposed rule, which does not use the terms 'regular and substantive,' 'competency-based' or 'distance education.' Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Intent To Establish Negotiated Rulemaking Committee (accreditation)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01620/intent-to-establish-negotiated-rulemaking-committee"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch11-082",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "On July 1, 2026, the Education Department proposed rescinding the rules for its International Education (Title VI area studies) and Fulbright-Hays programs. It said this would let it align the programs with priorities such as workforce readiness and national competitiveness.",
+    "key_dates": [
+      {
+        "date": "2026-07-01",
+        "event": "Proposal to rescind International Education and Fulbright-Hays program rules."
+      }
+    ],
+    "closeness": "The chapter wanted a rule sending at least 40 percent of area studies money to free-market international business programs, with a pledge to serve American interests. The proposal removes the existing rules to allow new priorities, but sets no 40 percent share.",
+    "uncertain": "Whether the rescission is final, and what priorities will replace the rules, are not known. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "International Education Programs and Fulbright-Hays Program; Recission of Regulations",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13248/international-education-programs-and-fulbright-hays-program-recission-of-regulations"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-088",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Education Department has publicly announced several student privacy investigations. After its March 2025 letter it opened statewide investigations, and in late July 2026 it announced FERPA enforcement actions against school districts in Maryland and Michigan and PPRA investigations of districts in Washington and Colorado.",
+    "key_dates": [
+      {
+        "date": "2025-03-28",
+        "event": "Letter to schools on FERPA and PPRA duties; investigations follow."
+      },
+      {
+        "date": "2026-07-28",
+        "event": "Department announces FERPA actions and PPRA investigations of four districts."
+      }
+    ],
+    "closeness": "Announcing investigations makes some complaint activity public, which partly fits the chapter's call for transparency. No regular public report on all FERPA and PPRA complaints was found.",
+    "uncertain": "Dates for the July 2026 announcements come from a news report. Whether the department publishes complaint totals is not known. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Trump administration cracks down on LGBTQ policies via privacy laws",
+        "publisher": "K-12 Dive",
+        "type": "news",
+        "url": "https://www.k12dive.com/news/trump-administration-cracks-down-on-lgbtq-policies-via-privacy-laws/826411/"
+      },
+      {
+        "label": "CRS R46799: The Family Educational Rights and Privacy Act (FERPA): Legal Issues",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-06-05_R46799_ab046875ffe38de60406c87fb0aa78a0fbb1ba84.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-089",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new online portal on parents' FERPA and PPRA rights was found. The department's existing student privacy website already offers a parent guide to FERPA and PPRA guidance. In 2026 the department renewed its existing FERPA and PPRA online complaint forms without changes.",
+    "closeness": "The chapter asked for a new portal and resources, including on access to school health records. Only the pre-existing site and forms were found.",
+    "uncertain": "I ran two web searches and searched the Federal Register. When the existing site's parent pages were last updated is not known. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "FERPA and PPRA E-Complaint Forms (information collection, reinstatement without change)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07868/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

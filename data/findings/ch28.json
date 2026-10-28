@@ -1,0 +1,732 @@
+[
+  {
+    "id": "ch28-001",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No FCC order or advisory opinion reinterpreting Section 230 was found. In early 2025 news outlets reported the FCC was considering an advisory opinion on Section 230, but none was issued.",
+    "closeness": "No match found. An advisory opinion, had one been issued, would signal the FCC's view rather than bind courts.",
+    "uncertain": "Two web searches (October 2026) and a Federal Register search found no FCC Section 230 item in 2025-2026; a March 2026 law-firm note describes FCC Chairman Carr's ideas as proposals only. The FCC website blocks automated access, so a non-published FCC statement could have been missed.",
+    "sources": [
+      {
+        "label": "FCC reportedly considering advisory opinion on Section 230",
+        "publisher": "Covington & Burling",
+        "type": "law-firm",
+        "url": "https://www.insideglobaltech.com/2025/02/28/fcc-reportedly-considering-advisory-opinion-on-section-230/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No FCC rule requiring large tech platforms to disclose terms of service, or barring actions against those terms, was found.",
+    "closeness": "No match found. Separately, the FTC in February 2025 asked the public for information on tech platforms limiting users' speech; see ch28-005.",
+    "uncertain": "Two web searches (October 2026) and a Federal Register search found no FCC proposal or rule on platform transparency or terms of service; Chairman Carr has suggested such rules, but no formal action was found. The FCC website blocks automated access.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-003",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No FCC rule or law requiring large tech platforms to offer users an appeals process for takedowns was found. In February 2025 the FTC opened a public inquiry into how platforms limit users based on speech (see ch28-005).",
+    "closeness": "The FTC inquiry studies related concerns but does not require an appeals process.",
+    "uncertain": "Checked the Federal Register and the list of laws enacted through October 2026. State laws were not reviewed.",
+    "sources": [
+      {
+        "label": "FTC launches inquiry into tech censorship",
+        "publisher": "Federal Trade Commission",
+        "type": "government",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/02/federal-trade-commission-launches-inquiry-tech-censorship"
+      },
+      {
+        "label": "FTC launches inquiry into tech censorship (archived copy, Oct 2026)",
+        "publisher": "Federal Trade Commission via Internet Archive",
+        "type": "government",
+        "url": "https://web.archive.org/web/20261011221846/https://www.ftc.gov/news-events/news/press-releases/2025/02/federal-trade-commission-launches-inquiry-tech-censorship"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-004",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law changing Section 230 has passed Congress. In December 2025, bills to end Section 230 were introduced in both chambers (the Sunset Section 230 Act, S. 3546, and H.R. 6746); another House bill followed in September 2026. None has had a committee or floor vote.",
+    "closeness": "No match found. The bills would end Section 230 entirely rather than narrow it for dominant platforms as the chapter suggests, and none has advanced.",
+    "uncertain": "Committee status comes from bill trackers checked in October 2026; the project's copy of all 2025-2026 laws shows no Section 230 change. Whether the FCC has worked with Congress on these bills is not known.",
+    "sources": [
+      {
+        "label": "S. 3546 (119th Congress), Sunset Section 230 Act, introduced text",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/119/bills/s3546/BILLS-119s3546is.pdf"
+      },
+      {
+        "label": "H.R. 6746 (119th Congress), introduced text",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/119/bills/hr6746/BILLS-119hr6746ih.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-005",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law applying anti-discrimination rules to tech platforms or hosting firms was found. On February 20, 2025, the FTC opened a public inquiry into how tech platforms deny or limit service based on users' speech or affiliations.",
+    "key_dates": [
+      {
+        "date": "2025-02-20",
+        "event": "FTC launches public inquiry into tech platform censorship."
+      }
+    ],
+    "closeness": "No match for a law. The FTC inquiry shares the concern but is a request for information under existing consumer protection and competition law, not new anti-discrimination rules.",
+    "uncertain": "Whether the FTC inquiry led to enforcement action, and whether related bills were introduced. Search was limited by the session's web search cap.",
+    "sources": [
+      {
+        "label": "Federal Trade Commission launches inquiry on tech censorship",
+        "publisher": "Federal Trade Commission",
+        "type": "government",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/02/federal-trade-commission-launches-inquiry-tech-censorship"
+      },
+      {
+        "label": "FTC launches inquiry into tech censorship (archived copy, Oct 2026)",
+        "publisher": "Federal Trade Commission via Internet Archive",
+        "type": "government",
+        "url": "https://web.archive.org/web/20261011221846/https://www.ftc.gov/news-events/news/press-releases/2025/02/federal-trade-commission-launches-inquiry-tech-censorship"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-006",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No FCC rule or law giving users the right to choose their own content filters or fact checkers was found.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked the Federal Register, the list of laws enacted through October 2026, and a web search for 2025-2026 bills or FCC action on user-chosen filters (\"middleware\"); results were academic proposals only.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch28-007",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "No new federal law keeping young children off social media has been enacted. The House passed a package of children's online safety bills (the KIDS Act, H.R. 7757) on June 29, 2026, after a bipartisan deal that dropped the Kids Online Safety Act's \"duty of care\" provision. The Senate had not acted on it as of the newest source. The TAKE IT DOWN Act (May 2025) deals with posting intimate images, not children's access.",
+    "key_dates": [
+      {
+        "date": "2026-03-05",
+        "event": "House Energy and Commerce Committee approves the KIDS Act package, 28-24"
+      },
+      {
+        "date": "2026-06-29",
+        "event": "House passes amended H.R. 7757"
+      }
+    ],
+    "closeness": "Congress is moving on children's online safety, which overlaps with the goal, but the House bill's exact limits on young children's use were not confirmed, and the FCC has no role in it.",
+    "uncertain": "Which age-verification or under-13 provisions are in the final House text was not reviewed. Not among laws enacted through October 2026. Newest source is September 2026.",
+    "sources": [
+      {
+        "label": "House advances bipartisan kids' online safety bill, but Senate showdown looms",
+        "publisher": "Crowell & Moring",
+        "type": "law-firm",
+        "url": "https://www.crowell.com/en/insights/client-alerts/house-advances-bipartisan-kids-online-safety-bill-but-senate-showdown-looms"
+      },
+      {
+        "label": "Full Committee Markup Recap: E&C advances eight bills to the full House",
+        "publisher": "House Energy and Commerce Committee",
+        "type": "government",
+        "url": "https://republicans-energycommerce.house.gov/posts/full-committee-markup-recap-e-and-c-advances-eight-bills-to-the-full-house-of-representatives"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch28-008",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law requiring large tech companies to pay into the Universal Service Fund was found among laws enacted through October 2026. The fund is still paid for through charges on phone service, and the charge rate is projected at a record 42% for late 2026. FCC Chairman Carr has backed adding big tech revenue, and the FCC has asked Congress for authority to change who pays.",
+    "closeness": "No matching action yet. The FCC chair supports the idea, but it needs a law.",
+    "uncertain": "A July 2026 CRS report says Congress is considering reform; no bill had passed either chamber as of the newest source.",
+    "sources": [
+      {
+        "label": "The Universal Service Fund Contribution Base: Considerations for Congress (IF13280, July 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13280.html"
+      },
+      {
+        "label": "FCC asks Congress for help on USF contribution base reform",
+        "publisher": "Telecompetitor",
+        "type": "news",
+        "url": "https://www.telecompetitor.com/fcc-asks-congress-for-help-on-usf-contribution-base-reform/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch28-009",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Congress passed a law in 2024 requiring TikTok to be sold or banned, and the Supreme Court upheld it on January 17, 2025. President Trump delayed enforcement several times. A deal moving TikTok's U.S. business into a joint venture controlled by American investors closed in January 2026; ByteDance kept 19.9%, and the venture licenses the app's algorithm from ByteDance.",
+    "key_dates": [
+      {
+        "date": "2025-01-17",
+        "event": "Supreme Court upholds the TikTok divest-or-ban law (TikTok v. Garland)."
+      },
+      {
+        "date": "2026-01-22",
+        "event": "TikTok U.S. joint venture deal closes."
+      }
+    ],
+    "legal": "Supreme Court, TikTok Inc. v. Garland (January 17, 2025): the law does not violate the First Amendment.",
+    "closeness": "The app was not banned. A forced sale under a law passed before this administration was carried out instead, and ByteDance keeps a minority stake. Related to ch21-043.",
+    "uncertain": "Whether the deal fully meets the law's limits on ByteDance control, especially over the algorithm. Newest source is from January 2026.",
+    "sources": [
+      {
+        "label": "TikTok Inc. v. Garland (opinion)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/24pdf/604us1r07_k536.pdf"
+      },
+      {
+        "label": "TikTok divestiture deal closes",
+        "publisher": "Axios",
+        "type": "news",
+        "url": "https://axios.com/2026/01/23/tiktok-deal-trump-app-ban"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-010",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The FCC used its Covered List more actively. On December 22, 2025, it added all foreign-made drones and drone parts. In July 2026 it banned further import and marketing of previously approved equipment from companies added to the list in 2024 or earlier.",
+    "key_dates": [
+      {
+        "date": "2025-12-22",
+        "event": "Foreign-made drones added to the Covered List"
+      },
+      {
+        "date": "2026-07-06",
+        "event": "FCC bans continued import and marketing of older covered equipment"
+      }
+    ],
+    "closeness": "The FCC is adding to and enforcing the list more often, but no new formal schedule for regular updates was found.",
+    "uncertain": "Whether the FCC adopted a set review process was not confirmed.",
+    "sources": [
+      {
+        "label": "Prohibiting Importation and Marketing of Previously Authorized Covered Communications Equipment",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13518/prohibiting-importation-and-marketing-of-previously-authorized-covered-communications-equipment"
+      },
+      {
+        "label": "Seeking Comment on Prohibiting Import of Certain Foreign-Produced Military-Grade UAS",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15659/seeking-comment-on-prohibiting-the-importation-and-marketing-of-certain-foreign-produced"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-011",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "In May 2026 the FCC proposed barring companies on its Covered List from providing domestic interstate telecommunications services under the blanket authority most carriers use, and asked about other exclusions.",
+    "key_dates": [
+      {
+        "date": "2026-05-08",
+        "event": "FCC proposed rule on Covered List companies and domestic service"
+      }
+    ],
+    "closeness": "This targets the same problem of banned companies still offering services in the U.S. It is a proposal, and it does not specifically bar regulated carriers from connecting with insecure providers.",
+    "uncertain": "Whether the rule was finalized was not confirmed.",
+    "sources": [
+      {
+        "label": "Protecting Against National Security Threats in Domestic Telecommunications Service (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09190/protecting-against-national-security-threats-in-domestic-telecommunications-service"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-012",
+    "status": "partly-done",
+    "match": "direct",
+    "happened": "In April 2026 the FCC adopted rules, effective June 9, 2026, requiring a wide range of license holders to state whether they are owned or controlled by a foreign adversary and, if so, to disclose details. Ownership of 10 percent or more of equity by such parties is among the triggers. The FCC told its staff to set up how this information will be published. In October 2026 it sent the new reporting form (FCC Form 5655, about 18,000 expected filers) to OMB for approval.",
+    "key_dates": [
+      {
+        "date": "2025-06-20",
+        "event": "FCC proposes foreign adversary control disclosure rules"
+      },
+      {
+        "date": "2026-04-10",
+        "event": "FCC final rule published; effective June 9, 2026"
+      },
+      {
+        "date": "2026-10-19",
+        "event": "FCC submits the new disclosure form to OMB for approval"
+      }
+    ],
+    "closeness": "This is the same idea as the chapter's: identifying licensees tied to foreign adversaries and making that public. A published list was planned but not confirmed.",
+    "uncertain": "Because the reporting form was still awaiting OMB approval in October 2026, no filings or public list had been found yet. Which countries the FCC's foreign adversary definition covers in practice was not confirmed. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Protecting Our Communications Networks by Promoting Transparency Regarding Foreign Adversary Control (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/10/2026-06992/protecting-our-communications-networks-by-promoting-transparency-regarding-foreign-adversary-control"
+      },
+      {
+        "label": "Information Collection Being Submitted for Review and Approval to OMB (FCC Form 5655)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21318/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch28-013",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In December 2024, before the current administration, Congress passed the Spectrum and Secure Technology and Innovation Act, which filled the funding shortfall in the FCC program that pays carriers to remove Huawei and ZTE equipment. It is repaid from an auction of AWS-3 airwaves. In August 2025 the FCC adopted final bidding rules for that auction.",
+    "key_dates": [
+      {
+        "date": "2024-12",
+        "event": "Spectrum and Secure Technology and Innovation Act enacted"
+      },
+      {
+        "date": "2025-08-04",
+        "event": "FCC final rules for the AWS-3 auction that repays the program"
+      }
+    ],
+    "closeness": "The program was fully funded, as recommended, but with borrowed money repaid by a spectrum auction rather than unused COVID funds. The law came before January 2025.",
+    "uncertain": "Progress on actual equipment removal was not checked.",
+    "sources": [
+      {
+        "label": "Competitive Bidding Rules for Auction of AWS-3 Licenses",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/04/2025-14725/competitive-bidding-rules-for-auction-of-aws-3-licenses"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-014",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "No \"Clean Standards\" initiative was found, and the 2020 Clean Network program was not revived. The July 2025 AI Action Plan did tell the State and Commerce Departments to use U.S. influence in international standard-setting bodies to \"counter authoritarian influence,\" naming Chinese companies' efforts to shape standards (see ch21-084).",
+    "key_dates": [
+      {
+        "date": "2025-07-23",
+        "event": "White House releases America's AI Action Plan"
+      }
+    ],
+    "closeness": "Only the general direction, and only for AI: the plan addresses Chinese influence in standards bodies but is not a broad technology and telecom standards initiative.",
+    "uncertain": "Searched the Federal Register and the web for a 2025-2026 Clean Network or standards initiative; results covered only the 2020 program.",
+    "sources": [
+      {
+        "label": "America's AI Action Plan (July 2025)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch28-015",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In September 2025 the Commerce Department widened export limits to cover affiliates of companies on its Entity List, many of them Chinese, but suspended that rule for one year in November 2025. Over the same period the administration allowed some advanced AI chip sales to China: Nvidia and AMD agreed in August 2025 to pay the government a share of China chip revenue, and a January 15, 2026 rule moved licenses for chips such as Nvidia's H200 to case-by-case review. No plan aimed at U.S. cloud providers was found.",
+    "key_dates": [
+      {
+        "date": "2025-09-30",
+        "event": "Export limits extended to affiliates of listed companies"
+      },
+      {
+        "date": "2025-11-12",
+        "event": "Affiliates rule suspended for one year"
+      },
+      {
+        "date": "2026-01-15",
+        "event": "BIS revises license review policy for advanced computing chips"
+      }
+    ],
+    "closeness": "Mixed: some export controls were tightened, but the main expansion was suspended and more advanced chip sales to China were allowed, which runs against the recommendation. No cloud-computing plan was found.",
+    "uncertain": "License volumes and conditions come from news reports. Newest source is May 2026.",
+    "sources": [
+      {
+        "label": "Expansion of End-User Controls To Cover Affiliates of Certain Listed Entities",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/30/2025-19001/expansion-of-end-user-controls-to-cover-affiliates-of-certain-listed-entities"
+      },
+      {
+        "label": "One Year Suspension of Expansion of End-User Controls for Affiliates",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/11/12/2025-19846/one-year-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed-entities"
+      },
+      {
+        "label": "Revision to License Review Policy for Advanced Computing Commodities",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/15/2026-00789/revision-to-license-review-policy-for-advanced-computing-commodities"
+      },
+      {
+        "label": "Nvidia gets US license for small amount of H200 exports to China",
+        "publisher": "Bloomberg",
+        "type": "news",
+        "url": "https://bloomberg.com/news/articles/2026-02-26/nvidia-gets-us-license-for-small-amount-of-h200-exports-to-china"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch28-016",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law restored the FCC's spectrum auction authority through 2034. It requires auctions of at least 300 megahertz, including at least 100 megahertz in the 3.98-4.2 GHz band within two years, and requires NTIA to identify another 500 megahertz of federal spectrum for commercial use on a set schedule. In July 2026 the FCC adopted rules to auction the Upper C-band under that law.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "P.L. 119-21 restores auction authority and sets an 800 MHz spectrum pipeline"
+      },
+      {
+        "date": "2026-07-31",
+        "event": "FCC publishes Upper C-band auction rules"
+      }
+    ],
+    "closeness": "A legal pipeline with deadlines for freeing airwaves for wireless use matches the chapter's goal. It came from Congress rather than a strategy written by the FCC and the White House.",
+    "uncertain": "Whether NTIA has met its first identification deadline (two years after enactment) is not yet known. Newest source: October 2026 FCC notices.",
+    "sources": [
+      {
+        "label": "Public Law 119-21, Sec. 40002 (spectrum auctions)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15598/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-017",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The July 2025 reconciliation law requires NTIA, in consultation with the FCC, to identify 500 megahertz of federal spectrum for commercial or shared use on a fixed schedule. No new process for settling disputes between commercial wireless companies and federal agencies, such as the 5G and aviation dispute, was found.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "P.L. 119-21 requires NTIA-FCC identification of federal spectrum"
+      }
+    ],
+    "closeness": "The law sets up a federal-commercial reallocation step, but not the broader coordination process the chapter described. Same law as ch28-016.",
+    "uncertain": "Searched presidential documents for spectrum actions and found none; agency-level agreements between NTIA and the FCC were not checked. Newest source: the July 2025 law.",
+    "sources": [
+      {
+        "label": "Public Law 119-21, Sec. 40002 (spectrum auctions)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-018",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "In September 2025 the FCC opened an inquiry into state and local rules that slow wired network deployment. In August 2026 it proposed rules to presume a ban on service when state or local governments miss decision deadlines and to limit excessive fees.",
+    "key_dates": [
+      {
+        "date": "2025-09-30",
+        "event": "FCC inquiry on state and local barriers to wireline deployment"
+      },
+      {
+        "date": "2026-08-07",
+        "event": "FCC proposed rule on wireline deployment barriers"
+      }
+    ],
+    "closeness": "Close match: the proposal addresses both fees and time limits. It is not yet final.",
+    "uncertain": "Whether the rule has been adopted was not confirmed.",
+    "sources": [
+      {
+        "label": "Build America: Eliminating Barriers to Wireline Deployments (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16196/build-america-eliminating-barriers-to-wireline-deployments"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-020",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In August 2025 the FCC adopted rules to speed up processing of satellite and earth station applications, including by dropping some license modification filings and outdated rules. In October 2026 it proposed more space licensing reforms.",
+    "key_dates": [
+      {
+        "date": "2025-08-27",
+        "event": "FCC rule expediting satellite and earth station application processing published"
+      },
+      {
+        "date": "2026-10-26",
+        "event": "FCC proposes further space modernization reforms"
+      }
+    ],
+    "closeness": "The rules aim to speed up satellite approvals, as the chapter asked. They cover satellite licensing broadly, not low-earth orbit internet systems alone.",
+    "uncertain": "Whether approval times for specific systems such as Starlink or Kuiper actually got shorter was not checked. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Expediting Initial Processing of Satellite and Earth Station Applications; Space Innovation",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/27/2025-16375/expediting-initial-processing-of-satellite-and-earth-station-applications-space-innovation"
+      },
+      {
+        "label": "Space Modernization for the 21st Century (further notice of proposed rulemaking)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-021",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On June 6, 2025, the Commerce Department's NTIA issued a policy notice restructuring the $42.5 billion BEAD broadband grant program, which it calls the \"Benefit of the Bargain\" reforms. States had to rerun grant selections, open them to all technologies including satellite, and pick the lowest-cost option for each unserved location. In January 2026 NTIA held a listening session on how to use the money saved.",
+    "key_dates": [
+      {
+        "date": "2025-06-06",
+        "event": "NTIA issues BEAD restructuring policy notice"
+      },
+      {
+        "date": "2026-01-27",
+        "event": "NTIA notice on use of BEAD funds saved by the reforms"
+      }
+    ],
+    "closeness": "The changes push spending toward lower-cost service for unserved places, which fits the goal. A full end to funding where service exists was not confirmed.",
+    "uncertain": "How much was saved and how the savings will be used were still open as of the newest source (January 2026).",
+    "sources": [
+      {
+        "label": "Trump administration announces Benefit of the Bargain BEAD program (June 2025)",
+        "publisher": "NTIA",
+        "type": "government",
+        "url": "https://www.ntia.gov/press-release/2025/trump-administration-announces-benefit-bargain-bead-program-removes-regulatory-burdens-lowers-costs"
+      },
+      {
+        "label": "NTIA restructures BEAD program with major broadband funding changes",
+        "publisher": "Wiley Rein",
+        "type": "law-firm",
+        "url": "https://www.wiley.law/alert-NTIA-Restructures-BEAD-Program-with-Major-Broadband-Funding-Changes"
+      },
+      {
+        "label": "NTIA Listening Session on the Use of BEAD Funds Saved Through Benefit of the Bargain Reforms",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01594/ntia-listening-session-on-the-use-of-bead-funds-saved-through-the-trump-administrations-benefit-of"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch28-022",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "No national broadband strategy has been adopted. GAO testified in July 2026 that more than 100 federal broadband programs at 15 agencies still lack an overall strategy, and that the White House had not taken a position on GAO's 2022 recommendation to create one. A Senate bill (S. 323) that would require NTIA to write a national strategy was placed on the Senate calendar in May 2026.",
+    "key_dates": [
+      {
+        "date": "2026-05",
+        "event": "S. 323, requiring a national broadband strategy, placed on the Senate calendar"
+      },
+      {
+        "date": "2026-07-22",
+        "event": "GAO testifies that no national broadband strategy exists"
+      }
+    ],
+    "closeness": "The bill would create the strategy the chapter asked for, but through Congress and NTIA rather than a White House decision, and it has not passed.",
+    "uncertain": "Whether the Senate will vote on S. 323. Newest source is July 2026.",
+    "sources": [
+      {
+        "label": "Broadband: federal effort remains fragmented (GAO-26-109297, July 2026 testimony)",
+        "publisher": "U.S. Government Accountability Office",
+        "type": "government",
+        "url": "https://www.gao.gov/products/gao-26-109297"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch28-023",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In January 2026 the FCC rescinded its 2024 rules that let the E-Rate program, part of the Universal Service Fund, pay for Wi-Fi hotspots used off school grounds. In August 2026 it opened a review of the E-Rate program, including proposals to strengthen program integrity and streamline administration.",
+    "key_dates": [
+      {
+        "date": "2026-01-21",
+        "event": "FCC rescinds E-Rate hotspot rules"
+      },
+      {
+        "date": "2026-08-14",
+        "event": "FCC opens review of the E-Rate program"
+      }
+    ],
+    "closeness": "These steps review and trim one Universal Service Fund program. A review of all FCC broadband programs to cut duplication, as the chapter described, was not found.",
+    "uncertain": "Other Universal Service Fund programs were not reviewed in this finding. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Addressing the Homework Gap Through the E-Rate Program; Partial Withdrawal",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/21/2026-01053/addressing-the-homework-gap-through-the-e-rate-program-partial-withdrawal"
+      },
+      {
+        "label": "FCC To Review E-Rate Program To Ensure Congress's Vision",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16590/fcc-to-review-e-rate-program-to-ensure-congresss-vision"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-024",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On August 6, 2026, the FCC voted 2-1 to eliminate its 39% national TV ownership cap and review large deals case by case. News reports say the order was published October 2, 2026 and takes effect 60 days later. The FCC is still reviewing its local radio, local TV and dual network rules, which it opened for comment in November 2025.",
+    "key_dates": [
+      {
+        "date": "2025-07-08",
+        "event": "FCC seeks updated comment on the national TV ownership cap"
+      },
+      {
+        "date": "2025-11-17",
+        "event": "FCC seeks comment on local ownership rules in its quadrennial review"
+      },
+      {
+        "date": "2026-08-06",
+        "event": "FCC votes 2-1 to eliminate the national ownership cap"
+      }
+    ],
+    "legal": "Cable and broadband groups asked the FCC in October 2026 to stay the order and said they would ask a federal appeals court to review it once published. No court filing or ruling was confirmed as of late October 2026.",
+    "closeness": "One of the main ownership rules the chapter targets is being removed; the local ownership rules and universal service requirements remain under review or unchanged.",
+    "uncertain": "Whether a court challenge was filed, and the exact effective date, were not confirmed in an official source. Newest source is October 2026.",
+    "sources": [
+      {
+        "label": "FCC votes to lift broadcast ownership cap (August 6, 2026)",
+        "publisher": "Axios",
+        "type": "news",
+        "url": "https://www.axios.com/2026/08/06/fcc-broadcast-ownership-cap-vote"
+      },
+      {
+        "label": "Broadband groups petition FCC over ownership rule (October 2026)",
+        "publisher": "The Desk",
+        "type": "news",
+        "url": "https://thedesk.net/2026/10/broadband-groups-petition-fcc-ownership-rule-tv/"
+      },
+      {
+        "label": "2022 Quadrennial Regulatory Review of Broadcast Ownership Rules",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/11/17/2025-20001/2022-quadrennial-regulatory-review-review-of-the-commissions-broadcast-ownership-rules-and-other"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Confirm the Federal Register citation and effective date of the August 2026 national cap order, and whether a court petition was filed."
+  },
+  {
+    "id": "ch28-025",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In 2025 the FCC began a \"Delete, Delete, Delete\" review of all its rules. Through late 2025 and January 2026 it issued a series of rules removing outdated provisions.",
+    "key_dates": [
+      {
+        "date": "2025-08-04",
+        "event": "FCC changes delegation rules to speed rule deletions"
+      },
+      {
+        "date": "2026-01-26",
+        "event": "FCC rule removing more obsolete provisions"
+      }
+    ],
+    "closeness": "Close match to the call for a full review and repeal of outdated rules. How much of the rulebook has been removed is not clear.",
+    "uncertain": "The total number of rules removed was not tallied.",
+    "sources": [
+      {
+        "label": "Delete, Delete, Delete (rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/26/2026-01442/delete-delete-delete"
+      },
+      {
+        "label": "Delete, Delete, Delete; Delegations of Authority",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/04/2025-14702/delete-delete-delete-delegations-of-authority"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-019",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On April 9, 2026, the White House Council on Environmental Quality issued guidance on creating, adopting and using categorical exclusions, which let low-impact projects skip detailed environmental reviews, replacing 2010 guidance. In April 2026 a broadband industry group asked the Agriculture Department, which runs the Forest Service, to adopt broadband exclusions under that guidance. A 2024 Bureau of Land Management rule, from before this administration, already set a 270-day target for deciding broadband applications.",
+    "key_dates": [
+      {
+        "date": "2024-03-28",
+        "event": "BLM broadband rule with a 270-day decision target announced."
+      },
+      {
+        "date": "2026-04-09",
+        "event": "CEQ issues new guidance on categorical exclusions."
+      },
+      {
+        "date": "2026-04-20",
+        "event": "Industry letter asks USDA to adopt broadband categorical exclusions under the new guidance."
+      }
+    ],
+    "closeness": "General White House guidance pushes faster reviews, in the direction of the recommendation. No 2025-2026 order or rule aimed at BLM or Forest Service broadband decisions was found, and the 270-day target predates this administration.",
+    "uncertain": "The CEQ guidance is confirmed by its Federal Register notice, but its full text was not read. A Federal Register search found no new Forest Service or BLM broadband exclusion through October 2026. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "Implementation of the National Environmental Policy Act Guidance (categorical exclusions, April 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07115/implementation-of-the-national-environmental-policy-act-guidance"
+      },
+      {
+        "label": "Letter to Agriculture Secretary Rollins on broadband categorical exclusions (April 20, 2026)",
+        "publisher": "USTelecom (industry group)",
+        "type": "advocacy",
+        "url": "https://ustelecom.org/wp-content/uploads/2026/04/2026.04.20-USTelecom-letter-to-Sec-Rollins-DOA.pdf"
+      },
+      {
+        "label": "Bureau of Land Management updates regulations for broadband infrastructure development on federal public lands",
+        "publisher": "National Association of Counties",
+        "type": "advocacy",
+        "url": "https://www.naco.org/news/bureau-land-management-updates-regulations-broadband-infrastructure-development-federal-public"
+      }
+    ],
+    "as_of": "2026-10-28"
+  }
+]

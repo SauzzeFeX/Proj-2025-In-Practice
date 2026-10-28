@@ -1,0 +1,96 @@
+[
+  {
+    "id": "ch20-001",
+    "case_against": "VA's final rule removed the exceptions that had allowed abortion for veterans when a pregnancy threatened their health or resulted from rape or incest. Now VA care and CHAMPVA cover it only when the patient's life is at risk. Commenters on the rule warned that this falls hardest on women veterans, who may carry a history of military sexual trauma and higher risks for some health conditions.",
+    "harms": [
+      {
+        "who": "Women veterans who were raped or face serious health risks",
+        "what": "Can no longer get an abortion through VA unless their life is in danger, and may have to travel or pay out of pocket."
+      },
+      {
+        "who": "Spouses and children covered by CHAMPVA",
+        "what": "Lost the same health and rape-or-incest exceptions."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Reproductive Health Services (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/31/2025-24061/reproductive-health-services"
+      },
+      {
+        "label": "Reproductive Health Services (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/04/2025-14687/reproductive-health-services"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch20-002",
+    "case_against": "VA already paid more than $36 billion to outside doctors and hospitals in fiscal 2025. Writing fixed access rules into law would likely send even more money outside VA's own hospitals, which VA reports earn high quality ratings, and make the shift hard to adjust. Critics argue this could slowly drain the VA's own hospitals and clinics.",
+    "harms": [
+      {
+        "who": "Veterans who rely on VA hospitals and clinics",
+        "what": "Could see VA facilities lose funding and staff as more money goes to outside care."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Could face higher costs with less control, since the rules would be set in law instead of adjusted by VA."
+      }
+    ],
+    "sources": [
+      {
+        "label": "VA Community Care contributed more than $36B to local economies in FY 2025",
+        "publisher": "U.S. Department of Veterans Affairs",
+        "type": "government",
+        "url": "https://news.va.gov/press-room/va-community-care-contributed-more-than-36b-to-local-economies-in-fy-2025/"
+      },
+      {
+        "label": "VA earns top scores in latest CMS hospital ratings report",
+        "publisher": "U.S. Department of Veterans Affairs",
+        "type": "government",
+        "url": "https://news.va.gov/press-room/va-earns-top-scores-in-latest-cms-hospital-ratings-report/"
+      },
+      {
+        "label": "Chairmen Bost, Moran introduce Take Care of America's Veterans Act",
+        "publisher": "House Committee on Veterans' Affairs",
+        "type": "government",
+        "url": "https://veterans.house.gov/news/documentsingle.aspx?DocumentID=7925"
+      }
+    ],
+    "recheck": "No independent cost estimate (CBO or GAO) for codifying access standards was found during this session; the drain-on-VA argument is attributed to critics.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch20-027",
+    "case_against": "Revising disability ratings to \"target significant cost savings\" means paying future disabled veterans less for the same injuries. When VA tried a rule in February 2026 that would have rated conditions as they are on medication, it pulled the rule back after ten days, saying many commenters feared it could hurt veterans. Cutting benefits to save money breaks the promise made to people injured in service.",
+    "harms": [
+      {
+        "who": "Veterans filing future disability claims",
+        "what": "Could receive lower monthly payments for the same conditions than veterans rated earlier."
+      },
+      {
+        "who": "Veterans whose symptoms are controlled by medicine",
+        "what": "Could be rated as less disabled even though they rely on treatment to function."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Evaluative Rating: Impact of Medication (interim final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/17/2026-03068/evaluative-rating-impact-of-medication"
+      },
+      {
+        "label": "Rescission of Interim Final Rule, Evaluative Rating: Impact of Medication",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/27/2026-03940/rescission-of-interim-final-rule-evaluative-rating-impact-of-medication"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

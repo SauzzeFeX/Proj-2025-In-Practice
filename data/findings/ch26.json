@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "ch26-001",
+    "status": "blocked",
+    "match": "partial",
+    "happened": "The U.S. Reciprocal Trade Act (H.R. 735) was introduced in January 2025 but has not passed. Instead, the President set \"reciprocal\" tariffs in April 2025 under a 1977 emergency-powers law (IEEPA). The Supreme Court ruled 6-3 on February 20, 2026 that IEEPA does not allow tariffs.",
+    "key_dates": [
+      {
+        "date": "2025-01-24",
+        "event": "U.S. Reciprocal Trade Act (H.R. 735) introduced."
+      },
+      {
+        "date": "2025-04",
+        "event": "Reciprocal tariffs imposed under IEEPA."
+      },
+      {
+        "date": "2026-02-20",
+        "event": "Supreme Court strikes down IEEPA tariffs (Learning Resources v. Trump)."
+      }
+    ],
+    "legal": "Supreme Court final ruling (Feb. 20, 2026): IEEPA does not authorize tariffs. Refunds of IEEPA tariffs are still being worked out.",
+    "closeness": "Same goal of matching other countries' tariffs, but done by the President under emergency law rather than a new act of Congress, and that route was struck down. Replacement tariffs use other laws (see ch26-004).",
+    "uncertain": "No 2026 movement on H.R. 735 was found. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "H.R. 735, United States Reciprocal Trade Act (bill text)",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/119/bills/hr735/BILLS-119hr735ih.pdf"
+      },
+      {
+        "label": "Supreme Court invalidates IEEPA tariffs",
+        "publisher": "Jones Day",
+        "type": "law-firm",
+        "url": "https://www.jonesday.com/en/insights/2026/02/united-states-supreme-court-invalidates-ieepa-tariffs"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No border adjustment tax was adopted or moved forward in Congress. In February 2026, after a Supreme Court ruling on tariffs, the chairman of the Joint Economic Committee, Rep. David Schweikert, called for a border-adjusted tax, and a hearing on the idea was planned.",
+    "closeness": "No matching action found. Tariffs, not a tax-code border adjustment, were used to tax imports.",
+    "uncertain": "Two searches (October 2026) found no 2025-2026 bill or reconciliation proposal with a border adjustment tax; the July 2025 law does not include one.",
+    "sources": [
+      {
+        "label": "JEC Chairman Schweikert on SCOTUS tariffs ruling, need for border adjustment tax",
+        "publisher": "Joint Economic Committee",
+        "type": "government",
+        "url": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/2/jec-chairman-schweikert-on-scotus-tariffs-ruling-need-for-border-adjustment-tax"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-003",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The administration raised tariffs on Chinese goods, limited U.S. investment in China (COINS Act, December 2025), and pushed to reduce reliance on Chinese supplies. It also reached trade truces with China, and Presidents Trump and Xi met in Beijing in May 2026, agreeing to keep talking. Trade with China continues.",
+    "key_dates": [
+      {
+        "date": "2025-04",
+        "event": "Tariffs on Chinese goods peak during escalation."
+      },
+      {
+        "date": "2025-12-18",
+        "event": "COINS Act limits U.S. outbound investment in China."
+      },
+      {
+        "date": "2026-05",
+        "event": "Trump-Xi summit in Beijing; deputy-level talks to resume."
+      }
+    ],
+    "closeness": "Several steps point toward separation, but the administration also negotiated with China, which the chapter called fruitless. Full economic and financial decoupling has not happened.",
+    "uncertain": "How the tariff truce stands after the Beijing summit and later meetings. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+        "publisher": "The Star (Kenya) / wire report",
+        "type": "news",
+        "url": "https://www.the-star.co.ke/news/world/2026-05-15-trump-and-xi-conclude-very-successful-talks-but-no-deals-confirmed"
+      },
+      {
+        "label": "COINS Act codifies and expands Treasury oversight of outbound investments",
+        "publisher": "Orrick",
+        "type": "law-firm",
+        "url": "https://www.orrick.com/en/Insights/2025/12/COINS-Act-Codifies-and-Expands-Treasury-Oversight-of-US-Outbound-Investments"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-004",
+    "status": "partly-blocked",
+    "match": "partial",
+    "happened": "In 2025 the President placed tariffs on all Chinese goods under IEEPA, rising as high as 145 percent in April before later deals lowered them. The Supreme Court struck down IEEPA tariffs on February 20, 2026. Older Section 301 tariffs on many Chinese goods remain, and since July 24, 2026 a new Section 301 duty adds 12.5 percent on Chinese goods.",
+    "key_dates": [
+      {
+        "date": "2025-04",
+        "event": "IEEPA tariffs on Chinese goods reach 145%."
+      },
+      {
+        "date": "2026-02-20",
+        "event": "Supreme Court rules IEEPA does not allow tariffs."
+      },
+      {
+        "date": "2026-07-24",
+        "event": "New Section 301 duty (12.5% for China) takes effect."
+      }
+    ],
+    "legal": "Supreme Court struck down IEEPA tariffs (Feb. 2026). The Court of International Trade ruled the interim Section 122 tariff unlawful (May 2026; stayed on appeal at the Federal Circuit). The new Section 301 duties are being challenged at the Court of International Trade; argument was set for September 30, 2026.",
+    "closeness": "Tariffs now reach essentially all Chinese goods, but at levels (one report cites an average near 47.5%) below the blocking levels the chapter sought. Some goods, such as certain medicines, have separate treatment.",
+    "uncertain": "Outcome of the Section 301 case and the Section 122 appeal, and current average rates. Sources disagree on some rates. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Life after IEEPA: the tariffs that replaced the tariffs",
+        "publisher": "Freeman Law",
+        "type": "law-firm",
+        "url": "https://freemanlaw.com/life-after-ieepa-the-tariffs-that-replaced-the-tariffs/"
+      },
+      {
+        "label": "Section 122 is out. Section 301 is in",
+        "publisher": "BorderBuddy",
+        "type": "news",
+        "url": "https://borderbuddy.com/trade-tariff-news/section-122-is-out-section-301-is-in"
+      },
+      {
+        "label": "Tariff litigation update",
+        "publisher": "TaxProf Blog",
+        "type": "academic",
+        "url": "https://taxprofblog.aals.org/2026/08/26/tariff-litigation-update/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-005",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The July 2025 reconciliation law made 100 percent bonus depreciation permanent and allowed an immediate full write-off for new factory buildings (\"qualified production property\"). It also restored immediate deduction of U.S.-based research costs. These apply to all companies investing in U.S. production, not only those leaving China.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law with expensing for factories signed."
+      }
+    ],
+    "closeness": "General tax incentives for U.S. manufacturing were enacted, but none found are tied to moving production out of China, as the chapter proposed.",
+    "uncertain": "Whether any targeted China-reshoring incentive exists elsewhere (for example in grants or loans) was not checked. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Tax changes in the enacted reconciliation bill",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-006",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "President Trump ended duty-free \"de minimis\" treatment for low-value packages from China in spring 2025, then for all countries by an executive order signed July 30, 2025. After the Supreme Court's February 2026 tariff ruling, a February 2026 order continued the suspension under other trade laws. In June 2026 Customs issued rules suspending the exemption indefinitely.",
+    "key_dates": [
+      {
+        "date": "2025-04-02",
+        "event": "Order ends de minimis for low-value goods from China (in effect May 2025)"
+      },
+      {
+        "date": "2025-07-30",
+        "event": "Executive Order 14324 suspends de minimis for all countries"
+      },
+      {
+        "date": "2026-02",
+        "event": "Order continues the suspension after the Supreme Court ruling"
+      },
+      {
+        "date": "2026-06-24",
+        "event": "Customs rules suspend the exemption indefinitely"
+      }
+    ],
+    "closeness": "Goes further than recommended: the exemption was ended for all countries, not just China. The free-trade section of the chapter did not support this.",
+    "uncertain": "Whether any court challenge to the continued suspension is pending was not checked. The July 2025 reconciliation law also repeals the exemption by statute starting in 2027, per summaries not reviewed here.",
+    "sources": [
+      {
+        "label": "Suspending Duty-Free De Minimis Treatment for All Countries",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/05/2025-14897/suspending-duty-free-de-minimis-treatment-for-all-countries"
+      },
+      {
+        "label": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/25/2026-03829/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries"
+      },
+      {
+        "label": "Indefinite Suspension of the De Minimis Exemption (all modes other than mail)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12670/indefinite-suspension-of-the-de-minimis-exemption-for-merchandise-arriving-through-all-modes-other"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-007",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "No new rule barring all Chinese state-owned companies from U.S. government contracts was found. Under a law passed in December 2023 (before January 20, 2025), the Defense Department may not sign, renew or extend contracts with companies on its list of \"Chinese military companies\" starting June 30, 2026. A 2019 law already bars federal transit money for rail cars and buses from Chinese state-owned makers.",
+    "key_dates": [
+      {
+        "date": "2023-12-22",
+        "event": "FY2024 defense law (section 805) bars Defense Department contracts with listed Chinese military companies (before January 20, 2025)"
+      },
+      {
+        "date": "2026-06-30",
+        "event": "That contracting ban takes effect"
+      }
+    ],
+    "closeness": "Narrower and older: the ban covers only Defense Department contracts and only listed Chinese military companies, and it was passed before January 20, 2025. No government-wide bar on Chinese state-owned bidders was found.",
+    "uncertain": "Searched the Federal Register, the FY2026 defense law and the web; no new 2025-2026 government-wide ban was found. Final Defense Department rules for the ban were still pending per the newest source.",
+    "sources": [
+      {
+        "label": "Navigating the 1260H list: evolving obligations for government contractors",
+        "publisher": "Crowell & Moring",
+        "type": "law-firm",
+        "url": "https://www.crowell.com/en/insights/webinars/navigating-the-1260h-list-evolving-obligations-for-government-contractors"
+      },
+      {
+        "label": "Congress finalizes legislation to cut off funding to China's bus and rail car companies",
+        "publisher": "Alliance for American Manufacturing",
+        "type": "advocacy",
+        "url": "https://www.americanmanufacturing.org/press-release/congress-finalizes-legislation-to-cut-off-funding-to-chinas-bus-and-rail-car-companies/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-008",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On December 22, 2025, the FCC added all drones and drone parts made in foreign countries to its Covered List, after a national security finding by an interagency group. This blocks new FCC equipment approvals for them. In August 2026 the FCC sought comment on also banning further imports and sales of some military-grade foreign drones.",
+    "key_dates": [
+      {
+        "date": "2025-12-22",
+        "event": "FCC adds foreign-made drones to the Covered List"
+      },
+      {
+        "date": "2026-08-03",
+        "event": "FCC seeks comment on banning import and sale of certain foreign drones"
+      }
+    ],
+    "closeness": "Broader than China alone, but narrower in effect: it blocks new models from approval rather than banning all use of Chinese drones in U.S. airspace.",
+    "uncertain": "How the rule applies to drones already in use, and any court challenges, were not checked.",
+    "sources": [
+      {
+        "label": "Seeking Comment on Prohibiting the Importation and Marketing of Certain Foreign-Produced Military-Grade UAS",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15659/seeking-comment-on-prohibiting-the-importation-and-marketing-of-certain-foreign-produced"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-009",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "A 2024 law required TikTok to be sold or banned. The administration delayed enforcement in 2025, then approved a deal. On January 22, 2026, a new U.S. joint venture closed, with Oracle, Silver Lake and MGX as main investors and ByteDance keeping 19.9 percent. No ban on WeChat or other Chinese apps was found.",
+    "key_dates": [
+      {
+        "date": "2025-01",
+        "event": "Administration delays enforcement of the TikTok law."
+      },
+      {
+        "date": "2026-01-22",
+        "event": "TikTok U.S. joint venture deal closes."
+      }
+    ],
+    "closeness": "TikTok was restructured under U.S. control instead of banned, and other Chinese social media apps were not banned. The chapter called for banning all of them.",
+    "uncertain": "How much control ByteDance keeps over the algorithm and operations is disputed. Sources are secondary. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "TikTok and Oracle U.S. joint venture deal",
+        "publisher": "Fintool",
+        "type": "news",
+        "url": "https://fintool.com/news/tiktok-oracle-us-joint-venture-deal"
+      },
+      {
+        "label": "TikTok U.S. spinoff with Oracle closes",
+        "publisher": "Fintool",
+        "type": "news",
+        "url": "https://fintool.com/news/tiktok-us-spinoff-oracle-china"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-010",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On February 21, 2025, the White House issued the America First Investment Policy, which directs agencies to use all legal tools, including CFIUS, to restrict Chinese investment in U.S. technology and other key sectors. The President then blocked two Chinese acquisitions: Suirui's purchase of Jupiter Systems (2025) and HieFo's purchase of EMCORE assets (January 2026). The fiscal 2026 defense law also wrote limits on U.S. investment into China into law.",
+    "key_dates": [
+      {
+        "date": "2025-02-21",
+        "event": "America First Investment Policy memo issued."
+      },
+      {
+        "date": "2025-07",
+        "event": "President blocks Suirui's acquisition of Jupiter Systems."
+      },
+      {
+        "date": "2025-12-18",
+        "event": "FY2026 defense law includes the COINS Act on outbound investment."
+      },
+      {
+        "date": "2026-01-02",
+        "event": "President orders HieFo to unwind its purchase of EMCORE assets."
+      }
+    ],
+    "closeness": "Tighter restrictions, not a full ban. Chinese investment still goes through case-by-case CFIUS review, and wider authority (such as over new facilities) would need Congress (see ch22-048).",
+    "uncertain": "Treasury proposed a \"Known Investor Program\" to speed reviews for frequent filers; its final form was not confirmed. Newest source: August 2026 (CRS).",
+    "sources": [
+      {
+        "label": "Committee on Foreign Investment in the United States (CFIUS) (IF10177, August 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-08-28_IF10177_469e0569db571f368e49c35573c3714c0a4b9aae.html"
+      },
+      {
+        "label": "Statement on the President's decision prohibiting the acquisition by Suirui Group of Jupiter Systems",
+        "publisher": "U.S. Department of the Treasury",
+        "type": "government",
+        "url": "https://content.govdelivery.com/accounts/USTREAS/bulletins/3e92008"
+      },
+      {
+        "label": "America First Investment Policy aims to reshape CFIUS and 'reverse CFIUS'",
+        "publisher": "Skadden",
+        "type": "law-firm",
+        "url": "https://www.skadden.com/insights/publications/2025/02/america-first-investment-policy-aims-to-reshape-cfius"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-011",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The February 21, 2025 America First Investment Policy memo said the administration would consider limits on investments in China from pension funds and university endowments, and would seek to make foreign adversary companies ineligible for pension plan contributions. In March 2025 Sen. Jim Banks introduced the Protecting Americans' Retirement Savings Act to bar private retirement plans and the federal Thrift Savings Plan from certain Chinese investments.",
+    "key_dates": [
+      {
+        "date": "2025-02-21",
+        "event": "America First Investment Policy memo issued"
+      },
+      {
+        "date": "2025-03-11",
+        "event": "Protecting Americans' Retirement Savings Act introduced in the Senate"
+      }
+    ],
+    "closeness": "The memo and the bill point toward the recommendation, but no rule or law barring pension funds from Chinese stocks has been adopted.",
+    "uncertain": "No Labor Department rule on this was found. The bill had not passed either chamber as of the newest source, and it is not among laws enacted through October 2026. Several states have their own bills.",
+    "sources": [
+      {
+        "label": "America First Investment Policy",
+        "publisher": "White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/02/america-first-investment-policy/"
+      },
+      {
+        "label": "Sen. Jim Banks introduces bill to ban pension investments in adversarial countries",
+        "publisher": "Office of Sen. Jim Banks",
+        "type": "government",
+        "url": "https://www.banks.senate.gov/news/press-releases/sen-jim-banks-introduces-bill-to-ban-pension-investments-in-adversarial-countries/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-012",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The February 2025 America First Investment Policy memo called for reviewing whether companies covered by the Holding Foreign Companies Accountable Act meet auditing standards, and for reviewing structures Chinese firms use to list in the U.S. In 2025 Nasdaq proposed tougher listing rules for companies mainly operating in China, and the SEC opened proceedings on it in December 2025.",
+    "key_dates": [
+      {
+        "date": "2025-02-21",
+        "event": "America First Investment Policy memo issued"
+      },
+      {
+        "date": "2025-12-23",
+        "event": "SEC opens proceedings on Nasdaq's China listing proposal"
+      }
+    ],
+    "closeness": "These steps move toward stricter treatment of Chinese listings. No mass delisting or closing of China's A-share market to U.S. investors was found.",
+    "uncertain": "Whether the SEC approved the Nasdaq proposal was not confirmed.",
+    "sources": [
+      {
+        "label": "America First Investment Policy",
+        "publisher": "White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/02/america-first-investment-policy/"
+      },
+      {
+        "label": "Nasdaq: Order Instituting Proceedings on Listing Criteria for Companies Primarily Operating in China",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23660/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-013",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No rule barring the use of Hong Kong clearinghouses for U.S. investment in mainland China was found. A February 2025 presidential memo, the America First Investment Policy, said the administration would consider new limits on U.S. investment in China, including in publicly traded securities. In October 2026 Treasury proposed outbound investment rules that treat China, including Hong Kong and Macau, as a country of concern for certain technology investments.",
+    "key_dates": [
+      {
+        "date": "2025-02-21",
+        "event": "America First Investment Policy memo issued"
+      },
+      {
+        "date": "2026-10-26",
+        "event": "Treasury proposes Outbound Investment Security Program rules under the COINS Act"
+      }
+    ],
+    "closeness": "The memo and proposed rules point in the same general direction, but they target investments in specific technology sectors and do not address Hong Kong clearinghouses as a channel for U.S. money.",
+    "uncertain": "Searched Federal Register documents from Treasury's Office of Investment Security and the SEC; found no clearinghouse restriction. The outbound rule is only proposed. Newest source: October 26, 2026.",
+    "sources": [
+      {
+        "label": "America First Investment Policy (presidential memorandum)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/02/america-first-investment-policy/"
+      },
+      {
+        "label": "Outbound Investment Security Program Regulations (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-014",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No rule keeping Chinese government bonds out of U.S. investors' portfolios was found. The February 2025 America First Investment Policy memo said the administration would consider limits on investments in Chinese companies by pension funds and endowments, but it does not mention government bonds.",
+    "key_dates": [
+      {
+        "date": "2025-02-21",
+        "event": "America First Investment Policy memo issued"
+      }
+    ],
+    "closeness": "The memo shares the broad goal of limiting U.S. money flowing to China but does not cover sovereign bonds. The October 2026 proposed outbound investment rules cover certain technology-sector deals, not Chinese government debt (see ch26-013).",
+    "uncertain": "Searched Federal Register documents from Treasury's Office of Investment Security and the SEC; the memo text contains no provision on bonds. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "America First Investment Policy (presidential memorandum)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/02/america-first-investment-policy/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-015",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In July 2025 the Defense Department took a 15 percent stake in rare earth producer MP Materials and set a 10-year price floor for its product. The administration also used Section 232 national security reviews: tariffs of 25 percent on semiconductors began in January 2026, pharmaceutical tariffs began phasing in from July 2026, and a January 2026 critical minerals order directed negotiations.",
+    "key_dates": [
+      {
+        "date": "2025-07-10",
+        "event": "Pentagon announces equity stake and price floor deal with MP Materials."
+      },
+      {
+        "date": "2026-01-14",
+        "event": "Section 232 actions on semiconductors and critical minerals."
+      },
+      {
+        "date": "2026-04-02",
+        "event": "Section 232 order on patented pharmaceuticals."
+      }
+    ],
+    "closeness": "Several steps target the same goods named in the chapter (rare earths, chips, medicines). Most apply to all foreign sources, not only China, and full independence from Chinese supply has not been reached.",
+    "uncertain": "Actual change in U.S. reliance on Chinese supplies is not measured here. Tariff rates differ across sources. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "Current and forthcoming Section 232 actions by the Trump administration",
+        "publisher": "Covington",
+        "type": "law-firm",
+        "url": "https://www.cov.com/en/news-and-insights/insights/2026/04/current-and-forthcoming-section-232-actions-by-the-trump-administration"
+      },
+      {
+        "label": "From chips to minerals: new Section 232 tariff actions",
+        "publisher": "Troutman Pepper",
+        "type": "law-firm",
+        "url": "https://www.troutman.com/insights/from-chips-to-minerals-new-section-232-tariff-actions-target-semiconductors-and-critical-minerals/"
+      },
+      {
+        "label": "Pentagon takes 15% stake in MP Materials",
+        "publisher": "Malay Mail (Reuters)",
+        "type": "news",
+        "url": "https://malaymail.com/news/money/2025/07/11/pentagon-takes-15pc-stake-in-mp-materials-becoming-top-shareholder-to-boost-us-rare-earth-output/183554"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-016",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No sanctions on companies for helping China's internet censorship system were found.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked a Federal Register search and a web search. No 2025-2026 U.S. sanctions on firms for helping China's censorship system were found, including on Geedge Networks, named in a September 2025 document leak. Earlier sanctions on a Chinese firm (CEIEC, 2020) were tied to Venezuela.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-017",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No DHS or Justice Department contracts with AI companies to detect Chinese Communist Party influence operations on social media were found.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked a Federal Register search and a web search. 2025-2026 DHS social media contracts found were for immigration enforcement, not foreign influence detection. Contract databases (USASpending) were not searched.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-018",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "No expanded DHS crackdown on online counterfeit sellers was confirmed. However, ending duty-free de minimis treatment (see ch26-006) means low-value packages from online sellers now go through formal customs entry and duties.",
+    "closeness": "Ending de minimis affects the same online shipments, but it is a tariff and customs change, not a counterfeit enforcement campaign.",
+    "uncertain": "A web search found no 2025-2026 DHS or CBP campaign aimed at online platforms selling counterfeits; results described routine seizures and 2019-2020 efforts. Newest relevant source is June 2026.",
+    "sources": [
+      {
+        "label": "Indefinite Suspension of the De Minimis Exemption for Mail Shipments",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12669/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-019",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In August 2025 the Defense Department finalized a rule carrying out laws that limit its funding for colleges that host a Confucius Institute. No order forcing all Confucius Institutes to close was found.",
+    "key_dates": [
+      {
+        "date": "2025-08-25",
+        "event": "Defense contracting rule on colleges hosting Confucius Institutes"
+      }
+    ],
+    "closeness": "The rule adds pressure on colleges to close the institutes but does not force closure.",
+    "uncertain": "How many institutes remain open was not checked.",
+    "sources": [
+      {
+        "label": "DFARS: Limitation on Certain Institutes of Higher Education",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/25/2025-16207/defense-federal-acquisition-regulation-supplement-limitation-on-certain-institutes-of-higher"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-020",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On May 28, 2025, Secretary of State Marco Rubio said the U.S. would \"aggressively revoke\" visas of Chinese students with Communist Party ties or in critical fields, and increase screening of new applicants from China. In August 2025 President Trump said he would allow 600,000 Chinese students to study in the U.S.",
+    "key_dates": [
+      {
+        "date": "2025-05-28",
+        "event": "State Department announces revocations and tighter screening."
+      },
+      {
+        "date": "2025-08",
+        "event": "Trump says 600,000 Chinese students would be allowed."
+      }
+    ],
+    "closeness": "Targeted revocations and screening are a smaller step than greatly reducing or ending visas, and later presidential statements pointed the other way.",
+    "uncertain": "How many visas were actually revoked, and current Chinese student numbers, were not found. No 2026 reporting found. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "Secretary Rubio pledges to aggressively revoke visas from Chinese students",
+        "publisher": "WSHU (NPR)",
+        "type": "news",
+        "url": "https://www.wshu.org/2025-05-29/secretary-rubio-pledges-to-aggressively-revoke-visas-from-chinese-students"
+      },
+      {
+        "label": "Trump saying 600,000 Chinese students could come to the US draws backlash",
+        "publisher": "MyNorthwest (AP)",
+        "type": "news",
+        "url": "https://mynorthwest.com/national/trump-saying-600000-chinese-students-could-come-to-the-us-draws-maga-backlash/4124594"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-021",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No presidential commission or select congressional committee on COVID-19 origins and damages from China was created. In April 2025 the White House replaced its COVID.gov site with a page saying the virus most likely came from a lab leak, drawing on a House subcommittee report finished in December 2024, before January 20, 2025.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked a Federal Register search and a web search. No federal effort to collect damages from China was found.",
+    "sources": [
+      {
+        "label": "'Lab Leak,' a flashy page on the virus' origins, replaces government COVID sites",
+        "publisher": "NPR (via Michigan Public)",
+        "type": "news",
+        "url": "https://www.michiganpublic.org/2025-04-18/lab-leak-a-flashy-page-on-the-virus-origins-replaces-government-covid-sites"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-022",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "President Trump chose Jamieson Greer, a trade lawyer who had served as chief of staff to the trade representative in the first Trump administration, as U.S. Trade Representative. The Senate confirmed him 56-43 on February 26, 2025, and he has led tariff and trade talks since.",
+    "key_dates": [
+      {
+        "date": "2025-02-26",
+        "event": "Senate confirms Jamieson Greer as U.S. Trade Representative, 56-43"
+      }
+    ],
+    "closeness": "Close match to the fair-trade section's call. The free-trade section of the chapter disagrees with the overall approach.",
+    "uncertain": "Whether he meets the chapter's description is a judgment, not a fact; this finding records only the appointment.",
+    "sources": [
+      {
+        "label": "U.S. Senate confirms Jamieson Greer as United States Trade Representative",
+        "publisher": "Office of the U.S. Trade Representative",
+        "type": "government",
+        "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2025/february/us-senate-confirms-jamieson-greer-united-states-trade-representative"
+      },
+      {
+        "label": "WTO cannot address trade imbalances but US not ready to exit, Greer says",
+        "publisher": "American Journal of Transportation",
+        "type": "news",
+        "url": "https://www.ajot.com/news/wto-cannot-address-trade-imbalances-but-us-not-ready-to-exit-greer-says"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-024",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Trade policy did not drop non-trade issues. In July 2026 the U.S. announced Section 301 tariffs on goods from economies that fail to ban or enforce bans on imports made with forced labor, and some 2025 reciprocal trade agreements included forced labor commitments.",
+    "closeness": "The action ran opposite to this free-trade recommendation by tying tariffs to a labor issue. The fair-trade section of the chapter takes a different view.",
+    "uncertain": "The text of individual trade agreements was not reviewed for environment or other non-trade terms.",
+    "sources": [
+      {
+        "label": "Section 301 actions on forced labor import prohibitions in 60 economies",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15274/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-025",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Section 232, 201 and 301 tariffs were not removed. The administration expanded them. Section 232 tariffs now cover steel, aluminum, copper (up to 50 percent), semiconductors and other goods, and a new Section 301 duty replaced the expired Section 122 tariff on July 24, 2026.",
+    "key_dates": [
+      {
+        "date": "2026-04-06",
+        "event": "Revised Section 232 metals tariffs (10-50%) take effect."
+      },
+      {
+        "date": "2026-07-24",
+        "event": "New Section 301 duties take effect."
+      }
+    ],
+    "closeness": "The action ran opposite to the recommendation: these tariff laws became the main tools after the Supreme Court ended IEEPA tariffs.",
+    "uncertain": "Section 201 actions were not checked separately. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Current and forthcoming Section 232 actions by the Trump administration",
+        "publisher": "Covington",
+        "type": "law-firm",
+        "url": "https://www.cov.com/en/news-and-insights/insights/2026/04/current-and-forthcoming-section-232-actions-by-the-trump-administration"
+      },
+      {
+        "label": "Section 122 is out. Section 301 is in",
+        "publisher": "BorderBuddy",
+        "type": "news",
+        "url": "https://borderbuddy.com/trade-tariff-news/section-122-is-out-section-301-is-in"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-026",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not repealed Sections 232, 201 or 301. These laws remain in place and are being used more widely than before.",
+    "closeness": "The action ran opposite to the recommendation: reliance on these laws grew (see ch26-025).",
+    "uncertain": "Two searches (October 2026) found bills to require congressional approval of tariffs, such as the Trade Review Act of 2025 and a 2025 House bill on Section 232, but none passed, and none would repeal the laws outright. The project's copy of all 2025-2026 laws shows no repeal.",
+    "sources": [
+      {
+        "label": "Grassley, Cantwell introduce bill to restore Congress' constitutional role in trade",
+        "publisher": "Office of Sen. Chuck Grassley",
+        "type": "government",
+        "url": "https://www.grassley.senate.gov/news/news-releases/grassley-cantwell-introduce-bill-to-restore-congress-constitutional-role-in-trade"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-028",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No permanent loosening of tariffs or labeling rules on imports such as baby formula was found. FDA's \"Operation Stork Speed,\" begun in March 2025, reviews formula nutrients and testing and keeps a 2022 policy letting people import formula for personal use. Tariffs on most imports were raised in 2025 and 2026 (see ch26-025).",
+    "closeness": "Trade policy moved the other way, toward higher import barriers. The fair-trade section of the chapter supports that direction.",
+    "uncertain": "Searched the Federal Register and the web for formula import or tariff relief; none was found beyond the existing personal-import policy.",
+    "sources": [
+      {
+        "label": "Operation Stork Speed",
+        "publisher": "U.S. Food and Drug Administration",
+        "type": "government",
+        "url": "https://fda.gov/food/infant-formula-homepage/operation-stork-speed"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-029",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "In an August 21, 2025 joint statement on trade, the U.S. and the European Union said they intend to expand mutual recognition of car standards and of product testing (conformity assessment) in more industries. The statement is not legally binding.",
+    "key_dates": [
+      {
+        "date": "2025-08-21",
+        "event": "U.S.-EU joint statement on a trade framework."
+      }
+    ],
+    "closeness": "Similar idea for cars and some industrial goods with the EU, tied to a tariff deal. Nothing found on medicines or baby formula, or with the U.K. or Japan.",
+    "uncertain": "Whether any mutual recognition agreement was finalized after the 2025 statement. Newest source: September 2025.",
+    "sources": [
+      {
+        "label": "EU and US publish joint statement on framework for trade negotiations",
+        "publisher": "Squire Patton Boggs",
+        "type": "law-firm",
+        "url": "https://www.squirepattonboggs.com/en/insights/publications/2025/08/eu-and-us-publish-joint-statement-on-framework-for-trade-negotiations"
+      },
+      {
+        "label": "Trade explainer: August 2025 US-EU joint statement",
+        "publisher": "German Marshall Fund",
+        "type": "academic",
+        "url": "https://www.gmfus.org/news/trade-explainer-august-2025-us-eu-joint-statement-trade"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-030",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Export-Import Bank was not closed. It kept operating through October 2026, taking applications for loans and guarantees over $100 million. Its charter runs to December 31, 2026, and a Senate bill introduced in February 2026 (S. 3772) would renew it for 10 years. Same facts as ch23-001.",
+    "closeness": "The action ran opposite to this recommendation: the Bank kept operating.",
+    "uncertain": "The renewal bill was in committee as of the newest source; no renewal law was found through October 2026. Whether the charter lapses at the end of 2026 is not yet known.",
+    "sources": [
+      {
+        "label": "Application for Final Commitment for a Long-Term Loan or Financial Guarantee in Excess of $100 Million: AP300185XX",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20933/application-for-final-commitment-for-a-long-term-loan-or-financial-guarantee-in-excess-of-100"
+      },
+      {
+        "label": "Warner, Cramer introduce legislation reauthorizing EXIM for 10 years (February 5, 2026)",
+        "publisher": "Office of Sen. Mark Warner",
+        "type": "government",
+        "url": "https://www.warner.senate.gov/public/index.cfm/2026/2/warner-cramer-introduce-legislation-reauthorizing-exim-for-10-years"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-031",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Jones Act has not been repealed. No repeal appears among laws enacted in the 119th Congress through October 2026.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked the list of enacted laws and the Federal Register. Temporary Jones Act waivers were not checked.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-032",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Trade Promotion Authority, which expired in 2021, has not been renewed. No renewal appears among laws enacted through October 2026. The administration has made trade deals as executive agreements instead.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked the 119th Congress laws through October 2026 and ran a web search for a 2025-2026 renewal bill; none was found.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-033",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The WTO's appeals body has not been restored. The U.S. stayed in the WTO and paid overdue dues in late 2025, but in March 2026 trade representative Greer said the WTO will play only a limited role.",
+    "closeness": "No move to restore the appeals process was found.",
+    "uncertain": "No report of U.S. agreement to new Appellate Body appointments was found in the sources reviewed.",
+    "sources": [
+      {
+        "label": "WTO cannot address trade imbalances but US not ready to exit, Greer says",
+        "publisher": "American Journal of Transportation",
+        "type": "news",
+        "url": "https://www.ajot.com/news/wto-cannot-address-trade-imbalances-but-us-not-ready-to-exit-greer-says"
+      },
+      {
+        "label": "US has finally paid its WTO fees: now what?",
+        "publisher": "Lowy Institute",
+        "type": "academic",
+        "url": "https://www.lowyinstitute.org/the-interpreter/us-has-finally-paid-its-wto-fees-now-what"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-034",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No WTO successor group was created. The U.S. stayed in the WTO and paid overdue dues in late 2025. In March 2026 trade representative Jamieson Greer said the WTO will play only a limited role but the U.S. is not ready to leave, and that the U.S. may seek deals with like-minded countries.",
+    "closeness": "The administration criticized the WTO and proposed reforms, but did not build a free-trade alliance of democracies. Its trade deals have centered on tariffs rather than free trade.",
+    "uncertain": "Whether plurilateral talks with like-minded countries started after March 2026. Newest source: March 2026.",
+    "sources": [
+      {
+        "label": "WTO cannot address trade imbalances but US not ready to exit, Greer says",
+        "publisher": "AJOT (Reuters)",
+        "type": "news",
+        "url": "https://www.ajot.com/news/wto-cannot-address-trade-imbalances-but-us-not-ready-to-exit-greer-says"
+      },
+      {
+        "label": "US has finally paid its WTO fees. Now what?",
+        "publisher": "Lowy Institute",
+        "type": "academic",
+        "url": "https://www.lowyinstitute.org/the-interpreter/us-has-finally-paid-its-wto-fees-now-what"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-035",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The U.S. has not moved to rejoin the Trans-Pacific Partnership or its successor, the CPTPP.",
+    "closeness": "No matching action found. The administration's trade policy has relied on tariffs and separate deals with individual countries.",
+    "uncertain": "Two searches found only 2017-2020 discussion of rejoining and nothing from 2025-2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-036",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change to the Indo-Pacific Economic Framework was found. The administration has focused on country-by-country tariff deals in Asia.",
+    "closeness": "No matching action found.",
+    "uncertain": "A Federal Register search found no IPEF documents since January 2025, and two web searches found no 2025-2026 U.S. statement on IPEF. Whether the U.S. has formally left or paused IPEF is not known.",
+    "sources": [],
+    "as_of": "2026-10-28",
+    "recheck": "Still unknown whether the U.S. remains in, paused or left IPEF; needs a USTR or Commerce statement or news report from 2025-2026."
+  },
+  {
+    "id": "ch26-037",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Rubio met Quad partners (Australia, India, Japan) on his first day in January 2025, and Quad ministers again voiced concern in May 2026 about actions in the South and East China Seas. In May 2025 Rubio said the U.S. would revoke visas of some Chinese students; in August 2025 President Trump said he would allow 600,000 Chinese students. Presidents Trump and Xi met in Beijing in May 2026. See also ch26-020.",
+    "key_dates": [
+      {
+        "date": "2025-01-21",
+        "event": "Quad foreign ministers meet in Washington"
+      },
+      {
+        "date": "2025-05-28",
+        "event": "Rubio announces revoking some Chinese student visas"
+      },
+      {
+        "date": "2026-05",
+        "event": "Quad foreign ministers meet in New Delhi"
+      }
+    ],
+    "closeness": "Mixed: Quad statements are joint pressure without naming China, the welcome to Chinese students fits the people-to-people part, and visa revocations go the other way. Many allies also faced new U.S. tariffs.",
+    "uncertain": "Exchange program funding changes were not reviewed. Newest source is May 2026.",
+    "sources": [
+      {
+        "label": "With China in focus, Rubio hosts Quad meetings on first day as US secretary of state",
+        "publisher": "South China Morning Post",
+        "type": "news",
+        "url": "https://www.scmp.com/news/china/article/3295713/marco-rubio-holds-talks-quad-leaders-first-day-us-secretary-state"
+      },
+      {
+        "label": "Rubio revives 'Quad' alliance in India, but staying power unclear",
+        "publisher": "AFP (via Cambodianess)",
+        "type": "news",
+        "url": "https://cambodianess.com/article/rubio-revives-quad-alliance-in-india-but-staying-power-unclear"
+      },
+      {
+        "label": "Secretary Rubio pledges to aggressively revoke visas from Chinese students",
+        "publisher": "WSHU (NPR)",
+        "type": "news",
+        "url": "https://www.wshu.org/2025-05-29/secretary-rubio-pledges-to-aggressively-revoke-visas-from-chinese-students"
+      },
+      {
+        "label": "Trump saying 600,000 Chinese students could come to the US draws backlash",
+        "publisher": "MyNorthwest",
+        "type": "news",
+        "url": "https://mynorthwest.com/national/trump-saying-600000-chinese-students-could-come-to-the-us-draws-maga-backlash/4124594"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-038",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In April 2025, President Trump ordered energy-related agencies to add automatic expiration (sunset) dates to many of their regulations. In July 2026, the ROAD to Housing Act (P.L. 119-101) directed HUD to publish guidelines and best practices for state and local zoning to support more housing.",
+    "key_dates": [
+      {
+        "date": "2025-04-15",
+        "event": "Executive order on zero-based regulatory budgeting (sunset dates for energy regulations) published"
+      },
+      {
+        "date": "2026-07-11",
+        "event": "ROAD to Housing Act signed, including zoning guidelines provision"
+      }
+    ],
+    "closeness": "Both actions match parts of the chapter's list (rule sunsets, zoning), but neither was framed as helping workers adjust to trade, and the sunset order covers only energy rules. No occupational licensing action was found.",
+    "uncertain": "Occupational licensing actions were searched only in presidential documents. Whether agencies issued the required sunset rules was not checked. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Zero-Based Regulatory Budgeting To Unleash American Energy",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06466/zero-based-regulatory-budgeting-to-unleash-american-energy"
+      },
+      {
+        "label": "Public Law 119-101, 21st Century ROAD to Housing Act, Sec. 107",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ101/html/PLAW-119publ101.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-039",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No Regulatory Reduction Commission was created. Instead, a February 2025 executive order told agencies themselves to identify regulations to repeal (see ch25-013).",
+    "closeness": "The goal of cutting rules is shared, but the mechanism is different: agency reviews, not a commission sending repeal packages to Congress.",
+    "uncertain": "A web search found no 2025-2026 bill creating such a commission. A 2025 House bill (H.R. 377) would instead make agencies repeal rules before issuing new ones. Not among laws enacted through October 2026.",
+    "sources": [
+      {
+        "label": "Ensuring Lawful Governance and Implementing the President's DOGE Deregulatory Initiative",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/25/2025-03138/ensuring-lawful-governance-and-implementing-the-presidents-department-of-government-efficiency"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-041",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "On September 23, 2025, China announced it would no longer seek special and differential treatment in future WTO agreements. In March 2026, before the WTO ministerial meeting in Cameroon, the U.S. Trade Representative released a report questioning China's pledge and repeating a U.S. proposal that members in the G20, the OECD, high-income countries and large traders (which would include China) not get special treatment. WTO members were still discussing reform in October 2026.",
+    "key_dates": [
+      {
+        "date": "2025-09-23",
+        "event": "China announces it will not seek special and differential treatment in future WTO agreements"
+      },
+      {
+        "date": "2026-03-24",
+        "event": "USTR report presses WTO reform of developing-country treatment"
+      },
+      {
+        "date": "2026-10-23",
+        "event": "WTO members continue reform talks"
+      }
+    ],
+    "closeness": "The U.S. is pushing rules that would deny China special treatment at the WTO, but they have not been adopted, and they work through eligibility criteria rather than formally ending China's developing-country label. Other international groups were not covered.",
+    "uncertain": "The USTR report itself was not reviewed; details come from a news report. The outcome of the WTO talks is not known as of October 2026.",
+    "sources": [
+      {
+        "label": "US says S. Korea, 3 other WTO members keep developing country status despite pledge to forgo special treatment (March 24, 2026)",
+        "publisher": "Korea Times",
+        "type": "news",
+        "url": "https://www.koreatimes.co.kr/amp/foreignaffairs/20260324/us-says-s-korea-3-other-wto-members-keep-developing-country-status-despite-pledge-to-forgo-special-treatment"
+      },
+      {
+        "label": "Statement by DG Okonjo-Iweala on China's announcement",
+        "publisher": "World Trade Organization",
+        "type": "government",
+        "url": "https://www.wto.org/english/news_e/news25_e/dgno_24sep25_e.htm"
+      },
+      {
+        "label": "Members intensify discussions on WTO reform based on substantive proposals",
+        "publisher": "World Trade Organization",
+        "type": "government",
+        "url": "https://www.wto.org/english/news_e/news26_e/refrm_23oct26_524_e.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-042",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The administration used broad tariffs on all Chinese goods in 2025 and 2026 (see ch26-004). It also targeted specific firms: in September 2025 the Commerce Department widened export limits to affiliates of listed companies, but suspended that rule for one year in November 2025.",
+    "closeness": "The action ran opposite to this free-trade recommendation, which favored firm-specific steps instead of blanket tariffs. Firm-specific export controls were used as well, not in place of tariffs.",
+    "uncertain": "Tariff levels on China have changed often; see ch26-004 for the latest.",
+    "sources": [
+      {
+        "label": "Expansion of End-User Controls To Cover Affiliates of Certain Listed Entities",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/30/2025-19001/expansion-of-end-user-controls-to-cover-affiliates-of-certain-listed-entities"
+      },
+      {
+        "label": "One Year Suspension of Expansion of End-User Controls for Affiliates",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/11/12/2025-19846/one-year-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed-entities"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-023",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The Senate confirmed William Kimmitt as Under Secretary of Commerce for International Trade on July 29, 2025, after a 14-13 party-line committee vote. He was sworn in by Commerce Secretary Howard Lutnick on August 7, 2025. Kimmitt had served as counselor to the U.S. Trade Representative in the first Trump administration.",
+    "key_dates": [
+      {
+        "date": "2025-04-29",
+        "event": "Senate Finance Committee advances the nomination 14-13."
+      },
+      {
+        "date": "2025-07-29",
+        "event": "Senate confirms Kimmitt."
+      },
+      {
+        "date": "2025-08-07",
+        "event": "Kimmitt sworn in."
+      }
+    ],
+    "closeness": "The President filled the trade Under Secretary post with his own nominee, as the recommendation describes. This finding does not judge whether the National Security Adviser and economic advisers back every part of the trade agenda.",
+    "uncertain": "Officials' positions on tariffs and trade cases were not reviewed one by one. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "William Kimmitt Sworn In as Under Secretary of Commerce for International Trade",
+        "publisher": "International Trade Administration",
+        "type": "government",
+        "url": "https://www.trade.gov/press-release/william-kimmitt-sworn-under-secretary-commerce-international-trade"
+      },
+      {
+        "label": "Results of open executive session to consider William Kimmitt and Kenneth Kies",
+        "publisher": "Senate Finance Committee",
+        "type": "government",
+        "url": "https://www.finance.senate.gov/download/results-of-open-executive-session-to-consider-william-kimmit-and-kenneth-kies&download=1"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-027",
+    "status": "in-effect",
+    "match": "broader",
+    "happened": "Trade Adjustment Assistance for workers has been closed to new groups of workers since July 1, 2022, when a phaseout under a 2015 law began, before January 20, 2025. Through October 2026 Congress did not reauthorize or expand it. The fiscal 2026 appropriations law, signed February 3, 2026, kept paying benefits to workers already in the program.",
+    "key_dates": [
+      {
+        "date": "2022-07-01",
+        "event": "Phaseout begins; new worker groups can no longer qualify."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 law funds benefits for workers already enrolled."
+      }
+    ],
+    "closeness": "The program was not expanded, as this side of the chapter urged, but that is because a phaseout that began in 2022, before this administration, continued; no new decision was made. The fallback idea of paying any expansion as direct cash did not come up. Bills to reauthorize the program, such as S. 1449, did not become law.",
+    "uncertain": "Checked the local copy of all 119th Congress laws and a December 2025 CRS report. The administration's own stated position on the program was not found. 'In effect' here means the program stayed closed, not that a new step was taken.",
+    "sources": [
+      {
+        "label": "Trade Adjustment Assistance for Firms (IF12430, Dec. 2025)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12430.html"
+      },
+      {
+        "label": "Public Law 119-75 (Consolidated Appropriations Act, 2026)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch26-040",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On March 17, 2026, the Department of Homeland Security issued a 60-day Jones Act waiver at the Defense Department's request during the Iran conflict. It let foreign-flagged ships carry oil, liquefied natural gas and fertilizer between U.S. ports. DHS extended it for 90 days from May 18, 2026, and again from August 17 through November 15, 2026, with new paperwork rules.",
+    "key_dates": [
+      {
+        "date": "2026-03-17",
+        "event": "DHS issues a 60-day Jones Act waiver."
+      },
+      {
+        "date": "2026-05-18",
+        "event": "First 90-day extension begins."
+      },
+      {
+        "date": "2026-08-17",
+        "event": "Second 90-day extension begins."
+      }
+    ],
+    "closeness": "The administration used its waiver power, which this side of the chapter supports, though for a national-defense reason tied to energy supply rather than as a general policy. No push to repeal the Jones Act was found.",
+    "uncertain": "The official justification was not published, and House Transportation Democrats asked for details in May 2026. Whether the waiver will be extended past November 15, 2026 is not known. Dates are confirmed by CBP's cargo notices. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "CSMS # 69519766, Updated Guidance #4: Implementation of Jones Act Waiver (Aug. 13, 2026)",
+        "publisher": "U.S. Customs and Border Protection",
+        "type": "government",
+        "url": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/424c996"
+      },
+      {
+        "label": "CSMS # 68448732, Updated Guidance #3: Implementation of Jones Act Waiver (Apr. 24, 2026)",
+        "publisher": "U.S. Customs and Border Protection",
+        "type": "government",
+        "url": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41471dc"
+      },
+      {
+        "label": "DHS Extends Jones Act Waiver Again",
+        "publisher": "Holland & Knight",
+        "type": "law-firm",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/08/dhs-extends-jones-act-waiver-again"
+      },
+      {
+        "label": "Ranking Members Larsen, Carbajal Demand Answers on Trump Administration's Waiving of the Jones Act",
+        "publisher": "House Transportation and Infrastructure Committee Democrats",
+        "type": "government",
+        "url": "https://democrats-transportation.house.gov/news/press-releases/ranking-members-larsen-carbajal-demand-answers-on-trump-administrations-waiving-of-the-jones-act"
+      }
+    ],
+    "as_of": "2026-10-28"
+  }
+]

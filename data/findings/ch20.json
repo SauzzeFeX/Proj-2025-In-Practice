@@ -1,0 +1,733 @@
+[
+ {
+  "id": "ch20-001",
+  "status": "in-effect-challenged",
+  "match": "direct",
+  "happened": "In March 2025, VA said it would stop starting new veterans on hormone therapy for gender dysphoria and end other medical and surgical treatment for it. VA also brought back its pre-2022 ban on abortions and abortion counseling, except when the mother's life is at risk; the final rule was published Dec 31, 2025 and took effect Jan 30, 2026.",
+  "key_dates": [
+   {
+    "date": "Mar 2025",
+    "event": "VA announces end of new gender dysphoria treatments."
+   },
+   {
+    "date": "Dec 31, 2025",
+    "event": "VA final rule on abortion published."
+   },
+   {
+    "date": "Jan 30, 2026",
+    "event": "Abortion rule takes effect."
+   },
+   {
+    "date": "May 15, 2026",
+    "event": "Minority Veterans of America sues over the abortion rule."
+   }
+  ],
+  "legal": "Minority Veterans of America challenged the abortion rule in the U.S. Court of Appeals for the Federal Circuit on May 15, 2026, under the Administrative Procedure Act. No ruling was found.",
+  "closeness": "Matches both parts: VA ended abortion services (except to save the mother's life) and ended treatment for gender dysphoria for new patients. Veterans already on hormone therapy could continue.",
+  "uncertain": "The Federal Circuit case was pending as of August 2026. Whether VA later changed the gender-care policy was not found. Newest source: August 2026.",
+  "sources": [
+   {
+    "label": "Reproductive Health Services (final rule)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/12/31/2025-24061/reproductive-health-services"
+   },
+   {
+    "label": "Department of Veterans Affairs ends gender dysphoria treatments",
+    "publisher": "Virginia Mercury (States Newsroom)",
+    "type": "news",
+    "url": "https://virginiamercury.com/2025/03/18/department-of-veterans-affairs-ends-gender-dysphoria-treatments/"
+   },
+   {
+    "label": "Advocacy group sues Trump administration over access to abortion for veterans",
+    "publisher": "AP (via WTOP)",
+    "type": "news",
+    "url": "https://wtop.com/national/2026/05/advocacy-group-sues-trump-administration-over-access-to-abortion-for-veterans/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-002",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "The Veterans' ACCESS Act (H.R. 740 / S. 275) would write VA's current community care access standards (drive-time and wait-time limits) into law as a minimum; the House committee approved it in 2025. It was folded into the Take Care of America's Veterans Act (H.R. 9237), introduced June 10, 2026. On July 16, 2026, House leaders pulled that package from the floor after a close procedural vote, amid a dispute over disability pay offsets.",
+  "key_dates": [
+   {
+    "date": "2026-06-10",
+    "event": "Take Care of America's Veterans Act (H.R. 9237), including the Veterans' ACCESS Act, introduced."
+   },
+   {
+    "date": "2026-07-16",
+    "event": "House rejects a motion to recommit 210-211; leaders then pull the bill from the floor."
+   }
+  ],
+  "closeness": "Same mechanism: a law to lock in the MISSION Act access standards so VA cannot weaken them. It is still a pending bill.",
+  "uncertain": "No new House vote date was set as of the newest reports. Whether VA itself changed the access standards in 2025-2026 was not researched. Newest source: July 2026.",
+  "sources": [
+   {
+    "label": "H.R. 740 (119th Congress), Veterans' ACCESS Act, introduced text",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr740ih/html/BILLS-119hr740ih.htm"
+   },
+   {
+    "label": "Roll Call 249, H.R. 9237",
+    "publisher": "Clerk of the U.S. House",
+    "type": "government",
+    "url": "https://clerk.house.gov/Votes/2026249"
+   },
+   {
+    "label": "Sweeping House bill for veterans stalls",
+    "publisher": "Stars and Stripes",
+    "type": "news",
+    "url": "https://www.stripes.com/veterans/2026-07-16/sweeping-house-bill-veterans-stalls-22282911.html"
+   },
+   {
+    "label": "Chairmen Bost, Moran introduce Take Care of America's Veterans Act",
+    "publisher": "House Committee on Veterans' Affairs",
+    "type": "government",
+    "url": "https://veterans.house.gov/news/documentsingle.aspx?DocumentID=7925"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-003",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "Sen. Marsha Blackburn introduced the Veterans' Bill of Rights Act of 2026 (S. 3653) on January 15, 2026, and a House version (H.R. 7112) followed. The bill would have VA publish and train staff on ten existing rights, including access to VA or community care, grievances and appeals. The Senate Veterans' Affairs Committee held a hearing on it on April 29, 2026. It has not become law.",
+  "key_dates": [
+   {
+    "date": "2026-01-15",
+    "event": "S. 3653 introduced."
+   },
+   {
+    "date": "2026-04-29",
+    "event": "Senate Veterans' Affairs Committee hearing."
+   }
+  ],
+  "closeness": "Close in idea: it lists what veterans are entitled to and makes community care rights visible. It does not create a new dispute process, only publicizes existing appeal and grievance rights. Community care bills are covered in ch20-002.",
+  "uncertain": "I found no committee vote after the April 2026 hearing, and it is not among the laws passed by the 119th Congress through October 2026. The hearing date comes from a bill tracker.",
+  "sources": [
+   {
+    "label": "S. 3653, Veterans' Bill of Rights Act of 2026 (introduced text)",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3653is/html/BILLS-119s3653is.htm"
+   },
+   {
+    "label": "H.R. 7112 (introduced text)",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7112ih/html/BILLS-119hr7112ih.htm"
+   },
+   {
+    "label": "S. 3653 bill tracker",
+    "publisher": "The Lobby News",
+    "type": "news",
+    "url": "https://thelobbynews.com/congress/bills/119/senate-bill/3653"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch20-004",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On May 19, 2025, VA removed a second-doctor review of community care referrals, using a provision of the 2024 Elizabeth Dole Act. On December 15, 2025, it released a request for proposals for new community care contracts that let more health plans compete and require industry standards of care.",
+  "key_dates": [
+   {
+    "date": "2025-05-19",
+    "event": "Second review step removed"
+   },
+   {
+    "date": "2025-12-15",
+    "event": "New community care contract RFP released"
+   }
+  ],
+  "closeness": "VA took steps to widen and speed community care, but a new set of Secretary-level directives on eligibility, access and quality standards was not found.",
+  "uncertain": "Whether VA changed its access standards (wait time and drive time) was not confirmed. Newest source is from December 2025.",
+  "sources": [
+   {
+    "label": "VA makes it easier for Veterans to use community care",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-makes-it-easier-for-veterans-to-use-community-care/"
+   },
+   {
+    "label": "VA to improve health care choice and quality for Veterans with new community care contracts",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-to-improve-health-care-choice-and-quality-for-veterans-with-new-community-care-contracts/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-006",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No overhaul of the Family Caregiver Program was found. In September 2025 VA finalized a rule extending, through September 30, 2028, the transition period for legacy participants in the program. A December 2024 proposal (before this administration) would have widened eligibility; it has not been finalized.",
+  "closeness": "The 2025 rule kept existing participants in place; it did not refocus eligibility on the most severely injured.",
+  "uncertain": "Federal Register searches and a news search found no 2025-2026 VA proposal to narrow eligibility. VA has said it is still considering other changes. Newest source is from September 2025.",
+  "sources": [
+   {
+    "label": "Extension of PCAFC Eligibility for Legacy Participants and Legacy Applicants (final rule)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/09/29/2025-18827/extension-of-program-of-comprehensive-assistance-for-family-caregivers-eligibility-for-legacy"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch20-007",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No new public reporting system for VA health care quality, safety, experience, timeliness and cost modeled on Medicare ACO standards was found. VA has published records on appointments and claims in press releases. VA's public Access and Quality tool on wait times and quality dates from 2017, before this period.",
+  "closeness": "Nothing matching was found.",
+  "uncertain": "I checked VA press releases and searched news for a 2025-2026 VA reporting tool; I found none, and did not review VA's existing data sites in depth.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch20-009",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No independent department-wide audit of VA like the Defense Department's 2018 audit was found. VA's financial statements continue to get the yearly independent audit that was already required: for fiscal 2025 a private accounting firm hired by VA's Inspector General did it (report dated January 27, 2026). VA also canceled 585 contracts it called non-mission-critical in March 2025 and announced a reorganization of the Veterans Health Administration in December 2025.",
+  "closeness": "Nothing matching was found.",
+  "uncertain": "The yearly financial audit predates this administration and is narrower than the IT, management and contracting audit the chapter describes. A search found no new VA-wide audit ordered in 2025-2026.",
+  "sources": [
+   {
+    "label": "Audit of VA's Financial Statements for Fiscal Year 2025",
+    "publisher": "VA Office of Inspector General",
+    "type": "government",
+    "url": "https://vaoig.gov/reports/audit/audit-vas-financial-statements-fiscal-year-2025"
+   },
+   {
+    "label": "VA to terminate 585 non-mission-critical or duplicative contracts",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-to-terminate-585-non-mission-critical-or-duplicative-contracts/"
+   },
+   {
+    "label": "VA launches Veterans Health Administration reorganization",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-launches-veterans-health-administration-reorganization/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch20-010",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "VA says it has opened 43 new health care clinics since January 2025 (its October 2026 count). The FY2027 budget request cuts major construction funding by about half, to $661 million, while VA says it committed nearly $5 billion in 2026 to repair existing facilities.",
+  "key_dates": [
+   {
+    "date": "2026-09-08",
+    "event": "VA reports 41 new facilities opened."
+   },
+   {
+    "date": "2026-10-21",
+    "event": "VA reports 43 new clinics since January 2025."
+   }
+  ],
+  "closeness": "VA opened new sites and cut big construction, but it also spent heavily on existing hospitals. A clear shift from hospitals to outpatient clinics was not confirmed.",
+  "uncertain": "VA calls the new sites clinics but has not listed them, so I could not confirm how many are Community Based Outpatient Clinics in hard-to-serve markets. Hospital closures or realignments were not checked. Newest source is from October 2026.",
+  "sources": [
+   {
+    "label": "Following major reforms, over 300K new Veterans enroll in VA healthcare in 2026 (Oct. 21, 2026)",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/following-major-reforms-over-300k-new-veterans-enroll-in-va-healthcare-in-2026/"
+   },
+   {
+    "label": "President Trump's executive order means faster access to VA healthcare, benefits than ever before",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/president-trumps-executive-order-means-faster-access-to-va-healthcare-benefits-than-ever-before/"
+   },
+   {
+    "label": "Overview of the Department of Veterans Affairs FY2027 Appropriations",
+    "publisher": "Congressional Research Service (via EveryCRSReport)",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/R49347.html"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Any 2025-2026 VA hospital closure or realignment decisions, and a list of the new clinic types, still need checking."
+ },
+ {
+  "id": "ch20-012",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Congress has not given the VA Under Secretary for Health a five-year term renewable once.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched the text of all public laws of the 119th Congress published through October 2026 for provisions on the Under Secretary for Health; the only mentions concern acting officials and data access. I did not check bills that were introduced but not passed.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-014",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No VA policy requiring providers to see about 19 patients per day was found. VA reported a record 82 million direct care appointments in FY2025.",
+  "closeness": "Nothing matching was found.",
+  "uncertain": "VA press releases and a news search found no per-day patient target; VA measures provider workload with panel sizes (1,200 patients for a primary care doctor) and work units, as before 2025.",
+  "sources": [
+   {
+    "label": "President Trump's executive order means faster access to VA healthcare, benefits than ever before",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/president-trumps-executive-order-means-faster-access-to-va-healthcare-benefits-than-ever-before/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch20-015",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "The VA has offered early-morning, evening and weekend appointments. It reported more than 2.8 million appointments outside normal operating hours since Jan 20, 2025 as of June 2026, and more than 3.4 million as of October 2026.",
+  "key_dates": [
+   {
+    "date": "Oct 21, 2026",
+    "event": "VA reports more than 3.4 million appointments outside normal hours since Jan 20, 2025."
+   }
+  ],
+  "legal": "None.",
+  "closeness": "Matches the goal of longer hours and weekend appointments. It is described as a broad practice, not as the pilot at facilities with delays that the recommendation suggested.",
+  "uncertain": "Which facilities offer extended hours, and how the numbers compare with before 2025; the VA releases give only totals. Newest source is from October 2026.",
+  "sources": [
+   {
+    "label": "Following major reforms, over 300K new Veterans enroll in VA healthcare in 2026",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/following-major-reforms-over-300k-new-veterans-enroll-in-va-healthcare-in-2026/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-016",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "In October 2025, VA updated its pay ranges for doctors, dentists and podiatrists and added optometrists to them, as required by the Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act, signed in January 2025. These ranges add \"market pay\" on top of base pay so VA can compete for hard-to-hire clinicians.",
+  "key_dates": [
+   {
+    "date": "2025-07-25",
+    "event": "VA publishes annual pay ranges for physicians, dentists and podiatrists."
+   },
+   {
+    "date": "2025-10-24",
+    "event": "VA adds optometrists to the market-pay ranges."
+   }
+  ],
+  "closeness": "This raises pay flexibility for one more clinical job, which fits the goal. It follows a law signed before the new administration took office, and I found no broad VA review of which clinical services are hardest to staff.",
+  "uncertain": "Other pay steps, such as special salary rates set by local VA medical centers, were not checked. Newest source is from October 2025.",
+  "sources": [
+   {
+    "label": "Annual Pay Ranges for Physicians, Dentists, Podiatrists, and Optometrists of the VHA (Oct. 24, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/10/24/2025-19651/annual-pay-ranges-for-physicians-dentists-podiatrists-and-optometrists-of-the-veterans-health"
+   },
+   {
+    "label": "Annual Pay Ranges for Physicians, Dentists, and Podiatrists of the VHA (July 25, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/07/25/2025-14052/annual-pay-ranges-for-physicians-dentists-and-podiatrists-of-the-veterans-health-administration-vha"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-017",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "In August 2025, VA made new community care referrals for 30 common types of care last a full year instead of 90 to 180 days. By late 2025 VA had put an online scheduling system for community care appointments in all of its facilities, and it said in March 2026 that it would expand it.",
+  "key_dates": [
+   {
+    "date": "2025-08-04",
+    "event": "VA extends community care authorizations to one year for 30 types of care."
+   },
+   {
+    "date": "2026-03-09",
+    "event": "VA says its External Provider Scheduling system is running at all facilities."
+   }
+  ],
+  "closeness": "Both steps aim at referrals that expire or stall, which the chapter named. But they are system-wide changes, not the facility-by-facility review of low referral rates the chapter proposed.",
+  "uncertain": "Whether VA reviewed specific facilities with low or often-canceled referrals was not found. Newest source is from March 2026.",
+  "sources": [
+   {
+    "label": "VA offers yearlong community care authorizations for 30 services",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-offers-yearlong-community-care-authorizations-for-30-services/"
+   },
+   {
+    "label": "VA moves to speed up community care appointment scheduling",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-moves-to-speed-up-community-care-appointment-scheduling/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-018",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On October 2, 2025, VA finalized a rule on its health care workers who treat veterans by telehealth. VA said the rule lets it use telehealth to provide national care to veterans, building on authority from the 2018 VA MISSION Act.",
+  "key_dates": [
+   {
+    "date": "2025-10-02",
+    "event": "VA final rule on health care professionals practicing via telehealth."
+   }
+  ],
+  "closeness": "The rule supports wider telehealth, which matches part of the idea. I found no VA statement tying it to lower staffing costs, and the rural broadband part was not checked.",
+  "uncertain": "How much VA telehealth use changed after the rule was not checked. Newest source is from October 2025.",
+  "sources": [
+   {
+    "label": "Health Care Professionals Practicing Via Telehealth, final rule (Oct. 2, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/10/02/2025-19324/health-care-professionals-practicing-via-telehealth"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-021",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "VA restarted its new electronic health record rollout on April 11, 2026, at four Michigan hospitals, after a pause that began in 2023. By October 2026 it had reached 13 hospitals in 2026 and plans 26 more in 2027.",
+  "key_dates": [
+   {
+    "date": "2026-04-11",
+    "event": "Rollout resumes in Michigan"
+   },
+   {
+    "date": "2026-10-24",
+    "event": "Cleveland and Anchorage go live"
+   }
+  ],
+  "closeness": "VA moved to speed up the rollout rather than publish a top-priority assessment of its problems.",
+  "uncertain": "No new independent assessment by VA was found; inspector general and GAO reviews were not checked.",
+  "sources": [
+   {
+    "label": "VA health record system back on track with Michigan deployments",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-health-record-system-back-on-track-with-michigan-deployments/"
+   },
+   {
+    "label": "VA deploys electronic health record system to hospitals in Cleveland, Anchorage",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-deploys-electronic-health-record-system-to-hospitals-in-cleveland-anchorage/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-023",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No \"Express 30\" pilot to finish first claims in 30 days was found. VA says average processing time for disability claims fell from 141.5 days to 76.1 days by September 2026.",
+  "closeness": "Claims got faster, but no 30-day pilot was found.",
+  "uncertain": "Could not check for smaller pilots inside VBA.",
+  "sources": [
+   {
+    "label": "President Trump's executive order means faster access to VA healthcare, benefits than ever before",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/president-trumps-executive-order-means-faster-access-to-va-healthcare-benefits-than-ever-before/"
+   },
+   {
+    "label": "VA in FY 2026 processes the most claims ever",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-in-fy-2026-processes-the-most-claims-ever/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-024",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No new expansion of private contractors for disability exams was found under this administration. Contractors already did about 93% of VA disability exams by mid-2024, and VA extended its exam contracts with four companies for two years (ceiling about $13.2 billion) in early January 2025, before this administration began. Those contracts run through the end of 2026 and are being rebid.",
+  "closeness": "The recommended approach was already VA practice before January 20, 2025; no further expansion was found after that date.",
+  "uncertain": "The outcome of the 2026 rebid was not found. Newest source is from April 2026.",
+  "sources": [
+   {
+    "label": "VA extends medical disability exam contracts worth $13B (Jan. 6, 2025)",
+    "publisher": "Washington Technology",
+    "type": "news",
+    "url": "https://washingtontechnology.com/contracts/2025/01/va-extends-medical-disability-exam-contracts-worth-12b/401968"
+   },
+   {
+    "label": "Veteran Disability Compensation and Pension Exams (IF12799, Oct. 30, 2024)",
+    "publisher": "Congressional Research Service (via EveryCRSReport)",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/files/2024-10-30_IF12799_ae4788623bea828c69f5f06b02f1cd1a97521fb4.pdf"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch20-025",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "VA processed a record 3.11 million disability claims in FY2026 and cut its backlog by more than 70 percent. A September 8, 2026 executive order told VA and the Defense Department to share service records from the day people join and to use artificial intelligence to make the benefits process faster.",
+  "key_dates": [
+   {
+    "date": "2026-09-08",
+    "event": "Executive order on veterans' benefits signed"
+   },
+   {
+    "date": "2026-10-15",
+    "event": "VA reports record FY2026 claims"
+   }
+  ],
+  "closeness": "The order pushes technology over hiring, as recommended. How much claims work is automated is not known.",
+  "uncertain": "VA did not report what share of claims work is automated.",
+  "sources": [
+   {
+    "label": "President Trump's executive order means faster access to VA healthcare, benefits than ever before",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/president-trumps-executive-order-means-faster-access-to-va-healthcare-benefits-than-ever-before/"
+   },
+   {
+    "label": "VA in FY 2026 processes the most claims ever",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-in-fy-2026-processes-the-most-claims-ever/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-026",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "In July 2025 the VA and the Centers for Medicare & Medicaid Services announced a data-matching partnership. They found $106 million in duplicate medical billings to both agencies over six years and began billing providers to recover it. For fiscal year 2025, the VA reported $3.92 billion in improper and unknown payments across seven programs, up from 2024 mainly because its disability compensation program was counted again for the first time since 2020.",
+  "key_dates": [
+   {
+    "date": "Jul 22, 2025",
+    "event": "VA and CMS announce duplicate-billing recovery partnership."
+   },
+   {
+    "date": "2026-07",
+    "event": "VA Inspector General reviews VA's fiscal 2025 improper payment reporting"
+   }
+  ],
+  "legal": "None.",
+  "closeness": "The partnership targets improper health care payments. For benefits, the VA Inspector General reported a lower error rate than in 2020 but a higher dollar total, and no specific new effort on benefit payments was found.",
+  "uncertain": "Year-to-year comparisons are limited because compensation was not reported from 2021 to 2024. The figures come from the VA Inspector General's July 2026 review. Newest source: July 2026.",
+  "sources": [
+   {
+    "label": "VA, CMS partner to identify and recover $106M in duplicate billing",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-cms-partner-to-identify-and-recover-106m-in-duplicate-billing/"
+   },
+   {
+    "label": "Review of VA's Compliance with the Payment Integrity Information Act for Fiscal Year 2025",
+    "publisher": "VA Office of Inspector General",
+    "type": "government",
+    "url": "https://vaoig.gov/reports/review/review-vas-compliance-payment-integrity-information-act-fiscal-year-2025"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch20-027",
+  "status": "ended",
+  "match": "broader",
+  "happened": "On Feb 17, 2026 VA issued an interim final rule saying disability ratings should reflect a veteran's condition with medication. After strong criticism from veterans groups and members of Congress, and thousands of public comments, the VA Secretary halted enforcement on Feb 19, and VA formally withdrew the rule on Feb 27, 2026, restoring the old text.",
+  "key_dates": [
+   {
+    "date": "Feb 17, 2026",
+    "event": "Interim final rule on medication and ratings."
+   },
+   {
+    "date": "Feb 19, 2026",
+    "event": "VA Secretary halts enforcement."
+   },
+   {
+    "date": "Feb 27, 2026",
+    "event": "VA rescinds the rule."
+   }
+  ],
+  "legal": "The rule responded to the Court of Appeals for Veterans Claims decision in Ingram v. Collins (2025).",
+  "closeness": "Only a broad match. It changed how ratings are set rather than speeding up a rating-schedule review to save money for future claimants, and it was withdrawn. VA also proposed smaller changes to specific rating codes in 2025-2026.",
+  "uncertain": "VA's notice said many commenters saw possible harm to veterans but gave no further reason. No plan for a wider rating schedule review to save money was found. Newest source: February 2026.",
+  "sources": [
+   {
+    "label": "Evaluative Rating: Impact of Medication (interim final rule)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/02/17/2026-03068/evaluative-rating-impact-of-medication"
+   },
+   {
+    "label": "Rescission of Interim Final Rule, Evaluative Rating: Impact of Medication",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/02/27/2026-03940/rescission-of-interim-final-rule-evaluative-rating-impact-of-medication"
+   },
+   {
+    "label": "VA rescinding rule on disability ratings",
+    "publisher": "Stars and Stripes",
+    "type": "news",
+    "url": "https://www.stripes.com/veterans/2026-02-26/va-rescinding-rule-disability-ratings-20883658.html"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-029",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No plan to use more contractors to process VA claims, with federal staff making final decisions, was found.",
+  "closeness": "Nothing matching was found.",
+  "uncertain": "VA press releases and a news search found contracts for processing medical (community care) payment claims and for claims IT systems, but none for contractors processing disability benefits claims. VA says it is using data tools to route claims to its own staff.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch20-032",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No VA action rescinding all delegations of authority from the prior administration was found.",
+  "closeness": "Nothing matching was found.",
+  "uncertain": "Internal VA delegations are often not published; checked the Federal Register and VA press releases only.",
+  "sources": [],
+  "as_of": "2026-10-28",
+  "recheck": "A Secretary Collins memo rescinding some earlier designations appeared in a search result but could not be opened; whether VA broadly rescinded prior delegations is still unconfirmed."
+ },
+ {
+  "id": "ch20-033",
+  "status": "not-done",
+  "match": "none",
+  "happened": "On January 21, 2025, VA announced its first Trump administration appointees. No record was found of career senior executives being moved out of political positions on the first day.",
+  "closeness": "Nothing matching was found.",
+  "uncertain": "VA press releases and a news search found no record of a Day One move of career executives out of political posts. Some local VA leaders were reassigned later in 2025. Staffing records for VA political positions were not available.",
+  "sources": [
+   {
+    "label": "VA announces Trump Administration appointees",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-announces-trump-administration-appointees/"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch20-034",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "On Feb 3, 2025, following a Jan 20 presidential memo, the VA announced that eligible employees must work full-time at their duty stations. Telework for political appointees, senior executives and nearby supervisors ended by Feb 24, 2025, and for nearby non-bargaining-unit employees by April 28, 2025, except for occasional telework.",
+  "key_dates": [
+   {
+    "date": "Feb 3, 2025",
+    "event": "VA announces return to in-person work policy."
+   },
+   {
+    "date": "Apr 28, 2025",
+    "event": "Deadline for ending most non-bargaining-unit remote and telework arrangements."
+   }
+  ],
+  "legal": "I found no court ruling blocking the VA policy.",
+  "closeness": "The recommendation asked for a careful review of where remote work helps. The VA instead set a broad return-to-office rule with limited exceptions.",
+  "uncertain": "How the policy applied to bargaining-unit employees after the VA ended most union contracts in August 2025. Newest source is from February 2025.",
+  "sources": [
+   {
+    "label": "VA announces return to in-person work policy",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-announces-return-to-in-person-work-policy/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-039",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "No VA-specific increase in political appointee positions was found. Government-wide, a 2026 OPM rule created \"Schedule Policy/Career,\" and a June 2026 order moved about 8,000 federal positions into it, making those jobs easier to fire.",
+  "key_dates": [
+   {
+    "date": "2026-02-06",
+    "event": "OPM final rule published"
+   },
+   {
+    "date": "2026-06-03",
+    "event": "About 8,000 positions moved"
+   }
+  ],
+  "legal": "Employee groups have challenged Schedule Policy/Career in court; see ch01-007 for status.",
+  "closeness": "Increases political control in general, but it does not add non-career appointee slots at VA as recommended.",
+  "uncertain": "How many VA positions moved into Schedule Policy/Career was not found.",
+  "sources": [
+   {
+    "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges",
+    "publisher": "Congressional Research Service (via EveryCRSReport)",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/LSB11412.html"
+   },
+   {
+    "label": "Trump moves about 8,000 federal positions to Schedule Policy/Career",
+    "publisher": "Federal News Network",
+    "type": "news",
+    "url": "https://federalnewsnetwork.com/workforce/2026/06/trump-moves-about-8000-federal-positions-to-schedule-policy-career/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch20-041",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law or action closing the VA Office of Accountability and Whistleblower Protection was found.",
+  "closeness": "Nothing matching was found.",
+  "uncertain": "VA press releases, a news search and a check of every law passed by the 119th Congress through October 2026 found no step to close the office. Earlier restructuring bills date from 2021-2022.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch20-042",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "In June 2026, VA said it had placed its entire police force under a dedicated assistant secretary in a new Office of Operations, Security, and Preparedness, with the change to be finished by the end of fiscal year 2026. VA's Office of Human Resources and Administration is listed as its own office in 2025 and 2026 notices.",
+  "key_dates": [
+   {
+    "date": "2026-06-24",
+    "event": "VA announces police reforms under the new Office of Operations, Security, and Preparedness."
+   }
+  ],
+  "closeness": "Security now has its own office and assistant secretary, apart from human resources, which is what the chapter suggested considering.",
+  "uncertain": "I did not find the date or formal order that split the two offices; the split is inferred from VA's June 2026 release and Federal Register contact listings.",
+  "sources": [
+   {
+    "label": "VA fixes police force, boosting safety for Veterans, families, staff",
+    "publisher": "U.S. Department of Veterans Affairs",
+    "type": "government",
+    "url": "https://news.va.gov/press-room/va-fixes-police-force-boosting-safety-for-veterans-families-staff/"
+   },
+   {
+    "label": "VA Performance Review Board members notice (Oct. 1, 2026)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20156/corporate-senior-executive-management-office-notice-of-performance-review-board-members"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Federal Register notices used the combined HR/OSP office name through 2024; the formal order or date that split the two offices was not found."
+ }
+]

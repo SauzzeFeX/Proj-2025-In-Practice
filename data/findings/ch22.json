@@ -1,0 +1,1656 @@
+[
+  {
+    "id": "ch22-001",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress did not create a two-rate income tax. The July 2025 reconciliation law (the One Big Beautiful Bill Act) made the seven income tax brackets from the 2017 tax law permanent.",
+    "closeness": "The action went a different way: the existing multi-bracket system was kept and made permanent, and many deductions and credits were kept or added rather than removed.",
+    "uncertain": "Searched for a two-bracket (15%/30%) income tax bill and reviewed summaries of the July 2025 law. No bill to create a two-rate system was found moving in Congress. Newest source is a July 2025 summary of the enacted law.",
+    "sources": [
+      {
+        "label": "Tax changes in the enacted reconciliation bill",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The corporate income tax rate stayed at 21 percent. The July 2025 reconciliation law did not change it.",
+    "closeness": "No cut to 18 percent was made. The 21 percent rate set in 2017 was left in place.",
+    "uncertain": "The clearest source found describes the House-passed bill, which left corporate rates unchanged; no change was reported in the final law. No newer bill to cut the rate to 18% was found. Newest source: mid-2025.",
+    "sources": [
+      {
+        "label": "Tax bill passes House and heads to Senate",
+        "publisher": "Davis Polk",
+        "type": "law-firm",
+        "url": "https://www.davispolk.com/insights/client-update/tax-bill-passes-house-and-heads-senate"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-003",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Capital gains and qualified dividend tax rates were not changed. The top rate remains 20 percent, plus the separate 3.8 percent investment income tax.",
+    "closeness": "No move to a single 15 percent rate was found. The July 2025 law left capital gains rates as they were, though it expanded a separate exclusion for some small-business stock.",
+    "uncertain": "The source describing no change covers the House-passed bill; summaries of the final law also list no rate change. Newest source: mid-2025.",
+    "sources": [
+      {
+        "label": "Tax bill passes House and heads to Senate",
+        "publisher": "Davis Polk",
+        "type": "law-firm",
+        "url": "https://www.davispolk.com/insights/client-update/tax-bill-passes-house-and-heads-senate"
+      },
+      {
+        "label": "Tax changes in the enacted reconciliation bill",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-004",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 4, 2025 reconciliation law (the One Big Beautiful Bill Act) made 100 percent bonus depreciation permanent for property acquired on or after January 19, 2025. It also raised the Section 179 expensing limit to $2.5 million and allowed a full first-year deduction for some new factory buildings. It did not adjust capital gains for inflation.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law signed, making full expensing permanent"
+      }
+    ],
+    "closeness": "The full-expensing half of the recommendation was enacted for most equipment and some factory buildings. The inflation-indexing of capital gains half was not.",
+    "uncertain": "No law or Treasury rule indexing capital gains for inflation was found. In March 2026 some senators and House members asked Treasury to do it by regulation, and a May 2026 CRS report described it as a proposal only. A Federal Register search found no such proposed rule through October 2026.",
+    "sources": [
+      {
+        "label": "Tax changes in the One Big Beautiful Bill Act",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      },
+      {
+        "label": "Public Law 119-21 (July 4, 2025 reconciliation law)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "Indexing Capital Gains Taxes for Inflation: Marginal Effective Tax Rates and Revenue Estimates (IF13231, May 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13231.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-005",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The tax increases from the 2022 Inflation Reduction Act were not repealed. The July 2025 reconciliation law did not change the 1 percent stock buyback tax, and no repeal of the corporate book minimum tax, Superfund taxes, or drug-pricing excise tax was found.",
+    "closeness": "The 2025 law repealed or cut back many Inflation Reduction Act tax credits (see ch22-006), but not its tax increases.",
+    "uncertain": "Confirmed directly only for the buyback tax (from a House-bill summary). Status of the corporate minimum tax, Superfund and drug excise taxes is based on finding no reported repeal, not on reading the final law text. Newest source: mid-2025.",
+    "sources": [
+      {
+        "label": "Tax bill passes House and heads to Senate",
+        "publisher": "Davis Polk",
+        "type": "law-firm",
+        "url": "https://www.davispolk.com/insights/client-update/tax-bill-passes-house-and-heads-senate"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-006",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 4, 2025 reconciliation law ended many green energy tax credits early. Electric vehicle credits ended after September 30, 2025, and home energy credits ended after 2025. Wind and solar credits end for projects placed in service after 2027 unless construction began by July 4, 2026. Some credits, such as for carbon capture and clean hydrogen, were kept for now.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law signed, cutting back Inflation Reduction Act energy credits."
+      },
+      {
+        "date": "2025-09-30",
+        "event": "Electric vehicle credits end."
+      },
+      {
+        "date": "2026-07-04",
+        "event": "Deadline for wind and solar projects to begin construction and keep credits past 2027."
+      }
+    ],
+    "legal": "A federal district court vacated IRS Notice 2025-42, which had narrowed how wind and solar projects prove they began construction. The law's deadlines themselves were not affected.",
+    "closeness": "Large but not full repeal: many credits were ended or phased out, while others (some manufacturing, carbon capture, hydrogen, nuclear) were kept or modified.",
+    "uncertain": "Whether the government appealed the ruling on Notice 2025-42 and what guidance replaced it. Exact end dates differ by one day across sources. Newest source: early 2026.",
+    "sources": [
+      {
+        "label": "Tax changes in the enacted reconciliation bill",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      },
+      {
+        "label": "New rules for wind and solar energy projects",
+        "publisher": "Crowe",
+        "type": "law-firm",
+        "url": "https://www.crowe.com/insights/tax-news-highlights/new-rules-for-wind-and-solar-energy-projects"
+      },
+      {
+        "label": "District court vacates IRS notice restricting clean energy credit eligibility",
+        "publisher": "Steptoe",
+        "type": "law-firm",
+        "url": "https://www.steptoe.com/en/news-publications/district-court-vacates-irs-notice-restricting-clean-energy-tax-credit-eligibility.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-007",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress did not create Universal Savings Accounts for all taxpayers. The July 2025 reconciliation law instead created \"Trump accounts,\" retirement-style accounts for children under 18 with a $5,000 yearly contribution cap and a $1,000 federal deposit for children born from 2025 through 2028.",
+    "closeness": "Trump accounts are a new tax-favored savings account, but they are only for children, follow IRA rules, and do not allow tax-free withdrawals for any purpose, so they do not match the recommendation.",
+    "uncertain": "Checked the July 2025 law and searched for Universal Savings Account bills. The Universal Savings Account Act (S. 1581, introduced May 1, 2025 by Sen. Cruz, with a House companion) was referred to the Senate Finance Committee; no further action was found. Newest check is October 2026.",
+    "sources": [
+      {
+        "label": "Tax changes in the One Big Beautiful Bill Act",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      },
+      {
+        "label": "Sen. Cruz, Rep. Harshbarger introduce USA Act",
+        "publisher": "Office of Sen. Ted Cruz",
+        "type": "government",
+        "url": "https://www.cruz.senate.gov/newsroom/press-releases/sen-cruz-rep-harshbarger-introduce-usa-act"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-008",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The July 2025 reconciliation law (P.L. 119-21) made the existing limit on \"excess business losses\" for individuals permanent. It did not raise the limit to $500,000, and it did not change the rule that net operating loss carryforwards can offset only 80 percent of income.",
+    "closeness": "The action went a different way: the loss limit was kept and made permanent instead of being raised. The inflation adjustment was also reset to a 2024 base starting in 2026.",
+    "uncertain": "Checked the text of P.L. 119-21 (Sec. 70601) and searched the Federal Register for net operating loss rules; no change to full loss carryforwards was found. Newest source: the July 2025 law.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), Sec. 70601",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-009",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Neither tax was eliminated. The 3.8 percent net investment income tax remains. The July 2025 reconciliation law kept the base erosion anti-abuse tax (BEAT) and set its rate at 10.5 percent, up from 10 percent but below the 12.5 percent rate that had been scheduled for 2026.",
+    "closeness": "The action ran opposite to the recommendation for the BEAT, which was kept and made permanent at a slightly higher rate. The investment income tax was left unchanged.",
+    "uncertain": "Sources reviewed do not mention any change to the net investment income tax; none was found.",
+    "sources": [
+      {
+        "label": "Tax changes in the One Big Beautiful Bill Act",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      },
+      {
+        "label": "Tax bill passes House and heads to Senate",
+        "publisher": "Davis Polk",
+        "type": "law-firm",
+        "url": "https://www.davispolk.com/insights/client-update/tax-bill-passes-house-and-heads-senate"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-010",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law permanently raised the estate and gift tax exemption to $15 million per person ($30 million for married couples) starting in 2026, adjusted for inflation after that. It did not cut the estate tax rate.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law signed"
+      },
+      {
+        "date": "2026-01-01",
+        "event": "$15 million exemption takes effect"
+      }
+    ],
+    "closeness": "The higher exemption was made permanent, and is larger than the 2017 law's level. The rate cut to 20 percent or less did not happen; the top rate stays at 40 percent.",
+    "uncertain": "The sources reviewed do not state the rate directly; the 40 percent rate is unchanged because no source reports a change.",
+    "sources": [
+      {
+        "label": "Tax changes in the One Big Beautiful Bill Act",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      },
+      {
+        "label": "Tax bill passes House and heads to Senate",
+        "publisher": "Davis Polk",
+        "type": "law-firm",
+        "url": "https://www.davispolk.com/insights/client-update/tax-bill-passes-house-and-heads-senate"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-011",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law renamed GILTI \"net CFC tested income\" and set its deduction at 40 percent starting in 2026. Summaries put the resulting effective rate at about 14 percent after foreign tax credits. The law also raised the share of foreign taxes that can be credited from 80 to 90 percent.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law signed"
+      },
+      {
+        "date": "2026-01-01",
+        "event": "New rules for foreign income take effect"
+      }
+    ],
+    "closeness": "The law eased foreign tax credit limits, as recommended, but the effective rate is above the 12.5 percent ceiling the chapter proposed. It is higher than the 10.5 percent rate before 2026 and close to the 13.125 percent rate that had been scheduled.",
+    "uncertain": "Effective-rate figures come from secondary summaries and depend on how foreign tax credits are counted.",
+    "sources": [
+      {
+        "label": "Tax changes in the One Big Beautiful Bill Act",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      },
+      {
+        "label": "Tax bill passes House and heads to Senate",
+        "publisher": "Davis Polk",
+        "type": "law-firm",
+        "url": "https://www.davispolk.com/insights/client-update/tax-bill-passes-house-and-heads-senate"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-012",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The July 2025 reconciliation law made permanent the 2017 suspension of miscellaneous itemized deductions and the moving expense deduction (except for members of the military and some intelligence workers). It also set the personal exemption at zero permanently.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law signed"
+      }
+    ],
+    "closeness": "Close match. The law kept small exceptions, such as allowing teachers to deduct classroom costs and military members to deduct moving costs.",
+    "uncertain": "Not every deduction suspended in 2017 was reviewed one by one.",
+    "sources": [
+      {
+        "label": "Tax changes in the One Big Beautiful Bill Act",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-013",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The state and local tax (SALT) deduction was not repealed. The July 2025 reconciliation law raised the cap from $10,000 to $40,000 through 2029, rising 1 percent a year, with a phase-down for higher incomes. The cap returns to $10,000 in 2030.",
+    "closeness": "The action ran opposite to the recommendation: the deduction was made larger for most filers, at least through 2029.",
+    "uncertain": "Whether Congress will extend the higher cap past 2029. Newest source: July 2025 summary of the enacted law.",
+    "sources": [
+      {
+        "label": "Tax changes in the enacted reconciliation bill",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-014",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Education tax breaks were not repealed. The July 2025 reconciliation law kept the education credits (adding a Social Security number requirement), made permanent the tax-free employer payment of up to $5,250 a year in student loans, widened tax-free uses of 529 savings plans, and added a new credit for gifts to scholarship groups. It did not change the student loan interest deduction.",
+    "closeness": "The action went the other way: education tax benefits were kept and some were expanded.",
+    "uncertain": "Checked the text of Public Law 119-21 (no amendment to the student loan interest deduction, section 221) and summaries. No other 2025-2026 law repealing education deductions was found.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (July 4, 2025 reconciliation law)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "label": "OBBBA makes tax-free student loan reimbursements permanent",
+        "publisher": "Mercer",
+        "type": "law-firm",
+        "url": "https://www.mercer.com/en-us/insights/law-and-policy/obbba-makes-tax-free-student-loan-reimbursements-permanent/"
+      },
+      {
+        "label": "Tax changes in the One Big Beautiful Bill Act",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-015",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law ended the deduction for energy-efficient commercial buildings (Section 179D) for buildings whose construction begins after June 30, 2026. The same law also ended several other energy tax breaks early.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "P.L. 119-21 signed; Sec. 70507 ends the 179D deduction for construction starting after June 30, 2026"
+      }
+    ],
+    "closeness": "The example the chapter names was eliminated. The chapter's broader call to end special business tax preferences was not carried out in general; the same law kept or added other business tax breaks.",
+    "uncertain": "This finding does not try to count every business tax preference added or removed by the law. Newest source: the July 2025 law text.",
+    "sources": [
+      {
+        "label": "Public Law 119-21, Sec. 70507 (termination of energy efficient commercial buildings deduction)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-016",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No cap on tax-free employee benefits was passed. The July 2025 law made smaller changes, such as raising the dependent care benefit limit to $7,500 and ending the bicycle commuting benefit.",
+    "closeness": "Nothing like a $12,000 per-worker cap on untaxed benefits, including health coverage, was enacted. Some benefit exclusions were expanded.",
+    "uncertain": "Reviewed summaries of the July 2025 law; did not find a separate bill to cap employer benefits moving in Congress. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Tax changes in the enacted reconciliation bill",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-017",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law was found that ends employers' tax deductions for health insurance or other benefits for employees' dependents aged 23 or older. The July 2025 reconciliation law's benefit changes did not include this.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked the July 2025 law's employer benefit provisions and ran a web search for 2025-2026 bills on the tax treatment of coverage for adult children; none was found. The current rule still lets coverage for children through age 26 be tax-free.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-018",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No move to a consumption tax was passed or advanced in Congress. The FairTax Act (H.R. 25), which would replace income and payroll taxes with a national sales tax, was introduced in January 2025 but has stayed in committee. The July 2025 law kept the income tax system and made its 2017 rates permanent.",
+    "closeness": "The income tax system was extended, not replaced. A consumption-tax bill exists but has not moved.",
+    "uncertain": "A search in October 2026 found no committee action on H.R. 25 and no other consumption-tax bill moving. Public statements about replacing income taxes with tariffs were not researched.",
+    "sources": [
+      {
+        "label": "H.R. 25 (119th Congress), FairTax Act of 2025, introduced text",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr25ih/html/BILLS-119hr25ih.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-019",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law requiring a three-fifths vote to raise income or corporate tax rates was found.",
+    "closeness": "No matching action found.",
+    "uncertain": "Two searches (October 2026) found no 2025-2026 bill, constitutional amendment or House rule requiring a three-fifths vote to raise tax rates; the latest federal amendment found was from 2023. The House used such a rule in the past (starting in 1995), but whether the current House rules include one was not confirmed.",
+    "sources": [
+      {
+        "label": "Super-Majority Voting Requirement for Tax Increases: An Overview of Proposals for a Constitutional Amendment",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/98-351.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-020",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 20, 2025, President Trump issued a memo saying the OECD global minimum tax deal has no force in the U.S. In June 2025 the G7 agreed to a \"side-by-side\" approach, and on January 5, 2026 the OECD released a deal that exempts U.S.-based companies from the main global minimum tax rules.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Presidential memo: OECD Global Tax Deal has no force in the U.S."
+      },
+      {
+        "date": "2025-06-28",
+        "event": "G7 agrees to a side-by-side system exempting U.S. companies."
+      },
+      {
+        "date": "2026-01-05",
+        "event": "OECD releases side-by-side package covering 147 countries."
+      }
+    ],
+    "closeness": "Close match. The U.S. did not adopt the global minimum tax and got an exemption from two of its key rules. Other countries can still apply their own domestic minimum taxes to U.S. firms' local operations.",
+    "uncertain": "How other countries carry out the side-by-side deal in their own laws. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "The OECD Global Tax Deal (presidential memorandum)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal/"
+      },
+      {
+        "label": "Global minimum tax deal wins approval, with exemptions for US",
+        "publisher": "The Fiscal Times",
+        "type": "news",
+        "url": "https://www.thefiscaltimes.com/2026/01/05/Global-Minimum-Tax-Deal-Wins-Approval-Exemptions-US"
+      },
+      {
+        "label": "OECD releases side-by-side arrangement exempting US multinationals",
+        "publisher": "EY",
+        "type": "law-firm",
+        "url": "https://taxnews.ey.com/news/2026-0115-breaking-tax-news-oecd-releases-side-by-side-arrangement-exempting-us-multinationals-from-most-pillar-two-global-minimum-tax-rules"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-021",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The U.S. has not withdrawn from the OECD. A January 7, 2026 presidential memo pulled the U.S. out of 66 international organizations, but the OECD was not on the list. In 2025 the White House asked Congress to cancel unspent money for U.S. contributions to international organizations, which reports said could include OECD dues, and the July 2025 rescissions law cancelled some of that money.",
+    "closeness": "No withdrawal. The U.S. instead used OECD talks to win a tax exemption (see ch22-020).",
+    "uncertain": "Whether the July 2025 rescission (Public Law 119-28) actually reduced payments to the OECD is not known; the law does not name the OECD. The fiscal 2026 funding law has no OECD-specific cut. Newest source is January 2026.",
+    "sources": [
+      {
+        "label": "Withdrawing the United States From International Organizations, Conventions, and Treaties (memo)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/16/2026-00976/withdrawing-the-united-states-from-international-organizations-conventions-and-treaties-that-are"
+      },
+      {
+        "label": "US OECD funding on chopping block in Trump rescissions plan",
+        "publisher": "Bloomberg Tax",
+        "type": "news",
+        "url": "https://news.bloombergtax.com/daily-tax-report/us-oecd-funding-on-chopping-block-in-trump-rescissions-plan"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Confirm whether the July 2025 rescission of international organization funds (P.L. 119-28) cut U.S. payments to the OECD."
+  },
+  {
+    "id": "ch22-022",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Congress cut the IRS's Inflation Reduction Act money several times. The March 2025 full-year funding law took back another $20.2 billion, after earlier cuts in 2023 and 2024. The 2026 spending law took back $11.7 billion more. The Treasury Inspector General reported about $26 billion of the original amount remained as of March 2026.",
+    "key_dates": [
+      {
+        "date": "2025-03-15",
+        "event": "Full-year funding law for 2025 rescinds $20.2 billion of IRS funding."
+      },
+      {
+        "date": "2026",
+        "event": "Consolidated Appropriations Act, 2026 rescinds $11.7 billion more."
+      }
+    ],
+    "closeness": "Most of the roughly $80 billion has now been cut, through several spending laws rather than one repeal. Some money remains available to the IRS through 2031.",
+    "uncertain": "Exact signing date of the 2026 spending law and current remaining balance. Figures come from Inspector General reports through March 2026 as quoted in search results; the reports were not read in full.",
+    "sources": [
+      {
+        "label": "IRA funding snapshot (2026 report)",
+        "publisher": "Treasury Inspector General for Tax Administration",
+        "type": "government",
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2026-03/2026ier003fr.pdf"
+      },
+      {
+        "label": "IRA funding report (August 2025)",
+        "publisher": "Treasury Inspector General for Tax Administration",
+        "type": "government",
+        "url": "https://www.tigta.gov/sites/default/files/reports/2025-08/2025ier026fr.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-023",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The 2021 proposal to require banks to report account flows over $600 was never adopted and has not returned. Separately, the July 2025 reconciliation law canceled a planned drop to $600 for Form 1099-K reporting by payment apps, restoring the old $20,000 and 200-transaction threshold.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law restores the $20,000/200-transaction 1099-K threshold"
+      }
+    ],
+    "closeness": "The bank-account proposal the chapter opposed did not come back. The related $600 payment-app reporting rule was reversed by law, which is a similar but separate reporting rule.",
+    "uncertain": "No 2025-2026 proposal to revive bank account reporting was found, but this was not searched separately.",
+    "sources": [
+      {
+        "label": "Tax changes in the One Big Beautiful Bill Act",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-024",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law making IRS deputy commissioners, division heads, or the National Taxpayer Advocate presidential appointees was found. The IRS saw frequent leadership changes in 2025, but these were made under existing law.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked the 2025-2026 laws in the local copy of all 119th Congress laws and ran a web search for a bill changing IRS appointment rules; none was found. A 2025 bill on the Taxpayer Advocate (S. 1704) deals with hiring legal staff, not with how the Advocate is appointed.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-025",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In April 2025, the IRS chief information officer and two acting deputy CIOs left, and the IRS chief technology officer became acting CIO. Sam Corcos, a Treasury adviser linked to DOGE, led a review of IRS technology modernization, said about $1.5 billion in modernization work had been stopped or cut, and by May 2025 was Treasury's chief information officer.",
+    "key_dates": [
+      {
+        "date": "2025-04-28",
+        "event": "IRS CIO Rajiv Uppal leaves; Kaschit Pandya becomes acting CIO"
+      },
+      {
+        "date": "2025-05-06",
+        "event": "Reports name Sam Corcos Treasury chief information officer"
+      }
+    ],
+    "closeness": "IT leaders were replaced and modernization spending was reviewed, as the chapter asked. The chapter called for a Deputy Commissioner with strong IT skills; this finding found an acting CIO, not a new permanent IT deputy commissioner. Whether the plan is being carried out \"cost-effectively\" is not something this finding can judge.",
+    "uncertain": "Contract cuts are known mainly from officials' public statements reported in the news, not from a list of canceled contracts. A search found no 2026 source on later IRS IT leadership; newest source is May 2025.",
+    "sources": [
+      {
+        "label": "Top tech leaders to leave IRS",
+        "publisher": "Nextgov/FCW",
+        "type": "news",
+        "url": "https://www.nextgov.com/people/2025/04/top-tech-leaders-leave-irs/404555/?oref=ng-author-river"
+      },
+      {
+        "label": "Treasury, DOGE to continue IRS overhaul as judge blocks more agency downsizing",
+        "publisher": "Thomson Reuters Tax & Accounting",
+        "type": "news",
+        "url": "https://tax.thomsonreuters.com/news/treasury-doge-to-continue-irs-overhaul-as-judge-blocks-more-agency-downsizing/"
+      },
+      {
+        "label": "DOGE's Sam Corcos is Treasury's new chief information officer",
+        "publisher": "FedScoop",
+        "type": "news",
+        "url": "https://fedscoop.com/doge-sam-corcos-treasury-chief-information-officer/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-026",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new oversight board of private-sector IT experts for the IRS was found. The 2026 appropriations law kept the existing requirement that the IRS send Congress quarterly reports on its major IT projects and still refers to the older IRS Oversight Board.",
+    "closeness": "No board with authority over IRS technology work was created by law or by Treasury action.",
+    "uncertain": "Searched the Federal Register for an IRS IT oversight or advisory board and checked the Consolidated Appropriations Act, 2026 (P.L. 119-75) and P.L. 119-21. Newest source: the 2026 appropriations law.",
+    "sources": [
+      {
+        "label": "Consolidated Appropriations Act, 2026 (P.L. 119-75), IRS operations support",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-027",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law was found that makes the interest the IRS pays on overpayments equal to the interest taxpayers pay on underpayments. The large IRS service bill that passed the Senate in fall 2026 does not include this change.",
+    "closeness": "No action matched. The higher rate charged on large corporate underpayments and the different rates for overpayments remain.",
+    "uncertain": "Checked P.L. 119-21, the introduced text of the Taxpayer Assistance and Service Act (S. 3931), and a summary of the Senate-passed package. The final Senate-passed text was not reviewed line by line. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "S. 3931, Taxpayer Assistance and Service Act (introduced text)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3931is/html/BILLS-119s3931is.htm"
+      },
+      {
+        "label": "Senate passes tax administration reform package",
+        "publisher": "KPMG",
+        "type": "law-firm",
+        "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/10/senate-passes-tax-administration-reform-package.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-028",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law has extended the two-year time limit for taxpayers to sue for damages over improper IRS collection. A Senate-passed IRS service bill (S. 3931) would extend a related deadline, the time for returning money taken by a wrongful levy, but it does not change the damages-suit deadline.",
+    "closeness": "The Senate bill's wrongful-levy change is related but different: it concerns getting levied money back, not the time to sue for damages. It has not passed the House.",
+    "uncertain": "Checked the introduced text of S. 3931 (Sec. 114) and P.L. 119-21 for changes to Section 7433; none were found. The final Senate-passed text was not reviewed. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "S. 3931, Taxpayer Assistance and Service Act (introduced text), Sec. 114",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3931is/html/BILLS-119s3931is.htm"
+      },
+      {
+        "label": "Senate passes tax administration reform package",
+        "publisher": "KPMG",
+        "type": "law-firm",
+        "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/10/senate-passes-tax-administration-reform-package.html"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "The Senate-passed text of S. 3931 was not yet posted on GovInfo in October 2026; confirm it does not change the Section 7433 time limit."
+  },
+  {
+    "id": "ch22-029",
+    "status": "under-review",
+    "match": "direct",
+    "happened": "Senators Crapo and Wyden introduced the Taxpayer Assistance and Service Act (S. 3931) in February 2026. It would let the Tax Court hear refund suits and handle more kinds of cases. The Senate passed the package by unanimous consent around September 30, 2026; the House had not acted as of October 2026.",
+    "key_dates": [
+      {
+        "date": "2026-02-26",
+        "event": "S. 3931 introduced in the Senate"
+      },
+      {
+        "date": "2026-09-30",
+        "event": "Senate passes the package by unanimous consent (date per KPMG report)"
+      }
+    ],
+    "closeness": "Same idea and mechanism: a law expanding what the Tax Court can hear. It is not law yet.",
+    "uncertain": "The House may change or not take up the bill. The exact Senate passage date comes from a law-firm summary. Newest source: October 1, 2026.",
+    "sources": [
+      {
+        "label": "S. 3931, Taxpayer Assistance and Service Act (introduced text), Title III",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3931is/html/BILLS-119s3931is.htm"
+      },
+      {
+        "label": "Senate passes tax administration reform package",
+        "publisher": "KPMG",
+        "type": "law-firm",
+        "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/10/senate-passes-tax-administration-reform-package.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-030",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The Senate-passed Taxpayer Assistance and Service Act (S. 3931) would tighten the rules for supervisor approval before the IRS can assess penalties and would add a failure-to-pay penalty safe harbor in some cases. It would also raise some penalties on tax preparers. The House had not acted as of October 2026.",
+    "key_dates": [
+      {
+        "date": "2026-02-26",
+        "event": "S. 3931 introduced"
+      },
+      {
+        "date": "2026-09-30",
+        "event": "Senate passes the package (date per KPMG report)"
+      }
+    ],
+    "closeness": "The bill makes targeted procedural changes rather than the broad simplification and reduction of penalties the chapter called for, and it adds some new preparer penalties.",
+    "uncertain": "Provisions are taken from the introduced text; the Senate-passed version may differ. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "S. 3931, Taxpayer Assistance and Service Act (introduced text), Secs. 112, 501-503, 902",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3931is/html/BILLS-119s3931is.htm"
+      },
+      {
+        "label": "Senate passes tax administration reform package",
+        "publisher": "KPMG",
+        "type": "law-firm",
+        "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/10/senate-passes-tax-administration-reform-package.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-031",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress set the Taxpayer Advocate Service's operating funds at no less than $271.2 million in the Consolidated Appropriations Act, 2026. This is the same floor used in the fiscal 2024 appropriations law.",
+    "closeness": "No 20 percent (about $44 million) increase was made; the funding floor stayed flat.",
+    "uncertain": "Compared the Taxpayer Advocate lines in P.L. 118-47 (FY2024) and P.L. 119-75 (FY2026). Actual spending may differ from the legal floor. Newest source: the FY2026 appropriations law.",
+    "sources": [
+      {
+        "label": "Consolidated Appropriations Act, 2026 (P.L. 119-75), IRS taxpayer services",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "Further Consolidated Appropriations Act, 2024 (P.L. 118-47)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ47/html/PLAW-118publ47.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-032",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "The House passed the National Taxpayer Advocate Enhancement Act (H.R. 997) 385-0 in March 2025, letting the Advocate hire its own attorneys. The Senate passed it on September 29, 2026, and the enrolled bill, the final version sent to the President, is posted on GovInfo. The Senate also passed a larger bill (S. 3931) that would let the Advocate make its own personnel decisions and get access to IRS information and legal advice.",
+    "key_dates": [
+      {
+        "date": "2025-03-31",
+        "event": "House passes H.R. 997"
+      },
+      {
+        "date": "2026-09-29",
+        "event": "Senate passes H.R. 997 by unanimous consent"
+      },
+      {
+        "date": "2026-09-30",
+        "event": "Senate passes S. 3931 package (date per KPMG report)"
+      }
+    ],
+    "closeness": "The bills match the chapter's staffing-independence and information-access points. No provision was found on including the Advocate in rulemaking or letting it file court briefs on its own.",
+    "uncertain": "H.R. 997 was not among the public laws posted through P.L. 119-134 (October 20, 2026), so it was not yet confirmed as signed. S. 3931 still needs House action. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "H.R. 997, National Taxpayer Advocate Enhancement Act of 2025 (enrolled bill)",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr997enr/html/BILLS-119hr997enr.htm"
+      },
+      {
+        "label": "S. 3931, Taxpayer Assistance and Service Act (introduced text), Title IV",
+        "publisher": "GovInfo (U.S. Government Publishing Office)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3931is/html/BILLS-119s3931is.htm"
+      },
+      {
+        "label": "Senate passes tax administration reform package",
+        "publisher": "KPMG",
+        "type": "law-firm",
+        "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/10/senate-passes-tax-administration-reform-package.html"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "H.R. 997 passed both chambers and was enrolled; check whether the President signed it (it was not among public laws through P.L. 119-134)."
+  },
+  {
+    "id": "ch22-033",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law raised the reporting threshold for Forms 1099-NEC and 1099-MISC from $600 to $2,000 a year, indexed after 2026. It also restored the $20,000 and 200-transaction threshold for Form 1099-K. In 2025-2026 FinCEN also ended beneficial ownership reporting for U.S. companies (see ch22-058).",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law raises 1099 thresholds"
+      }
+    ],
+    "closeness": "These changes reduce reporting for small businesses, as recommended. They are targeted changes, not the broad review the chapter called for.",
+    "uncertain": "No Treasury-wide review of all information reporting rules was found.",
+    "sources": [
+      {
+        "label": "Tax changes in the One Big Beautiful Bill Act",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-034",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "Congress cut IRS funding instead of holding it flat. The Consolidated Appropriations Act, 2026, passed in early February 2026, gave the IRS about $11.2 billion, roughly 9 percent below the 2025 level of $12.3 billion. It also took back $11.6 billion more of the IRS's 2022 Inflation Reduction Act money.",
+    "key_dates": [
+      {
+        "date": "2026-02-03",
+        "event": "FY2026 spending law enacted"
+      }
+    ],
+    "closeness": "The IRS budget was not increased, as the chapter wanted, but it was cut below a flat level, which goes further than the recommendation.",
+    "uncertain": "Sources differ slightly on the clawback amount ($11.6 to $11.7 billion). How much went to IT modernization was not checked.",
+    "sources": [
+      {
+        "label": "Congress approves FY2026 Financial Services and General Government appropriations bill",
+        "publisher": "Senate Appropriations Committee",
+        "type": "government",
+        "url": "https://www.appropriations.senate.gov/news/majority/congress-approves-fy2026financial-services-and-general-government-appropriations-bill"
+      },
+      {
+        "label": "Shutdown ends: IRS funded through September, but more cuts enacted",
+        "publisher": "Grant Thornton",
+        "type": "law-firm",
+        "url": "https://www.grantthornton.com/insights/newsletters/tax/2026/hot-topics/feb-03/shutdown-ends-irs-funded-through-september-but-more-cuts-enacted"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-035",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In April 2025 the IRS began a reduction in force for its Office of Civil Rights and Compliance, formerly the Office of Equity, Diversity and Inclusion; the Treasury Inspector General for Tax Administration (TIGTA) counted 179 layoff notices there by May 2025. Remaining staff were to move to the Office of Chief Counsel to carry out legally required civil-rights duties. A separate equity and diversity unit in Taxpayer Services was also cut.",
+    "key_dates": [
+      {
+        "date": "2025-04-04",
+        "event": "IRS begins reduction in force for the former EDI office"
+      },
+      {
+        "date": "2025-04-25",
+        "event": "IRS begins reduction in force for the EDI office in Taxpayer Services"
+      }
+    ],
+    "legal": "Federal reductions in force were challenged in AFGE v. Trump (N.D. Cal.); a May 2025 preliminary injunction was later stayed by the Supreme Court in July 2025. This finding did not confirm how that case affected this office.",
+    "closeness": "The office was mostly cut and folded into another office rather than formally closed; some civil-rights functions continue because the law requires them.",
+    "uncertain": "Plans to move remaining staff to the Office of Chief Counsel come from trade press reports of internal emails. Final staffing numbers are not known. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Snapshot report: IRS workforce reductions as of March 2025 (2025-IE-R017)",
+        "publisher": "Treasury Inspector General for Tax Administration (via Oversight.gov)",
+        "type": "government",
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2025-05/2025ier017fr.pdf"
+      },
+      {
+        "label": "TIGTA breaks down IRS workforce reduction as more cuts loom",
+        "publisher": "Thomson Reuters Tax & Accounting",
+        "type": "news",
+        "url": "https://tax.thomsonreuters.com/news/tigta-breaks-down-irs-workforce-reduction-as-more-cuts-loom/"
+      },
+      {
+        "label": "IRS Job Cuts Hit Civil Rights Office",
+        "publisher": "CPA Practice Advisor",
+        "type": "news",
+        "url": "https://www.cpapracticeadvisor.com/2025/04/04/irs-job-cuts-hit-civil-rights-office/158616/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-036",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The protocol amending the multilateral tax information-sharing convention was not withdrawn. The Senate Foreign Relations Committee still lists it (Treaty Document 112-5) among treaties pending before it, with its last action on January 3, 2017.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked the committee's pending-treaty list and ran a Federal Register search and a web search; no withdrawal was found. Newest check is October 2026.",
+    "sources": [
+      {
+        "label": "Treaties pending before the Senate Foreign Relations Committee",
+        "publisher": "Senate Foreign Relations Committee",
+        "type": "government",
+        "url": "https://www.foreign.senate.gov/treaties"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-037",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public statement or action by the administration opposing the multilateral agreement on automatic exchange of financial account information (the OECD Common Reporting Standard) was found. The United States has never joined that agreement and continues to rely on its own FATCA system.",
+    "closeness": "No action matched. Because the U.S. was already outside the agreement, there was no change to make unless the administration took a public position, and none was found.",
+    "uncertain": "Searched the Federal Register for \"automatic exchange\" and \"Competent Authority Agreement\" and ran a news search; found no 2025-2026 U.S. position. Newest material checked: 2025-2026 search results.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-038",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The U.S. has not withdrawn from the World Bank or the IMF. In April 2025 Treasury Secretary Bessent said the U.S. would stay and called for both to refocus on core missions. The U.S. still took part in the October 2026 annual meetings through senior Treasury officials and a written statement.",
+    "closeness": "The administration criticized both bodies and pressed for changes, but stayed in. They were not named among the 66 groups the U.S. left in January 2026.",
+    "uncertain": "The outcome of the 2025 review of all international organizations and future funding levels. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Bessent assails IMF and World Bank (AP)",
+        "publisher": "ClickOnDetroit (AP)",
+        "type": "news",
+        "url": "https://www.clickondetroit.com/business/2025/04/23/bessent-assails-imf-and-world-bank-and-says-theres-an-opportunity-for-a-big-deal-with-china/"
+      },
+      {
+        "label": "US Treasury's Bessent to skip IMF-World Bank meetings",
+        "publisher": "Kuwait Times (Reuters)",
+        "type": "news",
+        "url": "https://kuwaittimes.com/article/51325/business/us-treasurys-bessent-to-skip-imf-world-bank-meetings/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-039",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In September 2025 the State Department released the America First Global Health Strategy. It replaces much aid that went through nonprofit groups with country-by-country agreements signed with recipient governments. By April 2026 it had signed 32 such agreements. In January 2026 the U.S. also left 66 international organizations.",
+    "key_dates": [
+      {
+        "date": "2025-09",
+        "event": "America First Global Health Strategy released."
+      },
+      {
+        "date": "2026-01-07",
+        "event": "Memo withdrawing the U.S. from 66 international organizations."
+      },
+      {
+        "date": "2026-04-22",
+        "event": "32 bilateral health agreements reported signed."
+      }
+    ],
+    "closeness": "Moves aid away from NGOs and international bodies, but much of it now goes through recipient governments, and some funding still goes to groups like the Global Fund. Covers health aid most clearly, not all aid.",
+    "uncertain": "Agreement texts are not fully public, and how much aid still flows through NGOs is not clear. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "KFF tracker: America First bilateral global health agreements",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/global-health-policy/kff-tracker-america-first-mou-bilateral-global-health-agreements/"
+      },
+      {
+        "label": "Where the Trump administration's global health agreements stand",
+        "publisher": "Center for Global Development",
+        "type": "academic",
+        "url": "https://www.cgdev.org/blog/where-trump-administrations-global-health-agreements-stand"
+      },
+      {
+        "label": "US and Papua New Guinea sign health MOU",
+        "publisher": "DevelopmentAid",
+        "type": "news",
+        "url": "https://www.developmentaid.org/news-stream/post/206439/united-states-forging-a-healthier-oceania-through-trump-administrations-america-first-global-health-strategy-through-bilateral-health-memorandum-of-understanding-with-papua-new-guinea"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-040",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The budget was not balanced. The Congressional Budget Office estimated in July 2025 that the reconciliation law would add about $3.4 trillion to deficits over 2025 to 2034.",
+    "closeness": "Spending cuts were made in some areas, but tax cuts were larger, so deficits were projected to grow rather than shrink.",
+    "uncertain": "Later CBO estimates differ in scope. Tariff revenue, rescissions and spending laws after mid-2025 were not fully counted here. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "CBO projects OBBBA would add $3.4 trillion to deficit",
+        "publisher": "American Hospital Association",
+        "type": "news",
+        "url": "https://aha.org/news/headline/2025-07-21-cbo-projects-obbba-increase-uninsured-10-million-federal-deficit-34-trillion"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-041",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Treasury has not created a 50-year bond or shifted to longer-term borrowing. In each quarterly refunding through August 2026, it kept auction sizes for notes and bonds the same and said it expects to keep them unchanged \"for at least the next several quarters,\" meeting other needs with Treasury bills.",
+    "key_dates": [
+      {
+        "date": "2026-08-05",
+        "event": "Treasury's third-quarter 2026 refunding statement keeps coupon auction sizes unchanged"
+      }
+    ],
+    "closeness": "The action went the other way from the chapter: extra borrowing has leaned on short-term bills rather than longer bonds. The longest regular security is still the 30-year bond.",
+    "uncertain": "The November 2026 refunding had not been announced as of this check. Newest source: August 5, 2026 Treasury statement.",
+    "sources": [
+      {
+        "label": "Quarterly Refunding Statement, 2026 third quarter",
+        "publisher": "U.S. Department of the Treasury",
+        "type": "government",
+        "url": "https://home.treasury.gov/news/press-releases/sb0590"
+      },
+      {
+        "label": "Quarterly Refunding",
+        "publisher": "U.S. Department of the Treasury",
+        "type": "government",
+        "url": "https://home.treasury.gov/policy-issues/financing-the-government/quarterly-refunding"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-042",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No yearly federal financial statement sent to each American family, showing the family's share of the debt, has been created. Treasury continues to publish its usual debt reports and the annual Financial Report of the U.S. Government online.",
+    "closeness": "No action matched. A related House bill from 2024 would have put a per-taxpayer debt figure on W-2 forms, but it did not become law, and no such law appears in the list of 2025-2026 public laws.",
+    "uncertain": "Searched the Federal Register for related terms and ran a news search; found no Treasury plan. Did not confirm whether a similar bill was reintroduced in 2025-2026. Newest material checked: 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-043",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No policy tying U.S. funding of international financial institutions to hiring more Americans was found. In April 2025 Treasury Secretary Bessent said the U.S. would stay in the IMF and World Bank and push them back to their core missions, and said the World Bank should not expect money without reforms.",
+    "closeness": "The administration set reform conditions in general terms, but no staffing condition was found.",
+    "uncertain": "Searched news and the fiscal 2026 and 2027 budget record for a U.S. staffing condition on funding to the IMF, World Bank or regional development banks; none was found. The fiscal 2027 request proposed cutting Treasury international programs. Newest source is April 2026.",
+    "sources": [
+      {
+        "label": "Bessent assails IMF and World Bank",
+        "publisher": "Associated Press (via WDIV)",
+        "type": "news",
+        "url": "https://www.clickondetroit.com/business/2025/04/23/bessent-assails-imf-and-world-bank-and-says-theres-an-opportunity-for-a-big-deal-with-china/"
+      },
+      {
+        "label": "Explainer: The President's FY27 Budget Request and the International Financial Institutions",
+        "publisher": "Bretton Woods Project",
+        "type": "advocacy",
+        "url": "https://brettonwoods.org/explainer-the-presidents-fy27-budget-request-and-the-international-financial-institutions/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-045",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "In February 2026, Treasury asked the public for input on a CFIUS \"Known Investor Program\" and on streamlining foreign investment reviews, including how mitigation agreements are negotiated and how compliance is monitored.",
+    "key_dates": [
+      {
+        "date": "2026-02-09",
+        "event": "Treasury publishes request for information on the CFIUS Known Investor Program and streamlining reviews"
+      }
+    ],
+    "closeness": "The request touches mitigation monitoring, but its stated aim is to streamline reviews for investors. It does not set up the clearer monitoring program with an equal voice for security agencies that the chapter asked for.",
+    "uncertain": "No final rule or monitoring program has been published. Newest source: February 2026.",
+    "sources": [
+      {
+        "label": "Request for Information Pertaining to the CFIUS Known Investor Program and Streamlining the Foreign Investment Review Process",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/09/2026-02481/request-for-information-pertaining-to-the-cfius-known-investor-program-and-streamlining-the-foreign"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-046",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No CFIUS penalty schedule has been published since January 2025. Before then, Treasury had issued CFIUS enforcement and penalty guidelines in 2022 and a November 2024 rule that raised maximum penalties, but neither sets a fixed schedule.",
+    "closeness": "No action matched. The earlier guidelines and rule (from the prior administration) list factors and maximum amounts rather than a standard schedule.",
+    "uncertain": "Searched Federal Register documents from the Office of Investment Security from 2022 to October 2026. Newest source: 2026 search.",
+    "sources": [
+      {
+        "label": "Penalty Provisions, Provision of Information, Negotiation of Mitigation Agreements (final rule, Nov. 2024)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2024/11/26/2024-27310/penalty-provisions-provision-of-information-negotiation-of-mitigation-agreements-and-other"
+      },
+      {
+        "label": "Notice of Availability of CFIUS Enforcement and Penalty Guidelines (2022)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2022/11/02/2022-23803/notice-of-availability-of-committee-on-foreign-investment-in-the-united-states-enforcement-and"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-047",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law making the Defense Department a co-chair of CFIUS was found. Treasury still chairs the committee.",
+    "closeness": "No matching action found. The fiscal 2026 defense law (Public Law 119-60) added outbound investment rules (see ch22-050) and a CFIUS real estate provision, but did not change who chairs CFIUS.",
+    "uncertain": "Searched the text of Public Law 119-60 for CFIUS provisions (only section 8102 on sensitive real estate sites) and ran a web search; no co-chair change was found.",
+    "sources": [
+      {
+        "label": "Public Law 119-60 (National Defense Authorization Act for Fiscal Year 2026)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-048",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not passed a law requiring CFIUS to review new facilities built by Chinese-controlled companies. The White House's February 21, 2025 America First Investment Policy called for widening CFIUS reach over such \"greenfield\" investments, but that needs new law.",
+    "closeness": "The administration endorsed the same idea in a policy memo, and bills were introduced, but no law passed. CFIUS can still review greenfield sites only near certain military and other sensitive locations.",
+    "uncertain": "Whether any greenfield bill advanced in 2026; searches found introduced bills but no votes. Newest source on this point: 2025.",
+    "sources": [
+      {
+        "label": "America First Investment Policy aims to reshape CFIUS",
+        "publisher": "Skadden",
+        "type": "law-firm",
+        "url": "https://www.skadden.com/insights/publications/2025/02/america-first-investment-policy-aims-to-reshape-cfius"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-049",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No joint Treasury-Defense school of financial warfare was found.",
+    "closeness": "No action matched.",
+    "uncertain": "Searched the Federal Register for \"financial warfare\" (no results) and checked the FY2026 defense authorization law (P.L. 119-60) for related terms. A study done inside the agencies without public notice would not show up in these checks.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-050",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On December 18, 2025, the Comprehensive Outbound Investment National Security (COINS) Act became law as part of the 2026 defense bill. It writes Treasury's outbound investment program into law and expands it to cover China and other countries in chips, AI, quantum and other fields. Treasury must issue new rules by about March 2027.",
+    "key_dates": [
+      {
+        "date": "2025-02-21",
+        "event": "America First Investment Policy memo calls for wider outbound limits."
+      },
+      {
+        "date": "2025-12-18",
+        "event": "COINS Act enacted in the FY2026 NDAA."
+      }
+    ],
+    "closeness": "Close match: more legal authority, reporting and restrictions on U.S. investment in China, as the chapter asked. Full rules are still being written.",
+    "uncertain": "Content of Treasury's implementing rules, due around March 2027. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "COINS Act codifies and expands Treasury oversight of U.S. outbound investments",
+        "publisher": "Orrick",
+        "type": "law-firm",
+        "url": "https://www.orrick.com/en/Insights/2025/12/COINS-Act-Codifies-and-Expands-Treasury-Oversight-of-US-Outbound-Investments"
+      },
+      {
+        "label": "FY26 NDAA outbound investment provisions overview",
+        "publisher": "Covington",
+        "type": "law-firm",
+        "url": "https://www.cov.com/en/news-and-insights/insights/2025/12/fy26-ndaa-outbound-investment-provisions-overview"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-051",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law merging the OCC, FDIC, NCUA and the Fed's supervision role has passed. In February 2025, news reports said White House advisers were discussing folding the FDIC into other agencies, but no merger followed. The OCC reorganized its own supervision units in 2025.",
+    "closeness": "Consolidation was discussed but not carried out, and no legislation was found moving.",
+    "uncertain": "Whether new plans emerged in 2026; searches found no 2026 reporting on a merger. Newest source: 2025.",
+    "sources": [
+      {
+        "label": "White House weighs folding FDIC into other agencies",
+        "publisher": "PYMNTS",
+        "type": "news",
+        "url": "https://www.pymnts.com/legal/2025/white-house-weighs-folding-fdic-into-other-agencies/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-052",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new low-regulation financial charter in exchange for higher capital was created. In March 2026 the OCC finalized a rule confirming that national trust banks can do certain activities, which made it easier for some fintech and crypto firms to get limited national charters.",
+    "closeness": "The OCC rule widens use of an existing limited charter; it does not create the higher-capital, fewer-rules charter the chapter described.",
+    "uncertain": "Checked the Federal Register for OCC chartering rules and ran a web search for 2025-2026 bills creating a new charter; none was found.",
+    "sources": [
+      {
+        "label": "National Bank Chartering (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/02/2026-04088/national-bank-chartering"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-053",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Titles I, II and VIII of the Dodd-Frank Act have not been repealed. The Financial Stability Oversight Council still exists. In December 2025 it was briefed by Treasury staff on possible changes to its guidance for designating nonbank firms.",
+    "closeness": "Possible changes to how the council uses its powers are being considered, but no repeal of the laws was found.",
+    "uncertain": "Whether revised designation guidance was finalized in 2026. No 2025-2026 repeal bill was found in searches. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Statement on potential revisions to FSOC nonbank designation guidance",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "type": "government",
+        "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-121125-fsoc-statement-regarding-potential-revisions-non-bank-designation-guidance"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-054",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "Fannie Mae and Freddie Mac remain in government conservatorship. Since 2025, President Trump and housing regulator Bill Pulte have talked about selling some of their shares to the public. As of June 2026, no offering had been scheduled and Trump said it was \"not a rush.\"",
+    "key_dates": [
+      {
+        "date": "2025",
+        "event": "Administration says it is considering public offerings of Fannie and Freddie."
+      },
+      {
+        "date": "2026-06-05",
+        "event": "Reports say plan faces new uncertainty; no IPO scheduled."
+      }
+    ],
+    "closeness": "Plans discussed would sell a small share (about 3-15%) while keeping government ties and an implied guarantee, which is smaller than a full wind-down and privatization.",
+    "uncertain": "Whether any steps were taken after June 2026; no newer reporting was found. Status of the Common Securitization Platform was not checked.",
+    "sources": [
+      {
+        "label": "Trump administration's plan to spin off Fannie and Freddie faces new uncertainty",
+        "publisher": "KRDO (AP)",
+        "type": "news",
+        "url": "https://krdo.com/news/2026/06/05/trump-administrations-plan-to-spin-off-mortgage-giants-fannie-and-freddie-faces-new-uncertainty/"
+      },
+      {
+        "label": "Fannie, Freddie IPO awaits Trump's decision on timing",
+        "publisher": "American Banker",
+        "type": "news",
+        "url": "https://www.americanbanker.com/news/fannie-freddie-ipo-awaits-trumps-decision-on-timing"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-055",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No plan to shrink the missions of the Federal Housing Administration or Ginnie Mae was found.",
+    "closeness": "No matching action found.",
+    "uncertain": "A Federal Register search found only routine FHA lender notices, and a web search found no 2025-2026 HUD plan to narrow FHA's or Ginnie Mae's role. Smaller eligibility changes were not reviewed.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-056",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not passed a law requiring FinCEN to publish yearly data on suspicious activity and cash reports, prosecutions, convictions, fines, and private compliance costs.",
+    "closeness": "No action matched.",
+    "uncertain": "Checked the list of 2025-2026 public laws and searched the Federal Register for FinCEN reporting on SAR and CTR results. FinCEN's own voluntary data releases were not reviewed. Newest source: October 2026.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-057",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "In April 2026, FinCEN proposed a rule to \"fundamentally reform\" what anti-money-laundering programs at financial institutions must include, focusing on \"effective, risk-based, and reasonably designed\" programs. Congress has not passed a law requiring the FinCEN and GAO evaluations the chapter describes.",
+    "key_dates": [
+      {
+        "date": "2026-04-10",
+        "event": "FinCEN proposes reform of anti-money-laundering program rules"
+      }
+    ],
+    "closeness": "The proposed rule shares the goal of making the system more effective, but it is a FinCEN rule, not a congressional order for outside evaluations and a public retrospective review.",
+    "uncertain": "Whether FinCEN or GAO is doing a formal effectiveness review was not confirmed. The rule was still a proposal as of the newest source (April 2026).",
+    "sources": [
+      {
+        "label": "Anti-Money Laundering and Countering the Financing of Terrorism Programs (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/10/2026-07033/anti-money-laundering-and-countering-the-financing-of-terrorism-programs"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-058",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In March 2025 FinCEN issued an interim rule ending beneficial ownership reporting for U.S. companies and U.S. owners. A final rule, issued August 11, 2026 and effective August 14, made this permanent. Only certain foreign companies must still report. Congress has not repealed the Corporate Transparency Act.",
+    "key_dates": [
+      {
+        "date": "2025-03-26",
+        "event": "FinCEN interim final rule exempts domestic companies."
+      },
+      {
+        "date": "2026-08-14",
+        "event": "Final rule takes effect, making the exemption permanent."
+      }
+    ],
+    "closeness": "The rule withdrawal matches the recommendation for U.S. small businesses. The law itself was not repealed, and foreign companies still report.",
+    "uncertain": "Whether lawsuits challenge the final rule; none were found. Sources give slightly different dates for the 2025 interim rule. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "FinCEN issues final rule ending beneficial ownership reporting requirement",
+        "publisher": "Sidley Austin",
+        "type": "law-firm",
+        "url": "https://www.sidley.com/en/insights/newsupdates/2026/08/us-fincen-issues-final-rule-ending-beneficial-ownership-reporting-requirement"
+      },
+      {
+        "label": "FinCEN final rule permanently relieves U.S. companies of reporting",
+        "publisher": "BDO",
+        "type": "law-firm",
+        "url": "https://www.bdo.com/insights/tax/fincen-final-rule-permanently-relieves-us-companies-of-beneficial-ownership-reporting-obligations"
+      },
+      {
+        "label": "FinCEN removes CTA reporting for domestic companies",
+        "publisher": "Davis Wright Tremaine",
+        "type": "law-firm",
+        "url": "https://dwt.com/insights/2025/03/corporate-transparency-act-fincen-foreign-only"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-059",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 20, 2025, President Trump signed an executive order directing all agencies to end diversity, equity, inclusion and accessibility (DEIA) offices, positions and plans, and \"equity\" related actions. Treasury, like other agencies, was covered.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive order ending federal DEI programs signed"
+      }
+    ],
+    "closeness": "The order covers Treasury's DEI office and racial equity work across government. A specific notice ending Treasury's Advisory Committee on Racial Equity or its Counselor post was not found.",
+    "uncertain": "The Treasury Advisory Committee on Racial Equity has had no Federal Register notice since August 2024, but no termination notice was found either. Whether Treasury formally ended each of the three named offices was not confirmed.",
+    "sources": [
+      {
+        "label": "Ending Radical and Wasteful Government DEI Programs and Preferencing",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Need an official record (FACA database or Treasury notice) that Treasury's racial equity committee, counselor post and DEIA office were closed."
+  },
+  {
+    "id": "ch22-060",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The January 20, 2025 executive order on DEI programs told agencies to list DEI offices, staff and contracts so they could be ended. No Treasury program of interviewing staff who took part was found.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive order ending federal DEI programs signed"
+      }
+    ],
+    "closeness": "The order gathered information on DEI programs and staff across government, which overlaps with the goal. It did not call for interviews of each participant.",
+    "uncertain": "A web search found government-wide steps (OPM memos telling agencies to list DEI staff, put them on leave and plan layoffs) but no Treasury-specific review or interviews.",
+    "sources": [
+      {
+        "label": "Ending Radical and Wasteful Government DEI Programs and Preferencing",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-061",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public release by Treasury of its past DEI communications and training materials was found.",
+    "closeness": "No action matched the call to make the communications and materials public.",
+    "uncertain": "Searched the Federal Register and ran a news search for a Treasury release of DEI documents; found none. Documents released piecemeal through FOIA requests would not show up in these checks.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-062",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "No rule making past participation in DEI programs grounds for firing Treasury employees was found. After the January 2025 executive order, OPM told agencies to put staff of DEI offices on leave and plan layoffs, and many were laid off across government. Lawsuits say some workers were chosen because of past DEI work rather than their current jobs.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive order ending federal DEI programs signed."
+      },
+      {
+        "date": "2025-12-03",
+        "event": "Former federal employees file a class action in federal court in Washington, D.C. over DEI layoffs."
+      }
+    ],
+    "legal": "A class action filed in December 2025 in the U.S. District Court for the District of Columbia, and a class appeal at the Merit Systems Protection Board, claim the DEI layoffs targeted people rather than positions. No ruling was found.",
+    "closeness": "Only the general direction: DEI jobs were cut government-wide, but no policy says taking part in DEI is grounds for firing, and nothing Treasury-specific was found.",
+    "uncertain": "Whether people were fired for taking part in DEI is an allegation in lawsuits, not a stated policy. Newest source is December 2025.",
+    "sources": [
+      {
+        "label": "Ending Radical and Wasteful Government DEI Programs and Preferencing",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+      },
+      {
+        "label": "Ex-feds axed in DEI purge file class action suit (December 2025)",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/workforce/2025/12/ex-feds-axed-dei-purge-file-class-action-suit/409985"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-063",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public notice that Treasury's Climate Hub was closed was found. Treasury did leave an international climate finance group, ended climate advisory panels, and withdrew climate risk principles for banks in 2025 (see ch22-066).",
+    "closeness": "Related climate steps were taken, but closing the Climate Hub itself was not confirmed.",
+    "uncertain": "Two web searches and a Federal Register search found no notice on the Climate Hub. It may have been closed without a public notice.",
+    "sources": [],
+    "as_of": "2026-10-28",
+    "recheck": "Still unconfirmed whether Treasury's Climate Hub office was closed; needs a Treasury source or news report on its status."
+  },
+  {
+    "id": "ch22-064",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 20, 2025, President Trump ordered withdrawal from the Paris Agreement; the withdrawal took effect on January 27, 2026. On January 7, 2026, a presidential memo began U.S. withdrawal from the U.N. Framework Convention on Climate Change (UNFCCC) and 65 other international bodies. The U.N. received the formal UNFCCC notice on February 27, 2026, so that withdrawal takes effect on February 27, 2027.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive order directs withdrawal from the Paris Agreement."
+      },
+      {
+        "date": "2026-01-07",
+        "event": "Memo withdraws the U.S. from the UNFCCC and 65 other bodies."
+      },
+      {
+        "date": "2026-01-27",
+        "event": "Paris Agreement withdrawal takes effect."
+      },
+      {
+        "date": "2026-02-27",
+        "event": "U.N. receives U.S. notice of UNFCCC withdrawal (effective February 27, 2027)."
+      }
+    ],
+    "closeness": "Direct match on both treaties named in the recommendation. The UNFCCC exit is under way but not yet in effect.",
+    "uncertain": "Some experts say leaving the UNFCCC may need Senate or congressional approval; no lawsuit over it was found in an October 2026 search. Newest source: March 2026.",
+    "sources": [
+      {
+        "label": "Depositary notification C.N.102.2026 (UNFCCC withdrawal, United States)",
+        "publisher": "United Nations Treaty Collection",
+        "type": "government",
+        "url": "https://treaties.un.org/doc/Publication/CN/2026/CN.102.2026-Eng.pdf"
+      },
+      {
+        "label": "Putting America First in International Environmental Agreements",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/"
+      },
+      {
+        "label": "Paris Climate Agreement tracker",
+        "publisher": "Harvard Environmental & Energy Law Program",
+        "type": "academic",
+        "url": "https://eelp.law.harvard.edu/tracker/paris-climate-agreement"
+      },
+      {
+        "label": "US set to exit UN climate convention in February 2027",
+        "publisher": "Climate Home News",
+        "type": "news",
+        "url": "https://www.climatechangenews.com/2026/03/04/us-set-to-exit-un-climate-convention-in-february-2027/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-065",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On January 20, 2025, President Trump signed the \"Unleashing American Energy\" executive order, directing agencies to remove barriers to domestic energy production, including oil and gas. Treasury Secretary Bessent pressed the World Bank in September 2025 and again in October 2026 to drop its ban on financing upstream oil and gas projects. No Treasury program to promote domestic oil and gas investment was found.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Unleashing American Energy executive order signed"
+      },
+      {
+        "date": "2026-10-14",
+        "event": "Bessent asks the World Bank to retire its ban on upstream oil and gas financing"
+      }
+    ],
+    "closeness": "The order sets a government-wide pro-production direction, and Treasury used its World Bank role to back oil and gas abroad. The chapter asked for Treasury tools to promote domestic investment, which was not found.",
+    "uncertain": "The World Bank had not changed its rule as of October 2026. Energy tax changes in the July 2025 law are a separate matter and not counted here.",
+    "sources": [
+      {
+        "label": "Unleashing American Energy",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01956/unleashing-american-energy"
+      },
+      {
+        "label": "Bessent calls for World Bank reforms, including upstream oil and gas financing (October 2026)",
+        "publisher": "Mining Weekly (Reuters)",
+        "type": "news",
+        "url": "https://www.miningweekly.com/article/bessent-calls-for-world-bank-reforms-including-upstream-oil-and-gas-financing-2026-10-15"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-066",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 30, 2025, Treasury's Federal Insurance Office left the Network for Greening the Financial System, a global group of regulators working on climate risk. On September 10, 2025, the Financial Stability Oversight Council, chaired by Treasury Secretary Bessent, ended its climate risk committee and advisory group. In October 2025 the bank regulators withdrew their climate risk principles for large banks.",
+    "key_dates": [
+      {
+        "date": "2025-01-30",
+        "event": "Treasury office leaves the Network for Greening the Financial System"
+      },
+      {
+        "date": "2025-09-10",
+        "event": "FSOC ends its climate risk committee and advisory group"
+      },
+      {
+        "date": "2025-10-16",
+        "event": "Bank regulators withdraw climate risk principles for large banks"
+      }
+    ],
+    "closeness": "These steps pull Treasury back from climate-focused finance groups, which fits the goal. No step specifically about the Principles for Responsible Investment was found.",
+    "uncertain": "The FSOC step is confirmed by an academic tracker and news reports, not a Treasury release. No step specifically about the Principles for Responsible Investment was found.",
+    "sources": [
+      {
+        "label": "Treasury statement on withdrawal from the NGFS (January 30, 2025)",
+        "publisher": "U.S. Department of the Treasury",
+        "type": "government",
+        "url": "https://content.govdelivery.com/accounts/USTREAS/bulletins/3cfba50?reqfrom=share"
+      },
+      {
+        "label": "Climate backtracker: Department of the Treasury",
+        "publisher": "Sabin Center for Climate Change Law, Columbia University",
+        "type": "academic",
+        "url": "https://climate.law.columbia.edu/content/department-treasury"
+      },
+      {
+        "label": "Treasury Department exits global regulatory climate coalition NGFS",
+        "publisher": "ESG Dive",
+        "type": "news",
+        "url": "https://www.esgdive.com/news/treasury-department-exits-global-regulatory-climate-coalition-ngfs/739062/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-067",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No move of the Coast Guard or ATF back to Treasury was found. The administration's fiscal 2026 budget instead proposed merging ATF into the Drug Enforcement Administration; Congress's spending bills resisted it, and later reports said the plan was dropped.",
+    "closeness": "No matching action found. The ATF-DEA merger idea is a different change.",
+    "uncertain": "A Federal Register search and a web search found no bill to move either agency to Treasury.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-068",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The U.S. Trade and Development Agency was not eliminated. Congress gave it $87 million for fiscal 2026, the same as each year from 2023 to 2025. A report says the administration has mostly spared it from foreign aid cuts, and its 2027 budget request sought wider authority.",
+    "closeness": "The action ran opposite to the recommendation: the agency was kept at level funding. During the first Trump administration, a proposal to eliminate it was rejected by Congress.",
+    "uncertain": "The $87 million fiscal 2026 amount is confirmed in Public Law 119-75 (February 3, 2026). The agency's project spending fell to $38 million in fiscal 2025, per a news report from August 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-75 (Further Consolidated Appropriations, February 3, 2026)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "USTDA seeks authority to operate in strategic markets",
+        "publisher": "Legis1",
+        "type": "news",
+        "url": "https://legis1.com/news/ustda-trade-development-agency-1-seeks-authority"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch22-044",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "Congress let the Treasury buy more ownership in several international lenders. A funding law signed November 12, 2025 allowed up to 40,000 more paid-in shares of the European Bank for Reconstruction and Development. The appropriations law signed February 3, 2026 allowed more shares of the Inter-American Investment Corporation, a $3.2 billion U.S. pledge to the World Bank's International Development Association, and a callable capital increase at the African Development Bank.",
+    "key_dates": [
+      {
+        "date": "2025-11-12",
+        "event": "P.L. 119-37 authorizes a U.S. capital increase at the EBRD."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "P.L. 119-75 authorizes more shares in the IDB Invest and AfDB and the IDA replenishment."
+      }
+    ],
+    "closeness": "The recommendation asked the U.S. to weigh raising or lowering its stakes to gain the most leverage. These laws raised some U.S. stakes; no decision to lower a stake, and no stated leverage strategy behind these steps, was found.",
+    "uncertain": "Whether Treasury has completed the subscriptions was not checked. Treasury's reasons were not reviewed. Newest source: February 2026 law.",
+    "sources": [
+      {
+        "label": "Public Law 119-37 (continuing appropriations, Nov. 12, 2025), sec. 160",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/html/PLAW-119publ37.htm"
+      },
+      {
+        "label": "Public Law 119-75 (Consolidated Appropriations Act, 2026), sec. 7070",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "ch08-008",
+    "case_against": "Voice of America matters abroad because listeners trust it as real news, not government messaging. Congress wrote a promise of editorial independence into law in 2020, and agency rules set up a firewall to protect it. Putting VOA directly under the White House National Security Council would make it a political mouthpiece. That would hand rival governments an easy way to dismiss it as propaganda.",
+    "harms": [
+      {"who": "People living under censorship abroad", "what": "U.S.-funded networks reached an estimated 350 million people in 62 languages, often in places without a free press. Their trust depends on independence."},
+      {"who": "VOA journalists", "what": "Reporters would answer to political officials, which puts pressure on what they can report."}
+    ],
+    "history": [
+      {"when": "1971-1973, Radio Free Europe and Radio Liberty", "what": "The CIA had funded Radio Free Europe and Radio Liberty until it ended that funding in 1971. To make U.S. broadcasting more open, Congress then set up an independent, bipartisan board in 1973 to oversee and fund them.", "lesson": "Congress decided that U.S. broadcasting works best at arm's length from the government. Putting VOA under the NSC would undo that lesson."}
+    ],
+    "sources": [
+      {"label": "U.S. Agency for Global Media: Background, Governance, and Issues for Congress (R46968)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R46968.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch08-013",
+    "case_against": "U.S. international broadcasters give accurate news to people whose governments block a free press. They reached an estimated 350 million people in 62 languages. Shutting them down leaves those audiences with mostly state-controlled media. In 2025 about 85% of USAGM jobs were cut and most VOA staff were put on leave, even though Congress kept funding the agency.",
+    "harms": [
+      {"who": "Audiences in countries with censored media", "what": "They lose one of the few sources of independent news in their own language."},
+      {"who": "USAGM and VOA employees", "what": "About 85% of USAGM jobs were eliminated by mid-2025, according to reporting on the cuts."}
+    ],
+    "sources": [
+      {"label": "U.S. Agency for Global Media: Background, Governance, and Issues for Congress (R46968)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R46968.html"},
+      {"label": "Voice of America staff terminations", "publisher": "Politico", "type": "news", "url": "https://www.politico.com/news/2025/06/20/voice-of-america-staff-terminations-00415425"},
+      {"label": "Continuing the reduction of the federal bureaucracy (executive order)", "publisher": "The White House", "type": "government", "url": "https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch08-014",
+    "case_against": "Most federal money for public broadcasting, 89%, went to local stations and producers, not to NPR or PBS headquarters. For rural stations serving small, spread-out audiences, it was often a much bigger share of their budget than the national average. Since Congress canceled the money in 2025, some of the nearly 1,500 stations that got it have announced cuts or plans to shut down. Public stations also help carry emergency alerts in places where cell and internet service are weak.",
+    "harms": [
+      {"who": "Rural communities", "what": "CRS says rural stations often relied on these grants far more than average because they had fewer other ways to raise money."},
+      {"who": "People in disasters", "what": "Emergency officials have pointed to public broadcasting's role in alerts where cell and internet service are missing or knocked out."},
+      {"who": "Children and families", "what": "Stations that cut programs or close can offer less of the free educational programming that public broadcasting was created to provide."}
+    ],
+    "sources": [
+      {"label": "Public Broadcasting: Background Information and Issues for Congress (R48545)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R48545.html"},
+      {"label": "CPB to shut down after losing federal funding", "publisher": "NPR", "type": "news", "url": "https://www.npr.org/2025/08/01/nx-s1-5489808/cpb-shut-down-public-broadcasting-trump"},
+      {"label": "Rescissions Act of 2025 (H.R. 4) text", "publisher": "LegiScan", "type": "government", "url": "https://legiscan.com/US/text/HB4/2025"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch08-016",
+    "case_against": "This would punish local stations for being linked to NPR or PBS, not for anything they did wrong. Many of these stations are already cutting staff or closing after losing federal grants in 2025. Taking away the benefits of noncommercial status, which the proposal itself calls privileges, would add new costs at the worst time. Rural stations, which depend most on outside support, would likely be hit hardest.",
+    "harms": [
+      {"who": "Local public radio and TV stations", "what": "Stations already hurt by the loss of federal grants would face new costs and could lose their protected place on the dial."},
+      {"who": "Listeners in rural areas", "what": "CRS notes rural stations have fewer funding options, so more of them could go off the air."}
+    ],
+    "sources": [
+      {"label": "Public Broadcasting: Background Information and Issues for Congress (R48545)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R48545.html"}
+    ],
+    "recheck": "The specific costs stations would face without noncommercial status are not quantified in the sources found.",
+    "as_of": "2026-10-27"
+  }
+]

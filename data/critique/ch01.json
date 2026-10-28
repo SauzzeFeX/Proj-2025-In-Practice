@@ -1,0 +1,21 @@
+[
+  {
+    "id": "ch01-007",
+    "case_against": "Planning \"early\" for Schedule F means planning, from day one, to take job protections away from career experts so they can be fired more easily. Those protections exist so that civil servants can give honest advice and enforce the law the same way no matter which party is in power. The U.S. tried a system where government jobs depended on political loyalty, and it ended after a disappointed job-seeker shot a president. Bringing back loyalty-based job security, even for a smaller group, risks pushing out the experts the public relies on.",
+    "harms": [
+      {"who": "Career federal experts", "what": "About 8,000 employees were moved into the new category in June 2026. They lose the usual notice and appeal rights before being removed, according to the Congressional Research Service."},
+      {"who": "The public that relies on federal services", "what": "Workers who fear being fired for unwelcome facts may be less willing to give honest analysis on safety, health or budget questions."}
+    ],
+    "history": [
+      {"when": "1881-1883, Washington, D.C.", "what": "Under the spoils system, federal jobs went to party loyalists and workers could be fired for not supporting the party in power. In 1881 Charles Guiteau, who had expected a government post as a reward, shot President James Garfield. Congress then passed the Pendleton Civil Service Act in 1883, making many federal jobs depend on merit exams instead of loyalty.", "lesson": "The country chose merit protections after seeing the costs of loyalty-based hiring. Schedule F covers far fewer jobs than the old spoils system, but it moves in the same direction: job security tied to political trust."}
+    ],
+    "sources": [
+      {"label": "Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce (EO 14171)", "publisher": "The White House", "type": "government", "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/"},
+      {"label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges, and Issues for Lawmakers (LSB11412)", "publisher": "Congressional Research Service via EveryCRSReport", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB11412.html"},
+      {"label": "Trump moves about 8,000 federal positions to Schedule Policy/Career", "publisher": "Federal News Network", "type": "news", "url": "https://federalnewsnetwork.com/workforce/2026/06/trump-moves-about-8000-federal-positions-to-schedule-policy-career/"},
+      {"label": "Pendleton Act (1883)", "publisher": "National Archives", "type": "government", "url": "https://www.archives.gov/milestone-documents/pendleton-act"},
+      {"label": "How Garfield's assassination led to reforms of the spoils system", "publisher": "History.com", "type": "news", "url": "https://www.history.com/articles/garfield-assassination-spoils-system-reforms-federal-employees"}
+    ],
+    "as_of": "2026-10-27"
+  }
+]

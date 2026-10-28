@@ -1,0 +1,510 @@
+[
+  {
+    "id": "ch18-004",
+    "case_against": "Disparate impact rules catch hiring practices that shut people out even when no one can prove a bad motive. In 1971 the Supreme Court said Title VII targets the effects of job tests, not only intent, because tests unrelated to the job can act as \"built-in headwinds\" for minority workers. Dropping this tool would make it much harder to challenge unfair screens that are hard to see from the outside. Agencies have already removed it from many of their own rules.",
+    "harms": [
+      {
+        "who": "Black and Latino job seekers",
+        "what": "Would lose a main way to challenge tests, degree rules or screens that filter them out without being tied to the actual job."
+      },
+      {
+        "who": "Workers who cannot prove intent",
+        "what": "Bias today is often hidden in neutral-looking rules. Without disparate impact, a worker would usually have to prove a bad motive, which is rarely written down."
+      }
+    ],
+    "history": [
+      {
+        "when": "1971, Griggs v. Duke Power Co.",
+        "what": "Duke Power required a high school diploma or an intelligence test for better jobs at its North Carolina plant. Neither was shown to predict job performance, and both shut out Black workers at far higher rates. The Supreme Court ruled unanimously that this broke Title VII.",
+        "lesson": "Practices that look neutral can lock people out as well as open bias can. Ending disparate impact removes the rule that came from this case."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Griggs v. Duke Power Co., 401 U.S. 424 (1971)",
+        "publisher": "Library of Congress (U.S. Reports)",
+        "type": "court",
+        "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep401/usrep401424/usrep401424.pdf"
+      },
+      {
+        "label": "Executive Order 14281: Restoring Equality of Opportunity and Meritocracy",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/04/restoring-equality-of-opportunity-and-meritocracy/"
+      },
+      {
+        "label": "Rescinding portions of DOJ Title VI regulations",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/10/2025-22448/rescinding-portions-of-department-of-justice-title-vi-regulations-to-conform-more-closely-with-the"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-006",
+    "case_against": "Executive Order 11246 required federal contractors, who are paid with tax money, to avoid job discrimination and to check their own hiring and pay. It dates to 1965, and orders like it go back to 1941, so it was used by presidents of both parties for decades. Revoking it ends the office that audited contractors, leaving workers to find and sue over problems on their own. Laws against discrimination still apply, but no one is checking contractor records before problems grow.",
+    "harms": [
+      {
+        "who": "Women and minority workers at federal contractors",
+        "what": "Lose the audits that looked at contractor hiring and pay records and could find patterns of unequal treatment."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Public money can flow to companies with unfair hiring practices, with no regular review before contracts are paid."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Rescission of Executive Order 11246: Legal Implications (LSB11268)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11268.html"
+      },
+      {
+        "label": "Executive Order 14173: Ending Illegal Discrimination and Restoring Merit-Based Opportunity",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/"
+      },
+      {
+        "label": "OFCCP completes overhaul of federal contractor compliance framework",
+        "publisher": "Crowell & Moring",
+        "type": "law-firm",
+        "url": "https://www.crowell.com/en/insights/client-alerts/ofccp-completes-overhaul-of-federal-contractor-compliance-framework-three-final-rules-rescind-eo-11246-regulations-narrow-section-503-affirmative-action"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-007",
+    "case_against": "In Bostock (2020), the Supreme Court held that firing someone for being gay or transgender is sex discrimination. Limiting that ruling to hiring and firing would leave LGBTQ workers with less protection from harassment, unequal pay or unfair treatment on the job, even though the law covers all \"terms, conditions, or privileges\" of work. The EEOC has already withdrawn the guidance that said such harassment can be illegal. That leaves workers and employers less sure where the line is.",
+    "harms": [
+      {
+        "who": "Gay, lesbian, bisexual and transgender workers",
+        "what": "Could face harassment or unequal treatment at work with weaker federal help, as long as they are not fired."
+      },
+      {
+        "who": "Employers",
+        "what": "Face confusion when federal guidance differs from what courts may still rule under Bostock."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Bostock v. Clayton County (2020)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/19pdf/17-1618_hfci.pdf"
+      },
+      {
+        "label": "EEOC withdraws previous harassment guidance",
+        "publisher": "KSMU / NPR",
+        "type": "news",
+        "url": "https://www.ksmu.org/2026-01-24/eeoc-withdraws-previous-harassment-guidance"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-009",
+    "case_against": "The Supreme Court ruled in Bostock that discrimination for being gay or transgender is a form of sex discrimination, because it treats a person differently based on sex. Ordering agencies to drop rules built on that reading means federal agencies would stop enforcing protections the Court recognized. Workers would then have to go to court on their own to get the protection the Court already described.",
+    "harms": [
+      {
+        "who": "LGBTQ workers, students and patients",
+        "what": "Lose federal agency help when they face discrimination, and must rely on slower, costly private lawsuits."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Bostock v. Clayton County (2020)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/19pdf/17-1618_hfci.pdf"
+      },
+      {
+        "label": "Executive Order 14168",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+      },
+      {
+        "label": "EEOC rescinds 2024 sexual orientation and gender identity harassment guidance",
+        "publisher": "Bricker Graydon",
+        "type": "law-firm",
+        "url": "https://www.bricker.com/employment-law-report/eeoc-rescinds-2024-sexual-orientation-and-gender-identity-based-harassment-guidance"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-010",
+    "case_against": "Enforcing sex-discrimination laws only by a strict two-sex definition means federal agencies would not protect transgender people who face bias, even though the Supreme Court in Bostock said such bias is sex discrimination. The same order has also been used to change how passports list sex, which can cause problems for people whose papers no longer match how they live. Courts are still hearing challenges.",
+    "harms": [
+      {
+        "who": "Transgender and nonbinary people",
+        "what": "Lose federal enforcement against discrimination and may hold ID papers that do not match how they look and live, which can cause trouble at travel and work checks."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Executive Order 14168",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+      },
+      {
+        "label": "Bostock v. Clayton County (2020)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/19pdf/17-1618_hfci.pdf"
+      },
+      {
+        "label": "Orr v. Trump, application appendix",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/DocketPDF/25/25A319/375147/20250919104505499_Orr_Appendix_FINAL.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-030",
+    "case_against": "The federal minimum wage and overtime law protects only employees, not independent contractors. A looser test makes it easier for companies to label workers as contractors, so they lose those protections. The Congressional Research Service notes that misclassification can mean money lost for the worker and lost tax revenue for federal and state governments.",
+    "harms": [
+      {
+        "who": "Delivery, rideshare, home care and construction workers",
+        "what": "Could be labeled contractors and lose the minimum wage, overtime pay, and employer payments toward unemployment insurance and Social Security."
+      },
+      {
+        "who": "Federal and state budgets",
+        "what": "Lose payroll tax money when workers are treated as contractors."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Department of Labor's 2024 Independent Contractor Rule (LSB11156)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11156.html"
+      },
+      {
+        "label": "DOL's proposed 2026 independent contractor rule",
+        "publisher": "Jackson Lewis",
+        "type": "law-firm",
+        "url": "https://www.jacksonlewis.com/insights/dols-proposed-2026-independent-contractor-rule-what-employers-need-know"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-031",
+    "case_against": "Writing a narrow control-only test into law would lock in a definition that makes it easier to treat workers as contractors, and it would be much harder to fix than an agency rule. Because minimum wage and overtime rights belong only to employees, many workers could lose them. The Congressional Research Service notes misclassification costs both workers and government tax revenue.",
+    "harms": [
+      {
+        "who": "Low-wage workers in app-based and service jobs",
+        "what": "Could permanently lose minimum wage, overtime, and job-related benefits if a narrow test becomes federal law."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Department of Labor's 2024 Independent Contractor Rule (LSB11156)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11156.html"
+      },
+      {
+        "label": "Representative Kiley introduces two bills to support independent contractors",
+        "publisher": "Office of Rep. Kevin Kiley",
+        "type": "government",
+        "url": "https://kiley.house.gov/posts/representative-kiley-introduces-two-bills-to-support-independent-contractors"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-033",
+    "case_against": "Many people work through franchises, staffing agencies or subcontractors, where a larger company sets the rules but does not sign the paycheck. A narrow joint-employer test that counts only direct and immediate control lets that larger company avoid responsibility for unpaid wages or labor-law violations. Workers would often be left bargaining with or suing only a small middleman that may not have the power or money to fix problems.",
+    "harms": [
+      {
+        "who": "Franchise, warehouse and temp-agency workers",
+        "what": "Could be unable to hold the company with real power over their jobs responsible for unpaid wages or illegal treatment."
+      },
+      {
+        "who": "Workers trying to form unions",
+        "what": "May have to bargain only with a staffing firm or franchisee that cannot change the rules set by the larger company."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NLRB and DOL publish significant rules on joint employment and independent contractors",
+        "publisher": "Benesch",
+        "type": "law-firm",
+        "url": "https://www.beneschlaw.com/insight/nlrb-and-dol-publish-significant-rules-governing-joint-employment-and-independent-contractor-classification/pdf/"
+      },
+      {
+        "label": "US Department of Labor proposes new rule on joint employer status",
+        "publisher": "K&L Gates",
+        "type": "law-firm",
+        "url": "https://www.klgates.com/thought-leadership/US-Department-of-Labor-Proposes-New-Rule-on-Joint-Employer-Status-4-27-2026"
+      }
+    ],
+    "recheck": "No study measuring how many workers are affected by the joint-employer standard was found during this session.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-064",
+    "case_against": "Requiring a secret-ballot election in every case gives employers weeks to campaign against a union, and some break the law while doing it. In its 2023 Cemex decision the labor board found more than 20 cases of unlawful or objectionable employer conduct between the filing and the vote in a single campaign. In 2026 a federal appeals court upheld findings that another employer illegally gave workers gifts and benefits during an election campaign. Banning card check would remove a path to recognition when an election has been tainted.",
+    "harms": [
+      {
+        "who": "Workers trying to organize",
+        "what": "Could see a majority's signed support erased by a drawn-out election period in which illegal pressure is hard to undo."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Board issues decision announcing new framework for union representation proceedings (Cemex)",
+        "publisher": "National Labor Relations Board",
+        "type": "government",
+        "url": "https://www.nlrb.gov/news-outreach/news-story/board-issues-decision-announcing-new-framework-for-union-representation"
+      },
+      {
+        "label": "Sixth Circuit rejects the NLRB's Cemex bargaining order standard",
+        "publisher": "Morgan Lewis",
+        "type": "law-firm",
+        "url": "https://www.morganlewis.com/pubs/2026/03/sixth-circuit-rejects-the-nlrbs-cemex-bargaining-order-standard"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-066",
+    "case_against": "Federal laws like the minimum wage and the rule of time-and-a-half after 40 hours are floors that every covered worker gets. Turning them into \"negotiable defaults\" would let them be traded away in bargaining, so workers could end up with less than the law now guarantees. Weaker unions, or workers under pressure, could be pushed to give up protections that people outside unions still have.",
+    "harms": [
+      {
+        "who": "Union members",
+        "what": "Could be asked to give up overtime pay or other legal protections in exchange for other contract terms."
+      },
+      {
+        "who": "Workers at companies with weak bargaining power",
+        "what": "Would have the least ability to refuse giving up legal minimums."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Department of Labor's 2024 Independent Contractor Rule (explains FLSA minimum wage and overtime)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11156.html"
+      }
+    ],
+    "recheck": "This argument rests on how the law works; no study of a real negotiable-defaults system was found during this session.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-068",
+    "case_against": "Since 1931 the Davis-Bacon Act has required contractors on federally funded building projects to pay the wages common in the local area. Repealing it would let contractors win federal jobs by paying construction workers less than the local going rate, using public money to push wages down. Even the chapter's main author warns against this idea; it is offered by other conservatives as an alternative.",
+    "harms": [
+      {
+        "who": "Construction workers on federal projects",
+        "what": "Could see lower pay, since contractors would no longer have to match local wages."
+      },
+      {
+        "who": "Local contractors who pay standard wages",
+        "what": "Could be underbid by firms that bring in lower-paid crews."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Davis-Bacon Act: 2022 Proposed Rule (IF12196)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12196.html"
+      },
+      {
+        "label": "Burlison, Lee introduce Davis-Bacon Repeal Act",
+        "publisher": "Office of Rep. Eric Burlison",
+        "type": "government",
+        "url": "https://burlison.house.gov/media/press-releases/burlison-lee-introduce-davis-bacon-repeal-act-cut-federal-construction-costs"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-072",
+    "case_against": "The Fair Labor Standards Act of 1938 set one national floor for minimum wage, overtime and child labor so that states could not compete by lowering protections. Letting states waive federal labor laws would bring back that race to the bottom. Before national rules, child labor and unsafe work were widespread, and early federal efforts to stop child labor were struck down until 1938.",
+    "harms": [
+      {
+        "who": "Low-wage workers in states that seek waivers",
+        "what": "Could lose federal minimum wage, overtime or union rights that workers in other states keep."
+      },
+      {
+        "who": "Teenagers and children",
+        "what": "Could face weaker limits on hours and dangerous jobs if child labor rules are waived."
+      }
+    ],
+    "history": [
+      {
+        "when": "1890-1938, United States",
+        "what": "The number of children under 15 working for wages in industry rose from 1.5 million in 1890 to 2 million in 1910. Congress passed a child labor law in 1916, but it was struck down. A lasting national floor came only with the Fair Labor Standards Act of 1938.",
+        "lesson": "When states set their own rules, children and low-wage workers were left unprotected for decades. A national floor fixed that; waivers would weaken it."
+      },
+      {
+        "when": "March 25, 1911, New York City",
+        "what": "A fire at the Triangle Waist Factory killed 146 people in 18 minutes. New York then passed dozens of new labor and fire-safety laws that became a model for the country.",
+        "lesson": "Worker protections were often written after disasters. This was a state reform, not a federal one, but it shows what weak safety rules can cost."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Photographs of Lewis Hine: Documentation of Child Labor",
+        "publisher": "National Archives",
+        "type": "government",
+        "url": "https://www.archives.gov/education/lessons/hine-photos"
+      },
+      {
+        "label": "The Fair Labor Standards Act (FLSA) Child Labor Provisions (R44548)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44548.html"
+      },
+      {
+        "label": "The Triangle Factory Fire",
+        "publisher": "Cornell University ILR School, Kheel Center",
+        "type": "academic",
+        "url": "https://trianglefire.ilr.cornell.edu/"
+      },
+      {
+        "label": "Triangle Fire legacy",
+        "publisher": "Cornell University ILR School, Kheel Center",
+        "type": "academic",
+        "url": "https://trianglefire.ilr.cornell.edu/legacy/index.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-089",
+    "case_against": "H-2A guest workers fill a real share of farm jobs: about 125,000 full-time-equivalent jobs, or 11 percent of U.S. crop farm jobs, in fiscal 2021, according to a UC Davis analysis cited by the Congressional Research Service. Capping and phasing out the program could leave crops unpicked and push up food prices. The chapter's own alternative view makes this point.",
+    "harms": [
+      {
+        "who": "Fruit and vegetable farmers",
+        "what": "Could lose a legal workforce they rely on at harvest, with few other workers available."
+      },
+      {
+        "who": "Shoppers",
+        "what": "Could pay more for produce if labor shortages cut harvests or raise costs."
+      }
+    ],
+    "sources": [
+      {
+        "label": "H-2A and H-2B Temporary Worker Visas: Policy and Related Issues (R44849)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44849.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-091",
+    "case_against": "H-2B workers fill seasonal jobs such as landscaping, amusement park work, housekeeping, and meat, poultry and fish processing. Demand is high enough that the government added up to 64,716 extra visas for fiscal 2026, on top of the 66,000 set by law. Phasing out the program could leave seasonal businesses short-staffed, as the chapter's own alternative view warns.",
+    "harms": [
+      {
+        "who": "Seasonal businesses such as landscapers, resorts and seafood plants",
+        "what": "Could be unable to fill peak-season jobs and may cut operations."
+      },
+      {
+        "who": "U.S. workers at those businesses",
+        "what": "Could lose hours or jobs if a business cannot run at full capacity."
+      }
+    ],
+    "sources": [
+      {
+        "label": "H-2A and H-2B Temporary Worker Visas: Policy and Related Issues (R44849)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44849.html"
+      },
+      {
+        "label": "Temporary increase in H-2B numerical limitation for FY 2026",
+        "publisher": "Federal Register (govinfo)",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-03/pdf/2026-02131.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-092",
+    "case_against": "A rule that 70 percent of a contractor's workers must be citizens would push companies to turn away legal permanent residents, refugees and other people who are allowed to work. Federal law has barred most employers from discriminating based on citizenship status against such protected workers since 1986. A quota would also limit contractors' ability to hire the best-qualified people, as the chapter's own alternative view notes.",
+    "harms": [
+      {
+        "who": "Green card holders, refugees and asylees",
+        "what": "Could be passed over for jobs with federal contractors even though they are legally allowed to work."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Could pay more if contractors must hire by quota instead of by skill and cost."
+      }
+    ],
+    "sources": [
+      {
+        "label": "8 U.S. Code 1324b: Unfair immigration-related employment practices",
+        "publisher": "Cornell Law School, Legal Information Institute",
+        "type": "academic",
+        "url": "https://www.law.cornell.edu/uscode/text/8/1324b"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-093",
+    "case_against": "Since 1986, federal law has barred most employers from discriminating against \"protected\" noncitizens, such as green card holders and refugees, because of their citizenship status. Removing that protection would let employers turn away people who are legally allowed to work here, many of whom are on the path to citizenship. It could also lead to bias against anyone who looks or sounds foreign, including citizens.",
+    "harms": [
+      {
+        "who": "Legal permanent residents and refugees",
+        "what": "Could be refused jobs only because they are not yet citizens."
+      },
+      {
+        "who": "Citizens who are seen as foreign",
+        "what": "Could face more questions and bias in hiring if citizenship preferences become legal."
+      }
+    ],
+    "sources": [
+      {
+        "label": "8 U.S. Code 1324b: Unfair immigration-related employment practices",
+        "publisher": "Cornell Law School, Legal Information Institute",
+        "type": "academic",
+        "url": "https://www.law.cornell.edu/uscode/text/8/1324b"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch18-098",
+    "case_against": "The Labor Department's budget pays for the inspectors who enforce wage, safety and mine-safety laws, including the Wage and Hour Division, OSHA and the Mine Safety and Health Administration. Cutting it to about $10.9 billion, well below the $13.7 billion Congress chose for 2026, would likely mean fewer inspections and less job training. Congress itself rejected an even deeper cut in the 2026 budget.",
+    "harms": [
+      {
+        "who": "Workers in dangerous jobs like mining and construction",
+        "what": "Could face fewer safety inspections."
+      },
+      {
+        "who": "Low-wage workers",
+        "what": "Could find it harder to recover stolen wages if there are fewer investigators."
+      },
+      {
+        "who": "Job seekers",
+        "what": "Could lose access to training programs funded through the department."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Labor, Health and Human Services, and Education: FY2026 Appropriations (R48970)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48970.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

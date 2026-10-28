@@ -1,0 +1,814 @@
+[
+  {
+    "id": "ch14-026",
+    "case_against": "The FDA approved mifepristone in 2000 after a full scientific review and says its regular reviews of safety data since then support that it is safe and effective. It is also approved in about 100 other countries. Taking it off the market would override that scientific record and remove the most common method of early abortion, as well as a drug doctors also use to manage miscarriage. Reversing an approval for political reasons could also weaken trust in how the FDA approves any drug.",
+    "harms": [
+      {
+        "who": "People seeking an early abortion",
+        "what": "They would lose a method that FDA reviews have repeatedly found safe and effective, and some would face longer travel or later procedures."
+      },
+      {
+        "who": "Patients having a miscarriage",
+        "what": "Mifepristone is also used in miscarriage care, so losing it could limit their treatment options."
+      },
+      {
+        "who": "Drug makers and patients relying on other approved medicines",
+        "what": "Pulling an approval without new safety evidence could make any FDA approval less certain."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Questions and Answers on Mifepristone for Medical Termination of Pregnancy Through Ten Weeks Gestation",
+        "publisher": "U.S. Food and Drug Administration",
+        "type": "government",
+        "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/questions-and-answers-mifepristone-medical-termination-pregnancy-through-ten-weeks-gestation"
+      },
+      {
+        "label": "FDA Regulation of Medication Abortion: Recent Legal Developments (LSB10919)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB10919.html"
+      },
+      {
+        "label": "Politics, Science, and the Future of FDA Drug Regulation: FDA's Review of Mifepristone REMS as a Litmus Test",
+        "publisher": "JAMA",
+        "type": "academic",
+        "url": "https://jamanetwork.com/journals/jama/fullarticle/2843714"
+      }
+    ],
+    "recheck": "The miscarriage-care use of mifepristone is widely reported but is not stated in the cited sources; add a direct source.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-027",
+    "case_against": "Requiring patients to pick up mifepristone in person would end telehealth access without a safety reason to do so. A 2024 study in Nature Medicine of more than 6,000 telehealth abortions found 97.7% were complete without further treatment and serious adverse events happened in 0.25% of cases, similar to in-person care. KFF reports that about 16% of abortions are medication abortions provided by telehealth. Ending that option would hit hardest those who live far from a clinic.",
+    "harms": [
+      {
+        "who": "Patients in rural areas and states with few clinics",
+        "what": "They would have to travel, sometimes long distances, to get a pill they can now safely receive by mail."
+      },
+      {
+        "who": "Low-income workers and parents",
+        "what": "Travel and time off work add costs that can delay care until later in pregnancy."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Telehealth medication abortion is safe and effective, study finds",
+        "publisher": "STAT",
+        "type": "news",
+        "url": "https://www.statnews.com/2024/02/15/telehealth-medication-abortion-safe-effective-study-finds/"
+      },
+      {
+        "label": "The Comstock Act: Implications for Abortion Care Nationwide",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/womens-health-policy/issue-brief/the-comstock-act-implications-for-abortion-care-nationwide/"
+      },
+      {
+        "label": "Supreme Court Stays Fifth Circuit Order Banning Telehealth Prescribing and Mail Dispensing of Mifepristone",
+        "publisher": "Goodwin",
+        "type": "law-firm",
+        "url": "https://www.goodwinlaw.com/en/insights/publications/2026/05/alerts-practices-hltc-supreme-court-stays-order-banning-prescribing-mail-dispensing-mifepristone"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-028",
+    "case_against": "The FDA loosened mifepristone's rules in 2016, including extending use from 49 to 70 days of pregnancy, after reviewing safety and effectiveness data. Going back to the old limits would ignore that review. A 49-day cutoff would shut out anyone more than seven weeks pregnant from a method the FDA found safe through ten weeks, leaving them only procedures or travel.",
+    "harms": [
+      {
+        "who": "People more than seven weeks pregnant",
+        "what": "A 49-day limit would rule out pills for them, even though the FDA found use through 70 days safe and effective."
+      },
+      {
+        "who": "Patients far from clinics",
+        "what": "Restoring in-person rules would end mail delivery, adding travel and cost."
+      }
+    ],
+    "sources": [
+      {
+        "label": "FDA Regulation of Medication Abortion: Recent Legal Developments (LSB10919)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB10919.html"
+      },
+      {
+        "label": "Questions and Answers on Mifepristone for Medical Termination of Pregnancy Through Ten Weeks Gestation",
+        "publisher": "U.S. Food and Drug Administration",
+        "type": "government",
+        "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/questions-and-answers-mifepristone-medical-termination-pregnancy-through-ten-weeks-gestation"
+      },
+      {
+        "label": "Telehealth medication abortion is safe and effective, study finds",
+        "publisher": "STAT",
+        "type": "news",
+        "url": "https://www.statnews.com/2024/02/15/telehealth-medication-abortion-safe-effective-study-finds/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-031",
+    "case_against": "This recommendation rests on reading the 1873 Comstock Act to ban mailing abortion pills. The Justice Department's legal office concluded in 2022 that the law does not bar mailing these drugs when the sender does not intend them to be used illegally. KFF notes the law has not been used to prosecute mailing abortion materials in the last 50 years, and that a literal reading could reach supplies used for all abortion care and some miscarriage care.",
+    "harms": [
+      {
+        "who": "Patients who rely on mail delivery",
+        "what": "About 16% of abortions are medication abortions by telehealth, according to KFF, and they would lose that option."
+      },
+      {
+        "who": "Pharmacies and doctors",
+        "what": "They could face legal risk for shipping drugs that are FDA-approved and legal in many states."
+      }
+    ],
+    "history": [
+      {
+        "when": "1873 to 1971, United States",
+        "what": "The Comstock Act of 1873 banned mailing anything meant to prevent pregnancy or cause an abortion. Courts narrowed it in the 1930s for contraception, and after the Supreme Court's 1965 Griswold ruling, Congress removed the references to contraception in 1971.",
+        "lesson": "The law's ban on birth control was eventually seen as an overreach and dropped. Reviving its unused abortion language for mailed medicine would apply a 19th-century rule to modern, FDA-approved drugs."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Application of the Comstock Act to the Mailing of Prescription Drugs That Can Be Used for Abortions",
+        "publisher": "U.S. Department of Justice, Office of Legal Counsel",
+        "type": "government",
+        "url": "https://www.justice.gov/olc/opinion/application-comstock-act-mailing-prescription-drugs-can-be-used-abortions"
+      },
+      {
+        "label": "The Comstock Act: Implications for Abortion Care Nationwide",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/womens-health-policy/issue-brief/the-comstock-act-implications-for-abortion-care-nationwide/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-042",
+    "case_against": "NIH picks research through a competitive national system: more than 80% of its research money goes out through peer-reviewed grants, supporting more than 300,000 researchers at over 2,500 institutions. Splitting that budget into 50 state pots would replace national competition with state politics. It would likely mean less money for the best projects, more duplication, and gaps in states with few research universities.",
+    "harms": [
+      {
+        "who": "Patients waiting for new treatments",
+        "what": "Breaking up national competition could slow research on cancer, rare diseases and other conditions."
+      },
+      {
+        "who": "Scientists and universities",
+        "what": "Researchers would compete for smaller state pools with different rules, making large multi-state projects harder."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The National Institutes of Health (NIH): Background and Congressional Issues (R41705)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R41705.html"
+      },
+      {
+        "label": "House joins Senate in rejecting drastic NIH cuts pushed by Trump",
+        "publisher": "American Institute of Physics",
+        "type": "news",
+        "url": "https://www.aip.org/fyi/house-joins-senate-in-rejecting-drastic-nih-cuts-pushed-by-trump"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-050",
+    "case_against": "Making private Medicare Advantage plans the default would steer millions of seniors into a part of Medicare that already costs taxpayers more. The Medicare Payment Advisory Commission, Congress's own Medicare advisers, estimated that Medicare spends about 20% more on Advantage enrollees than it would in traditional Medicare, about $84 billion in 2025. Defaults are powerful, so many new enrollees would end up in plans with networks and prior-approval rules they never actively chose.",
+    "harms": [
+      {
+        "who": "Taxpayers and all Medicare enrollees",
+        "what": "MedPAC estimated the extra Advantage payments raised Part B premiums by about $13 billion in 2025; more enrollment could raise costs further."
+      },
+      {
+        "who": "New Medicare enrollees",
+        "what": "People who do not opt out could end up in plans with limited doctor networks without making an active choice."
+      }
+    ],
+    "sources": [
+      {
+        "label": "MedPAC March 2025 Report to the Congress press release",
+        "publisher": "Medicare Payment Advisory Commission",
+        "type": "government",
+        "url": "https://medpac.gov/wp-content/uploads/2025/03/March_2025_MedPAC_Report_Press_Release_SEC.pdf"
+      },
+      {
+        "label": "MA Default Enrollment on the Table",
+        "publisher": "Center for Medicare Advocacy",
+        "type": "advocacy",
+        "url": "https://medicareadvocacy.org/ma-default-enrollment-on-the-table/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-054",
+    "case_against": "The Inflation Reduction Act's health provisions include Medicare drug price negotiation, which CMS estimated would have saved Medicare about $6 billion if the first 10 negotiated prices had applied in 2023, and would save enrollees about $1.5 billion in out-of-pocket costs. Repealing the law would throw those savings away. The Medicare Shared Savings Program is the government's main way of rewarding doctors for keeping patients healthy, and it now serves about 12.6 million people.",
+    "harms": [
+      {
+        "who": "Seniors who take costly brand-name drugs",
+        "what": "They would lose lower negotiated prices on drugs for diabetes, heart failure, blood clots and other conditions."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Medicare would likely pay more for the same drugs."
+      },
+      {
+        "who": "Doctors and hospitals in accountable care groups",
+        "what": "Ending the Shared Savings Program would cut off a major path away from paying for volume."
+      }
+    ],
+    "sources": [
+      {
+        "label": "US CMS Announces Initial Prices for Medicare Drug Price Negotiation Program",
+        "publisher": "Cooley",
+        "type": "law-firm",
+        "url": "https://www.cooley.com/news/insight/2024/2024-09-05-us-cms-announces-initial-prices-for-medicare-drug-price-negotiation-program"
+      },
+      {
+        "label": "2026 Medicare Accountable Care Organization Initiatives Participation Highlights",
+        "publisher": "Centers for Medicare & Medicaid Services",
+        "type": "government",
+        "url": "https://www.cms.gov/newsroom/fact-sheets/2026-medicare-accountable-care-organization-initiatives-participation-highlights"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-055",
+    "case_against": "Medicare drug price negotiation lets the government do what other big buyers do: bargain. The Congressional Budget Office expected it to cut net prices for selected drugs by about half on average. CMS estimated the first 10 negotiated prices, which took effect in January 2026, would save enrollees about $1.5 billion in out-of-pocket costs. Repealing it, or carrying it out weakly, would leave seniors and taxpayers paying more.",
+    "harms": [
+      {
+        "who": "Medicare enrollees who use the first 10 drugs",
+        "what": "They would lose negotiated prices that are 38% to 79% below list prices."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Medicare would keep paying higher prices for its most expensive drugs."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Medicare Drug Price Negotiation Under the Inflation Reduction Act: Industry Responses and Potential Effects (R47872)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47872.html"
+      },
+      {
+        "label": "US CMS Announces Initial Prices for Medicare Drug Price Negotiation Program",
+        "publisher": "Cooley",
+        "type": "law-firm",
+        "url": "https://www.cooley.com/news/insight/2024/2024-09-05-us-cms-announces-initial-prices-for-medicare-drug-price-negotiation-program"
+      },
+      {
+        "label": "Latest orphan drug exemptions may not be warranted, analysis finds",
+        "publisher": "STAT",
+        "type": "news",
+        "url": "https://statnews.com/pharmalot/2026/08/04/latest-orphan-drug-exemptions-may-not-be-warranted-analysis-finds/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-057",
+    "case_against": "Block grants and per-person caps would end Medicaid's promise to share costs as needs rise. Today federal money grows automatically when more people qualify, as in a recession or a health emergency. A cap would fix federal funding in advance, so states would have to cover any extra cost themselves or cut people and services.",
+    "harms": [
+      {
+        "who": "Low-income families, people with disabilities and nursing home residents",
+        "what": "When costs rise faster than a cap, states would likely cut eligibility, benefits or provider payments."
+      },
+      {
+        "who": "State budgets",
+        "what": "States would carry the risk of recessions, epidemics and new expensive treatments without matching federal help."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Medicaid Financing and Expenditures (R42640)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R42640.html"
+      },
+      {
+        "label": "How will the One Big Beautiful Bill Act impact Medicaid?",
+        "publisher": "USAFacts",
+        "type": "news",
+        "url": "https://usafacts.org/articles/how-will-the-obbb-impact-medicaid/"
+      }
+    ],
+    "recheck": "The argument is drawn from how caps work as described by CRS; it would be stronger with a CBO or peer-reviewed estimate of coverage effects.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-058",
+    "case_against": "The higher federal match is what made Medicaid expansion affordable for many states. The July 2025 law ended the extra bonus for newly expanding states and phases down the provider taxes and hospital payments that states use to fund their share. Squeezing state budgets this way, on top of new work requirements that CBO expects to leave 4.8 million more people uninsured in 2034, would push states to drop coverage or cut what they pay hospitals.",
+    "harms": [
+      {
+        "who": "Low-income adults in expansion states",
+        "what": "States facing smaller federal help may decide expansion is no longer affordable and cut coverage."
+      },
+      {
+        "who": "Rural hospitals",
+        "what": "Lower state-directed payments and provider-tax limits would likely cut revenue for hospitals that already run on thin margins."
+      }
+    ],
+    "sources": [
+      {
+        "label": "How will the One Big Beautiful Bill Act impact Medicaid?",
+        "publisher": "USAFacts",
+        "type": "news",
+        "url": "https://usafacts.org/articles/how-will-the-obbb-impact-medicaid/"
+      },
+      {
+        "label": "Breaking down H.R. 1: healthcare impacts of the One Big Beautiful Bill",
+        "publisher": "HIMSS",
+        "type": "news",
+        "url": "https://www.himss.org/news-center/breaking-down-h-r-1-healthcare-impacts-of-the-one-big-beautiful-bill/"
+      },
+      {
+        "label": "A Closer Look at the Work Requirement Provisions in the 2025 Federal Budget Reconciliation Law",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/medicaid/issue-brief/a-closer-look-at-the-medicaid-work-requirement-provisions-in-the-big-beautiful-bill"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-062",
+    "case_against": "Medicaid work requirements have been tried, and they mostly cut people off without getting them jobs. When Arkansas started one in 2018, about 18,000 people lost coverage, and Harvard researchers found no change in employment. More than 95% of the people subject to the rule were already working or qualified for an exemption; many lost coverage because of paperwork. The Congressional Budget Office estimated the national version would leave 4.8 million more people uninsured in 2034.",
+    "harms": [
+      {
+        "who": "Low-income adults who already work",
+        "what": "KFF analysis shows most Medicaid adults under 65 already work or face barriers to work; many could still lose coverage over reporting rules."
+      },
+      {
+        "who": "People with chronic illness who do not qualify for an exemption",
+        "what": "Losing coverage can mean missed medicine and doctor visits."
+      },
+      {
+        "who": "Hospitals and clinics",
+        "what": "More uninsured patients would likely mean more unpaid care."
+      }
+    ],
+    "history": [
+      {
+        "when": "June 2018 to March 2019, Arkansas",
+        "what": "Arkansas became the first state to enforce a Medicaid work requirement. About 18,000 people lost coverage before a federal court stopped it, and a study found no rise in employment.",
+        "lesson": "The national rule has more exemptions than Arkansas had, but it relies on the same kind of reporting and checking that caused most of the coverage losses there."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Coverage losses, substantial confusion in Arkansas following implementation of Medicaid work requirements",
+        "publisher": "Harvard T.H. Chan School of Public Health",
+        "type": "academic",
+        "url": "https://hsph.harvard.edu/news/coverage-losses-substantial-confusion-in-arkansas-following-implementation-of-medicaid-work-requirements/"
+      },
+      {
+        "label": "A Closer Look at the Work Requirement Provisions in the 2025 Federal Budget Reconciliation Law",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/medicaid/issue-brief/a-closer-look-at-the-medicaid-work-requirement-provisions-in-the-big-beautiful-bill"
+      },
+      {
+        "label": "Medicaid Program; Community Engagement Requirement for Certain Individuals",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/03/2026-11094/medicaid-program-community-engagement-requirement-for-certain-individuals"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-063",
+    "case_against": "Lifetime limits on Medicaid would cut people off from health care for good, even if they are still poor and sick. Health coverage is not like cash aid: illness does not stop when a time limit runs out. In 2018, during the first Trump administration, federal officials themselves rejected a state request for lifetime limits.",
+    "harms": [
+      {
+        "who": "Low-income adults with long-term illnesses",
+        "what": "Once they hit a cap, they could lose access to medicine and treatment they still need."
+      },
+      {
+        "who": "Hospitals and emergency rooms",
+        "what": "People who lose coverage still get sick, and their care often becomes unpaid emergency care."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Federal Officials Say No-Go To Lifetime Limits On Medicaid (2018)",
+        "publisher": "KFF Health News",
+        "type": "news",
+        "url": "https://kffhealthnews.org/medicaid/federal-officials-say-no-go-to-lifetime-limits-on-medicaid/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-077",
+    "case_against": "Planned Parenthood health centers mainly provide birth control, cancer screening and STI testing to low-income patients, and federal law already bars Medicaid from paying for most abortions. Cutting these clinics out of Medicaid takes away a provider many patients choose, and other clinics may not be able to absorb them. When Texas removed Planned Parenthood from a state women's health program in 2013, researchers found claims for long-acting birth control fell by about a third and Medicaid-paid births rose 27% among women who had used injectable birth control.",
+    "harms": [
+      {
+        "who": "Low-income women on Medicaid",
+        "what": "They could lose their usual source of birth control and screening, and some would likely face unplanned pregnancies."
+      },
+      {
+        "who": "Community health centers",
+        "what": "CRS noted that nearly all of them have provider vacancies, so a sudden influx of patients could strain them."
+      }
+    ],
+    "history": [
+      {
+        "when": "2013, Texas",
+        "what": "Texas excluded Planned Parenthood affiliates from its state-funded Women's Health Program. A 2016 study in the New England Journal of Medicine found fewer women got the most effective birth control afterward, and Medicaid-paid births rose among some former patients.",
+        "lesson": "Replacing a large provider is harder than it looks on paper. The federal cut was national and covered all Medicaid services, so the effects could be broader."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Contraception Fell, Medicaid Births Rose When Texas Defunded Planned Parenthood",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcnews.com/health/health-care/contraception-fell-medicaid-births-went-when-texas-defunded-planned-parenthood-n510736"
+      },
+      {
+        "label": "Factors Related to the Use of Planned Parenthood Affiliated Health Centers and Federally Qualified Health Centers (R44295)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44295.html"
+      },
+      {
+        "label": "Planned Parenthood regains federal funding as 'Big Beautiful' provision expires",
+        "publisher": "CT Mirror",
+        "type": "news",
+        "url": "https://ctmirror.org/2026/07/07/planned-parenthood-regains-federal-funding/"
+      },
+      {
+        "label": "The Hyde Amendment: An Overview (IF12167)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12167.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-078",
+    "case_against": "This bill would permanently write into law what the one-year 2025 cut did temporarily: bar Medicaid patients from using Planned Parenthood for any care. Federal money already cannot pay for most abortions, so the real effect is on birth control, cancer screening and STI care. CRS reported that in 2013 Planned Parenthood centers saw 2.7 million patients, 78% of them with incomes at or below 150% of the poverty line.",
+    "harms": [
+      {
+        "who": "Low-income patients",
+        "what": "They would lose the right to choose Planned Parenthood for basic care paid by Medicaid."
+      },
+      {
+        "who": "People in areas with few other clinics",
+        "what": "They could face longer waits or travel for birth control and screenings."
+      }
+    ],
+    "history": [
+      {
+        "when": "2013, Texas",
+        "what": "After Texas cut Planned Parenthood from its women's health program, a 2016 study found claims for long-acting birth control fell about 35% and Medicaid-paid births rose 27% among women who had used injectable birth control.",
+        "lesson": "Cutting off a major family planning provider can lead to fewer people getting effective birth control."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Factors Related to the Use of Planned Parenthood Affiliated Health Centers and Federally Qualified Health Centers (R44295)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44295.html"
+      },
+      {
+        "label": "Contraception Fell, Medicaid Births Rose When Texas Defunded Planned Parenthood",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcnews.com/health/health-care/contraception-fell-medicaid-births-went-when-texas-defunded-planned-parenthood-n510736"
+      },
+      {
+        "label": "Planned Parenthood Medicaid Funding Set to Resume: Explained",
+        "publisher": "Bloomberg Government",
+        "type": "news",
+        "url": "https://news.bgov.com/health-law-and-business/planned-parenthood-medicaid-funding-set-to-resume-explained"
+      },
+      {
+        "label": "The Hyde Amendment: An Overview (IF12167)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12167.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-080",
+    "case_against": "Withholding up to 10% of a state's Medicaid money to punish its insurance laws would hurt the patients Medicaid serves, not the officials who made the laws. Medicaid pays for care for children, pregnant women, older adults and people with disabilities. HHS opened investigations into 13 states in 2026; cutting their funding would turn a dispute over insurance rules into a threat to health care for millions.",
+    "harms": [
+      {
+        "who": "Medicaid patients in the 13 targeted states",
+        "what": "A funding cut could force states to reduce services or provider payments for everyone on Medicaid."
+      },
+      {
+        "who": "State budgets",
+        "what": "States would have to fill a large hole or cut care."
+      }
+    ],
+    "sources": [
+      {
+        "label": "HHS to investigate 13 states that require insurers to cover abortions",
+        "publisher": "Stateline",
+        "type": "news",
+        "url": "https://stateline.org/2026/03/20/repub/hhs-to-investigate-13-states-that-require-insurers-to-cover-abortions/"
+      },
+      {
+        "label": "The Weldon Amendment Factsheet (updated April 2026)",
+        "publisher": "National Women's Law Center",
+        "type": "advocacy",
+        "url": "https://nwlc.org/wp-content/uploads/2025/02/The-Weldon-Amendment-Factsheet-Updated-April-2026.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-083",
+    "case_against": "The emergency care law, EMTALA, requires hospitals to stabilize anyone with an emergency. The 2022 guidance told hospitals that, in rare cases like severe bleeding or infection, that can mean ending a pregnancy even in states with abortion bans. Rescinding it leaves doctors unsure whether they can act before a patient gets sicker. After the Justice Department dropped its Idaho case, Idaho's largest hospital system went to court to protect its doctors in emergencies.",
+    "harms": [
+      {
+        "who": "Pregnant patients with emergencies in states with abortion bans",
+        "what": "Doctors who fear prosecution may delay care until a patient is sicker."
+      },
+      {
+        "who": "Emergency doctors and hospitals",
+        "what": "They face conflicting federal and state rules with no clear federal guidance."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Overview of EMTALA and Emergency Abortion Services (IF12355)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12355.html"
+      },
+      {
+        "label": "Medical Emergencies & Access to Abortion Care",
+        "publisher": "Society for Maternal-Fetal Medicine",
+        "type": "advocacy",
+        "url": "https://www.smfm.org/emtala"
+      },
+      {
+        "label": "CMS Statement on Emergency Medical Treatment and Labor Act (EMTALA)",
+        "publisher": "Centers for Medicare & Medicaid Services",
+        "type": "government",
+        "url": "https://www.cms.gov/newsroom/press-releases/cms-statement-emergency-medical-treatment-and-labor-act-emtala"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-087",
+    "case_against": "The Hyde Amendment already blocks Medicaid from paying for abortion except in cases of rape, incest or danger to the woman's life. Congress renews it each year, which lets future Congresses change it. Making it permanent would lock in a rule that falls hardest on low-income women, who depend on Medicaid, while people with private coverage or savings are less affected.",
+    "harms": [
+      {
+        "who": "Low-income women on Medicaid",
+        "what": "They would permanently lose coverage for abortion outside narrow exceptions, while wealthier women could still pay."
+      },
+      {
+        "who": "People covered by Medicare",
+        "what": "CRS notes Hyde limits also apply to Medicare, which covers some people with disabilities under 65, so a permanent ban would lock in limits for them too."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Hyde Amendment: An Overview (IF12167)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12167.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-088",
+    "case_against": "HHS's 2024 rule said sex discrimination in health care includes discrimination based on gender identity and sexual orientation, relying in part on the Supreme Court's 2020 Bostock ruling that the same words in job law cover both. Reversing that reading means a hospital or insurer could refuse or limit care for someone because they are gay or transgender, with less recourse from the federal government.",
+    "harms": [
+      {
+        "who": "Transgender and gay patients",
+        "what": "They would have fewer federal protections if they are refused care or treated unfairly."
+      },
+      {
+        "who": "Patients in rural areas with few providers",
+        "what": "If one hospital refuses them, they may have nowhere else nearby to go."
+      }
+    ],
+    "sources": [
+      {
+        "label": "HHS Finalizes Rule Addressing Section 1557 of the ACA's Incorporation of Title IX (LSB11169)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11169.html"
+      },
+      {
+        "label": "Notice of partial vacatur, 2024 Section 1557 rule (2026-11015)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://public-inspection.federalregister.gov/2026-11015.pdf"
+      },
+      {
+        "label": "On the Basis of Sex: HHS Rescinds Prior Section 1557 Guidance",
+        "publisher": "Morgan Lewis",
+        "type": "law-firm",
+        "url": "https://www.morganlewis.com/pubs/2025/06/on-the-basis-of-sex-hhs-rescinds-prior-section-1557-guidance-interpreting-sex-based-discrimination"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-099",
+    "case_against": "Moving the care of migrant children to the Department of Homeland Security would put children back under the agency that arrests and deports, and ending the Flores agreement would remove limits on how and how long they are held. The current system grew out of problems in the 1980s, when the old immigration agency was accused of mistreating detained children; in 2002 Congress gave children's care to HHS instead of the new DHS.",
+    "harms": [
+      {
+        "who": "Unaccompanied migrant children",
+        "what": "They could be held longer in enforcement settings instead of licensed shelters or with family."
+      },
+      {
+        "who": "Families in the U.S. who sponsor these children",
+        "what": "Placing children under an enforcement agency could make relatives afraid to come forward to care for them."
+      }
+    ],
+    "history": [
+      {
+        "when": "1985 to 2002, United States",
+        "what": "In the 1980s, claims that the old Immigration and Naturalization Service mistreated detained children led to a 1985 lawsuit and the 1997 Flores settlement, which set standards for their care. In 2002, the Homeland Security Act dissolved INS and gave children's care to HHS.",
+        "lesson": "Today's split between enforcement and child care grew out of problems when one immigration agency did both. Reversing it risks bringing those problems back."
+      },
+      {
+        "when": "May to June 2018, U.S.-Mexico border",
+        "what": "Under the 'zero tolerance' policy, close to 3,000 children were initially reported separated from their parents, according to CRS.",
+        "lesson": "When enforcement goals drive decisions about children, children can be harmed."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Unaccompanied Alien Children: An Overview (R43599)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R43599.html"
+      },
+      {
+        "label": "Child Migrants at the Border: The Flores Settlement Agreement and Other Legal Developments (IF11799)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11799.html"
+      },
+      {
+        "label": "Judge denies Trump administration request to end a policy protecting immigrant children in custody (AP)",
+        "publisher": "Spectrum News (Associated Press)",
+        "type": "news",
+        "url": "https://spectrumlocalnews.com/ca/california/politics/2025/08/16/judge-denies-trump-administration-request-to-end-a-policy-protecting-immigrant-children-in-custody"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-109",
+    "case_against": "Head Start has served poor children and their families since 1965, and strong research shows long-term gains. A 2021 study in the American Economic Review, using the program's rollout county by county, found that children with access to Head Start were more likely to finish high school and college, and as adults were 23% less likely to be poor and 27% less likely to receive public assistance. The authors estimated the government earns back more than it spends. Eliminating it would throw away those gains.",
+    "harms": [
+      {
+        "who": "Low-income preschool children",
+        "what": "They would lose early learning along with health, nutrition and social services that Head Start provides."
+      },
+      {
+        "who": "Working parents",
+        "what": "Many rely on Head Start for care so they can work or go to school."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Head Start, the Public Preschool Program, More Than Pays for Itself",
+        "publisher": "UCLA Anderson Review",
+        "type": "academic",
+        "url": "https://anderson-review.ucla.edu/head-start-the-public-preschool-program-more-than-pays-for-itself"
+      },
+      {
+        "label": "Statement: FY2026 funding bill boosts federal investment in child care and early learning",
+        "publisher": "First Five Years Fund",
+        "type": "advocacy",
+        "url": "https://www.ffyf.org/2026/01/30/statement-fy2026-funding-bill-boosts-federal-investment-in-child-care-and-early-learning"
+      },
+      {
+        "label": "Head Start: Overview and Current Issues (IF11008)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11008.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-139",
+    "case_against": "The Trump administration's 2019 Title X rule has already been tried, and it shrank the country's family planning safety net. CRS reports that it pushed 945 clinic sites, about a quarter of the network, out of the program right away, and the number of patients served fell from 3.9 million in 2018 to 3.1 million in 2019. Bringing it back would likely cut access to birth control and cancer screening again.",
+    "harms": [
+      {
+        "who": "Low-income and uninsured patients",
+        "what": "Title X pays for free or low-cost birth control, STI testing and cancer screening; fewer clinics would mean fewer patients served."
+      },
+      {
+        "who": "Rural communities",
+        "what": "Where a Title X clinic is the only option nearby, its loss can leave no low-cost family planning care."
+      }
+    ],
+    "history": [
+      {
+        "when": "2019 to 2021, United States",
+        "what": "After the 2019 rule took effect, about 25% of Title X sites left the program and patients served dropped by about 800,000 in one year. HHS reversed the rule in 2021, but CRS says the program has not returned to its pre-2019 patient numbers.",
+        "lesson": "Clinic networks that break apart do not quickly rebuild, so the harm can last after a rule is reversed."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Title X Family Planning Program (IF10051)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10051.html"
+      },
+      {
+        "label": "Navigating Uncertainty: The Latest Challenge to the Title X Family Planning Safety Net",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/quick-insights/navigating-uncertainty-the-latest-challenge-to-the-title-x-family-planning-safety-net/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-140",
+    "case_against": "Barring any group that provides abortions from Title X would cut out clinics that serve many of the program's patients, even though Title X money already cannot pay for abortion. KFF reports Title X serves about 2.8 million people a year at nearly 4,000 clinics. When a similar policy pushed about a quarter of sites out in 2019, patient numbers fell by about 800,000 in a year.",
+    "harms": [
+      {
+        "who": "Low-income and uninsured patients",
+        "what": "They would lose access to free or low-cost birth control, STI testing and cancer screening at excluded clinics."
+      },
+      {
+        "who": "Remaining clinics",
+        "what": "They would have to absorb patients from excluded providers, which may not be possible in some areas."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Title X Family Planning Program (IF10051)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10051.html"
+      },
+      {
+        "label": "Navigating Uncertainty: The Latest Challenge to the Title X Family Planning Safety Net",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/quick-insights/navigating-uncertainty-the-latest-challenge-to-the-title-x-family-planning-safety-net/"
+      },
+      {
+        "label": "H.R. 343 (introduced): Title X Abortion Provider Prohibition Act",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr343ih"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch14-159",
+    "case_against": "Announcing that HHS's civil rights office will not enforce protections for gay and transgender patients tells hospitals and insurers they can discriminate without federal consequences. The 2024 rule based those protections partly on the Supreme Court's 2020 Bostock decision. Even where a court has limited the rule, a blanket refusal to act leaves patients without a federal place to turn.",
+    "harms": [
+      {
+        "who": "Transgender and gay patients",
+        "what": "Complaints about being refused care would no longer be investigated by HHS."
+      },
+      {
+        "who": "Health care workers who want clear rules",
+        "what": "Mixed signals from courts and HHS make it harder to know what the law requires."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Notice of partial vacatur, 2024 Section 1557 rule (2026-11015)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://public-inspection.federalregister.gov/2026-11015.pdf"
+      },
+      {
+        "label": "HHS Finalizes Rule Addressing Section 1557 of the ACA's Incorporation of Title IX (LSB11169)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11169.html"
+      },
+      {
+        "label": "HHS no longer enforcing prohibition against gender identity discrimination",
+        "publisher": "LeadingAge",
+        "type": "news",
+        "url": "https://leadingage.org/hhs-no-longer-enforcing-prohibition-against-gender-identity-discrimination/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

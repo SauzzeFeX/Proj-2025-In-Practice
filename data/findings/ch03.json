@@ -1,0 +1,608 @@
+[
+  {
+    "id": "ch03-002",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On April 23, 2025, President Trump signed Executive Order 14281. It told federal agencies to stop enforcing disparate impact claims and to remove the idea from their regulations. The Justice Department removed disparate impact from its Title VI rules in December 2025, and Commerce, Interior, Transportation, Agriculture, FEMA, Education and GSA did the same in 2026.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "Executive Order 14281, \"Restoring Equality of Opportunity and Meritocracy,\" signed."
+      },
+      {
+        "date": "2025-12-10",
+        "event": "Justice Department final rule removes disparate-impact liability from its Title VI regulations (90 FR 57141)."
+      },
+      {
+        "date": "2026-06-09",
+        "event": "Office of Legal Counsel opinion finds EEOC disparate-impact guidelines unconstitutional."
+      },
+      {
+        "date": "2026-08-14",
+        "event": "GSA becomes the latest agency to remove disparate impact from its Title VI rules."
+      }
+    ],
+    "legal": "No court ruling on the order or the agency rules was found. Laws and court decisions that recognize disparate impact (for example, under Title VII) were not changed by these actions.",
+    "closeness": "Close to the regulatory path the chapter describes: an administration narrowing the doctrine through executive orders and regulations. Congress has not ended the doctrine by law, which the chapter named as the other option.",
+    "uncertain": "HUD's proposals to remove disparate impact from its Fair Housing Act and Title VI rules were still pending as of August 2026. No lawsuit against the Justice Department rule was found; a May 2026 lawsuit over a separate CFPB lending rule was seen only in a secondary summary. Newest source is from August 2026.",
+    "sources": [
+      {
+        "label": "Justice Department rule on disparate impact (90 FR 57141)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/citation/90-FR-57141"
+      },
+      {
+        "label": "Rollback tracker: executive order directing agencies to eliminate the disparate impact standard",
+        "publisher": "Harvard Environmental and Energy Law Program",
+        "type": "academic",
+        "url": "https://eelp.law.harvard.edu/tracker/rollback-executive-order-directed-agencies-to-eliminate-use-and-enforcement-of-disparate-impact-standard/"
+      },
+      {
+        "label": "U.S. Department of Education removes disparate impact Title VI regulations",
+        "publisher": "U.S. Department of Education",
+        "type": "government",
+        "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-removes-disparate-impact-title-vi-regulations"
+      },
+      {
+        "label": "DOJ concludes employment disparate impact rules unconstitutional",
+        "publisher": "Courthouse News Service",
+        "type": "news",
+        "url": "https://www.courthousenews.com/doj-concludes-employment-disparate-impact-rules-unconstitutional/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-003",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In 2025 the Luevano consent decree, which had limited written entrance tests for federal jobs since 1981, was ended: OPM asked the court to end it in March 2025, and the court dismissed the case on August 1, 2025. In September 2025, OPM finalized a 'Rule of Many' rule changing how job candidates are ranked. On July 31, 2026, OPM issued an interim final rule removing references to the Uniform Guidelines on Employee Selection Procedures from federal hiring rules.",
+    "key_dates": [
+      {
+        "date": "2025-03-10",
+        "event": "OPM Director asks the court to end the Luevano consent decree."
+      },
+      {
+        "date": "2025-08-01",
+        "event": "Court grants the parties' joint motion and dismisses the Luevano case."
+      },
+      {
+        "date": "2025-09-08",
+        "event": "OPM final rule on candidate ranking ('Rule of Many') published."
+      },
+      {
+        "date": "2026-07-31",
+        "event": "OPM interim final rule removes Uniform Guidelines references, effective immediately."
+      }
+    ],
+    "legal": "The U.S. District Court for the District of Columbia (Judge Reggie B. Walton) dismissed Luevano v. Campbell on August 1, 2025, on a joint motion by the parties.",
+    "closeness": "Close to the recommendation: the old consent decree on entrance tests was ended and OPM dropped the Uniform Guidelines from its own rules. Whether new governmentwide written entrance tests are in use was not confirmed.",
+    "uncertain": "Whether OPM has brought back governmentwide written entrance tests is not known. The July 2026 rule was open for comment until September 29, 2026. Newest source is from July 2026.",
+    "sources": [
+      {
+        "label": "Removal of References to the Uniform Guidelines on Employee Selection Procedures in Federal Personnel Regulations",
+        "publisher": "Federal Register (OPM)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15586/removal-of-references-to-the-uniform-guidelines-on-employee-selection-procedures-in-federal"
+      },
+      {
+        "label": "Reinvigorating Merit-Based Hiring Through Candidate Ranking (Rule of Many), final rule",
+        "publisher": "Federal Register (OPM)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/08/2025-17125/reinvigorating-merit-based-hiring-through-candidate-ranking-in-the-competitive-and-excepted-service"
+      },
+      {
+        "label": "Case: Luevano v. Ezell (docket summary)",
+        "publisher": "Civil Rights Litigation Clearinghouse (University of Michigan)",
+        "type": "academic",
+        "url": "https://clearinghouse.net/case/11314/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-004",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "OPM changed performance review rules twice. A rule effective October 15, 2025 lets OPM require a set spread of ratings for senior executives, citing a January 20, 2025 presidential memo. A rule effective August 6, 2026 does the same for General Schedule and blue-collar workers, ends grievances over ratings, and adds a required supervisory element for all supervisors.",
+    "key_dates": [
+      {
+        "date": "2025-09-15",
+        "event": "OPM final rule on Senior Executive Service performance ratings published (effective October 15, 2025)."
+      },
+      {
+        "date": "2026-07-07",
+        "event": "OPM final rule on performance appraisal for GS and other employees published (effective August 6, 2026)."
+      }
+    ],
+    "closeness": "These rules give leaders more control over career staff ratings, which is the chapter's goal. But neither rule says political appointees must write policy goals into each employee's appraisal, which was the specific recommendation.",
+    "uncertain": "Whether agencies have told political appointees to write policy goals into career staff appraisals was not confirmed. No court challenge was checked.",
+    "sources": [
+      {
+        "label": "Assuring Responsive and Accountable Federal Executive Management (final rule)",
+        "publisher": "Federal Register (OPM)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/15/2025-17788/assuring-responsive-and-accountable-federal-executive-management"
+      },
+      {
+        "label": "Performance Appraisal for General Schedule, Prevailing Rate, and Certain Other Employees (final rule)",
+        "publisher": "Federal Register (OPM)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13715/performance-appraisal-for-general-schedule-prevailing-rate-and-certain-other-employees"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-006",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or rule moving the EEOC's federal employee complaint unit to the Merit Systems Protection Board was found. In August 2026, the EEOC proposed its own overhaul of the federal employee complaint process, which keeps appeals at the EEOC. Separately, OPM finalized a rule in August 2026 moving appeals of layoffs (reductions in force) from the MSPB to OPM.",
+    "closeness": "The recommended transfer did not happen. The EEOC's August 2026 proposal and OPM's August 2026 rule change the appeals system in other ways.",
+    "uncertain": "Searched the Federal Register, news, and CRS reports; no bill or rule moving the unit was found. Bills that were introduced but not acted on may have been missed. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "EEOC's Proposed Changes to the Federal-Sector Equal Employment Opportunity Complaint Process (LSB11482)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11482.html"
+      },
+      {
+        "label": "Reduction in Force Appeals (final rule)",
+        "publisher": "Federal Register (OPM)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15666/reduction-in-force-appeals"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-007",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law returning Office of Special Counsel investigation duties to OPM was found.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Searched the Federal Register, existing project research, and news for a bill or order moving Office of Special Counsel duties to OPM; none was found. Bills that were introduced but not acted on may have been missed.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-008",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or OPM program was found that sets federal starting pay by job type and region using market data such as turnover and applicant numbers.",
+    "closeness": "No matching action was found. The chapter itself says this mostly needs new laws.",
+    "uncertain": "Searched OPM rules in the Federal Register and existing project research. Bills and pay pilot programs were not checked because the shared web search limit ran out.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only OPM rules in the Federal Register were checked; needs a news or Congress.gov search for 2025-2026 bills or OPM proposals for market-based, locality-by-occupation pay."
+  },
+  {
+    "id": "ch03-009",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The House version of the July 2025 reconciliation law included several cuts to federal employee benefits, but the Senate removed nearly all of them. The final law, signed July 4, 2025, kept only a provision on audits of the federal employee health benefits program.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "Reconciliation law signed without most federal benefit cuts."
+      }
+    ],
+    "closeness": "The effort to make federal benefits closer to private-sector levels did not pass, apart from health plan audits.",
+    "uncertain": "Other administrative changes to benefits were not checked. Newest source is from July 2025.",
+    "sources": [
+      {
+        "label": "Federal employee proposals scrapped from One Big Beautiful Bill",
+        "publisher": "FedSmith",
+        "type": "news",
+        "url": "https://www.fedsmith.com/2025/07/09/federal-employee-proposals-scrapped-from-one-big-beautiful-bill/"
+      },
+      {
+        "label": "Senate lawmakers cut House retirement benefits changes: what's in, what's out",
+        "publisher": "BenefitsPRO",
+        "type": "news",
+        "url": "https://www.benefitspro.com/amp/2025/06/17/senate-lawmakers-cut-house-retirement-benefits-in-one-big-beautiful-bill-whats-in-whats-out/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-010",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The House-passed reconciliation bill in May 2025 would have changed federal pensions, such as basing them on the highest five years of pay and ending the FERS supplement for early retirees. The Senate removed these changes, and the final law signed July 4, 2025 did not include them.",
+    "key_dates": [
+      {
+        "date": "2025-05-22",
+        "event": "House passes reconciliation bill with federal pension changes."
+      },
+      {
+        "date": "2025-07-04",
+        "event": "Final law signed without the pension changes."
+      }
+    ],
+    "closeness": "Pension changes like those the chapter suggests were proposed but not enacted.",
+    "uncertain": "Newer bills to change federal pensions after July 2025 were not checked.",
+    "sources": [
+      {
+        "label": "Federal employee proposals scrapped from One Big Beautiful Bill",
+        "publisher": "FedSmith",
+        "type": "news",
+        "url": "https://www.fedsmith.com/2025/07/09/federal-employee-proposals-scrapped-from-one-big-beautiful-bill/"
+      },
+      {
+        "label": "Senate lawmakers cut House retirement benefits changes: what's in, what's out",
+        "publisher": "BenefitsPRO",
+        "type": "news",
+        "url": "https://www.benefitspro.com/amp/2025/06/17/senate-lawmakers-cut-house-retirement-benefits-in-one-big-beautiful-bill-whats-in-whats-out/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-012",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On January 20, 2025, President Trump froze hiring for nearly all federal civilian jobs. Executive Order 14356 (October 15, 2025) replaced the freeze with rules that allow a vacant job to be filled only with approval under strategic hiring plans.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Presidential memorandum freezes federal civilian hiring."
+      },
+      {
+        "date": "2025-10-15",
+        "event": "EO 14356 sets new limits on filling vacant jobs."
+      }
+    ],
+    "closeness": "The freeze covered top career jobs, but it was much broader than the chapter's narrow idea of freezing only senior career positions to stop departing appointees from moving into them.",
+    "uncertain": "Whether any departing political appointees moved into career jobs in early 2025 was not checked.",
+    "sources": [
+      {
+        "label": "Hiring Freeze (presidential memorandum, January 20, 2025)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/"
+      },
+      {
+        "label": "Executive Order 14356: Ensuring Continued Accountability in Federal Hiring",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/10/20/2025-19614/ensuring-continued-accountability-in-federal-hiring"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-013",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "OPM published a final rule on August 3, 2026, effective September 2, 2026, that ranks employees in a reduction in force mainly by performance ratings. Veterans' preference is added as extra points, and tenure and length of service are used only to break ties.",
+    "key_dates": [
+      {
+        "date": "2026-03-05",
+        "event": "OPM proposes new reduction-in-force rule."
+      },
+      {
+        "date": "2026-08-03",
+        "event": "Final rule published; effective September 2, 2026."
+      }
+    ],
+    "closeness": "Performance now comes first, as recommended. Veterans' preference still counts (as added points), because it is required by law. The administration also used a deferred resignation program, a buyout-style tool the chapter advised against; at OPM, 59% of departures through March 2026 used it.",
+    "uncertain": "No court ruling on the new rule was checked. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "Reduction in Force (final rule)",
+        "publisher": "Federal Register (OPM)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15665/reduction-in-force"
+      },
+      {
+        "label": "OPM workforce changes (GAO-26-108916)",
+        "publisher": "U.S. Government Accountability Office",
+        "type": "government",
+        "url": "https://www.gao.gov/products/gao-26-108916"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-014",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "Executive Order 14210 (February 11, 2025) told agencies to plan large reductions in force and reorganizations, with the Department of Government Efficiency. Executive Order 14217 (February 2025) began cutting some small agencies and advisory committees; for example, Commerce ended 14 advisory committees in June 2025.",
+    "key_dates": [
+      {
+        "date": "2025-02-11",
+        "event": "EO 14210 orders agency reorganization and workforce reduction plans."
+      },
+      {
+        "date": "2025-06-10",
+        "event": "Commerce announces termination of 14 advisory committees under EO 14217."
+      }
+    ],
+    "legal": "A federal court in California blocked agency layoff and reorganization plans under EO 14210 with a preliminary injunction in May 2025, but the Supreme Court stayed that injunction on July 8, 2025 (Trump v. AFGE), letting the plans go forward while appeals continue. A separate lawsuit over layoffs during the fall 2025 government shutdown ended in a settlement agreement made public in September 2026.",
+    "closeness": "The administration cut staff and some functions, in the general direction the chapter wanted. A governmentwide review to find and remove duplicate programs, as described, was not confirmed.",
+    "uncertain": "The final outcome of the appeal over EO 14210 was not confirmed. How many programs were actually eliminated (rather than staff cut) is not known. Newest source is from September 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14210: Implementing the President's DOGE Workforce Optimization Initiative",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/14/2025-02762/implementing-the-presidents-department-of-government"
+      },
+      {
+        "label": "Commerce notice: Termination of 14 Discretionary Federal Advisory Committees",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/10/2025-10398/notice-of-termination-of-14-discretionary-federal-advisory-committees"
+      },
+      {
+        "label": "Supreme Court allows Trump administration to continue plans to reduce federal workforce",
+        "publisher": "Ogletree Deakins",
+        "type": "law-firm",
+        "url": "https://ogletree.com/insights-resources/blog-posts/supreme-court-allows-trump-administration-to-continue-plans-to-reduce-federal-workforce/"
+      },
+      {
+        "label": "Settlement agreement in AFGE v. OMB (shutdown layoffs)",
+        "publisher": "Courthouse News Service",
+        "type": "news",
+        "url": "https://www.courthousenews.com/wp-content/uploads/2026/09/trump-unions-settlement-agreement-rifs.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-015",
+    "status": "in-effect-challenged",
+    "match": "direct",
+    "happened": "On January 20, 2025, Executive Order 14171 brought back the 2020 Schedule F order (EO 13957) under the new name \"Schedule Policy/Career.\" OPM published the final rule on February 6, 2026. On June 3, 2026, an executive order moved about 8,000 employees, nearly all at GS-15 or above, into the category.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14171 reinstates EO 13957 with changes."
+      },
+      {
+        "date": "2025-04",
+        "event": "OPM proposes the rule, estimating about 50,000 positions could be affected."
+      },
+      {
+        "date": "2026-02-06",
+        "event": "OPM publishes the final rule."
+      },
+      {
+        "date": "2026-06-03",
+        "event": "About 8,000 employees moved into Schedule Policy/Career."
+      }
+    ],
+    "legal": "NTEU v. Trump (U.S. District Court for D.C.) was paused while OPM wrote its rule; on March 17, 2026, the court let the union file an amended complaint once positions were moved. A separate suit by Public Employees for Environmental Responsibility and four unions is pending in federal court in Maryland. No injunction or merits ruling was found, per a March 2026 Congressional Research Service report.",
+    "closeness": "Very close: it is the same order brought back with a new name. About 8,000 employees were moved, fewer than the roughly 50,000 OPM first estimated. I could not confirm that Senior Executive Service accountability changes came first, as the chapter asked. Same actions as ch01-007.",
+    "uncertain": "How many people are affected in practice, and whether any court has ruled since the June 2026 order, were not confirmed. Court status comes from the March 2026 CRS report. Newest source is from June 2026.",
+    "sources": [
+      {
+        "label": "Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce (EO 14171)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/"
+      },
+      {
+        "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11412.html"
+      },
+      {
+        "label": "OPM proposes rule to formally revive Schedule F",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/workforce/2025/04/opm-proposes-rule-formally-revive-schedule-f/404699/"
+      },
+      {
+        "label": "Trump moves about 8,000 federal positions to Schedule Policy/Career",
+        "publisher": "Federal News Network",
+        "type": "news",
+        "url": "https://federalnewsnetwork.com/workforce/2026/06/trump-moves-about-8000-federal-positions-to-schedule-policy-career/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-016",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Executive Order 14251 (March 27, 2025) ended collective bargaining at many agencies, citing national security (see ch03-017). In 2026, OPM rules removed the option for employees to grieve their performance ratings.",
+    "key_dates": [
+      {
+        "date": "2025-03-27",
+        "event": "EO 14251 excludes many agencies from collective bargaining."
+      },
+      {
+        "date": "2026-07-07",
+        "event": "OPM rule ends grievances over performance ratings (effective August 6, 2026)."
+      }
+    ],
+    "legal": "Unions sued over Executive Order 14251; the current status of those cases was not confirmed (see ch03-017).",
+    "closeness": "The administration went further than the chapter in some agencies by ending bargaining there altogether. A specific OPM policy on enforcing the management-rights section of the law at remaining unionized agencies was not checked.",
+    "uncertain": "The status of union lawsuits and of bargaining at agencies not covered by EO 14251 was not confirmed.",
+    "sources": [
+      {
+        "label": "Exclusions from Federal Labor-Management Relations Programs (EO 14251)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/exclusions-from-federal-labor-management-relations-programs/"
+      },
+      {
+        "label": "Performance Appraisal for General Schedule, Prevailing Rate, and Certain Other Employees (final rule)",
+        "publisher": "Federal Register (OPM)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13715/performance-appraisal-for-general-schedule-prevailing-rate-and-certain-other-employees"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-017",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 20, 2025, President Trump signed Executive Order 14171, which revoked President Biden's 2021 order and, according to OPM, restored the removal policies of the 2018 order (EO 13839); OPM proposed matching rules in July 2026. On March 27, 2025, Executive Order 14251 ended collective bargaining at many agencies. The Senate confirmed Charlton Allen as FLRA General Counsel in August 2026, and the Impasses Panel is fully staffed again.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14171 revokes EO 14003; OPM says this restores EO 13839's removal policies."
+      },
+      {
+        "date": "2025-03-27",
+        "event": "Executive Order 14251 removes many agencies from collective bargaining."
+      },
+      {
+        "date": "2026-07-02",
+        "event": "OPM and MSPB propose the \"Promoting Employee Accountability\" rule to return to the 2020 removal rules."
+      },
+      {
+        "date": "2026-08-07",
+        "event": "Senate confirms Allen as FLRA General Counsel."
+      }
+    ],
+    "legal": "Unions sued over Executive Order 14251. The D.C. Circuit lifted an injunction in the NTEU case in 2025. On February 26, 2026, the Ninth Circuit vacated a nationwide preliminary injunction in AFGE v. Trump; other claims continue in district court. In May 2026, the First Circuit declined to pause a district court order requiring the VA to restore its AFGE contract. No final ruling on the merits was found.",
+    "closeness": "The removal policies of EO 13839 were restored, the FLRA General Counsel was confirmed, and the Impasses Panel is staffed, as recommended. No order reissuing EOs 13836 (contracts) or 13837 (official time) was found; EO 14251 instead goes further by ending bargaining at many agencies.",
+    "uncertain": "No order formally reissuing EOs 13836 and 13837 was found in the Federal Register. The July 2026 OPM rule is only proposed. Court cases over EO 14251 are still at the preliminary stage. Newest source is from August 2026.",
+    "sources": [
+      {
+        "label": "Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce (EO 14171)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02095/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce"
+      },
+      {
+        "label": "Promoting Employee Accountability (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13445/promoting-employee-accountability"
+      },
+      {
+        "label": "Exclusions from Federal Labor-Management Relations Programs (EO 14251)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/exclusions-from-federal-labor-management-relations-programs/"
+      },
+      {
+        "label": "Court ruling complicates executive order restricting unions",
+        "publisher": "FedSmith",
+        "type": "news",
+        "url": "https://www.fedsmith.com/2026/05/20/court-ruling-complicates-executive-order-restricting-unions/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-018",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No action by Congress to end or limit unions for federal workers was found. The largest change came from the President, not Congress: Executive Order 14251 (March 2025) ended collective bargaining at many agencies (see ch03-017).",
+    "closeness": "No match. The recommendation asks Congress to consider whether public-sector unions should exist; the change that happened was an executive order covering part of the workforce.",
+    "uncertain": "Search tools were limited during this research. I could not check whether Congress held hearings on this question or the status of union-related bills in 2025-2026. This finding should be re-checked.",
+    "sources": [
+      {
+        "label": "Exclusions from Federal Labor-Management Relations Programs (EO 14251)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/exclusions-from-federal-labor-management-relations-programs/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-019",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On September 11, 2025, the Senate voted 53 to 45 to set a new precedent letting most sub-Cabinet executive branch nominees be confirmed in groups instead of one at a time. Republicans then moved a first group of 48 nominees.",
+    "key_dates": [
+      {
+        "date": "2025-09-11",
+        "event": "Senate sets precedent allowing group (en bloc) confirmation of most executive nominees."
+      }
+    ],
+    "closeness": "This speeds up filling political jobs, which supports the chapter's goal. It came about eight months into the term, and how many appointee jobs remain unfilled was not checked.",
+    "uncertain": "The share of political appointee positions filled as of 2026 was not found. Newest source is from September 2025.",
+    "sources": [
+      {
+        "label": "GOP changes Senate rules to speed some confirmations",
+        "publisher": "Roll Call",
+        "type": "news",
+        "url": "https://rollcall.com/2025/09/11/gop-changes-senate-rules-to-speed-some-confirmations/"
+      },
+      {
+        "label": "Senate Republicans turn to 'nuclear option' to speed confirmation of Trump nominees",
+        "publisher": "WRVO / NPR",
+        "type": "news",
+        "url": "https://www.wrvo.org/2025-09-11/senate-republicans-turn-to-nuclear-option-to-speed-confirmation-of-trump-nominees"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-020",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No action was found giving the OPM Director a seat in the President's Cabinet.",
+    "closeness": "No matching action was found.",
+    "uncertain": "Searched Federal Register presidential documents, existing project research, and the White House Cabinet page (checked October 2026), which lists 21 officials including the OMB Director but not the OPM Director.",
+    "sources": [
+      {
+        "label": "The Cabinet",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/administration/the-cabinet/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-001",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No rule requiring an 'Outstanding' rating for large Senior Executive Service bonuses was found. OPM's September 2025 rule on senior executive appraisals limits top ratings to about 30% of executives, but OPM said the rule does not address awards and that bonuses remain allowed at the 'Fully Successful' level.",
+    "closeness": "No matching change was found. The 2025 rule makes top ratings scarcer, which could indirectly shrink bonuses for lower-rated executives, but it does not tie large bonuses to an 'Outstanding' rating. See ch03-004.",
+    "uncertain": "Searched the Federal Register for OPM rules on senior executive awards and bonuses and read the September 2025 final rule. Individual agencies may set stricter award policies that are not published.",
+    "sources": [
+      {
+        "label": "Assuring Responsive and Accountable Federal Executive Management (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/09/15/2025-17788/assuring-responsive-and-accountable-federal-executive-management"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch03-005",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "OPM issued a final rule, effective August 6, 2026, that sets a standard spread of performance ratings for most non-executive federal employees and says its aim is to make sure high performance is 'recognized and rewarded.' It uses existing legal authority, not a new pay law. Agencies must follow the rating spread starting January 1, 2027.",
+    "key_dates": [
+      {
+        "date": "2026-02-24",
+        "event": "OPM proposes the performance appraisal rule"
+      },
+      {
+        "date": "2026-08-06",
+        "event": "Final rule takes effect"
+      },
+      {
+        "date": "2027-01-01",
+        "event": "Agencies must apply the standard rating spread"
+      }
+    ],
+    "closeness": "The rule uses existing tools to steer rewards toward top performers, in line with the chapter. It changes ratings rather than directly expanding cash awards, and OPM can recommend cutting an agency's award spending if its appraisal system fails review. Same rule as in ch03-004.",
+    "uncertain": "How agencies changed their cash award spending is not known. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Performance Appraisal for General Schedule, Prevailing Rate, and Certain Other Employees (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13715/performance-appraisal-for-general-schedule-prevailing-rate-and-certain-other-employees"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ch22-001",
+    "case_against": "A two-rate tax that wipes out most credits could take away help that working families count on. The Earned Income Tax Credit alone gave 24.4 million taxpayers $65.3 billion for 2023, and 96 percent of that money went to families with children. It is the largest cash anti-poverty program run through the tax code. Unless those credits were protected, flattening the system would likely raise taxes on low-wage families while cutting them for high earners.",
+    "harms": [
+      {
+        "who": "Low-wage working parents",
+        "what": "Could lose the Earned Income Tax Credit or Child Tax Credit if most credits are eliminated."
+      },
+      {
+        "who": "Children in working-poor families",
+        "what": "Would feel the loss of credits that lift family incomes."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Earned Income Tax Credit (EITC): How It Works and Who Receives It (R43805)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R43805.html"
+      },
+      {
+        "label": "Tax changes in the enacted reconciliation bill",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      }
+    ],
+    "recheck": "The chapter does not list which credits would survive; the harm depends on whether the EITC and Child Tax Credit are kept.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-002",
+    "case_against": "Cutting the corporate tax rate from 21 to 18 percent would lose federal revenue at a time when the 2025 tax law is already expected to add about $3.4 trillion to deficits over ten years. The Congressional Research Service explains that to the extent the corporate tax falls on owners of capital, it is paid mostly by higher-income people. A cut would then mainly benefit shareholders, while the lost money would have to be borrowed or made up elsewhere.",
+    "harms": [
+      {
+        "who": "Taxpayers and future generations",
+        "what": "Would carry more federal debt if lost corporate revenue is borrowed."
+      },
+      {
+        "who": "Families who rely on federal programs",
+        "what": "Could face cuts if Congress offsets the lost revenue with spending reductions."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Who Pays the Corporate Tax? (IF10742)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF10742.html"
+      },
+      {
+        "label": "CBO projects OBBBA would add $3.4 trillion to deficit",
+        "publisher": "American Hospital Association",
+        "type": "news",
+        "url": "https://aha.org/news/headline/2025-07-21-cbo-projects-obbba-increase-uninsured-10-million-federal-deficit-34-trillion"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-003",
+    "case_against": "Capital gains go mostly to the richest Americans. Tax Policy Center figures cited by the Congressional Research Service show the top 1 percent of households receive about 75 percent of long-term capital gains, while earning about 17 percent of all income. Cutting the top rate to 15 percent would hand most of the benefit to them, and would tax income from investments at a lower rate than many workers pay on their wages.",
+    "harms": [
+      {
+        "who": "Wage earners",
+        "what": "Would pay higher rates on paychecks than the wealthiest pay on investment profits."
+      },
+      {
+        "who": "Taxpayers and future generations",
+        "what": "Would face more debt or other tax increases to make up the lost revenue."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Capital Gains Taxes: An Overview of the Issues (R47113)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47113.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-005",
+    "case_against": "The main Inflation Reduction Act tax increase, the 15 percent corporate minimum tax, applies only to companies with average profits of $1 billion or more. It was projected to raise $222 billion over ten years by making sure the most profitable companies pay at least some tax. Repealing it would give a large tax break to the biggest corporations while adding to the deficit.",
+    "harms": [
+      {
+        "who": "Taxpayers and future generations",
+        "what": "Would face more borrowing to replace about $222 billion in projected revenue."
+      },
+      {
+        "who": "Smaller businesses",
+        "what": "Would keep paying normal taxes while the largest firms regain ways to pay little."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The 15% Corporate Alternative Minimum Tax (R47328)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47328.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-006",
+    "case_against": "Ending clean energy tax credits early takes away help families were using to lower their energy bills. At least 3.4 million taxpayers used the home energy credits to cut their 2023 taxes, for things like solar panels and heat pumps. Cutting wind, solar and electric vehicle credits also slows the shift away from fossil fuels in the world's second-largest greenhouse gas emitter.",
+    "harms": [
+      {
+        "who": "Homeowners planning energy upgrades",
+        "what": "Lost credits for solar panels, heat pumps and insulation after 2025."
+      },
+      {
+        "who": "Car buyers",
+        "what": "Lost electric vehicle credits after September 30, 2025."
+      },
+      {
+        "who": "Communities facing climate risks",
+        "what": "Would likely see slower cuts in greenhouse gas emissions."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Preliminary Data on the IRA Residential Clean Energy Credit (IN12423)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12423.html"
+      },
+      {
+        "label": "U.S. Withdrawal from the Paris Agreement: Process and Potential Effects (R48504)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48504.html"
+      },
+      {
+        "label": "Tax changes in the enacted reconciliation bill",
+        "publisher": "Journal of Accountancy",
+        "type": "news",
+        "url": "https://www.journalofaccountancy.com/news/2025/jul/tax-changes-in-senate-budget-reconciliation-bill/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-016",
+    "case_against": "Employer health insurance is the biggest tax-free benefit most workers get. In 2025 the average family plan cost $26,993 a year, more than twice the $12,000 cap the chapter proposes. A cap that low would turn much of a typical family's health coverage into taxable income, raising taxes on millions of middle-class workers or pushing employers to offer less coverage.",
+    "harms": [
+      {
+        "who": "Workers with family health plans",
+        "what": "Could owe tax on thousands of dollars of health coverage they already receive."
+      },
+      {
+        "who": "Families with high medical needs",
+        "what": "Could see employers trim coverage to stay under the cap, leaving more costs to workers."
+      }
+    ],
+    "sources": [
+      {
+        "label": "2025 Employer Health Benefits Survey",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/health-costs/report/2025-employer-health-benefits-survey/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-018",
+    "case_against": "Taxes on spending, like a national sales tax, tend to take a bigger share of income from lower-income families, because they spend nearly all they earn while higher earners save more. The Congressional Research Service notes that in 2019 households in the second-lowest income fifth spent more than they earned, while those in the fourth fifth saved about a quarter of their income. Replacing the income tax with a consumption tax would likely shift the tax load toward people with less.",
+    "harms": [
+      {
+        "who": "Low- and middle-income families",
+        "what": "Would likely pay a larger share of their income in tax, since they spend most of what they make."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Consumption Taxes: An Overview (R44342)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44342.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-020",
+    "case_against": "The global minimum tax was designed to stop big companies from moving profits to tax havens. About 69 percent of the foreign profits of U.S. multinationals are booked in eight tax-haven places and similar locations, according to the Congressional Research Service. Exempting U.S. companies keeps that profit shifting going, which means ordinary taxpayers and domestic businesses carry more of the tax load.",
+    "harms": [
+      {
+        "who": "Domestic businesses",
+        "what": "Compete against multinationals that can lower their taxes by shifting profits overseas."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Make up revenue lost when profits are booked in low-tax countries."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Pillar 2 Global Minimum Tax: Implications for U.S. Tax Policy (R47174)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47174.html"
+      },
+      {
+        "label": "OECD releases side-by-side arrangement exempting US multinationals",
+        "publisher": "EY Tax News",
+        "type": "law-firm",
+        "url": "https://taxnews.ey.com/news/2026-0115-breaking-tax-news-oecd-releases-side-by-side-arrangement-exempting-us-multinationals-from-most-pillar-two-global-minimum-tax-rules"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-022",
+    "case_against": "Each year hundreds of billions of dollars in taxes go unpaid; the IRS estimated the net gap averaged $428 billion a year in 2014-2016. The extra IRS money was meant to collect more of it, with Treasury directing that audit rates not rise for households under $400,000. Cutting IRS funding usually costs more than it saves: CBO estimated one 2023 cut would lower revenue by $2.3 billion and raise the deficit. Honest taxpayers end up covering what others avoid.",
+    "harms": [
+      {
+        "who": "Honest taxpayers",
+        "what": "Carry more of the load when wealthy tax cheats are less likely to be audited."
+      },
+      {
+        "who": "The federal budget",
+        "what": "Loses revenue that stronger enforcement would collect, adding to deficits."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Federal Tax Gap: Overview, Analysis, and Policy Options (R47858)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47858.html"
+      },
+      {
+        "label": "The Distribution of IRS Enforcement Activity Funded by the Inflation Reduction Act (IN12001)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12001.html"
+      },
+      {
+        "label": "Changes to IRS Funding in the Debt Limit Deal (IN12172)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12172.html"
+      },
+      {
+        "label": "IRA funding snapshot (2026 report)",
+        "publisher": "Treasury Inspector General for Tax Administration",
+        "type": "government",
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2026-03/2026ier003fr.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-038",
+    "case_against": "The World Bank and IMF give the United States a big voice in how the world handles debt crises and development, and votes are weighted by money put in. China is already one of the six largest shareholders in the World Bank. Leaving would hand more influence to China and others while the U.S. loses its seat at the table. Even Treasury Secretary Bessent said in 2025 that America should \"expand U.S. leadership\" in these institutions, not step back.",
+    "harms": [
+      {
+        "who": "U.S. businesses and workers",
+        "what": "Could lose influence over global rules and crisis responses that affect trade and jobs."
+      },
+      {
+        "who": "Poor countries in crisis",
+        "what": "Could lose a source of emergency loans and development help."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The World Bank (IF11361)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11361.html"
+      },
+      {
+        "label": "Bessent assails IMF and World Bank (AP)",
+        "publisher": "Associated Press via WDIV",
+        "type": "news",
+        "url": "https://www.clickondetroit.com/business/2025/04/23/bessent-assails-imf-and-world-bank-and-says-theres-an-opportunity-for-a-big-deal-with-china/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-040",
+    "case_against": "Balancing the budget only through spending cuts, while protecting defense and ruling out any tax increase, would require deep cuts to other programs. Critics of balanced-budget rules warn that a strict balanced-budget rule can force cuts during recessions, exactly when they hurt most. And the 2025 tax law moved in the other direction, adding about $3.4 trillion to deficits over ten years, according to CBO.",
+    "harms": [
+      {
+        "who": "People who rely on Medicaid, food aid and other programs",
+        "what": "Would bear most of the cuts if taxes and defense are off the table."
+      },
+      {
+        "who": "Workers in a recession",
+        "what": "Could see a downturn made worse if the government must cut spending as tax revenue falls."
+      }
+    ],
+    "sources": [
+      {
+        "label": "A Balanced Budget Constitutional Amendment: Background and Congressional Options (R41907)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R41907.html"
+      },
+      {
+        "label": "CBO projects OBBBA would add $3.4 trillion to deficit",
+        "publisher": "American Hospital Association",
+        "type": "news",
+        "url": "https://aha.org/news/headline/2025-07-21-cbo-projects-obbba-increase-uninsured-10-million-federal-deficit-34-trillion"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-053",
+    "case_against": "Titles I, II and VIII of Dodd-Frank were written after the 2008 crisis to watch for risks across the whole financial system, to let regulators wind down a failing giant firm without a taxpayer bailout, and to oversee key payment systems. In 2008 Lehman Brothers' collapse and the rescue of AIG showed how one firm's failure can spread. Repealing these tools would leave regulators with fewer options in the next crisis.",
+    "harms": [
+      {
+        "who": "Workers and homeowners",
+        "what": "Bear the cost of financial crises; in the Great Recession unemployment reached 10 percent and home prices fell about 30 percent."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Could again face pressure to bail out failing firms if the orderly wind-down tool is gone."
+      }
+    ],
+    "history": [
+      {
+        "when": "2008, United States",
+        "what": "Lehman Brothers went bankrupt after the government declined to rescue it, while AIG, Bear Stearns and others were saved with government help. A federal commission later concluded the crisis was avoidable and blamed regulators who failed to act on warning signs.",
+        "lesson": "Without tools to see and manage system-wide risk, regulators faced a choice between chaos and bailouts. Dodd-Frank's Titles I and II were the response."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Systemically Important or \"Too Big to Fail\" Financial Institutions (R42150)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R42150.html"
+      },
+      {
+        "label": "Panel: Financial crisis was avoidable (AP)",
+        "publisher": "CBS News",
+        "type": "news",
+        "url": "https://www.cbsnews.com/news/panel-financial-crisis-was-avoidable/"
+      },
+      {
+        "label": "The Great Recession",
+        "publisher": "Federal Reserve History",
+        "type": "government",
+        "url": "https://www.federalreservehistory.org/essays/great-recession-of-200709"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-054",
+    "case_against": "Fannie Mae and Freddie Mac help keep mortgage money flowing by turning home loans into securities that investors around the world buy, which tends to lower mortgage rates. Before 2008 they were shareholder-owned companies, and in the crisis they had to be rescued with government funds. Releasing them without a clear plan could raise mortgage costs or recreate the same risk to taxpayers.",
+    "harms": [
+      {
+        "who": "Home buyers",
+        "what": "Could face higher mortgage rates or less access to 30-year fixed loans if investors see more risk."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Could again be on the hook if private shareholders take profits but the government is still expected to step in."
+      }
+    ],
+    "history": [
+      {
+        "when": "September 2008, United States",
+        "what": "As the housing market collapsed, Fannie Mae and Freddie Mac, then shareholder-owned, were placed in government conservatorship and kept solvent with government funds.",
+        "lesson": "Profits went to private shareholders in good years, but taxpayers carried the risk when things went wrong."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fannie Mae and Freddie Mac: Conservatorship Status and Related Directives (R46746)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R46746.html"
+      },
+      {
+        "label": "Systemically Important or \"Too Big to Fail\" Financial Institutions (R42150)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R42150.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-058",
+    "case_against": "Shell companies with hidden owners can be used to move and hide money, including through money laundering, and most states do not collect or check who really owns a company. International bodies have criticized the U.S. for these gaps. The Corporate Transparency Act was meant to give law enforcement that information; ending reporting for U.S. companies leaves the gap open.",
+    "harms": [
+      {
+        "who": "Victims of fraud and financial crime",
+        "what": "Find it harder to trace stolen money hidden behind anonymous companies."
+      },
+      {
+        "who": "Law enforcement",
+        "what": "Lose a database of real owners that could speed up investigations."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Beneficial Ownership Transparency in Corporate Formation, Shell Companies, Real Estate, and Financial Transactions (R45798)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R45798.html"
+      },
+      {
+        "label": "FinCEN issues final rule ending beneficial ownership reporting requirement",
+        "publisher": "Sidley Austin",
+        "type": "law-firm",
+        "url": "https://www.sidley.com/en/insights/newsupdates/2026/08/us-fincen-issues-final-rule-ending-beneficial-ownership-reporting-requirement"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch22-064",
+    "case_against": "The United States is the world's second-largest greenhouse gas emitter. One study cited by the Congressional Research Service found U.S. non-participation in the Paris Agreement lowers the global emission cut achieved by more than a third. Leaving the U.N. climate treaty too removes the U.S. from the talks where rules are set, while other countries keep shaping clean-energy markets.",
+    "harms": [
+      {
+        "who": "People facing heat, floods, droughts and wildfires",
+        "what": "Would likely face greater risks if global emissions fall more slowly."
+      },
+      {
+        "who": "U.S. clean-energy businesses",
+        "what": "Could lose influence over global rules and markets."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Withdrawal from the Paris Agreement: Process and Potential Effects (R48504)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48504.html"
+      },
+      {
+        "label": "Putting America First in International Environmental Agreements",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

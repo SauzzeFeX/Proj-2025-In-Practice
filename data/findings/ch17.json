@@ -1,0 +1,1486 @@
+[
+ {
+  "id": "ch17-001",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On Jan 20, 2025 President Trump signed Executive Order 14147. It directed the Attorney General to review the past four years of activity by the Justice Department and other enforcement agencies and send the President a report recommending remedial actions. In February 2025 the Attorney General set up a Weaponization Working Group; in August 2026 it issued a report on the FBI's 2023 \"Richmond memo\" about Catholics and said the staff responsible had been removed.",
+  "key_dates": [
+   {
+    "date": "Jan 20, 2025",
+    "event": "Executive Order 14147, \"Ending the Weaponization of the Federal Government.\""
+   },
+   {
+    "date": "Feb 2025",
+    "event": "Attorney General creates the Weaponization Working Group."
+   },
+   {
+    "date": "Aug 28, 2026",
+    "event": "Working Group report on the FBI's Richmond memo released."
+   }
+  ],
+  "legal": "I found no court ruling on the order itself.",
+  "closeness": "Similar to the recommended review, but broader (all enforcement agencies, looking back four years) and focused on past actions rather than a review of all active FBI investigations. The group has released at least one report.",
+  "uncertain": "No full report covering all of EO 14147's review was found, and no list of FBI investigations closed because of it. The August 2026 report covers one FBI memo. Newest source: August 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14147: Ending the Weaponization of the Federal Government",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01900/ending-the-weaponization-of-the-federal-government"
+   },
+   {
+    "label": "Weaponization Working Group releases report on 2023 FBI Richmond field office memo",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/opa/pr/weaponization-working-group-releases-report-2023-fbi-richmond-field-office-memo-targeted-non"
+   },
+   {
+    "label": "Richmond Domain Perspective Report (Aug. 2026)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://justice.gov/sites/default/files/2026-08/8.26.26_rm_final_version.pdf"
+   },
+   {
+    "label": "Bondi to Probe DOJ Weaponization, Target 'Sanctuary' Cities",
+    "publisher": "Bloomberg Government",
+    "type": "news",
+    "url": "https://news.bgov.com/esg/bondi-to-probe-doj-weaponization-target-sanctuary-cities"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-002",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no order moving the FBI out from under the Deputy Attorney General and placing it under the heads of the Criminal and National Security Divisions.",
+  "closeness": "No matching action found.",
+  "uncertain": "I checked the Attorney General's published memos and orders on justice.gov, the Federal Register, and news on 2025-2026 FBI leadership changes. Reports describe leadership turnover but no change in the FBI's reporting line.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-003",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "On Jan 20, 2025 President Trump signed Executive Order 14149. It bars federal agencies and employees from using federal resources in ways that unconstitutionally limit Americans' speech, and directs the Attorney General to investigate the past four years of federal activity and recommend remedies. In February 2025 the Attorney General disbanded the FBI's Foreign Influence Task Force, which had worked against foreign influence campaigns in U.S. politics.",
+  "key_dates": [
+   {
+    "date": "Jan 20, 2025",
+    "event": "Executive Order 14149, \"Restoring Freedom of Speech and Ending Federal Censorship.\""
+   },
+   {
+    "date": "Feb 2025",
+    "event": "Attorney General disbands the FBI's Foreign Influence Task Force."
+   }
+  ],
+  "legal": "I found no court ruling on the order.",
+  "closeness": "Same goal, applied to all federal agencies, not only the FBI. The order and the task force's closing match the direction, but no written FBI \"firewall\" rule on requests to platforms, as the chapter describes, was found.",
+  "uncertain": "No public FBI policy on contacts with social media companies after EO 14149 was found. Newest source: February 2025.",
+  "sources": [
+   {
+    "label": "Executive Order 14149: Restoring Freedom of Speech and Ending Federal Censorship",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01902/restoring-freedom-of-speech-and-ending-federal-censorship"
+   },
+   {
+    "label": "Efforts to fight foreign influence and protect elections in question under Trump",
+    "publisher": "NPR",
+    "type": "news",
+    "url": "https://www.npr.org/2025/02/11/nx-s1-5293521/foreign-influence-elections-cisa-trump"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-004",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "The FBI's Office of General Counsel was not eliminated or moved into the Justice Department. In 2026, Director Kash Patel began shrinking it: Bloomberg Law reported in August 2026 that the office was told to cut about 25% of its staff and was urging lawyers to take early retirement. An FBI spokesman said every FBI division was being reorganized.",
+  "key_dates": [
+   {
+    "date": "Aug 4, 2026",
+    "event": "Bloomberg Law reports plans to cut the FBI General Counsel office by about a quarter."
+   }
+  ],
+  "legal": "I found no court case about the General Counsel office changes.",
+  "closeness": "Smaller than the recommendation. The office is being cut, not eliminated, and its work is not being moved to main DOJ. I found no change to the FBI's congressional or public affairs offices.",
+  "uncertain": "How many lawyers have actually left, and whether the 25% target still holds (sources said it was no longer firm). Changes to the FBI's congressional and public affairs offices were searched for but not found. Newest source is from August 2026.",
+  "sources": [
+   {
+    "label": "Patel to Reduce FBI Lawyers as General Counsel Tensions Rise (Aug. 4, 2026)",
+    "publisher": "Bloomberg Law",
+    "type": "news",
+    "url": "https://news.bloomberglaw.com/us-law-week/patel-aims-to-cut-fbi-lawyers-as-general-counsel-tensions-rise"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-005",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On Feb 21, 2025, his first day as FBI Director, Kash Patel told senior officials he planned to move about 1,000 headquarters employees to field offices and 500 more to an FBI site in Huntsville, Alabama, according to the Associated Press. In May 2025 Patel said the FBI would leave its Hoover Building headquarters. In a draft letter to staff reported by Fox News in May 2026, Patel said more than 1,000 agents and staff had been moved out of Washington into field offices.",
+  "key_dates": [
+   {
+    "date": "Feb 21, 2025",
+    "event": "AP reports Patel's plan to move 1,500 headquarters staff to field offices and Huntsville."
+   },
+   {
+    "date": "May 16, 2025",
+    "event": "Patel says the FBI will leave the Hoover Building and move 1,500 employees."
+   },
+   {
+    "date": "May 2026",
+    "event": "Patel letter says more than 1,000 staff have moved to field offices."
+   }
+  ],
+  "legal": "I found no court case about the staff moves.",
+  "closeness": "Close in direction: staff are being moved out of headquarters toward the field. The recommendation also asked for more funding and rewards for field offices; I found no confirmed change to field-office funding or pay.",
+  "uncertain": "The 1,000-plus figure comes from the Director's own letter, not an audited count, and it is unclear whether total headquarters staff shrank or only moved (some went to Huntsville). I found no change to field-office funding or pay. Newest source is from May 2026.",
+  "sources": [
+   {
+    "label": "FBI Director Kash Patel plans to move 1,500 employees out of headquarters (AP report)",
+    "publisher": "NBC Washington / Associated Press",
+    "type": "news",
+    "url": "https://www.nbcwashington.com/news/politics/fbi-kash-patel-employees/3850414/"
+   },
+   {
+    "label": "Kash Patel says FBI will leave DC headquarters, move 1,500 employees",
+    "publisher": "NBC Washington",
+    "type": "news",
+    "url": "https://www.nbcwashington.com/news/local/kash-patel-says-fbi-will-leave-dc-headquarters-move-1500-employees/3915298/?amp=1"
+   },
+   {
+    "label": "Patel says FBI cut bureaucracy, moved 1,000 agents to field offices",
+    "publisher": "Fox News",
+    "type": "news",
+    "url": "https://www.foxnews.com/politics/patel-says-fbi-cut-bureaucracy-moved-1000-agents-field-offices-generational-overhaul"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-006",
+  "status": "not-done",
+  "match": "none",
+  "happened": "No law has changed the FBI Director's 10-year term. None of the laws passed by the 119th Congress through October 2026 changes it.",
+  "closeness": "No matching law found.",
+  "uncertain": "I searched for 2025-2026 bills to end the term and checked every law passed by the 119th Congress; I found no such bill or law. I did not find whether the administration asked Congress for this change.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-007",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no order from the Attorney General in 2025 or 2026 requiring every U.S. Attorney to write a district-specific violent crime reduction plan. Attorney General Jeff Sessions gave that order on October 4, 2017, through Project Safe Neighborhoods, long before January 20, 2025.",
+  "closeness": "No matching nationwide requirement found since January 2025. Earlier administrations (2017 and 2021) gave similar directions through Project Safe Neighborhoods, which may still guide districts.",
+  "uncertain": "I searched Justice Department press release titles for violent crime reduction plans (none after 2024), the Attorney General's published memos list, and two web searches. An internal directive that was never published would not show up.",
+  "sources": [
+   {
+    "label": "Attorney General announces reinvigoration of Project Safe Neighborhoods (2017)",
+    "publisher": "U.S. Attorney's Office, Eastern District of Virginia",
+    "type": "government",
+    "url": "https://www.justice.gov/usao-edva/pr/attorney-general-announces-reinvigoration-project-safe-neighborhoods"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-008",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "In August 2025, President Trump declared a crime emergency in Washington, D.C., and the Attorney General ordered more federal law enforcement there. In September 2025 a federal Memphis Safe Task Force began work in Memphis, Tennessee; the U.S. Attorney said in April 2026 that more than 300 people had been charged federally through it. Executive Order 14288 (April 28, 2025) told the Attorney General to prioritize federal cases tied to state and local officials who unlawfully obstruct criminal law.",
+  "key_dates": [
+   {
+    "date": "Apr 28, 2025",
+    "event": "Executive Order 14288 signed."
+   },
+   {
+    "date": "Aug 2025",
+    "event": "Crime emergency declared in D.C."
+   },
+   {
+    "date": "Sep 2025",
+    "event": "Memphis Safe Task Force begins."
+   },
+   {
+    "date": "Jun 2026",
+    "event": "Memphis task force reports more than 10,000 arrests."
+   }
+  ],
+  "closeness": "Federal presence grew in D.C. and Memphis, with some cases brought in federal court. I did not confirm a general policy of bringing federal charges specifically where local prosecutors decline cases.",
+  "uncertain": "Most Memphis arrests were by mixed federal-state teams, and how many led to federal rather than state charges is known only from the U.S. Attorney's statements. Newest source is from June 2026.",
+  "sources": [
+   {
+    "label": "Executive Order: Declaring a Crime Emergency in the District of Columbia (Aug. 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/08/14/2025-15550/declaring-a-crime-emergency-in-the-district-of-columbia"
+   },
+   {
+    "label": "Attorney General Order No. 6370-2025: Restoring Safety and Security to the District of Columbia",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1411281/dl?inline"
+   },
+   {
+    "label": "Memphis Safe Task Force surpasses 10,000 arrests (June 2026)",
+    "publisher": "WBBJ-TV",
+    "type": "news",
+    "url": "https://www.wbbjtv.com/2026/06/11/memphis-safe-task-force-surpasses-10000-arrests-removes-more-than-1700-firearms-city-streets/"
+   },
+   {
+    "label": "U.S. attorney on being back in office and the Task Force",
+    "publisher": "Daily Memphian",
+    "type": "news",
+    "url": "https://dailymemphian.com/article/62242"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-009",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "Executive Order 14288 (April 28, 2025) directs the Attorney General to pursue legal remedies and prioritize federal prosecutions involving state and local officials who willfully and unlawfully obstruct criminal law. I found no lawsuit against a local District Attorney for refusing to prosecute crimes.",
+  "key_dates": [
+   {
+    "date": "Apr 28, 2025",
+    "event": "Executive Order 14288 signed."
+   }
+  ],
+  "closeness": "The order sets the policy direction, but no case against a prosecutor was found.",
+  "uncertain": "Two targeted searches found no DOJ lawsuit or case against a local prosecutor for refusing to prosecute crimes. In October 2026 DOJ reportedly subpoenaed Philadelphia District Attorney Larry Krasner's office, but that concerns a judge's referral for possible obstruction in a case, not a refusal to prosecute. Newest source is from October 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14288: Strengthening and Unleashing America's Law Enforcement",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/05/02/2025-07790/strengthening-and-unleashing-americas-law-enforcement-to-pursue-criminals-and-protect-innocent"
+   },
+   {
+    "label": "DOJ issues subpoenas to Philadelphia District Attorney Larry Krasner's office: report (Oct. 2026)",
+    "publisher": "WJLA / Sinclair (citing Fox News)",
+    "type": "news",
+    "url": "https://wjla.com/news/nation-world/doj-issues-subpoenas-to-philadelphia-district-attorney-larry-krasners-office-report-federal-judge-investigation-george-w-bush-pennsylvania-attorney-general-george-soros"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-010",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "On February 5, 2025, Attorney General Pam Bondi told prosecutors to charge the most serious offense they can readily prove. The memo says the most serious offenses include those with the biggest mandatory minimum sentences, naming the Armed Career Criminal Act.",
+  "key_dates": [
+   {
+    "date": "Feb 5, 2025",
+    "event": "Charging policy memo issued."
+   }
+  ],
+  "closeness": "Direct match for the charging policy.",
+  "uncertain": "I did not check whether prosecutors' use of the Armed Career Criminal Act actually rose.",
+  "sources": [
+   {
+    "label": "Attorney General memo: General Policy Regarding Charging, Plea Negotiations, and Sentencing (Feb. 5, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1388541/dl?inline"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-011",
+  "status": "not-done",
+  "match": "none",
+  "happened": "Senator Marsha Blackburn and Representative David Kustoff introduced the Restoring the Armed Career Criminal Act (S. 2250 and H.R. 4334) on July 10, 2025. Both bills were sent to the Judiciary Committees, and neither has become law.",
+  "closeness": "The bill exists, but it has not passed, and I found no public DOJ statement supporting it.",
+  "uncertain": "I searched for the bill and checked every law passed by the 119th Congress through October 2026; it is not among them. I found no DOJ letter or statement about it, but one could exist without appearing in search results.",
+  "sources": [
+   {
+    "label": "S. 2250, Restoring the Armed Career Criminal Act (introduced text)",
+    "publisher": "Congress.gov",
+    "type": "government",
+    "url": "https://www.congress.gov/119/bills/s2250/BILLS-119s2250is.htm"
+   },
+   {
+    "label": "Blackburn, Cotton, Kustoff Introduce Bicameral Legislation to Protect Americans from Violent Criminals",
+    "publisher": "Office of Sen. Marsha Blackburn",
+    "type": "government",
+    "url": "https://www.blackburn.senate.gov/2025/7/crime/blackburn-cotton-kustoff-introduce-bicameral-legislation-to-protect-americans-from-violent-criminals"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-012",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "Before leaving office, President Biden commuted 37 of the 40 federal death sentences on Dec 23, 2024. On Jan 20, 2025 President Trump signed Executive Order 14164, and in February 2025 the Attorney General lifted the pause on federal executions. On April 24, 2026, DOJ released a report calling for more death penalty cases, restored the pentobarbital execution method and added others such as the firing squad. DOJ has sought the death penalty in dozens of cases, but no federal execution has taken place since 2021.",
+  "key_dates": [
+   {
+    "date": "Dec 23, 2024",
+    "event": "Biden commutes 37 of 40 federal death sentences."
+   },
+   {
+    "date": "Jan 20, 2025",
+    "event": "Executive Order 14164, \"Restoring the Death Penalty and Protecting Public Safety.\""
+   },
+   {
+    "date": "Mar 16, 2026",
+    "event": "DOJ proposed rule on certifying state capital counsel systems."
+   },
+   {
+    "date": "Apr 24, 2026",
+    "event": "DOJ report \"Restoring and Strengthening the Federal Death Penalty\" released."
+   }
+  ],
+  "legal": "I did not research rulings in individual death penalty cases.",
+  "closeness": "Seeking more death sentences matches the recommendation. Carrying out sentences for the 44 people the chapter names is no longer possible for most, because their sentences were commuted, and no federal executions have happened.",
+  "uncertain": "The exact number of federal death penalty notices is not confirmed; reports say \"dozens,\" and one DOJ statement quoted in the news said 44 defendants. Newest source: April 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14164: Restoring the Death Penalty and Protecting Public Safety",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02012/restoring-the-death-penalty-and-protecting-public-safety"
+   },
+   {
+    "label": "Department of Justice releases memo calling for expansion of federal death penalty and new methods",
+    "publisher": "Death Penalty Information Center",
+    "type": "academic",
+    "url": "https://deathpenaltyinfo.org/department-of-justice-releases-memo-calling-for-expansion-of-federal-death-penalty-and-new-methods.md"
+   },
+   {
+    "label": "Certification Process for State Capital Counsel Systems (proposed rule)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05134/certification-process-for-state-capital-counsel-systems"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-013",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "The Attorney General's February 5, 2025 charging memo told prosecutors to charge the most serious provable offense and named drug cartels and gangs as priorities. In January 2025, President Trump ordered certain drug cartels designated as foreign terrorist organizations.",
+  "key_dates": [
+   {
+    "date": "Jan 20, 2025",
+    "event": "Cartel designation order signed."
+   },
+   {
+    "date": "Feb 5, 2025",
+    "event": "Charging memo issued."
+   }
+  ],
+  "closeness": "Supports aggressive drug prosecution, but I did not confirm a policy to charge simple possession of distribution-size amounts.",
+  "uncertain": "Drug case numbers were not checked.",
+  "sources": [
+   {
+    "label": "Attorney General memo: General Policy Regarding Charging, Plea Negotiations, and Sentencing (Feb. 5, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1388541/dl?inline"
+   },
+   {
+    "label": "Executive Order 14157: Designating Cartels and Other Organizations as Foreign Terrorist Organizations",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/29/2025-02004/designating-cartels-and-other-organizations-as-foreign-terrorist-organizations-and-specially"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Federal drug prosecution counts for 2025-2026, and any DOJ policy on charging possession of distribution-size amounts, still need a source."
+ },
+ {
+  "id": "ch17-014",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "On Feb 5, 2025, Attorney General Pam Bondi issued a memo on eliminating cartels and transnational criminal organizations. It lists racketeering (RICO) charges among the most serious charges to bring against cartel leaders and suspends the usual Criminal Division approval step for filing racketeering charges against cartels and those groups. Her charging memo the same day says prosecutors should rarely drop racketeering charges in plea deals.",
+  "key_dates": [
+   {
+    "date": "Feb 5, 2025",
+    "event": "Attorney General memo \"Total Elimination of Cartels and Transnational Criminal Organizations.\""
+   }
+  ],
+  "legal": "I found no court ruling on the memo itself.",
+  "closeness": "Matches the push to use RICO more, but the memo's easing of approval rules applies to cartels and transnational criminal groups, not to all criminal organizations.",
+  "uncertain": "Whether the number of RICO cases actually rose; I did not find case statistics. Sources are from February 2025.",
+  "sources": [
+   {
+    "label": "Total Elimination of Cartels and Transnational Criminal Organizations (AG memo, Feb 5, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1388546/dl?inline"
+   },
+   {
+    "label": "General Policy Regarding Charging, Plea Negotiations, and Sentencing (AG memo, Feb 5, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1388541/dl?inline"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-015",
+  "status": "partly-done",
+  "match": "direct",
+  "happened": "On Jan 20, 2025 President Trump signed Executive Order 14165, which directs building physical barriers on the southern border. The July 2025 reconciliation law provided $46.55 billion for border wall and barrier work through 2029. CBP's map showed about 232 miles of barriers of various kinds finished since January 2025 (including about 70 miles of new primary wall) as of September 2026, with 357 more miles of primary wall under construction.",
+  "key_dates": [
+   {
+    "date": "Jan 20, 2025",
+    "event": "Executive Order 14165, \"Securing Our Borders.\""
+   },
+   {
+    "date": "Jul 4, 2025",
+    "event": "Reconciliation law provides $46.55 billion for the border wall system."
+   },
+   {
+    "date": "Oct 2, 2026",
+    "event": "DHS waiver for barriers and roads in New Mexico."
+   }
+  ],
+  "legal": "I found no court order stopping construction.",
+  "closeness": "Same goal. Construction is well funded and under way but not finished; CBP has said it plans to finish in 2028. Most of the work is led by DHS, not DOJ.",
+  "uncertain": "Mileage counts differ by source because some count replacement, secondary and water barriers and others count only new primary wall. Newest source: October 2026.",
+  "sources": [
+   {
+    "label": "Public Law 119-21 (2025 reconciliation law), sec. 90001",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+   },
+   {
+    "label": "Map shows border wall progress as new work begins",
+    "publisher": "Newsweek",
+    "type": "news",
+    "url": "https://www.newsweek.com/map-border-wall-progress-new-work-begins-12463380"
+   },
+   {
+    "label": "Executive Order 14165: Securing Our Borders",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02015/securing-our-borders"
+   },
+   {
+    "label": "DHS determination under Section 102 of IIRIRA (New Mexico)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20233/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-016",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "Starting in 2025, the administration set up six National Defense Areas along the southern border in Arizona, California, New Mexico and Texas, treated as parts of military bases. Troops there can briefly detain people who cross in and hand them to Border Patrol; the military task force reported 161 such detentions by August 2026. That month, a Justice Department legal opinion said troops could also arrest trespassers just outside these zones.",
+  "key_dates": [
+   {
+    "date": "2025-04",
+    "event": "DOJ begins charging people caught in the zones with military trespass."
+   },
+   {
+    "date": "2025-05-15",
+    "event": "A New Mexico magistrate judge dismisses trespass charges against 98 people."
+   },
+   {
+    "date": "2026-08",
+    "event": "DOJ Office of Legal Counsel opinion on arrests near the zones."
+   }
+  ],
+  "legal": "On May 15, 2025, Chief Magistrate Judge Gregory Wormuth (U.S. District Court for New Mexico) dismissed military trespass charges against 98 migrants, finding no probable cause that they knew they had entered the zone. I found no court order stopping the zones.",
+  "closeness": "Close in part: active-duty troops do detain people at the border, but briefly and only in set zones, not in general arrest operations. A separate National Guard arrest role was not confirmed. City deployments are a different issue (see the National Guard story).",
+  "uncertain": "When the first zone was created, and later rulings or appeals on the trespass charges, were not confirmed. The DOJ opinion is advisory. Newest source is from August 16, 2026.",
+  "sources": [
+   {
+    "label": "Justice Department expands military's power to detain migrants accused of trespassing (CBS News)",
+    "publisher": "KWTX",
+    "type": "news",
+    "url": "https://www.kwtx.com/2026/08/16/justice-department-expands-militarys-power-detain-migrants-accused-trespassing/"
+   },
+   {
+    "label": "Federal judge dismisses trespass charges against migrants caught in NM military zone",
+    "publisher": "Source NM",
+    "type": "news",
+    "url": "https://sourcenm.com/2025/05/15/federal-judge-dismisses-trespass-charges-against-migrants-caught-in-nm-military-zone/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-017",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no announcement by the Justice Department restarting the China Initiative. In September 2025, House appropriators added report language telling DOJ to restore the program's policies, but lawmakers dropped that language before the fiscal 2026 spending bill passed (reported January 2026).",
+  "closeness": "No matching DOJ action found. A congressional attempt to direct a restart was withdrawn.",
+  "uncertain": "I checked the Attorney General's memos, the Federal Register and news. DOJ still brings China-related espionage cases without the China Initiative name; I did not count those. Newest source is from January 2026.",
+  "sources": [
+   {
+    "label": "House drops effort to revive China Initiative (Jan. 14, 2026)",
+    "publisher": "Asian Americans Advancing Justice-AAJC",
+    "type": "advocacy",
+    "url": "https://advancingjustice-aajc.org/news/house-drops-effort-revive-china-initiative"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-019",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "Early executive orders directed the Justice Department to review and change its work, including EO 14147 (Jan 20, 2025) and EO 14209 (Feb 10, 2025), which paused new Foreign Corrupt Practices Act cases. In 2025 the Civil Rights Division dropped pending voting rights suits, and in May 2025 it moved to dismiss police reform cases against Minneapolis and Louisville and withdraw findings against other police departments.",
+  "key_dates": [
+   {
+    "date": "Jan 20, 2025",
+    "event": "Executive Order 14147 orders a review of enforcement activity."
+   },
+   {
+    "date": "Feb 10, 2025",
+    "event": "Executive Order 14209 pauses new FCPA enforcement."
+   },
+   {
+    "date": "May 21, 2025",
+    "event": "DOJ moves to dismiss the Minneapolis and Louisville police cases."
+   }
+  ],
+  "legal": "I found no court ruling on these orders.",
+  "closeness": "Points in the same direction as reviewing and ending DOJ policies and cases. A group of former DOJ staff counted 55 civil rights cases dropped or reversed; no official full list exists.",
+  "uncertain": "The full set of DOJ policy memos and dropped cases is not documented in one official place; counts come from news reports and outside trackers. Newest source: August 2026.",
+  "sources": [
+   {
+    "label": "Trump DOJ dismisses investigations of police in several cities, including Minneapolis",
+    "publisher": "NPR (via KPBS)",
+    "type": "news",
+    "url": "https://www.kpbs.org/news/politics/2025/05/21/trump-doj-dismisses-investigations-of-police-in-several-cities-including-minneapolis"
+   },
+   {
+    "label": "Remedies Abandoned: US Civil Rights Enforcement Under the Trump Administration",
+    "publisher": "Human Rights Watch",
+    "type": "advocacy",
+    "url": "https://www.hrw.org/report/2026/08/13/remedies-abandoned/us-civil-rights-enforcement-under-the-trump-administration"
+   },
+   {
+    "label": "Executive Order 14209: Pausing FCPA Enforcement",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/02/14/2025-02736/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security"
+   },
+   {
+    "label": "Executive Order 14147: Ending the Weaponization of the Federal Government",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01900/ending-the-weaponization-of-the-federal-government"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-020",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On January 23, 2025, President Trump pardoned about two dozen people convicted of FACE Act or related clinic-access offenses. On January 24, 2025, a memo from DOJ's chief of staff said new abortion-related FACE Act cases would be allowed only in extraordinary circumstances or with serious aggravating factors, required approval by the head of the Civil Rights Division, and ordered three pending cases dismissed.",
+  "key_dates": [
+   {
+    "date": "Jan 23, 2025",
+    "event": "FACE Act pardons granted."
+   },
+   {
+    "date": "Jan 24, 2025",
+    "event": "DOJ memo limits new FACE Act cases and dismisses three."
+   }
+  ],
+  "closeness": "Close match: DOJ changed how it uses the FACE Act and ended pending cases, and the pardons addressed past convictions. The chapter's wider review of all DOJ activities is covered elsewhere (see ch17-001).",
+  "uncertain": "Whether the memo has been changed since 2025, and how many FACE Act cases DOJ has brought since. Newest source is from January 2025.",
+  "sources": [
+   {
+    "label": "Clemency Grants by President Donald J. Trump (2025-Present)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present"
+   },
+   {
+    "label": "Justice Department curtails prosecutions for blocking reproductive health care facilities (AP)",
+    "publisher": "Spectrum News / Associated Press",
+    "type": "news",
+    "url": "https://spectrumlocalnews.com/us/snplus/politics/2025/01/24/justice-department-prosecutions-blocking-abortion-clinics"
+   },
+   {
+    "label": "DOJ Halts Most Cases for Blocking Abortion and Pregnancy Centers",
+    "publisher": "Bloomberg Government",
+    "type": "news",
+    "url": "https://news.bgov.com/us-law-week/doj-halts-most-cases-for-blocking-abortion-and-pregnancy-centers"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-021",
+  "status": "partly-done",
+  "match": "direct",
+  "happened": "On May 21, 2025, DOJ said it would dismiss its lawsuits and proposed consent decrees with Minneapolis and Louisville police, and close investigations and retract findings for Phoenix, Trenton, Memphis, Mount Vernon, Oklahoma City and the Louisiana State Police. Executive Order 14288 (April 28, 2025) ordered a review of all police consent decrees. On February 19, 2026, DOJ and Cleveland asked a court to end Cleveland's 2015 police consent decree.",
+  "key_dates": [
+   {
+    "date": "Apr 28, 2025",
+    "event": "Executive Order 14288 orders review."
+   },
+   {
+    "date": "May 21, 2025",
+    "event": "DOJ moves to drop Minneapolis and Louisville cases and closes six investigations."
+   },
+   {
+    "date": "Feb 19, 2026",
+    "event": "Motion to end Cleveland decree."
+   }
+  ],
+  "closeness": "Matches the call to review and end consent decrees. The Minneapolis and Louisville decrees had not yet been approved by courts; Cleveland's was a long-running decree. Not every decree has been ended.",
+  "uncertain": "Whether courts granted every motion to end a decree, and the status of other long-running decrees. Newest source is from February 2026.",
+  "sources": [
+   {
+    "label": "Executive Order 14288: Strengthening and Unleashing America's Law Enforcement",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/05/02/2025-07790/strengthening-and-unleashing-americas-law-enforcement-to-pursue-criminals-and-protect-innocent"
+   },
+   {
+    "label": "Civil Rights Division Dismisses Biden-Era Police Investigations and Lawsuits (May 21, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/opa/pr/us-department-justices-civil-rights-division-dismisses-biden-era-police-investigations-and"
+   },
+   {
+    "label": "Trump DOJ dismisses investigations of police in several cities, including Minneapolis",
+    "publisher": "NPR",
+    "type": "news",
+    "url": "https://www.npr.org/2025/05/21/nx-s1-5406262/trump-administration-dismisses-police-investigations-minneapolis-george-floyd"
+   },
+   {
+    "label": "Justice Department Seeks to Terminate Federal Oversight of Cleveland Police Department (Feb. 19, 2026)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/opa/pr/justice-department-seeks-terminate-federal-oversight-cleveland-police-department"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-022",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "On Feb 5, 2025, Attorney General Pam Bondi issued a memo saying settlements should, except in limited cases, not require payments to outside groups that were neither victims nor parties to a case. It cancelled a 2022 Justice Department memo that had allowed such payments in some cases, and asked for a report within 30 days on further steps.",
+  "key_dates": [
+   {
+    "date": "Feb 5, 2025",
+    "event": "AG memo \"Reinstating the Prohibition on Improper Third-Party Settlements.\""
+   }
+  ],
+  "legal": "I found no court case about the memo.",
+  "closeness": "Same idea as the recommendation, done by an internal policy memo. I found no new formal regulation in the Federal Register, which the recommendation also asked for.",
+  "uncertain": "Whether the follow-up report led to a written regulation. A Federal Register search for 2025-2026 Justice Department rules on third-party settlement payments found none.",
+  "sources": [
+   {
+    "label": "Reinstating the Prohibition on Improper Third-Party Settlements (AG memo, Feb 5, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1388536/dl?inline"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-023",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "On February 5, 2025, Attorney General Bondi issued a memo saying DOJ lawyers must zealously defend the President's policies. Lawyers who refuse to advance good-faith arguments for the administration because of personal views may face discipline or firing.",
+  "key_dates": [
+   {
+    "date": "Feb 5, 2025",
+    "event": "Zealous advocacy memo issued."
+   }
+  ],
+  "closeness": "Direct match.",
+  "uncertain": "I did not check how the policy has been enforced.",
+  "sources": [
+   {
+    "label": "Attorney General memo: General Policy Regarding Zealous Advocacy on Behalf of the United States (Feb. 5, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1388521/dl?inline"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-024",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "The administration fired members of several independent agencies and argued in court that the 1935 case Humphrey's Executor should be overruled. On June 29, 2026 the Supreme Court ruled 6-3 in Trump v. Slaughter that the President could remove FTC commissioners, overruling Humphrey's Executor.",
+  "key_dates": [
+   {
+    "date": "Jun 29, 2026",
+    "event": "Trump v. Slaughter overrules Humphrey's Executor (6-3)."
+   },
+   {
+    "date": "Jun 29, 2026",
+    "event": "Trump v. Cook leaves the Federal Reserve's for-cause protection in place."
+   }
+  ],
+  "legal": "Supreme Court final ruling in Trump v. Slaughter. In Trump v. Cook the Court left the Fed's protection in place. The Court left open the status of some other bodies.",
+  "closeness": "Same position and outcome the chapter sought. Same events as the project's \"independent-agencies\" story.",
+  "uncertain": "How the ruling applies to other multi-member agencies. Newest source: June 2026.",
+  "sources": [
+   {
+    "label": "Supreme Court overrules Humphrey's Executor",
+    "publisher": "Venable LLP",
+    "type": "law-firm",
+    "url": "https://www.venable.com/insights/publications/2026/06/supreme-court-overrules-humphreys-executor"
+   },
+   {
+    "label": "Supreme Court decides Trump v. Slaughter",
+    "publisher": "Faegre Drinker",
+    "type": "law-firm",
+    "url": "https://www.faegredrinker.com/en/insights/publications/2026/6/supreme-court-decides-trump-v-slaughter"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-025",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "On Jan 20-21, 2025 President Trump signed Executive Orders 14151 and 14173. They ended federal DEI programs, revoked the 1965 order on federal contractor affirmative action (EO 11246), required contractors to certify they do not run illegal DEI programs, and directed the Attorney General and agencies to plan enforcement against private-sector DEI.",
+  "key_dates": [
+   {
+    "date": "Jan 20, 2025",
+    "event": "Executive Order 14151 ends federal DEI programs."
+   },
+   {
+    "date": "Jan 21, 2025",
+    "event": "Executive Order 14173 revokes EO 11246 and sets contractor certification."
+   }
+  ],
+  "legal": "I could not check the court status of challenges to these orders before my search budget ran out.",
+  "closeness": "Same goal, but led by White House orders rather than a DOJ-led recommitment. The orders do give DOJ a central enforcement role.",
+  "uncertain": "Current court status of challenges to EO 14151 and 14173, and what DOJ enforcement actions followed.",
+  "sources": [
+   {
+    "label": "Executive Order 14173: Ending Illegal Discrimination and Restoring Merit-Based Opportunity",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02097/ending-illegal-discrimination-and-restoring-merit-based-opportunity"
+   },
+   {
+    "label": "Executive Order 14151: Ending Radical and Wasteful Government DEI Programs",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-026",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On May 19, 2025, Deputy Attorney General Todd Blanche created the Civil Rights Fraud Initiative, led by DOJ's Civil Fraud Section and Civil Rights Division. It uses the False Claims Act, a civil fraud law, to pursue federal fund recipients, including colleges, that knowingly break civil rights laws, and it names some DEI programs. On July 29, 2025, Attorney General Pam Bondi issued guidance listing practices DOJ considers unlawful for funding recipients.",
+  "key_dates": [
+   {
+    "date": "2025-02-05",
+    "event": "Attorney General memo on ending illegal DEI discrimination and preferences."
+   },
+   {
+    "date": "2025-05-19",
+    "event": "DOJ creates the Civil Rights Fraud Initiative."
+   },
+   {
+    "date": "2025-07-29",
+    "event": "Attorney General guidance for recipients of federal funding."
+   }
+  ],
+  "legal": "I found no court ruling on the initiative or the guidance.",
+  "closeness": "Same targets as the chapter, but DOJ mainly uses civil tools (False Claims Act cases and grant conditions), not criminal prosecution. I did not confirm a reorganization of the Civil Rights Division.",
+  "uncertain": "How many investigations, lawsuits or settlements have come from the initiative was not confirmed. The July 2025 guidance is described from law-firm summaries. Newest source is from August 2025.",
+  "sources": [
+   {
+    "label": "Justice Department Establishes Civil Rights Fraud Initiative",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/opa/pr/justice-department-establishes-civil-rights-fraud-initiative"
+   },
+   {
+    "label": "DOJ Announces Establishment of Civil Rights Fraud Initiative",
+    "publisher": "Morgan Lewis",
+    "type": "law-firm",
+    "url": "https://www.morganlewis.com/pubs/2025/05/doj-announces-establishment-of-civil-rights-fraud-initiative"
+   },
+   {
+    "label": "Attorney General Issues Memorandum on Unlawful Discrimination for Recipients of Federal Funds",
+    "publisher": "Skadden",
+    "type": "law-firm",
+    "url": "https://www.skadden.com/insights/publications/2025/08/attorney-general-issues-memorandum"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-027",
+  "status": "not-done",
+  "match": "none",
+  "happened": "The Justice Department has not announced that it will enforce the Comstock Act against people who mail abortion pills. A December 2022 Justice Department legal opinion that limits such cases is still in place. At his 2026 confirmation hearing, Todd Blanche said he would review that opinion; the Senate confirmed him as Attorney General in August 2026.",
+  "closeness": "No matching announcement. A promised review of the 2022 opinion is the closest step. FDA actions on the pill are covered in the mifepristone story (ch14-026 to ch14-031).",
+  "uncertain": "Two searches found no withdrawal of the 2022 opinion and no Comstock Act charges through August 2026, and nothing later. Whether the review has started is not known.",
+  "sources": [
+   {
+    "label": "Pro-life groups urge follow-through from Blanche on policy permitting mifepristone by mail",
+    "publisher": "OSV News",
+    "type": "news",
+    "url": "https://www.osvnews.com/pro-life-groups-urge-follow-through-from-blanche-on-policy-permitting-mifepristone-by-mail/"
+   },
+   {
+    "label": "Anti-abortion groups urge attorney general to halt mailing of abortion pills",
+    "publisher": "Stateline",
+    "type": "news",
+    "url": "https://stateline.org/2026/08/10/anti-abortion-groups-urge-attorney-general-to-halt-mailing-of-abortion-pills/"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-028",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no order moving election-related conspiracy-against-rights cases (18 U.S.C. 241) from the Civil Rights Division to the Criminal Division.",
+  "closeness": "No matching action found.",
+  "uncertain": "I checked the Attorney General's published memos and orders and searched news twice. DOJ said in 2025 that its Criminal Division handles election crimes, which was already true before 2025. No formal transfer of section 241 cases was found; internal reassignments might not be public.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-029",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no public record that the Justice Department opened an investigation or brought charges against Pennsylvania's 2020 Secretary of the Commonwealth over her 2020 ballot guidance.",
+  "closeness": "No matching action found.",
+  "uncertain": "I searched Justice Department press release titles for the official's name and Pennsylvania's Secretary, and ran two web searches; results showed only 2020-2024 coverage and no 2025-2026 inquiry. Investigations are often not made public until charges are filed.",
+  "sources": [],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-031",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On Feb 5, 2025, the Attorney General ordered Justice Department offices to pause distribution of funds until a review was done and to end agreements found unlawful or wasteful. In April 2025 the department ended several hundred grants worth roughly $800 million, mostly from the Office of Justice Programs. Grant recipients sued.",
+  "key_dates": [
+   {
+    "date": "Feb 5, 2025",
+    "event": "AG memo orders a funding pause and review."
+   },
+   {
+    "date": "Apr 2025",
+    "event": "DOJ ends hundreds of Office of Justice Programs grants."
+   },
+   {
+    "date": "Jul 7, 2025",
+    "event": "Federal judge denies a preliminary injunction and dismisses the grant recipients' suit; they appeal."
+   },
+   {
+    "date": "Oct 14, 2025",
+    "event": "D.C. Circuit hears arguments in the appeal."
+   }
+  ],
+  "legal": "In Vera Institute of Justice v. Department of Justice, the U.S. District Court for D.C. denied a preliminary injunction and dismissed the case on July 7, 2025, finding it lacked jurisdiction. The plaintiffs appealed; the D.C. Circuit heard arguments on October 14, 2025. No appeals decision was found as of October 2026.",
+  "closeness": "A department-wide funding review did happen, but it focused on ending grants that did not match the administration's priorities, not only on checking how programs were run and money was used.",
+  "uncertain": "The exact number and value of grants ended (sources differ). No D.C. Circuit decision was found in an October 2026 search, but the docket itself was not checked. Newest source: November 2025.",
+  "sources": [
+   {
+    "label": "Sanctuary Jurisdiction Directives (AG memo, Feb 5, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1388531/dl?inline"
+   },
+   {
+    "label": "Case: Vera Institute of Justice v. U.S. Department of Justice",
+    "publisher": "Civil Rights Litigation Clearinghouse",
+    "type": "academic",
+    "url": "https://clearinghouse.net/case/46625/"
+   },
+   {
+    "label": "Suit Slams 'Abrupt And Unlawful' DOJ Grant Terminations",
+    "publisher": "Law360",
+    "type": "news",
+    "url": "https://www.law360.com/articles/2343800/suit-slams-abrupt-and-unlawful-doj-grant-terminations"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Check the D.C. Circuit docket in Vera Institute v. DOJ (argued Oct. 14, 2025) for a decision, and find an official count of terminated grants."
+ },
+ {
+  "id": "ch17-032",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On February 5, 2025, the Attorney General ordered DOJ to pause and review funding, keep grants away from sanctuary jurisdictions, require some grant applicants to comply with a federal immigration-information law, and review grants to groups serving people in the country illegally.",
+  "key_dates": [
+   {
+    "date": "Feb 5, 2025",
+    "event": "Sanctuary jurisdiction directives issued."
+   }
+  ],
+  "closeness": "Matches the push for stricter grant vetting tied to law enforcement cooperation.",
+  "uncertain": "Federal courts blocked similar DOJ grant conditions in 2017-2018, before this administration. Searches found 2025 court rulings against immigration conditions on DHS and Transportation grants, but none yet on DOJ's own 2025 grant conditions. Newest source is from February 2025.",
+  "sources": [
+   {
+    "label": "Attorney General memo: Sanctuary Jurisdiction Directives (Feb. 5, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1388531/dl?inline"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Court rulings on DOJ's 2025 grant conditions (for example in San Francisco v. Trump or state suits over DOJ grants) still need to be found."
+ },
+ {
+  "id": "ch17-033",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "The Attorney General's February 5, 2025 charging memo told U.S. Attorneys to use all available criminal laws against illegal immigration and to bring immigration-related charges when cases are referred. Offices must report any declinations and send quarterly statistics.",
+  "key_dates": [
+   {
+    "date": "Feb 5, 2025",
+    "event": "Charging memo issued."
+   }
+  ],
+  "closeness": "Direct match.",
+  "uncertain": "I did not check prosecution numbers.",
+  "sources": [
+   {
+    "label": "Attorney General memo: General Policy Regarding Charging, Plea Negotiations, and Sentencing (Feb. 5, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1388541/dl?inline"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-034",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "Executive Order 14287 (April 28, 2025) told the Attorney General and DHS to publish a list of sanctuary jurisdictions; DOJ published one. DOJ also sued several jurisdictions over their policies, including Illinois and Chicago, and New York City in July 2025. A federal judge dismissed the Illinois and Chicago suit on July 25, 2025.",
+  "key_dates": [
+   {
+    "date": "Apr 28, 2025",
+    "event": "Executive Order 14287 signed."
+   },
+   {
+    "date": "Jul 24, 2025",
+    "event": "DOJ sues New York City."
+   },
+   {
+    "date": "Jul 25, 2025",
+    "event": "Judge dismisses DOJ suit against Illinois and Chicago."
+   }
+  ],
+  "legal": "U.S. District Court for the Northern District of Illinois (Judge Lindsay Jenkins) dismissed DOJ's suit against Illinois, Cook County and Chicago on July 25, 2025, without prejudice, finding federal law does not require states to help enforce immigration law.",
+  "closeness": "Supports DHS access to information indirectly, through lawsuits and pressure, rather than a direct data-sharing program.",
+  "uncertain": "Outcomes of the suits against New York City, New York, New Jersey and California were not confirmed. Newest source is from July 2025.",
+  "sources": [
+   {
+    "label": "Executive Order 14287: Protecting American Communities From Criminal Aliens",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/05/02/2025-07789/protecting-american-communities-from-criminal-aliens"
+   },
+   {
+    "label": "U.S. Sanctuary Jurisdiction List Following Executive Order 14287",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/us-sanctuary-jurisdiction-list-following-executive-order-14287-protecting-american-communities"
+   },
+   {
+    "label": "Complaint: United States v. City of New York (July 24, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1408886/dl?inline"
+   },
+   {
+    "label": "Federal judge dismisses Trump administration's lawsuit against Chicago over its sanctuary city policies",
+    "publisher": "NBC News",
+    "type": "news",
+    "url": "https://www.nbcnews.com/politics/trump-administration/federal-judge-dismisses-trump-administrations-lawsuit-chicago-sanctuar-rcna221197?rand=14095"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Outcomes of DOJ's sanctuary suits against New York City, New York, New Jersey and California still need checking."
+ },
+ {
+  "id": "ch17-035",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "The Attorney General used her power to decide immigration cases directly. On Sept 2, 2025 she overruled two 2021 decisions issued under Attorney General Garland, Matter of A-B- and Matter of L-E-A-, and restored earlier rulings from 2018 to January 2021 that limit asylum claims based on domestic violence, gang violence or family ties. On Oct 22, 2025 she lifted a 2021 stay in Matter of Negusie, making a 2020 decision the controlling one.",
+  "key_dates": [
+   {
+    "date": "Sep 2, 2025",
+    "event": "AG decisions overrule Matter of A-B- (2021) and Matter of L-E-A- (2021)."
+   },
+   {
+    "date": "Oct 22, 2025",
+    "event": "AG decision in Matter of Negusie vacates a 2021 stay."
+   }
+  ],
+  "legal": "I found no court ruling on these decisions. Individual asylum seekers can challenge their application in federal appeals courts.",
+  "closeness": "Same mechanism as recommended (Attorney General review of immigration cases), but it reversed a few Garland-era decisions, not all of them. I counted five Attorney General decisions in 2025 and none listed for 2026 on the immigration court's precedent pages.",
+  "uncertain": "Whether other Garland-era decisions were reversed through regulations or Board decisions instead. Checked the immigration court's precedent list as of Oct 2026.",
+  "sources": [
+   {
+    "label": "Matter of S-S-F-M-, 29 I&N Dec. 207 (A.G. 2025)",
+    "publisher": "Executive Office for Immigration Review",
+    "type": "government",
+    "url": "https://www.justice.gov/eoir/media/1412696/dl?inline"
+   },
+   {
+    "label": "Matter of R-E-R-M- & J-D-R-M-, 29 I&N Dec. 202 (A.G. 2025)",
+    "publisher": "Executive Office for Immigration Review",
+    "type": "government",
+    "url": "https://www.justice.gov/eoir/media/1412686/dl?inline"
+   },
+   {
+    "label": "Matter of Negusie, 29 I&N Dec. 285 (A.G. 2025)",
+    "publisher": "Executive Office for Immigration Review",
+    "type": "government",
+    "url": "https://www.justice.gov/eoir/media/1416586/dl?inline"
+   },
+   {
+    "label": "Volume 29 precedent decisions",
+    "publisher": "Executive Office for Immigration Review",
+    "type": "government",
+    "url": "https://www.justice.gov/eoir/volume-29"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-036",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "DOJ's immigration courts issued several rules in 2025-2026. They cut the Board of Immigration Appeals to 15 members (April 2025), let a 2020 Trump-era rule on public-health asylum bars take effect Dec 31, 2025, and made Board review of appeals discretionary (February 2026). In July 2026 DOJ proposed letting immigration judges fine people for contempt.",
+  "key_dates": [
+   {
+    "date": "Apr 14, 2025",
+    "event": "Interim rule reduces the Board of Immigration Appeals to 15 members."
+   },
+   {
+    "date": "Dec 31, 2025",
+    "event": "2020 public-health asylum bar rule takes effect."
+   },
+   {
+    "date": "Feb 6, 2026",
+    "event": "Interim rule on Board appellate procedures."
+   }
+  ],
+  "legal": "I did not research lawsuits over these specific rules.",
+  "closeness": "Some Trump-era rules were revived, but I found no reissuing of every Trump-era immigration court rule. Several rules are new rather than reissued.",
+  "uncertain": "Whether other 2019-2020 rules (such as those on case delays) were reissued, and whether any of these rules face court challenges.",
+  "sources": [
+   {
+    "label": "Security Bars and Processing; Confirmation of Effective Date; Partial Withdrawal",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/12/30/2025-23970/security-bars-and-processing-confirmation-of-effective-date-partial-withdrawal"
+   },
+   {
+    "label": "Appellate Procedures for the Board of Immigration Appeals",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/02/06/2026-02326/appellate-procedures-for-the-board-of-immigration-appeals"
+   },
+   {
+    "label": "Reducing the Size of the Board of Immigration Appeals",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/04/14/2025-06294/reducing-the-size-of-the-board-of-immigration-appeals"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-037",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "The July 2025 reconciliation law (P.L. 119-21) gave the Justice Department $3.33 billion, including money to hire immigration judges and staff, and capped the judge corps at 800 from November 2028. The immigration court system also used temporary immigration judges. In May 2026 it swore in 77 permanent and 5 temporary judges, its largest class, bringing the corps to nearly 700.",
+  "key_dates": [
+   {
+    "date": "Jul 4, 2025",
+    "event": "P.L. 119-21 signed, funding immigration judge hiring."
+   },
+   {
+    "date": "Aug 28, 2025",
+    "event": "Rule allowing temporary immigration judges published."
+   },
+   {
+    "date": "May 20, 2026",
+    "event": "77 immigration judges and 5 temporary judges sworn in."
+   }
+  ],
+  "legal": "I found no court ruling blocking the hiring.",
+  "closeness": "More resources went to immigration courts, as recommended. I did not confirm how many of these resources went to cases under the \"Remain in Mexico\" program, which the recommendation named as an example.",
+  "uncertain": "How the money is split between immigration courts and other uses in the same section of the law, and how many judges left during the same period. Newest source is from May 2026.",
+  "sources": [
+   {
+    "label": "Public Law 119-21, sec. 100054 (appropriation for the Department of Justice)",
+    "publisher": "GovInfo",
+    "type": "government",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+   },
+   {
+    "label": "EOIR Announces 77 Immigration Judges and 5 Temporary Immigration Judges",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/opa/pr/eoir-announces-77-immigration-judges-and-5-temporary-immigration-judges"
+   },
+   {
+    "label": "Designation of Temporary Immigration Judges",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/08/28/2025-16573/designation-of-temporary-immigration-judges"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-038",
+  "status": "blocked",
+  "match": "direct",
+  "happened": "In May 2025, the Justice Department asked a federal judge to end the Flores settlement, which sets rules for holding migrant children. Judge Dolly Gee denied the request in August 2025.",
+  "key_dates": [
+   {
+    "date": "May 2025",
+    "event": "DOJ asks court to end Flores."
+   },
+   {
+    "date": "Aug 15, 2025",
+    "event": "Judge denies the request."
+   },
+   {
+    "date": "Jun 2, 2026",
+    "event": "Ninth Circuit hears the government's appeal."
+   }
+  ],
+  "legal": "U.S. District Court for the Central District of California (Judge Dolly Gee) denied the motion to terminate the settlement on August 15, 2025. The government appealed; the Ninth Circuit heard argument on June 2, 2026 (Flores v. Blanche, No. 25-6308). I found no appeals ruling yet.",
+  "closeness": "Direct match: DOJ litigated to end Flores, and the court refused. Same action as ch14-099.",
+  "uncertain": "The Ninth Circuit has not ruled as far as I found; reports said the panel seemed skeptical of the government's arguments. Newest source is from June 2026.",
+  "sources": [
+   {
+    "label": "Judge denies Trump administration request to end a policy protecting immigrant children in custody (AP)",
+    "publisher": "Spectrum News",
+    "type": "news",
+    "url": "https://spectrumlocalnews.com/ca/california/politics/2025/08/16/judge-denies-trump-administration-request-to-end-a-policy-protecting-immigrant-children-in-custody"
+   },
+   {
+    "label": "Trump administration seeks to end court settlement protecting migrant children in U.S. custody",
+    "publisher": "CBS News",
+    "type": "news",
+    "url": "https://www.cbsnews.com/amp/news/trump-administration-seeks-to-end-flores-agreement"
+   },
+   {
+    "label": "Trump Bid to Undo Child Detention Pact Gets Brisk Court Response",
+    "publisher": "Bloomberg Government",
+    "type": "news",
+    "url": "https://news.bgov.com/us-law-week/trump-bid-to-undo-child-detention-pact-gets-brisk-court-response"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-039",
+  "status": "in-effect",
+  "match": "direct",
+  "happened": "The Civil Rights Division brought a series of cases in 2026 over hiring that favored temporary visa holders over U.S. workers. It sued Cloudera in April 2026, reached a $3.2 million settlement with OpenAI in August 2026, and announced a $5 million joint settlement with Instacart and the EEOC in October 2026.",
+  "key_dates": [
+   {
+    "date": "Apr 28, 2026",
+    "event": "Civil Rights Division sues Cloudera."
+   },
+   {
+    "date": "Aug 4, 2026",
+    "event": "Settlement with OpenAI announced."
+   },
+   {
+    "date": "Oct 20, 2026",
+    "event": "Joint settlement with Instacart announced."
+   }
+  ],
+  "legal": "These were settlements and a lawsuit brought by the government; I did not find rulings against the program.",
+  "closeness": "Matches the recommendation: active enforcement against hiring that favors foreign or temporary workers over U.S. citizens.",
+  "uncertain": "How the number of cases compares with earlier years. Newest source is from October 2026.",
+  "sources": [
+   {
+    "label": "Civil Rights Division Secures Settlement with OpenAI for Discriminating Against U.S. Workers",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/opa/pr/civil-rights-division-secures-settlement-openai-discriminating-against-us-workers"
+   },
+   {
+    "label": "Civil Rights Division Sues Cloudera for Excluding U.S. Workers",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/opa/pr/civil-rights-division-sues-cloudera-excluding-us-workers-applying-high-paying-technology"
+   },
+   {
+    "label": "Civil Rights Division and EEOC Secure $5,000,000 Joint Settlement with Instacart",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/opa/pr/civil-rights-division-and-equal-employment-opportunity-commission-secure-5000000-joint"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-040",
+  "status": "in-effect",
+  "match": "partial",
+  "happened": "On February 5, 2025, the Acting Director of the Executive Office for Immigration Review issued a memo (PM 25-19) to re-establish its Anti-Fraud Program. It told staff to report fraud and cooperate with the program and with EOIR's attorney discipline office, and it covers fraud by attorneys and accredited representatives. In July 2026, DOJ proposed a rule letting immigration judges fine people for contempt.",
+  "key_dates": [
+   {
+    "date": "2025-02-05",
+    "event": "EOIR memo PM 25-19 re-establishes the Anti-Fraud Program."
+   },
+   {
+    "date": "2025-09",
+    "event": "EOIR publishes a fact sheet on its Fraud and Abuse Prevention Program."
+   },
+   {
+    "date": "2026-07-30",
+    "event": "DOJ proposes civil money penalties for contempt of an immigration judge."
+   }
+  ],
+  "legal": "I found no court ruling on the memo.",
+  "closeness": "Same idea and mechanism: a stronger anti-fraud program in the immigration courts. The memo's main focus is asylum fraud, with attorney fraud as one part, while the chapter put attorney fraud first.",
+  "uncertain": "How many fraud referrals or attorney discipline cases followed was not checked. The contempt penalty rule was still a proposal as of the newest source (July 2026).",
+  "sources": [
+   {
+    "label": "Fraud and Abuse Prevention Program fact sheet (Sept. 2025)",
+    "publisher": "U.S. Department of Justice, EOIR",
+    "type": "government",
+    "url": "https://www.justice.gov/eoir/fraud-and-abuse-prevention-program-fact-sheet"
+   },
+   {
+    "label": "EOIR Acting Director reinstates the agency's anti-fraud program (PM 25-19)",
+    "publisher": "Immigration Policy Tracking Project",
+    "type": "academic",
+    "url": "https://immpolicytracking.org/policies/eoir-acting-director-reinstates-the-agencys-anti-fraud-program/"
+   },
+   {
+    "label": "Proposed rule: Civil Money Penalty for Actions in Contempt of an Immigration Judge's Proper Exercise of Authority",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15458/civil-money-penalty-for-actions-in-contempt-of-an-immigration-judges-proper-exercise-of-authority"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-041",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "The administration created a new job category, Schedule Policy/Career, by a 2026 final rule that makes some policy jobs easier to fill and remove; lawsuits followed. DOJ also allowed temporary immigration judges to be named in August 2025. I did not confirm a large increase in political appointees across DOJ.",
+  "key_dates": [
+   {
+    "date": "Aug 28, 2025",
+    "event": "Temporary immigration judge rule."
+   },
+   {
+    "date": "2026",
+    "event": "Schedule Policy/Career final rule."
+   }
+  ],
+  "closeness": "These are government-wide or narrower steps, not a funded expansion of DOJ political appointees.",
+  "uncertain": "DOJ appointee numbers were not checked. Newest source is from 2026.",
+  "sources": [
+   {
+    "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges (LSB11412)",
+    "publisher": "Congressional Research Service (via EveryCRSReport)",
+    "type": "government",
+    "url": "https://www.everycrsreport.com/reports/LSB11412.html"
+   },
+   {
+    "label": "Designation of Temporary Immigration Judges (Aug. 28, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/08/28/2025-16573/designation-of-temporary-immigration-judges"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Counts of DOJ political appointees in 2025-2026 still need a source (for example OPM data or news reports)."
+ },
+ {
+  "id": "ch17-044",
+  "status": "partly-done",
+  "match": "partial",
+  "happened": "On Feb 5, 2025, the Attorney General ordered all Justice Department offices to end DEI programs and diversity hiring targets, rescind guidance allowing race- or sex-based preferences, and report by March 15, 2025 on DEI positions, programs and contracts. The memo says department decisions, including employment, should avoid identity-based considerations.",
+  "key_dates": [
+   {
+    "date": "Feb 5, 2025",
+    "event": "AG memo \"Eliminating Internal Discriminatory Practices.\""
+   }
+  ],
+  "legal": "I found no court ruling on this memo.",
+  "closeness": "Covers the race and sex part of the recommendation. I found no published review of career hiring across all offices for ideology or political views, which the recommendation also asked for.",
+  "uncertain": "Whether the component reports were finished or made public. Source is from February 2025.",
+  "sources": [
+   {
+    "label": "Eliminating Internal Discriminatory Practices (AG memo, Feb 5, 2025)",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ag/media/1388556/dl?inline"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-045",
+  "status": "under-review",
+  "match": "partial",
+  "happened": "In March 2025 a Deputy Attorney General memo proposed combining several Justice Department units, including the DEA and ATF and some policy offices, according to the Associated Press. In June 2026 the department briefed stakeholders on a plan to merge its three grant offices (OJP, COPS and OVW) into one Bureau of Justice Grants, with a shared office providing human resources, contracting, building support, IT and legal services. As of September 2026 the department said leadership would decide next steps.",
+  "key_dates": [
+   {
+    "date": "Mar 2025",
+    "event": "Restructuring memo proposes combining DOJ components."
+   },
+   {
+    "date": "Jun 2026",
+    "event": "DOJ briefs stakeholders on a Bureau of Justice Grants."
+   }
+  ],
+  "legal": "I found no court case. Some lawmakers say the grants merger conflicts with directions from Congress.",
+  "closeness": "The grants plan would combine support functions such as HR, IT and legal services, as the chapter suggests, but only for the three grant offices, and it is not final. Public relations is not listed.",
+  "uncertain": "No merger had been completed as of the department's September 2, 2026 update, and no effective date was given. Whether support functions were combined elsewhere in DOJ was not found.",
+  "sources": [
+   {
+    "label": "Information on the Bureau of Justice Grants",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/grants/information-bureau-justice-grants"
+   },
+   {
+    "label": "Justice Department eyes combining ATF and DEA as part of broad restructuring (AP)",
+    "publisher": "National Newswatch / Associated Press",
+    "type": "news",
+    "url": "https://nationalnewswatch.com/2025/03/27/justice-department-eyes-combining-atf-and-dea-as-part-of-broad-restructuring"
+   }
+  ],
+  "as_of": "2026-10-28"
+ },
+ {
+  "id": "ch17-047",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no merger of the Justice Department's Office of Legislative Affairs and Office of Public Affairs. Both still have separate pages on the department's website.",
+  "closeness": "No matching action found.",
+  "uncertain": "I checked the department's website for both offices and searched the Federal Register for an Office of Public and Legislative Affairs (no results). A merger in practice under one leader would not necessarily show up.",
+  "sources": [
+   {
+    "label": "Office of Legislative Affairs",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/ola"
+   },
+   {
+    "label": "Office of Public Affairs",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/opa"
+   }
+  ],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-048",
+  "status": "not-done",
+  "match": "none",
+  "happened": "I found no law changing pay for Assistant U.S. Attorneys in the field, and no administration request to Congress for such a change.",
+  "closeness": "No matching action found. The Attorney General already sets these salaries under existing law, within set limits.",
+  "uncertain": "Searched the local copy of all laws passed by the 119th Congress through October 2026 for provisions on Assistant U.S. Attorneys, and ran a web search for a pay reform request. Internal DOJ pay reviews may not be public.",
+  "sources": [],
+  "as_of": "2026-10-27"
+ },
+ {
+  "id": "ch17-049",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "On April 22, 2025, DOJ ended about 365 Office of Justice Programs grants, worth about $811 million when awarded, saying they did not match its funding priorities. The canceled areas included research, data collection and innovation projects. The Bureau of Justice Statistics kept running core data programs such as its National Prisoner Statistics survey.",
+  "key_dates": [
+   {
+    "date": "2025-04-22",
+    "event": "DOJ terminates about 365 Office of Justice Programs grants."
+   }
+  ],
+  "legal": "Court challenges to the grant terminations were not checked here.",
+  "closeness": "Only the general direction matches. I found no DOJ policy telling the Bureau of Justice Statistics to limit itself to core statistics or to stop publishing contractor reports.",
+  "uncertain": "I could not confirm from a source I opened how much of the cut came from National Institute of Justice research grants, or whether BJS changed which reports it publishes. Newest source is from 2025.",
+  "sources": [
+   {
+    "label": "Layoffs, closures and gaps in oversight expected after hundreds of U.S. Department of Justice grants are canceled",
+    "publisher": "WHYY (Associated Press story)",
+    "type": "news",
+    "url": "https://whyy.org/articles/department-of-justice-grants-canceled/"
+   },
+   {
+    "label": "DOJ terminates justice and public safety-focused grants",
+    "publisher": "National Association of Counties",
+    "type": "advocacy",
+    "url": "https://www.naco.org/news/doj-terminates-justice-and-public-safety-focused-grants"
+   },
+   {
+    "label": "BJS information collection: National Prisoner Statistics Program (Sept. 30, 2025)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/09/30/2025-18908/agency-information-collection-activities-proposed-ecollection-ecomments-requested-extension-with"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Confirm how many NIJ research grants were ended and check for any BJS publication policy changes."
+ },
+ {
+  "id": "ch17-050",
+  "status": "partly-done",
+  "match": "broader",
+  "happened": "The Bureau of Justice Statistics kept running the National Crime Victimization Survey, moved fully to a redesigned version in January 2025, and renewed its data collection approvals in 2025. In October 2026 the Justice Department released 2025 survey estimates showing violent crime fell.",
+  "key_dates": [
+   {
+    "date": "Jan 2025",
+    "event": "Redesigned survey fully in use."
+   },
+   {
+    "date": "Oct 26, 2026",
+    "event": "DOJ releases preliminary 2025 survey estimates."
+   }
+  ],
+  "legal": "None.",
+  "closeness": "The survey continued, which fits the recommendation, but I found no sign of extra priority or new funding. The redesign began under earlier administrations.",
+  "uncertain": "The survey's budget for 2025-2026 and whether it was cut, kept level or increased. Newest source is from October 2026.",
+  "sources": [
+   {
+    "label": "National Crime Victimization Survey Shows Violent Crime Plummeted in 2025",
+    "publisher": "U.S. Department of Justice",
+    "type": "government",
+    "url": "https://www.justice.gov/opa/pr/national-crime-victimization-survey-shows-violent-crime-plummeted-2025"
+   },
+   {
+    "label": "Agency Information Collection Activities: National Crime Victimization Survey (NCVS)",
+    "publisher": "Federal Register",
+    "type": "government",
+    "url": "https://www.federalregister.gov/documents/2025/10/02/2025-19285/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revision-of-a"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "recheck": "Check BJS budget figures for FY2025-2026 to see whether the survey was fully funded."
+ }
+]

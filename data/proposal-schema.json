@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id","chapter","page","title","proposal","quote","agency","kind","needs","topic","significance"],
+    "properties": {
+      "id": {"type":"string","pattern":"^ch[0-9]{2}-[0-9]{3}$"},
+      "chapter": {"type":"integer","minimum":1,"maximum":30},
+      "page": {"type":"integer","minimum":23,"maximum":882},
+      "title": {"type":"string","maxLength":80},
+      "proposal": {"type":"string","maxLength":400},
+      "quote": {"type":"string","maxLength":300},
+      "agency": {"type":"string"},
+      "kind": {"enum":["eliminate","cut","create","reorganize","repeal-rule","new-rule","policy-change","legislation","personnel","funding","investigate","other"]},
+      "needs": {"enum":["executive","congress","either","unclear"]},
+      "topic": {"enum":["Government & Workforce","Courts & Power","Economy & Trade","Education","Environment & Energy","Health","Immigration","Elections","Safety & Military","Money & Finance","Foreign Policy & Aid","Family & Social Policy","Labor & Jobs","Housing & Transportation","Agriculture & Food","Media & Technology","Veterans","Justice & Law Enforcement"]},
+      "significance": {"enum":["major","moderate","minor"]},
+      "contested": {"type":"string"}
+    }
+  }
+}

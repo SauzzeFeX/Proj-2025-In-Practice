@@ -1,0 +1,149 @@
+[
+  {
+    "id": "ch12-001",
+    "case_against": "The clean energy laws funded projects in nearly every state. Rolling them back means fewer new power sources get built. Rhodium Group projected 57% to 72% less new clean energy capacity through 2035 after the 2025 law cut the tax credits. In 2025 the Energy Department also canceled 321 awards worth about $8 billion, and about 64% of that money was going to the public sector, such as states and public universities.",
+    "harms": [
+      {"who": "Electricity customers", "what": "An analysis by NERA for the Clean Energy Buyers Association, an industry group, projected prices could rise nearly 30% by 2029 in the hardest-hit states."},
+      {"who": "State governments, public universities and nonprofits", "what": "They were the main recipients of the canceled Energy Department awards, which touched nearly every state."}
+    ],
+    "sources": [
+      {"label": "Big beautiful bill: state costs of cutting clean energy credits", "publisher": "Canary Media", "type": "news", "url": "https://www.canarymedia.com/articles/clean-energy/big-beautiful-bill-state-costs"},
+      {"label": "Unpacking DOE's cancellations", "publisher": "EFI Foundation", "type": "advocacy", "url": "https://efifoundation.org/topics/innovation/unpacking-does-cancellations/"},
+      {"label": "Technology-Neutral Clean Electricity Tax Credits Under the IRA and the OBBBA (IN12719)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IN12719.html"}
+    ],
+    "recheck": "The electricity price projection comes from an industry-commissioned analysis reported by Canary Media; it was not checked against the original report.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-005",
+    "case_against": "Offices like State and Community Energy Programs and the Grid Deployment Office help states, towns and utilities with energy grants and power grid upgrades. Calling them subsidies ignores the public work they support. The Federation of American Scientists warned that removing them shows these missions are being dropped, leaving critical work understaffed and know-how lost.",
+    "harms": [
+      {"who": "States and local governments", "what": "They lose the federal offices that ran their energy grants and gave technical help."},
+      {"who": "Energy Department staff and the public they serve", "what": "FAS describes critical functions left understaffed and institutional knowledge depleted."}
+    ],
+    "sources": [
+      {"label": "New DOE re-organization raises uncertainty for American science", "publisher": "Federation of American Scientists", "type": "advocacy", "url": "https://fas.org/publication/new-doe-re-organization-raises-uncertainty-for-american-science/"},
+      {"label": "Energy Department announces organizational realignment", "publisher": "U.S. Department of Energy", "type": "government", "url": "https://www.energy.gov/articles/energy-department-announces-organizational-realignment-strengthen-efficiency-and-unleash"}
+    ],
+    "recheck": "Which specific programs (such as weatherization aid) were cut versus moved after the reorganization was not confirmed.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-028",
+    "case_against": "Appliance standards quietly save families money on every power and gas bill. By law, the Energy Department can only set a standard that saves a significant amount of energy and is economically justified, which includes weighing savings to buyers against higher prices. A 2017 DOE estimate found the program would save about three-quarters of a year's worth of total U.S. energy use from its start through 2020. Repealing it would let less efficient products back on the market.",
+    "harms": [
+      {"who": "Households, especially renters", "what": "People who pay utility bills but do not choose the appliances, like many renters, would be stuck with higher bills from less efficient equipment."},
+      {"who": "Everyone who pays for energy", "what": "Higher overall energy use can push up demand and costs across the system."}
+    ],
+    "sources": [
+      {"label": "The Department of Energy's Appliance and Equipment Standards Program (R47038)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R47038.html"},
+      {"label": "Federal Energy Efficiency Standards Program: Background and Recent Developments (LSB11372)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB11372.html"},
+      {"label": "Trump administration moves to permanently end appliance mandates", "publisher": "U.S. Department of Energy", "type": "government", "url": "https://www.energy.gov/articles/trump-administration-moves-permanently-end-green-new-scam-appliance-mandates"}
+    ],
+    "recheck": "The renter and system-wide cost points are reasoning, not measured findings in the listed sources.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-029",
+    "case_against": "The Office of Energy Efficiency and Renewable Energy funds research that helps bring down the cost of cleaner, cheaper energy. Folding it into a critical minerals office signals that this work is no longer a priority. The Federation of American Scientists warned the change could sideline efficiency and renewable energy work and noted the new office has no dedicated funding line.",
+    "harms": [
+      {"who": "Researchers and companies working on new energy technology", "what": "Federal support for efficiency and renewable energy research becomes less certain."},
+      {"who": "Energy consumers", "what": "Slower progress on efficiency and clean power could mean fewer options to lower bills over time."}
+    ],
+    "sources": [
+      {"label": "New DOE re-organization raises uncertainty for American science", "publisher": "Federation of American Scientists", "type": "advocacy", "url": "https://fas.org/publication/new-doe-re-organization-raises-uncertainty-for-american-science/"},
+      {"label": "Energy Department drops renewables, promotes fusion in office reshuffle", "publisher": "TechCrunch", "type": "news", "url": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-034",
+    "case_against": "The power grid needs upgrades, and the Grid Deployment Office was handling nearly $20 billion from the 2021 infrastructure law for that work. Defunding it and taking back unspent money would stall projects already planned with states and utilities. The office was eliminated in November 2025, and the Federation of American Scientists warned that gutting this kind of work threatens affordability and grid reliability.",
+    "harms": [
+      {"who": "Utility customers", "what": "Delayed grid upgrades can mean more outages and higher costs later."},
+      {"who": "States and utilities with grid projects", "what": "Projects counting on federal money face cancellation or delay."}
+    ],
+    "sources": [
+      {"label": "New DOE re-organization raises uncertainty for American science", "publisher": "Federation of American Scientists", "type": "advocacy", "url": "https://fas.org/publication/new-doe-re-organization-raises-uncertainty-for-american-science/"},
+      {"label": "Unpacking DOE's cancellations", "publisher": "EFI Foundation", "type": "advocacy", "url": "https://efifoundation.org/topics/innovation/unpacking-does-cancellations/"}
+    ],
+    "recheck": "The nearly $20 billion figure comes from the recommendation itself; the effect on specific grid projects was not confirmed.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-035",
+    "case_against": "Demonstration projects bridge the gap between a lab idea and a working power plant or factory, a stage where private investors often hold back. Ending them leaves promising technology stuck. In 2025 the Energy Department canceled 24 demonstration awards worth over $3.7 billion, and demonstration projects made up over a third of 321 awards canceled in October. FAS warned the changes nearly gut the department's remaining demonstration work.",
+    "harms": [
+      {"who": "Companies and communities hosting projects", "what": "Projects already underway lost federal partners, and local jobs tied to them are at risk."},
+      {"who": "Future energy users", "what": "Fewer large demonstrations may slow new technology reaching the market."}
+    ],
+    "sources": [
+      {"label": "Secretary Wright announces termination of 24 projects", "publisher": "U.S. Department of Energy", "type": "government", "url": "https://www.energy.gov/articles/secretary-wright-announces-termination-24-projects-generating-over-3-billion-taxpayer"},
+      {"label": "Unpacking DOE's cancellations", "publisher": "EFI Foundation", "type": "advocacy", "url": "https://efifoundation.org/topics/innovation/unpacking-does-cancellations/"},
+      {"label": "New DOE re-organization raises uncertainty for American science", "publisher": "Federation of American Scientists", "type": "advocacy", "url": "https://fas.org/publication/new-doe-re-organization-raises-uncertainty-for-american-science/"}
+    ],
+    "recheck": "The claim that private investors often hold back at the demonstration stage is general background, not quoted from the listed sources.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-036",
+    "case_against": "The Energy Department's loan office helps finance big energy projects that private banks find too new or too large. Closing it would remove a tool even this administration has found useful: in 2025 and 2026 it renamed and expanded the office and used it for nuclear plants, including a $1 billion loan to restart the Crane plant. Ending all lending would make it harder to build the power plants the country needs.",
+    "harms": [
+      {"who": "Nuclear and other large energy projects", "what": "Projects like plant restarts would lose a key source of financing."},
+      {"who": "Utility customers", "what": "Higher financing costs for new plants are usually passed on in electricity rates."}
+    ],
+    "sources": [
+      {"label": "Energy Dominance Financing office celebrates one year since passage", "publisher": "U.S. Department of Energy", "type": "government", "url": "https://www.energy.gov/articles/energy-dominance-financing-office-celebrates-one-year-passage-working-families-tax-cuts"},
+      {"label": "Energy Department announces $5 billion loan boost for nuclear power", "publisher": "U.S. Department of Energy", "type": "government", "url": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs"}
+    ],
+    "recheck": "The claims about private banks and rate pass-through are general background, not quoted from the listed sources.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-059",
+    "case_against": "Restarting Yucca Mountain reopens a fight that has stalled for decades. Nevada strongly opposes the site, citing water seeping in, earthquakes, volcanoes and other technical problems, and licensing stopped under the Obama administration because of that opposition. Forcing a waste site on an unwilling state invites more years of lawsuits instead of a real solution.",
+    "harms": [
+      {"who": "People of Nevada", "what": "They would host the nation's nuclear waste over the state's strong objections."}
+    ],
+    "history": [
+      {"when": "1987, Nuclear Waste Policy Act amendments", "what": "Congress limited the search for a national nuclear waste site to Yucca Mountain in Nevada. DOE applied for a license in 2008, but work was halted under the Obama administration because of Nevada's continued opposition.", "lesson": "Picking a site without the state's consent led to decades of conflict and no working repository. Doing it again risks the same result."}
+    ],
+    "sources": [
+      {"label": "Civilian Nuclear Waste Disposal (RL33461)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/RL33461.html"},
+      {"label": "At confirmation hearing, Cortez Masto questions Wright about Yucca Mountain", "publisher": "Office of Sen. Catherine Cortez Masto", "type": "government", "url": "https://www.cortezmasto.senate.gov/news/press-releases/at-confirmation-hearing-cortez-masto-questions-wright-about-yucca-mountain-national-security-and-support-for-critical-nevada-programs"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-065",
+    "case_against": "The U.S. has not set off a nuclear test explosion since 1992 and keeps its weapons reliable through science-based checks and experiments that stop short of a nuclear blast. The heads of the weapons labs and U.S. Strategic Command must assess the stockpile every year. Getting ready to test again could give Russia and China a reason to test too, which could help them improve their weapons. U.S. testing also harmed Americans: a federal program for people sickened by radiation from weapons testing and uranium work has paid over $3.3 billion to nearly 52,000 people.",
+    "harms": [
+      {"who": "People living near test sites", "what": "Past U.S. tests exposed nearby residents to radiation, leading to cancers that Congress later agreed to compensate."},
+      {"who": "Global security", "what": "A U.S. test could weaken the global pause on nuclear testing."}
+    ],
+    "history": [
+      {"when": "1945-1992, United States", "what": "The U.S. conducted 1,054 nuclear test explosions before stopping in 1992. In 1990 Congress created a program to pay people who got cancer or other diseases from radiation from atomic weapons testing.", "lesson": "Testing had real health costs at home. The U.S. built other ways to check its weapons so it would not need to test."}
+    ],
+    "sources": [
+      {"label": "U.S. Nuclear Weapons Tests (IF11662)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF11662.html"},
+      {"label": "The Radiation Exposure Compensation Act (RECA) (R43956)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R43956.html"},
+      {"label": "Trump says he wants to resume nuclear testing. Here's what that would mean", "publisher": "NPR (via KJZZ)", "type": "news", "url": "https://www.kjzz.org/npr-top-stories/2025-10-30/trump-says-he-wants-to-resume-nuclear-testing-heres-what-that-would-mean"}
+    ],
+    "recheck": "The claim that a U.S. test could prompt Russia and China to test is an expert view; no specific expert statement was quoted from the sources.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch12-071",
+    "case_against": "Cutting credits for new power, as the 2025 law did for wind and solar, means fewer new power plants get built. Rhodium Group projected 57% to 72% less new clean energy capacity through 2035 than if the credits had stayed. Repealing all generation subsidies would also hit the nuclear and geothermal credits that last longer under the 2025 law.",
+    "harms": [
+      {"who": "Electricity customers", "what": "An industry-commissioned NERA analysis projected price increases of nearly 30% by 2029 in the hardest-hit states."},
+      {"who": "Workers and communities with planned projects", "what": "Wind and solar projects must now start construction by July 2026 or be in service by the end of 2027, so later projects may be dropped."}
+    ],
+    "sources": [
+      {"label": "Big beautiful bill: state costs of cutting clean energy credits", "publisher": "Canary Media", "type": "news", "url": "https://www.canarymedia.com/articles/clean-energy/big-beautiful-bill-state-costs"},
+      {"label": "Technology-Neutral Clean Electricity Tax Credits Under the IRA and the OBBBA (IN12719)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IN12719.html"}
+    ],
+    "recheck": "The price projection is from an industry-commissioned analysis reported secondhand.",
+    "as_of": "2026-10-27"
+  }
+]

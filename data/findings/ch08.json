@@ -1,0 +1,415 @@
+[
+  {
+    "id": "ch08-008",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no action placing Voice of America under the National Security Council or the State Department's Office of Global Public Affairs. Instead, the administration tried to shrink VOA and its parent agency, USAGM, to the legal minimum (see ch08-013).",
+    "legal": "None for this recommendation. Separate court cases over VOA cuts are described in ch08-013.",
+    "closeness": "No match found. The Secretary of State sits on USAGM's advisory board by law, and as of May 2026 was its only listed member, but that is not the chain-of-command change recommended.",
+    "uncertain": "I looked for any transfer of VOA or USAGM to the State Department or NSC in reporting on the agency, the 2025 executive order and the fiscal 2026 spending law. My web searches ran out before I could run a dedicated search, so a smaller administrative change could have been missed.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch08-013",
+    "status": "partly-blocked",
+    "match": "partial",
+    "happened": "On March 14, 2025, President Trump ordered USAGM, which runs Voice of America, cut to the minimum the law requires. Most VOA staff were put on leave and about 85% of USAGM jobs were eliminated by mid-2025. Congress did not abolish the agency; it funded USAGM at about $653 million for fiscal 2026, about 25% less than the year before.",
+    "key_dates": [
+      {
+        "date": "2025-03-14",
+        "event": "Executive Order 14238 orders USAGM reduced to the legal minimum."
+      },
+      {
+        "date": "2025-04-22",
+        "event": "Federal judge orders VOA restored (preliminary injunction)."
+      },
+      {
+        "date": "2026-02-03",
+        "event": "Fiscal 2026 spending law funds USAGM at $652.7 million."
+      },
+      {
+        "date": "2026-03-07",
+        "event": "Judge rules acting CEO Kari Lake served unlawfully and voids her actions, including layoffs."
+      }
+    ],
+    "legal": "In the U.S. District Court for D.C., Judge Royce Lamberth issued a preliminary injunction in April 2025; the D.C. Circuit stayed parts of it in May 2025. On March 7, 2026, he ruled Kari Lake's leadership violated the Vacancies Act and voided her actions, and on March 17 ordered over 1,000 VOA employees back to work. The government appealed, and in March 2026 a D.C. Circuit panel paused the return-to-work order while the appeal goes forward.",
+    "closeness": "Partial match. The administration moved to dismantle USAGM, close to \"defund and disestablish,\" but Congress kept the agency and most of its funding, and courts reversed key steps.",
+    "uncertain": "The D.C. Circuit had not ruled on the merits of the appeal as of the newest reports found; employees were to stay on paid leave meanwhile. Newest source: July 2026 (CRS).",
+    "sources": [
+      {
+        "label": "Continuing the Reduction of the Federal Bureaucracy (EO 14238)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/"
+      },
+      {
+        "label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "Judge rules Kari Lake unlawfully led USAGM",
+        "publisher": "Politico",
+        "type": "news",
+        "url": "https://www.politico.com/news/2026/03/07/kari-lake-usagm-judge-00818165"
+      },
+      {
+        "label": "Appeals court suspends order for Voice of America employees to return to work",
+        "publisher": "AP (via WTOP)",
+        "type": "news",
+        "url": "https://wtop.com/world/2026/03/appeals-court-suspends-order-for-voice-of-america-employees-to-return-to-work/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch08-014",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In July 2025, Congress passed and President Trump signed the Rescissions Act of 2025, which canceled about $1.1 billion already set aside for the Corporation for Public Broadcasting. CPB said it would close, and its board voted on January 5, 2026 to dissolve the organization.",
+    "key_dates": [
+      {
+        "date": "2025-05-01",
+        "event": "Executive Order 14290 orders an end to federal funding for NPR and PBS."
+      },
+      {
+        "date": "2025-07-24",
+        "event": "Rescissions Act of 2025 signed, canceling CPB funding."
+      },
+      {
+        "date": "2025-08-01",
+        "event": "CPB announces it will wind down."
+      },
+      {
+        "date": "2026-01-05",
+        "event": "CPB board votes to dissolve."
+      }
+    ],
+    "legal": "NPR and PBS sued over Executive Order 14290. On March 31, 2026, Judge Randolph Moss of the U.S. District Court for D.C. ruled the order's funding cutoff violated the First Amendment and blocked it, with a partial final judgment on April 23, 2026; the remaining claims were dismissed and the case closed on July 17, 2026. That ruling concerns the executive order, not the law passed by Congress.",
+    "closeness": "Same goal and mechanism: Congress ended federal funding for CPB. It was done through a rescissions bill rather than the President refusing to sign a spending bill.",
+    "uncertain": "The White House suggested it would appeal, but no appeal was found in case records reviewed in October 2026. Whether any future funding could be restored is not known. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Rescissions Act of 2025 (H.R. 4), enrolled text",
+        "publisher": "LegiScan",
+        "type": "government",
+        "url": "https://legiscan.com/US/text/HB4/2025"
+      },
+      {
+        "label": "CPB to shut down after losing federal funding",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://www.npr.org/2025/08/01/nx-s1-5489808/cpb-shut-down-public-broadcasting-trump"
+      },
+      {
+        "label": "Corporation for Public Broadcasting board dissolves",
+        "publisher": "The Guardian",
+        "type": "news",
+        "url": "https://www.theguardian.com/us-news/2026/jan/05/corporation-for-public-broadcasting-board-dissolves"
+      },
+      {
+        "label": "Case: National Public Radio, Inc. v. Trump",
+        "publisher": "Civil Rights Litigation Clearinghouse",
+        "type": "academic",
+        "url": "https://clearinghouse.net/case/46637/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch08-016",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No FCC action removing NPR- or PBS-affiliated stations from the noncommercial educational category was found. In January 2025, FCC Chairman Brendan Carr opened an investigation into whether public stations' sponsorship announcements break the rules against commercial ads.",
+    "legal": "None found.",
+    "closeness": "No match found. The FCC's underwriting investigation concerns how stations follow the noncommercial rules, not removing them from the category. Federal action focused on public broadcasting money instead (see ch08-014).",
+    "uncertain": "Two targeted searches in October 2026 found no FCC order or proposal to change public stations' noncommercial status, and no reported result of the 2025 underwriting investigation. The FCC website blocks automated access, so a smaller FCC step could have been missed.",
+    "sources": [
+      {
+        "label": "FCC Chair Carr Orders Investigation Into PBS, NPR Sponsorships",
+        "publisher": "TV Technology",
+        "type": "news",
+        "url": "https://tvtechnology.com/news/fcc-chair-carr-orders-investigation-into-pbs-npr-sponsorships-supports-ending-federal-funding-of-pbs-npr"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch08-001",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No decision about who handles USAGM's security clearance and suitability checks was found.",
+    "closeness": "Nothing matching found.",
+    "uncertain": "Web search was unavailable during this research; only Federal Register API checks were possible. Internal personnel security arrangements are not usually published.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs a check on USAGM personnel security handling in 2025-2026; web search ran out again in this pass."
+  },
+  {
+    "id": "ch08-002",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "Congress funded the U.S. Agency for Global Media at $652.7 million for fiscal 2026 in a law signed February 3, 2026, about 25 percent less than the $866.9 million it had in fiscal 2025. The administration had asked for only $153 million.",
+    "key_dates": [
+      {
+        "date": "Feb 3, 2026",
+        "event": "Fiscal 2026 law funds USAGM at $652.7 million."
+      }
+    ],
+    "closeness": "Same idea: funding below $700 million a year. The cut came alongside the administration's effort to shrink the agency to its legal minimum (see ch08-013).",
+    "uncertain": "Fiscal 2027 funding was not known. Newest source: July 2026 (CRS).",
+    "sources": [
+      {
+        "label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch08-003",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "A March 2025 executive order told USAGM to cut to the minimum the law requires, and most of its staff were placed on leave or let go in 2025. Congress cut its funding about 25 percent for fiscal 2026 (see ch08-013). For fiscal 2027, the administration proposed folding USAGM into a new State Department account that would \"consolidate and coordinate\" U.S. international broadcasting while keeping required language services.",
+    "key_dates": [
+      {
+        "date": "Mar 14, 2025",
+        "event": "Executive Order 14238 orders USAGM reduced."
+      },
+      {
+        "date": "Feb 3, 2026",
+        "event": "Fiscal 2026 law cuts USAGM funding."
+      }
+    ],
+    "closeness": "Only the general direction matches. Services were cut broadly rather than duplicate language services being merged across networks.",
+    "uncertain": "Which language services remain at VOA and the grantee networks was not confirmed. Court rulings reversed some cuts (see ch08-013). The fiscal 2027 plan is only a budget request.",
+    "sources": [
+      {
+        "label": "Continuing the Reduction of the Federal Bureaucracy (EO 14238)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/"
+      },
+      {
+        "label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      },
+      {
+        "label": "National Security, Department of State, and Related Programs: FY2027 Budget and Appropriations (R48956)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48956.html"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs a source on which USAGM language services were closed or merged; web search ran out in this pass."
+  },
+  {
+    "id": "ch08-012",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "A March 2025 executive order told USAGM to cut to its legal minimum, and about 85 percent of its jobs were eliminated by mid-2025. Congress did not pass an overhaul law; it funded the agency at $652.7 million for fiscal 2026.",
+    "key_dates": [
+      {
+        "date": "Mar 14, 2025",
+        "event": "Executive Order 14238 signed."
+      },
+      {
+        "date": "Feb 3, 2026",
+        "event": "Fiscal 2026 law funds USAGM at a lower level."
+      }
+    ],
+    "legal": "In the U.S. District Court for D.C., Judge Royce Lamberth ruled on March 7, 2026 that USAGM's acting leader served unlawfully and voided her actions, including layoffs (see ch08-013).",
+    "closeness": "Only the general direction of cutting waste matches. The cuts were made by the executive branch, not as a reform designed with Congress.",
+    "uncertain": "Results of appeals after March 2026 were not confirmed.",
+    "sources": [
+      {
+        "label": "Continuing the Reduction of the Federal Bureaucracy (EO 14238)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/"
+      },
+      {
+        "label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations (R48624)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch08-015",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In July 2025 Congress passed the Rescissions Act of 2025, canceling about $1.1 billion already set aside for the Corporation for Public Broadcasting, which included its funding two years in advance. CPB's board voted on January 5, 2026 to dissolve the organization.",
+    "key_dates": [
+      {
+        "date": "Jul 24, 2025",
+        "event": "Rescissions Act of 2025 signed."
+      },
+      {
+        "date": "Jan 5, 2026",
+        "event": "CPB board votes to dissolve."
+      }
+    ],
+    "closeness": "Advance funding for CPB effectively ended because the money was canceled and CPB closed. Whether the law authorizing two-year advance funding was changed was not confirmed. See ch08-014.",
+    "uncertain": "Whether later spending laws formally dropped the advance appropriation was not checked.",
+    "sources": [
+      {
+        "label": "Rescissions Act of 2025 (H.R. 4), enrolled text",
+        "publisher": "LegiScan",
+        "type": "government",
+        "url": "https://legiscan.com/US/text/HB4/2025"
+      },
+      {
+        "label": "CPB to shut down after losing federal funding",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://www.npr.org/2025/08/01/nx-s1-5489808/cpb-shut-down-public-broadcasting-trump"
+      },
+      {
+        "label": "Corporation for Public Broadcasting board dissolves",
+        "publisher": "The Guardian",
+        "type": "news",
+        "url": "https://www.theguardian.com/us-news/2026/jan/05/corporation-for-public-broadcasting-board-dissolves"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch08-004",
+    "status": "blocked",
+    "match": "partial",
+    "happened": "On March 15, 2025, the U.S. Agency for Global Media (USAGM) ended its grant to the Open Technology Fund, a nonprofit that pays for tools to get around internet censorship. The fund sued. On March 26, 2026, a federal judge ruled the termination unlawful and said the fund must receive the $43.5 million that Congress set aside for it.",
+    "key_dates": [
+      {
+        "date": "2025-03-15",
+        "event": "USAGM ends the Open Technology Fund's grant."
+      },
+      {
+        "date": "2026-03-26",
+        "event": "Federal judge rules the termination unlawful."
+      }
+    ],
+    "legal": "Judge Royce Lamberth of the U.S. District Court for the District of Columbia granted the fund summary judgment (a final ruling) on March 26, 2026, finding the termination violated the Administrative Procedure Act. An earlier preliminary injunction order is also reported. No appeal ruling was found.",
+    "closeness": "The chapter wanted the fund's work and money moved back to an in-house USAGM Office of Internet Freedom that the agency and Congress could oversee. USAGM instead tried to cut off the fund, and a court stopped that. No rebuilt in-house office was found.",
+    "uncertain": "Whether USAGM revived its Office of Internet Freedom, whether the money has been paid, and whether the ruling was appealed are not known. Newest source: March 2026.",
+    "sources": [
+      {
+        "label": "Open Technology Prevails in Grant Dispute With US Media Agency",
+        "publisher": "Bloomberg Law",
+        "type": "news",
+        "url": "https://news.bloomberglaw.com/federal-contracting/open-technology-prevails-in-grant-dispute-with-us-media-agency"
+      },
+      {
+        "label": "Open Technology Fund Files Lawsuit to Contest Grant Termination",
+        "publisher": "Open Technology Fund",
+        "type": "advocacy",
+        "url": "https://www.opentech.fund/news/open-technology-fund-files-lawsuit-to-contest-grant-termination-and-preserve-critical-mission/"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs whether USAGM rebuilt an in-house Office of Internet Freedom and whether the March 2026 ruling was appealed; web search ran out in this pass."
+  },
+  {
+    "id": "ch08-005",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In 2025, more than 50 Voice of America workers on J-1 exchange visas were among those laid off. On July 22, 2025, Kari Lake, USAGM's senior adviser, said in a TV interview that she was \"ending the J-1 visa program\" at the agency.",
+    "key_dates": [
+      {
+        "date": "2025-07-22",
+        "event": "Kari Lake says USAGM is ending its use of J-1 visas."
+      }
+    ],
+    "legal": "In March 2026 a federal judge ruled that Lake had no lawful authority to act as USAGM's chief and voided actions she took in that role (see ch08-011). It is not clear whether that affects the visa decision.",
+    "closeness": "The chapter wanted USAGM to stop using J-1 visas and use I visas, which are meant for foreign journalists, instead. Lake announced an end to J-1 hiring, but no switch to I visas or written policy was found.",
+    "uncertain": "No formal written policy was found; the main source is an interview statement as recorded by a press-freedom group. Newest source: 2025.",
+    "sources": [
+      {
+        "label": "Kari Lake targets press as senior adviser for U.S. Agency for Global Media",
+        "publisher": "U.S. Press Freedom Tracker",
+        "type": "advocacy",
+        "url": "https://pressfreedomtracker.us/all-incidents/kari-lake-targets-press-as-senior-adviser-for-us-agency-for-global-media/"
+      },
+      {
+        "label": "Kari Lake takes her war on Voice of America to Congress",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://www.npr.org/2025/06/26/nx-s1-5445313/kari-lake-voice-of-america-radio-free-europe-congress"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "The J-1 decision is known only from an interview statement; look for a written USAGM policy and whether it survived the March 2026 ruling voiding Lake's actions."
+  },
+  {
+    "id": "ch08-006",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No new budget support for shortwave radio was found. Instead, USAGM shortwave transmitters, including the Greenville, North Carolina, station, went silent in March 2025 after the order to shrink the agency; some sites later came back on the air. The fiscal 2026 spending law cut USAGM's budget about 25 percent and requires notice to Congress before big changes to shortwave and other platforms.",
+    "closeness": "The chapter asked for renewed spending on shortwave. The actual actions went the other way, with stations shut down and the agency's budget cut, though Congress kept a check on further changes. See ch08-013.",
+    "uncertain": "Which shortwave sites are on the air now is not confirmed. I searched the Federal Register, the fiscal 2026 spending law (P.L. 119-75), and news reports. Newest source: 2026.",
+    "sources": [
+      {
+        "label": "Rather Brash: Jeff White on the USAGM shutdowns",
+        "publisher": "Radio World",
+        "type": "news",
+        "url": "https://www.radioworld.com/news-and-business/news-makers/rather-brash-jeff-white-on-the-usagm-shutdowns"
+      },
+      {
+        "label": "Public Law 119-75 (FY2026 appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+      },
+      {
+        "label": "CRS R48624: FY2026 State and foreign operations appropriations",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch08-011",
+    "status": "partly-blocked",
+    "match": "direct",
+    "happened": "After the March 2025 order to shrink USAGM, the agency was run by acting leaders while no chief executive was confirmed. Victor Morales served as acting CEO, and Kari Lake, first named senior adviser, later acted as CEO. On March 7, 2026, a federal judge ruled Lake had no lawful authority to serve as acting CEO and voided her actions, including August 2025 layoff notices to 532 workers.",
+    "key_dates": [
+      {
+        "date": "2025-03-14",
+        "event": "Order to cut USAGM to its legal minimum; acting leaders run the agency."
+      },
+      {
+        "date": "2026-03-07",
+        "event": "Judge rules Lake's service as acting CEO unlawful and voids her actions."
+      }
+    ],
+    "legal": "Judge Royce Lamberth of the U.S. District Court for the District of Columbia granted summary judgment to employees and their union, finding Lake's role violated the Federal Vacancies Reform Act and the Appointments Clause. Lake said she would appeal; no appeal ruling was found.",
+    "closeness": "The chapter wanted strong acting leaders in place while a CEO nominee awaited Senate confirmation. Acting leaders were installed, but a court ruled that the main one was not lawfully serving.",
+    "uncertain": "Whether a CEO has been nominated or confirmed, and the appeal's status, are not known. Newest source: March 2026.",
+    "sources": [
+      {
+        "label": "Lake's Stint as Agency for Global Media Acting CEO Ruled Illegal",
+        "publisher": "Bloomberg Law",
+        "type": "news",
+        "url": "https://news.bloomberglaw.com/litigation/lakes-stint-as-agency-for-global-media-acting-ceo-ruled-illegal"
+      },
+      {
+        "label": "Judge Voids Firings at Voice of America, Says Kari Lake Acted Unlawfully",
+        "publisher": "The Fiscal Times",
+        "type": "news",
+        "url": "https://www.thefiscaltimes.com/2026/03/09/Judge-Voids-Firings-Voice-America-Says-Kari-Lake-Acted-Unlawfully"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

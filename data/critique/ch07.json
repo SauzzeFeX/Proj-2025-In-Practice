@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ch07-027",
+    "case_against": "A security clearance is supposed to answer one question: can this person be trusted with secrets? Taking clearances away because former officials criticize the government in public turns that safety check into a punishment for speech. The normal process gives people whose clearances are revoked a chance to appeal, but a blanket order from the President skips that. Critics argue this warns current and former officials that speaking honestly about intelligence can cost them, which may make the public hear less from people who know the most.",
+    "harms": [
+      {"who": "Former intelligence officials who speak publicly", "what": "They can lose their clearances, and often jobs or contracts that require them, for what they say rather than for any security risk."},
+      {"who": "The public and Congress", "what": "Experts may stay quiet about intelligence failures or misuse if public criticism can be punished."},
+      {"who": "Current intelligence workers", "what": "Seeing clearances used as a political tool may discourage them from giving honest assessments that leaders do not want to hear."}
+    ],
+    "sources": [
+      {"label": "Rescinding Security Clearances and Access to Classified Information from Specified Individuals", "publisher": "The White House", "type": "government", "url": "https://www.whitehouse.gov/presidential-actions/2025/03/rescinding-security-clearances-and-access-to-classified-information-from-specified-individuals/"},
+      {"label": "First 100 Days: DNI Gabbard ... Revokes Security Clearances", "publisher": "Office of the Director of National Intelligence", "type": "government", "url": "https://www.odni.gov/3530/pr-08-25/"},
+      {"label": "Security Clearance Process: Answers to Frequently Asked Questions (R43216)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R43216.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-032",
+    "case_against": "Section 702 is aimed at foreigners abroad, but it sweeps in many Americans' calls and emails, and the FBI can then search that data for Americans without a warrant. The secret FISA court found in 2022 that FBI staff had made extensive improper searches of this data. Keeping the program while only 'weighing' reforms leaves that gap open. A federal district court has found that searching 702 data for an American is a Fourth Amendment search that presumptively needs a warrant, which is the main reform critics wanted.",
+    "harms": [
+      {"who": "Americans who talk with people overseas", "what": "Their messages can be collected and later searched by the FBI without a warrant."},
+      {"who": "Protesters, journalists and political groups", "what": "Without firm limits, surveillance tools can drift toward people because of their views, as happened in past decades."}
+    ],
+    "history": [
+      {"when": "1975-1976, Washington, D.C.", "what": "The Senate's Church Committee found that the executive branch had for years surveilled Americans without warrants because of their political views, not real security threats. Its findings led Congress to pass FISA in 1978.", "lesson": "Secret surveillance powers without strong outside checks have been misused before. Section 702 is a different program with more oversight, but the FBI query problems show the same risk."}
+    ],
+    "sources": [
+      {"label": "FISA Section 702 and the 2024 Reforming Intelligence and Securing America Act (R48592)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R48592.html"},
+      {"label": "United States v. Hasbajrami and the Warrant Requirement for Certain FISA 702 Queries (LSB11411)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB11411.html"},
+      {"label": "FISC Memorandum Opinion and Order, April 21, 2022 (declassified)", "publisher": "Foreign Intelligence Surveillance Court via Intelligence.gov", "type": "court", "url": "https://www.intelligence.gov/assets/documents/702%20Documents/declassified/21/2021_FISC_Certification_Opinion.pdf"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-038",
+    "case_against": "Foreign governments rarely spread propaganda under their own names. They work through Americans, sometimes without those Americans knowing. In 2024 the Justice Department charged two employees of Russia's state-run RT with secretly sending nearly $10 million to a U.S. company that paid American influencers to make videos. Congress created the intelligence community's Foreign Malign Influence Center after Russia's 2016 election campaign, and its work naturally touches what circulates inside the U.S. A flat ban on watching 'domestic' disinformation could leave the government blind to foreign operations hiding behind American voices.",
+    "harms": [
+      {"who": "Voters", "what": "Foreign influence campaigns that use American fronts could go unnoticed and unreported before elections."},
+      {"who": "Americans unknowingly used by foreign governments", "what": "People paid or amplified by foreign operations may not learn who is really behind the money."}
+    ],
+    "sources": [
+      {"label": "The Intelligence Community's Foreign Malign Influence Center (IF12470)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF12470.html"},
+      {"label": "How Russian operatives covertly hired U.S. influencers to create viral videos", "publisher": "NPR", "type": "news", "url": "https://www.npr.org/2024/09/05/nx-s1-5100829/russia-election-influencers-youtube"},
+      {"label": "Restoring Freedom of Speech and Ending Federal Censorship", "publisher": "The White House", "type": "government", "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/"}
+    ],
+    "as_of": "2026-10-27"
+  }
+]

@@ -1,0 +1,1040 @@
+[
+  {
+    "id": "ch05-002",
+    "case_against": "This plan would put border agents, the immigration courts and the office that cares for migrant children all inside one enforcement agency, removing checks Congress built in on purpose. In 2002 Congress gave Homeland Security the job of arresting and removing unaccompanied children, but gave their care and placement to a separate refugee office at HHS. Immigration judges now sit in the Justice Department, apart from the DHS officers who charge people; moving them into the same agency as the enforcers would weaken their independence.",
+    "harms": [
+      {
+        "who": "Unaccompanied migrant children",
+        "what": "Decisions about their care and placement would be made by the same agency trying to remove them."
+      },
+      {
+        "who": "People in immigration court",
+        "what": "Their judges would work for the same agency as the officers and lawyers bringing the case against them."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Unaccompanied Alien Children: An Overview (R43599)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R43599.html"
+      },
+      {
+        "label": "Asylum Process in Immigration Courts and Selected Trends (R47504)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47504.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-008",
+    "case_against": "After the September 11, 2001 attacks, Congress created TSA and required federal screening of airline passengers. Airports can already choose private screeners under TSA rules, but only 21 of about 440 commercial airports do. TSA itself launched a new private screening model in May 2026 and dropped it about three months later, a sign that a fast, broad switch is harder than it sounds. Handing screening to contractors chosen mainly on cost could make security quality uneven from airport to airport.",
+    "harms": [
+      {
+        "who": "TSA screeners",
+        "what": "The fiscal 2027 budget proposed cutting about 8,400 TSA jobs as part of the privatization push."
+      },
+      {
+        "who": "Air travelers",
+        "what": "Security quality could vary by contractor and airport during and after a large switch."
+      }
+    ],
+    "history": [
+      {
+        "when": "2001, United States",
+        "what": "After the September 11 attacks, Congress passed the Aviation and Transportation Security Act, which created TSA and required federal screening of passengers and baggage.",
+        "lesson": "Congress decided after a national disaster that passenger screening should be a federal job. Today's private screeners would work under TSA standards, which is a key difference, but large-scale privatization would reverse that decision."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Transportation Security: Background and Issues for the 119th Congress (R48543)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48543.html"
+      },
+      {
+        "label": "TSA budget cuts jobs in privatization push",
+        "publisher": "Federal News Network",
+        "type": "news",
+        "url": "https://federalnewsnetwork.com/workforce-rightsgovernance/2026/04/tsa-budget-cuts-jobs-in-privatization-push/"
+      },
+      {
+        "label": "TSA abruptly scraps its new private security model",
+        "publisher": "Boston Globe",
+        "type": "news",
+        "url": "https://www.bostonglobe.com/2026/08/28/business/tsa-abruptly-scraps-its-new-private-security-model/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-010",
+    "case_against": "Disasters often hit places least able to pay for recovery, and shifting most costs to states assumes they have money and staff they often lack. The National Conference of State Legislatures warned that \"significantly shifting response obligations to states will have detrimental impacts on recovery,\" and that \"most states lack sufficient funding, capacity and need for a full-time disaster-response staff.\" Poorer and rural places would likely feel the change most.",
+    "harms": [
+      {
+        "who": "Disaster survivors",
+        "what": "Recovery could be slower if states cannot cover costs that FEMA used to pay."
+      },
+      {
+        "who": "Small, rural and low-income communities",
+        "what": "Have the least money and staff to take on disaster costs; CRS notes Congress could consider extra help for exactly these places."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NCSL comments on FEMA Review Council recommendations",
+        "publisher": "National Conference of State Legislatures",
+        "type": "government",
+        "url": "https://www.ncsl.org/state-legislatures-news/details/ncsl-comments-on-fema-review-council-recommendations"
+      },
+      {
+        "label": "FEMA Review Council: Final Report (IN12693)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12693.html"
+      },
+      {
+        "label": "Stafford Act Cost Shares: History, Trends, Analysis (R47646)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47646.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-011",
+    "case_against": "Many DHS grants pay for things that make disasters less deadly and less costly, like flood control and stronger buildings. When FEMA tried to end its BRIC disaster-mitigation grants in 2025, 20 states sued and a federal judge ruled the termination unlawful. Ending most grants would leave states and cities to pay for this preparation themselves, and many may simply go without.",
+    "harms": [
+      {
+        "who": "Communities at risk of floods, fires and storms",
+        "what": "Could lose money for projects that reduce damage before disasters strike."
+      }
+    ],
+    "sources": [
+      {
+        "label": "FEMA's Building Resilient Infrastructure and Communities (BRIC): Recent Developments (IN12609)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12609.html"
+      },
+      {
+        "label": "AG Campbell asks court to enforce order on disaster preparedness funding",
+        "publisher": "Massachusetts Attorney General's Office",
+        "type": "government",
+        "url": "https://www.mass.gov/news/ag-campbell-asks-court-to-enforce-order-preventing-trump-administration-from-unlawfully-cutting-billions-in-disaster-preparedness-funding"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-012",
+    "case_against": "Removing every union in DHS takes bargaining rights from workers such as airport screeners and FEMA staff whose jobs have little to do with secret intelligence work. When DHS tried twice to end the TSA screeners' union contract, a federal judge blocked both attempts and said TSA \"plainly\" violated a court order the second time. Union contracts give front-line workers a voice on schedules, safety and fair discipline.",
+    "harms": [
+      {
+        "who": "TSA screeners and other DHS employees",
+        "what": "Would lose the contracts that set rules on schedules, discipline and grievances."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Exclusions from Federal Labor-Management Relations Programs (EO 14251)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/exclusions-from-federal-labor-management-relations-programs/"
+      },
+      {
+        "label": "Judge: TSA 'plainly' violated court order with renewed push",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/workforce/2026/01/judge-tsa-plainly-violated-court-order-renewed-union-busting-push/410739"
+      },
+      {
+        "label": "National Security Exclusions from the Federal Service Labor-Management Relations Statutes (LSB11367)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11367.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-019",
+    "case_against": "Tying emergency preparedness money to immigration enforcement punishes whole communities for local policing choices. A federal judge in Rhode Island ruled such DHS grant conditions unlawful in September 2025 after 20 states and D.C. sued. Money meant to help prepare for hurricanes, fires and attacks should not depend on whether local police hold people for ICE.",
+    "harms": [
+      {
+        "who": "Residents of states and cities that limit cooperation with ICE",
+        "what": "Could lose federal money for emergency planning, equipment and training."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Illinois v. Noem summary judgment decision",
+        "publisher": "U.S. District Court (via New York Attorney General)",
+        "type": "court",
+        "url": "https://ag.ny.gov/sites/default/files/decisions/illinois-v-noem-msj-decision-2025.pdf"
+      },
+      {
+        "label": "Case: State of Illinois v. Federal Emergency Management Agency",
+        "publisher": "Civil Rights Litigation Clearinghouse",
+        "type": "academic",
+        "url": "https://clearinghouse.net/case/46595/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-037",
+    "case_against": "T and U visas exist because victims without legal status are often too afraid of deportation to help police. When the government first wrote rules for the U visa, it said Congress created it \"to strengthen the ability of law enforcement agencies to investigate and prosecute\" crimes like domestic violence, sexual assault and trafficking. Eliminating these visas would make victims less likely to come forward, which can leave abusers and traffickers free to hurt others.",
+    "harms": [
+      {
+        "who": "Immigrant victims of domestic violence, sexual assault and trafficking",
+        "what": "Would lose a path to safety and legal status for helping investigators, and may stay silent out of fear."
+      },
+      {
+        "who": "Police and prosecutors",
+        "what": "Would lose a tool that encourages victims and witnesses to cooperate."
+      }
+    ],
+    "sources": [
+      {
+        "label": "New Classification for Victims of Criminal Activity; Eligibility for \"U\" Nonimmigrant Status (2007 interim rule)",
+        "publisher": "U.S. Citizenship and Immigration Services (Federal Register)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2007/09/17/E7-17807/new-classification-for-victims-of-criminal-activity-eligibility-for-u-nonimmigrant-status"
+      },
+      {
+        "label": "ICE guidance making it easier to deport victims of crime paused",
+        "publisher": "Bloomberg Law",
+        "type": "news",
+        "url": "https://news.bloomberglaw.com/litigation/ice-guidance-making-it-easier-to-deport-victims-of-crime-paused"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-042",
+    "case_against": "Limits on arrests at schools, churches and hospitals were meant to keep people from being too afraid to send children to class, worship or get medical care. Ending them can lead families, including those with U.S.-citizen children, to stay away from these places. In one lawsuit, churches offered evidence that attendance fell, though the judge said its cause could not be separated from other enforcement; in another, a judge limited ICE operations at some plaintiffs' places of worship.",
+    "harms": [
+      {
+        "who": "Immigrant families and their children",
+        "what": "May avoid school, church or medical visits out of fear of arrest."
+      },
+      {
+        "who": "Congregations",
+        "what": "Churches that sued offered evidence of falling attendance after the policy changed."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Statement from a DHS spokesperson on directives expanding law enforcement and ending abuse",
+        "publisher": "U.S. Department of Homeland Security",
+        "type": "government",
+        "url": "https://www.dhs.gov/news/2025/01/21/statement-dhs-spokesperson-directives-expanding-law-enforcement-and-ending-abuse"
+      },
+      {
+        "label": "Judge limits ICE raids in places of worship involved in suit against Trump administration",
+        "publisher": "Indiana Capital Chronicle",
+        "type": "news",
+        "url": "https://indianacapitalchronicle.com/2025/02/25/repub/judge-limits-ice-raids-in-places-of-worship-involved-in-suit-against-trump-administration/"
+      },
+      {
+        "label": "Mennonite Church USA v. DHS (litigation tracker)",
+        "publisher": "Justice Action Center",
+        "type": "advocacy",
+        "url": "https://litigationtracker.justiceactioncenter.org/cases/mennonite-church-usa-v-dhs-district-court-sensitive-locations"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-043",
+    "case_against": "Expedited removal lets an immigration officer order someone deported \"without further hearing or review\" by a judge. For years it was used mainly at the border, but the expansion reaches anyone in the country who cannot prove on the spot that they have been here two years. Courts can review these orders only in narrow ways, so a mistake about a person's identity, status or time in the country may not be caught before they are sent away.",
+    "harms": [
+      {
+        "who": "Immigrants living in the U.S. interior",
+        "what": "Could be deported within days without seeing a judge if they cannot quickly prove two years of presence."
+      },
+      {
+        "who": "People with valid claims to stay, including asylum seekers",
+        "what": "Face a fast process with little chance to gather documents or find a lawyer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Expedited Removal of Aliens: An Introduction (IF11357)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11357.html"
+      },
+      {
+        "label": "Supreme Court Upholds Limited Review of Expedited Removal (LSB10510)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB10510.html"
+      },
+      {
+        "label": "Appeals court allows Trump administration expanded use of speedy deportations",
+        "publisher": "NPR via St. Louis Public Radio",
+        "type": "news",
+        "url": "https://www.stlpr.org/npr/2026-06-24/appeals-court-allows-trump-administration-expanded-use-of-speedy-deportations"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-047",
+    "case_against": "Funding 100,000 detention beds means locking up far more people while their immigration cases are decided, at great cost. Congress gave ICE $45 billion for detention in 2025. DHS's own inspector general and GAO have repeatedly found facilities failing to meet detention standards, including on medical care, and a fast expansion makes oversight even harder.",
+    "harms": [
+      {
+        "who": "People held in immigration detention",
+        "what": "Face crowded facilities where government watchdogs have found poor compliance with care standards."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Pay tens of billions of dollars to detain people, even though ICE already supervises many others outside detention while their cases proceed."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Medical Care Standards in Immigrant Detention Facilities (IF12623)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12623.html"
+      },
+      {
+        "label": "How Trump's big beautiful bill aims to supercharge immigration enforcement",
+        "publisher": "NPR via GPB",
+        "type": "news",
+        "url": "https://www.gpb.org/news/2025/07/03/how-trumps-big-beautiful-bill-aims-supercharge-immigration-enforcement"
+      },
+      {
+        "label": "Immigration and Customs Enforcement (ICE) and the Non-Detained Docket (IF13208)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13208.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-055",
+    "case_against": "Broad public charge rules can scare families away from help they are legally allowed to get. When the first Trump public charge rules came out, CRS reported that many observers worried about a \"chilling effect\" on benefit use by people the rules did not even cover, such as green card holders and U.S.-citizen children, which could hurt public health. The 2026 rule again gives officers wide case-by-case judgment, which makes it harder for families to know what is safe.",
+    "harms": [
+      {
+        "who": "U.S.-citizen children in immigrant families",
+        "what": "May go without health care or food aid if parents fear using benefits will hurt their immigration case."
+      },
+      {
+        "who": "Legal immigrants applying for green cards",
+        "what": "Face uncertain, case-by-case decisions that could vary by officer."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Immigration: Public Charge (IF11467)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11467.html"
+      },
+      {
+        "label": "DHS rescinds 2022 public charge regulation in favor of policy",
+        "publisher": "Mintz",
+        "type": "law-firm",
+        "url": "https://www.mintz.com/insights-center/viewpoints/2806/2026-07-20-dhs-rescinds-2022-public-charge-regulation-favor-policy"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-058",
+    "case_against": "The diversity visa offers up to 55,000 green cards a year to people from countries that send relatively few immigrants to the U.S. For many of them it is the only realistic path, because they have no U.S. relatives or employer sponsors. Ending it would make legal immigration more concentrated among a few countries.",
+    "harms": [
+      {
+        "who": "People from countries with low U.S. immigration",
+        "what": "Would lose one of their few legal paths to a green card."
+      },
+      {
+        "who": "Lottery winners already in process",
+        "what": "Had their green card applications paused in December 2025."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Diversity Immigrant Visa Program (R45973)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R45973.html"
+      },
+      {
+        "label": "Nonimmigrant and Immigrant Visa Categories: Data Brief (R45938)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R45938.html"
+      },
+      {
+        "label": "Update on USCIS strengthened screening and vetting",
+        "publisher": "U.S. Citizenship and Immigration Services",
+        "type": "government",
+        "url": "https://www.uscis.gov/newsroom/alerts/update-on-uscis-strengthened-screening-and-vetting"
+      }
+    ],
+    "recheck": "The claim that the lottery is the only realistic path for many applicants is an argument, not a measured finding.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-059",
+    "case_against": "Ending family immigration beyond the nuclear family would stop U.S. citizens from sponsoring their adult brothers and sisters (up to 65,000 visas a year) and married adult children (23,400 a year). Depending on how \"nuclear family\" is defined, it could also reach the parents of citizens, who received about 250,000 green cards in fiscal 2024, according to CRS. Family ties help new immigrants find work, housing and child care, and ending these categories would keep many families split across borders.",
+    "harms": [
+      {
+        "who": "U.S. citizens with family abroad",
+        "what": "Could no longer sponsor siblings or married adult children, and possibly parents."
+      },
+      {
+        "who": "Families already waiting in line",
+        "what": "Could lose their place after years of waiting."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Nonimmigrant and Immigrant Visa Categories: Data Brief (R45938)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R45938.html"
+      }
+    ],
+    "recheck": "The claims that family ties help with work and child care, and that people in line would lose their place, are unsourced arguments; add research or a bill analysis.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-061",
+    "case_against": "Blocking people from working legally does not make them leave; it pushes them toward off-the-books jobs or dependence on others. By law, asylum seekers already must wait at least 180 days after applying before they can get a work permit. A 2026 DHS proposal could pause new permits for years, and the 2025 law added fees and one-year limits, making it harder for people waiting on their cases to support their families and pay taxes.",
+    "harms": [
+      {
+        "who": "Asylum seekers, parolees and TPS holders",
+        "what": "Could be left without legal work for long periods while their cases are pending."
+      },
+      {
+        "who": "Employers",
+        "what": "Lose workers whose permits lapse or are not renewed."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Employment Authorization for Asylum Applicants (IF12993)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12993.html"
+      },
+      {
+        "label": "Asylum seeker work permits face new Trump administration restrictions",
+        "publisher": "CBS News",
+        "type": "news",
+        "url": "https://www.cbsnews.com/news/asylum-seeker-work-permits-trump-administration-restrictions/"
+      },
+      {
+        "label": "One Big Beautiful Bill Act immigration provisions",
+        "publisher": "National Immigration Forum",
+        "type": "advocacy",
+        "url": "https://forumtogether.org/article/one-big-beautiful-bill-act-immigration-provisions"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-063",
+    "case_against": "TPS protects people who cannot safely go home because of war or disaster, and holders are allowed to live and work legally in the U.S. while it lasts. Ending it for 13 countries affects about 1 million people, including about 628,000 Venezuelans and 353,000 Haitians. Sending them back to unstable countries, or into life without legal status here, upends families and removes workers employers depend on, and the Supreme Court has now limited courts' power to review these decisions.",
+    "harms": [
+      {
+        "who": "TPS holders from Venezuela, Haiti, Honduras and other countries",
+        "what": "Lose permission to live and work legally and may face removal to countries in crisis."
+      },
+      {
+        "who": "Families and employers",
+        "what": "Families, which may include U.S.-citizen children, face separation; employers lose experienced legal workers."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Temporary Protected Status Terminations, 2025-2026: Fact Sheet (R49346)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R49346.html"
+      },
+      {
+        "label": "Second Trump administration has ended TPS for most immigrants who had it",
+        "publisher": "Pew Research Center",
+        "type": "academic",
+        "url": "https://www.pewresearch.org/short-reads/2026/08/12/second-trump-administration-has-ended-temporary-protected-status-for-most-immigrants-who-had-it/"
+      },
+      {
+        "label": "Mullin v. Doe: Supreme Court allows termination of TPS for Haiti and Syria (LSB11446)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11446.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-071",
+    "case_against": "A Title 42-style power would let officials expel migrants without letting them ask for asylum, which risks sending people back to the danger they fled. U.S. asylum law gives people fleeing persecution a chance to make their case. When the administration used a similar approach by proclamation in 2025, federal courts ruled it unlawful as applied to asylum because it overrode protections Congress had written.",
+    "harms": [
+      {
+        "who": "Asylum seekers at the border",
+        "what": "Could be expelled with no screening for persecution or torture."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Proclamation on guaranteeing the states protection against invasion: litigation tracker",
+        "publisher": "Immigration Policy Tracking Project",
+        "type": "academic",
+        "url": "https://immpolicytracking.org/policies/potus-proclamation-on-guaranteeing-the-states-protection-against-invasion/"
+      },
+      {
+        "label": "COVID-Related Restrictions on Entry into the United States Under Title 42: Litigation and Legal Considerations (LSB10874)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB10874.html"
+      },
+      {
+        "label": "Asylum Process in Immigration Courts and Selected Trends (R47504)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47504.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-072",
+    "case_against": "Border walls are costly and target the wrong place for much of the problem they are sold to fix. CBP data show that by weight, more marijuana, cocaine, methamphetamine, heroin and fentanyl were seized at official ports of entry than between them. Congress set aside about $46.5 billion for barriers and related work in 2025, money that could instead go to scanning cargo and vehicles at the ports where most seized drugs are found.",
+    "harms": [
+      {
+        "who": "Taxpayers",
+        "what": "Pay tens of billions of dollars for barriers that do little against drugs smuggled through ports of entry."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Illicit Drug Smuggling Between Ports of Entry and Border Barriers (R46218)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R46218.html"
+      },
+      {
+        "label": "One Big Beautiful Bill Act immigration provisions",
+        "publisher": "National Immigration Forum",
+        "type": "advocacy",
+        "url": "https://forumtogether.org/article/one-big-beautiful-bill-act-immigration-provisions"
+      }
+    ],
+    "recheck": "The drug seizure comparison is from FY2019 CBP data cited by CRS; newer data should be checked.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-073",
+    "case_against": "The 2008 anti-trafficking law gives children who arrive alone from countries other than Mexico and Canada a full immigration court hearing, where they can ask for protection. Children from Mexico and Canada already get only a quick 48-hour trafficking screening before being returned. Repealing these protections would let officials send many more children back fast, with little chance to show they were trafficked or abused.",
+    "harms": [
+      {
+        "who": "Unaccompanied migrant children",
+        "what": "Could be returned quickly to dangerous situations, such as trafficking or abuse, without a full hearing."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Unaccompanied Alien Children: An Overview (R43599)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R43599.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-074",
+    "case_against": "The Flores settlement requires that migrant children be released \"as expeditiously as possible\" or placed in facilities licensed for child care. Ending it so children and families can be held longer, including in tents, would trade those child-welfare rules for open-ended detention. A federal judge refused the administration's request to end the settlement in August 2025.",
+    "harms": [
+      {
+        "who": "Migrant children and their parents",
+        "what": "Could be held longer in jail-like or temporary facilities not licensed for children."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Child Migrants at the Border: The Flores Settlement Agreement and Other Legal Developments (IF11799)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11799.html"
+      },
+      {
+        "label": "Order re motion to terminate Flores Settlement (Aug. 15, 2025)",
+        "publisher": "U.S. District Court for the Central District of California (via National Center for Youth Law)",
+        "type": "court",
+        "url": "https://youthlaw.org/sites/default/files/2025-08/2025%2008%2015%20%231637%20Order%20re%20MTT.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-076",
+    "case_against": "The credible fear interview is a quick first check, often soon after a person arrives, to decide whether their asylum claim deserves a full hearing. That is why the law sets a lower bar: a \"significant possibility\" of qualifying. Requiring people to meet the full asylum standard at a quick early interview, before they have time to gather evidence, would likely turn away some real refugees before a judge ever hears their case.",
+    "harms": [
+      {
+        "who": "People fleeing persecution",
+        "what": "Could be deported after a short interview without the chance to prove their case in court."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Credible Fear and Defensive Asylum Processes: Frequently Asked Questions (R48078)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48078.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-077",
+    "case_against": "Writing broad asylum bars into law would lock in limits that courts have found clash with the asylum protections Congress already passed. When the administration limited asylum at the border by proclamation in 2025, federal courts ruled it unlawful as applied to asylum. A third-country transit rule would deny asylum to people who passed through another country on the way, no matter how strong their claim.",
+    "harms": [
+      {
+        "who": "Refugees who cross other countries to reach the U.S.",
+        "what": "Could be barred from asylum even if they face persecution at home."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Case: Refugee and Immigrant Center for Education and Legal Services v. Noem",
+        "publisher": "Civil Rights Litigation Clearinghouse",
+        "type": "academic",
+        "url": "https://clearinghouse.net/case/46010/"
+      },
+      {
+        "label": "Development of the U.S. Asylum System: In Brief (R48802)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48802.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-078",
+    "case_against": "\"Membership in a particular social group\" is one of the five grounds for asylum in U.S. law, alongside race, religion, nationality and political opinion. Eliminating it, or declaring that gang and domestic violence never count, would shut out people whose persecution does not fit the other four boxes. The recommendation itself names domestic violence survivors as people it would exclude.",
+    "harms": [
+      {
+        "who": "Survivors of domestic violence",
+        "what": "The recommendation would explicitly bar them from asylum on that basis, even if their government will not protect them."
+      },
+      {
+        "who": "People targeted for who they are, not what they believe",
+        "what": "Could lose the main legal basis for their asylum claims."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Asylum Process in Immigration Courts and Selected Trends (R47504)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47504.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-079",
+    "case_against": "Parole has long been the tool presidents of both parties use to respond fast to crises abroad. It was used to bring in refugees after World War II, the 1956 Hungarian Revolution and the Vietnam War, and more recently for Afghans in 2021 and Ukrainians in 2022. Limiting it by law to rare, case-by-case uses would leave the country slow and stuck the next time allies or refugees need help quickly.",
+    "harms": [
+      {
+        "who": "Refugees in future crises",
+        "what": "Could be stuck abroad while slower processes play out."
+      },
+      {
+        "who": "Allies who helped U.S. forces",
+        "what": "Evacuations like the 2021 Afghan airlift relied on parole."
+      }
+    ],
+    "history": [
+      {
+        "when": "1956, United States",
+        "what": "After the failed Hungarian Revolution, President Eisenhower directed the paroling of 15,000 Hungarian refugees, the first use of the parole power to bring in refugees. Congress later passed laws letting paroled Hungarians, World War II refugees and Vietnamese refugees become permanent residents.",
+        "lesson": "Group parole has a long record of helping the U.S. act fast in humanitarian crises, with Congress following up. Today's debates involve larger numbers and border migration, which is a real difference."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Immigration Parole (R46570)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R46570.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-081",
+    "case_against": "Remain in Mexico makes asylum seekers wait in Mexico while U.S. courts handle their cases, often for months. Waiting in another country makes it much harder to find a U.S. lawyer, gather evidence and get to every hearing, so people with real claims may lose their cases or give up. Rewriting the law to shield the program from courts would also remove an important check on how it is run.",
+    "harms": [
+      {
+        "who": "Asylum seekers, including families with children",
+        "what": "Must wait in Mexican border towns with little support while their U.S. cases move forward."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Rescission of the Migrant Protection Protocols: Litigation Developments (LSB10915)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB10915.html"
+      },
+      {
+        "label": "Securing Our Borders (executive order)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/"
+      }
+    ],
+    "recheck": "No source found this session on safety conditions or case outcomes for people returned to Mexico; the argument relies on how the program works.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-086",
+    "case_against": "Forcing local police to hold people for ICE, and fining cities that refuse, runs into the Constitution's limits on the federal government ordering states around. The Supreme Court has held that even when Congress has power to act, it \"lacks the power directly to compel the States\" to carry out federal programs. Courts have already struck down DHS grant conditions tied to immigration cooperation, and new financial penalties would likely face the same fights while punishing residents for local choices.",
+    "harms": [
+      {
+        "who": "Residents of cities and states that limit ICE cooperation",
+        "what": "Could lose federal money for unrelated services."
+      },
+      {
+        "who": "Local governments",
+        "what": "Could be forced to spend their own jail space and staff on federal immigration work."
+      }
+    ],
+    "sources": [
+      {
+        "label": "\"Sanctuary\" Jurisdictions: Legal Overview (LSB11321)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11321.html"
+      },
+      {
+        "label": "Federal courts block FEMA/DHS immigration grant conditions",
+        "publisher": "Homeland Security Today",
+        "type": "news",
+        "url": "https://www.hstoday.us/perspective/eyes-on-preparedness-federal-courts-block-fema-dhs-immigration-grant-conditions-safeguarding-billions-in-emergency-preparedness-funds/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-088",
+    "case_against": "Changing \"may\" to \"shall\" detain would take away officers' and judges' ability to release people who pose no danger or flight risk, including long-time residents with families and jobs. When DHS began treating many people as ineligible for bond hearings in 2025, many courts rejected that reading, and the Supreme Court has agreed to decide it. Mandatory detention for everyone would be very costly and would fill facilities where watchdogs have found care problems.",
+    "harms": [
+      {
+        "who": "Immigrants with no criminal record",
+        "what": "Could be jailed for months during their cases with no bond hearing."
+      },
+      {
+        "who": "Families, including U.S.-citizen children",
+        "what": "Could lose a parent's care and income while the parent is detained."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Mandatory Detention During Removal Proceedings: Circuit Split (LSB11438)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11438.html"
+      },
+      {
+        "label": "Supreme Court grants review of mandatory detention policy",
+        "publisher": "WLRN",
+        "type": "news",
+        "url": "https://www.wlrn.org/immigration/2026-10-01/supreme-court-grants-review-of-trump-administrations-mandatory-detention-policy-for-immigrants"
+      },
+      {
+        "label": "Medical Care Standards in Immigrant Detention Facilities (IF12623)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12623.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-091",
+    "case_against": "Banning parole for groups ends programs the government built as legal pathways for orderly migration. Ending the program for Cubans, Haitians, Nicaraguans and Venezuelans removed a legal path meant to steer people away from crossing the border illegally. Group parole has also been used for decades to rescue people in crises, from Hungarians in 1956 to Ukrainians in 2022.",
+    "harms": [
+      {
+        "who": "Parolees from Cuba, Haiti, Nicaragua and Venezuela",
+        "what": "Lost their parole and work permission, and face removal."
+      },
+      {
+        "who": "Refugees in future crises",
+        "what": "Could no longer be brought in quickly as a group."
+      }
+    ],
+    "history": [
+      {
+        "when": "1956, United States",
+        "what": "President Eisenhower directed the paroling of 15,000 Hungarian refugees after the Hungarian Revolution, the first use of parole to admit refugees as a group.",
+        "lesson": "Group parole has a long, bipartisan history in emergencies. Recent programs were also used to manage border migration, which is a difference from the Cold War cases."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Immigration Parole (R46570)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R46570.html"
+      },
+      {
+        "label": "Supreme Court allows Trump administration to end humanitarian status for some migrants",
+        "publisher": "NPR via KJZZ",
+        "type": "news",
+        "url": "https://www.kjzz.org/npr-top-stories/2025-05-30/supreme-court-allows-trump-administration-to-end-humanitarian-status-for-some-migrants"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-095",
+    "case_against": "This would let one official, with the President's approval, block entry from chosen places, expel migrants and waive immigration laws, all without normal rulemaking. That puts enormous power in a few hands with little check from Congress or the public. When a similar \"invasion\" proclamation was used in 2025, federal courts ruled it unlawful because it overrode asylum and other protections that Congress wrote into law.",
+    "harms": [
+      {
+        "who": "Asylum seekers",
+        "what": "Could be expelled without any chance to claim protection."
+      },
+      {
+        "who": "Travelers and families from targeted countries",
+        "what": "Could be barred from entry with little notice or explanation."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Guaranteeing the States Protection Against Invasion (proclamation)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/guaranteeing-the-states-protection-against-invasion/"
+      },
+      {
+        "label": "Case: Refugee and Immigrant Center for Education and Legal Services v. Noem",
+        "publisher": "Civil Rights Litigation Clearinghouse",
+        "type": "academic",
+        "url": "https://clearinghouse.net/case/46010/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-098",
+    "case_against": "Today the law says the federal share of key disaster aid is generally at least 75% of eligible costs. Cutting it to 25% for smaller disasters would leave states and towns to pay most rebuilding costs at the moment they are least able to. State legislators warned that even a cut of up to 25 points would add to states' financial strain, and that most states lack full-time disaster staff.",
+    "harms": [
+      {
+        "who": "Disaster-hit towns and counties",
+        "what": "Would have to pay far more to rebuild roads, schools and utilities after storms and floods."
+      },
+      {
+        "who": "Disaster survivors",
+        "what": "Recovery could slow if local governments cannot cover their larger share."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Stafford Act Cost Shares: History, Trends, Analysis (R47646)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47646.html"
+      },
+      {
+        "label": "NCSL comments on FEMA Review Council recommendations",
+        "publisher": "National Conference of State Legislatures",
+        "type": "government",
+        "url": "https://www.ncsl.org/state-legislatures-news/details/ncsl-comments-on-fema-review-council-recommendations"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-099",
+    "case_against": "Most U.S. flood insurance still comes from the federal program: about 4.55 million NFIP policies compared with about 643,000 private ones as of May 2026. Starting the phase-out with the least risky areas would let private insurers take the cheapest customers, leaving the program with the riskiest and most expensive homes. Homeowners in flood-prone places could face higher prices or no coverage at all.",
+    "harms": [
+      {
+        "who": "Homeowners in flood-prone areas",
+        "what": "Could face much higher premiums or be unable to buy flood insurance."
+      }
+    ],
+    "sources": [
+      {
+        "label": "FEMA Review Council Recommendations for the National Flood Insurance Program (IF13302)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13302.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-102",
+    "case_against": "Ending CISA's work on false information also cut help that state and local election officials relied on. Colorado's Secretary of State said CISA had provided physical and cyber security reviews, on-site incident monitoring and briefings on foreign threats, and warned the cuts \"may undermine security in elections and voter confidence.\" With CISA losing about a third of its staff, election offices with small budgets have fewer places to turn when foreign groups try to interfere.",
+    "harms": [
+      {
+        "who": "State and local election officials",
+        "what": "Lost federal election security analysts, threat briefings and support."
+      },
+      {
+        "who": "Voters",
+        "what": "Elections may be more exposed to foreign hacking and influence campaigns."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Colorado Secretary of State statement on CISA election security cuts",
+        "publisher": "Colorado Secretary of State",
+        "type": "government",
+        "url": "https://coloradosos.gov/pubs/newsRoom/pressReleases/2025/PR20250221NASS.html"
+      },
+      {
+        "label": "CISA staff focused on disinformation and influence operations put on leave",
+        "publisher": "Defense One",
+        "type": "news",
+        "url": "https://www.defenseone.com/policy/2025/02/cisa-staff-focused-disinformation-and-influence-operations-put-leave/402964/"
+      },
+      {
+        "label": "CISA cybersecurity division reorganization",
+        "publisher": "Cybersecurity Dive",
+        "type": "news",
+        "url": "https://www.cybersecuritydive.com/news/cisa-cybersecurity-division-reorganization/812155/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-130",
+    "case_against": "Streamlining DHS oversight may be reasonable, but the fallback plan, for DHS to \"answer only\" to committees it picks, would let a powerful department choose its own watchdogs. Congressional oversight is how the public learns about waste, abuse and failures in agencies that detain people, guard borders and respond to disasters. An agency deciding which members of Congress it will answer to turns oversight upside down.",
+    "harms": [
+      {
+        "who": "The public",
+        "what": "Would learn less about problems at DHS if committees the department ignores cannot get answers."
+      },
+      {
+        "who": "Members of Congress and their constituents",
+        "what": "Lawmakers on other committees could be shut out of questions about DHS actions in their districts."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Congressional Oversight Manual (RL30240)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/RL30240.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-138",
+    "case_against": "Using troops to build the wall and stop crossings costs the military billions and puts soldiers in a policing role they are not trained for. GAO found the Defense Department had committed $2.64 billion to border operations by March 2026, much of it moved from other defense accounts. The military also created \"National Defense Areas\" where troops can detain people, and prosecutors have charged migrants with trespassing on military land, adding new criminal charges for crossing the border.",
+    "harms": [
+      {
+        "who": "Service members",
+        "what": "Pulled from training and other missions to patrol and build barriers."
+      },
+      {
+        "who": "Migrants crossing in National Defense Areas",
+        "what": "Can face extra federal trespassing charges on top of immigration violations."
+      }
+    ],
+    "sources": [
+      {
+        "label": "DOD southern border operations: costs and funding (GAO-26-108437)",
+        "publisher": "U.S. Government Accountability Office",
+        "type": "government",
+        "url": "https://www.gao.gov/products/gao-26-108437"
+      },
+      {
+        "label": "Military takes control of a third of the southern border",
+        "publisher": "Associated Press",
+        "type": "news",
+        "url": "https://apnews.com/article/border-military-trump-national-defense-area-89f046e09809fe5b5071c6b9e1f48da9"
+      },
+      {
+        "label": "Immigration military trespassing charges",
+        "publisher": "ProPublica",
+        "type": "news",
+        "url": "https://www.propublica.org/article/immigration-military-trespassing-charges-pam-bondi"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-141",
+    "case_against": "Ending housing aid for mixed-status families can push whole households, including citizens and eligible children, out of their homes or into splitting up. HUD's own proposed rule admits it \"would adversely affect some tenants and applicants... especially mixed families,\" and that its main effect would be to \"transfer assistance from mixed status families.\" Current rules already pro-rate aid so ineligible members do not receive a subsidy, so the change mainly adds paperwork and pressure on families.",
+    "harms": [
+      {
+        "who": "Citizens and eligible children in mixed-status families",
+        "what": "Could lose stable housing if the family must leave or split up; HUD estimated about 24,000 residents could be affected."
+      },
+      {
+        "who": "Local housing agencies",
+        "what": "Would have to collect and check documents from every household member, adding cost and work."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Housing and Community Development Act of 1980: Verification of Eligible Status (proposed rule)",
+        "publisher": "U.S. Department of Housing and Urban Development (Federal Register)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/20/2026-03405/housing-and-community-development-act-of-1980-verification-of-eligible-status"
+      },
+      {
+        "label": "HUD publishes 2026 version of mixed-status proposed rule",
+        "publisher": "National Association of Housing and Redevelopment Officials",
+        "type": "advocacy",
+        "url": "https://www.nahro.org/news/hud-publishes-2026-version-of-mixed-status-proposed-rule"
+      },
+      {
+        "label": "HUD proposed rule on mixed immigration status households",
+        "publisher": "Washington Sun / NOTUS",
+        "type": "news",
+        "url": "https://washingtonsun.com/housing/hud-proposed-rule-mixed-immigration-status-households?redirected=notus_org"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch05-142",
+    "case_against": "Denying federal loans to every student at a college that offers in-state tuition to undocumented students would punish U.S. citizens for a state's policy they had nothing to do with. Many of the students cut off would be citizens and green card holders at public colleges. The Justice Department has already sued 25 states over such tuition laws, showing how broad the reach of this approach could be.",
+    "harms": [
+      {
+        "who": "Citizen and green-card students at public colleges in affected states",
+        "what": "Could lose access to federal student loans because of their state's tuition law."
+      },
+      {
+        "who": "Undocumented students who grew up in the U.S.",
+        "what": "Could lose affordable in-state tuition as states settle or lose lawsuits."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Trump administration is now suing 2 dozen states over in-state tuition laws for undocumented students",
+        "publisher": "KJZZ (Fronteras Desk)",
+        "type": "news",
+        "url": "https://www.kjzz.org/text/fronteras-desk/2026-09-14/trump-administration-is-now-suing-2-dozen-states-over-in-state-tuition-laws-for-undocumented-students"
+      },
+      {
+        "label": "US Justice Department sues New Mexico, 3 other states over in-state tuition for immigrants",
+        "publisher": "Source NM",
+        "type": "news",
+        "url": "https://sourcenm.com/2026/08/27/repub/us-justice-department-sues-new-mexico-3-other-states-over-in-state-tuition-for-immigrants/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

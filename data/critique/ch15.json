@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ch15-007",
+    "case_against": "The Fair Housing Act of 1968 does not just ban housing discrimination; it also requires HUD and its grantees to 'affirmatively further' fair housing. Before 2015, HUD had no rule spelling out how, and relied only on loose guidance. Repealing the 2021 rule puts communities back on that weaker footing, making it easier for cities that take federal housing money to skip any real plan to undo segregation.",
+    "harms": [
+      {
+        "who": "Black and Latino families in segregated neighborhoods",
+        "what": "Fewer local fair housing plans would likely mean slower progress on access to better schools, jobs and safer areas."
+      },
+      {
+        "who": "People with disabilities and families with children",
+        "what": "They are also protected by the Fair Housing Act, and weaker planning can leave barriers in place."
+      }
+    ],
+    "history": [
+      {
+        "when": "April 1968, United States",
+        "what": "In 1968 Congress passed the Fair Housing Act, banning discrimination in the sale, rental and financing of housing based on race, color, religion and national origin, and directing HUD to affirmatively further fair housing.",
+        "lesson": "Congress chose to require active steps, not just a ban, because outlawing discrimination on paper would not by itself undo segregation that already existed."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Fair Housing Act: HUD Oversight, Programs, and Activities (R44557)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R44557.html"
+      },
+      {
+        "label": "Affirmatively Furthering Fair Housing Revisions (interim final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/03/03/2025-03360/affirmatively-furthering-fair-housing-revisions"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-009",
+    "case_against": "Mixed-status families already get reduced aid: the family member who is not eligible gets no subsidy. Barring these families entirely would push out U.S. citizen children along with their parents. When HUD proposed the same idea in 2019, CRS and HUD's own analysis found it would likely displace more than 25,000 families, including 55,000 children, and raise program costs by about $200 million a year as families paying part of their own way were replaced.",
+    "harms": [
+      {
+        "who": "U.S. citizen children in mixed-status families",
+        "what": "Children who are eligible for aid could lose their homes because a parent is not."
+      },
+      {
+        "who": "Families on waiting lists and taxpayers",
+        "what": "HUD's 2019 analysis found costs would rise, not fall, because replacement families get full subsidies."
+      }
+    ],
+    "sources": [
+      {
+        "label": "HUD's Proposal to End Assistance to Mixed Status Families (IN11121)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN11121.html"
+      },
+      {
+        "label": "HUD publishes 2026 version of mixed status proposed rule",
+        "publisher": "NAHRO",
+        "type": "news",
+        "url": "https://www.nahro.org/news/hud-publishes-2026-version-of-mixed-status-proposed-rule"
+      },
+      {
+        "label": "Attorney General Clark opposes federal effort to strip housing support for mixed-status households",
+        "publisher": "Vermont Attorney General",
+        "type": "government",
+        "url": "https://ago.vermont.gov/blog/2026/04/21/attorney-general-clark-opposes-federal-effort-strip-housing-support-mixed-status-immigrant"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-010",
+    "case_against": "Most people in federal rental aid are already working, elderly or disabled. CRS estimates that more than 80% of public housing residents were exempt from the existing work rule in 2023 for those reasons. Time limits would push families out whether or not their wages have risen. A New Hampshire housing agency that tried a five-year limit dropped it after finding tenants' incomes had not grown much as their deadline neared.",
+    "harms": [
+      {
+        "who": "Low-wage working families",
+        "what": "They could lose their housing at a deadline even though they work, because their pay is still too low for market rent."
+      },
+      {
+        "who": "Children in assisted housing",
+        "what": "Losing rental aid can mean moves, crowding or homelessness, which disrupt school and health."
+      }
+    ],
+    "sources": [
+      {
+        "label": "HUD proposes time limits and work requirements for rental aid",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://www.npr.org/2026/02/27/nx-s1-5728988/hud-proposes-time-limits-work-requirements-for-rental-aid"
+      },
+      {
+        "label": "Work Requirements: Medicaid, SNAP, Rental Assistance, and TANF (IF13209)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13209.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch15-012",
+    "case_against": "Housing First gives homeless people a home without first requiring sobriety or treatment, then offers services. A 2025 overview of the evidence by University of Washington researcher Susan Collins found that randomized trials going back to the early 2000s showed it got people housed faster and kept them housed better than the older 'treatment first' approach. Shifting money back to transitional housing with preconditions would likely leave more people on the street. Federal courts have ruled against key parts of HUD's changes.",
+    "harms": [
+      {
+        "who": "People experiencing homelessness with mental illness or addiction",
+        "what": "They are the people least able to meet sobriety or treatment conditions, and the most likely to stay unhoused if housing depends on them."
+      },
+      {
+        "who": "Local homeless service providers",
+        "what": "Sudden changes to grant rules threaten funding for permanent housing programs already in place."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Housing First: Overview of the Evidence Base (Susan E. Collins, 2025)",
+        "publisher": "University of Washington HARRT Center",
+        "type": "academic",
+        "url": "https://depts.washington.edu/harrtlab/wordpress/wp-content/uploads/2025/09/Housing-First-state-of-the-science-8.30.2025-1.pdf"
+      },
+      {
+        "label": "Judge rules against HUD's Continuum of Care changes",
+        "publisher": "Smart Cities Dive",
+        "type": "news",
+        "url": "https://www.smartcitiesdive.com/news/hud-coc-grant-housing-first-ruling-homeless-funding/824352/"
+      },
+      {
+        "label": "Attorney General Ellison wins appeals court ruling against HUD",
+        "publisher": "Minnesota Attorney General",
+        "type": "government",
+        "url": "https://www.ag.state.mn.us/Office/Communications/2026/04/02_HUD.asp"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

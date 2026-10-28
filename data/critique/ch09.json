@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ch09-001",
+    "case_against": "USAID's health and aid programs have saved lives on a huge scale. A 2025 study in The Lancet estimated that USAID-backed programs helped prevent about 91 million deaths from 2001 to 2021, including about 30 million children. The same study projected more than 14 million extra deaths by 2030 if deep cuts continue. What actually happened in 2025 went far beyond a return to 2019 budget levels: most programs were canceled and USAID stopped running aid.",
+    "harms": [
+      {"who": "Children in low-income countries", "what": "The Lancet study linked USAID funding to a 32% drop in deaths of children under 5 and projected about 700,000 extra child deaths a year if the cuts continue."},
+      {"who": "People with HIV, malaria and other diseases", "what": "The study found countries with high USAID support had 74% fewer HIV deaths and 53% fewer malaria deaths than countries with little or none."}
+    ],
+    "sources": [
+      {"label": "Research finds more than 14 million preventable deaths by 2030 if USAID defunding continues", "publisher": "UCLA Fielding School of Public Health", "type": "academic", "url": "https://ph.ucla.edu/news-events/news/research-finds-more-14-million-preventable-deaths-2030-if-usaid-defunding"},
+      {"label": "Study of USAID funding and deaths, with projections to 2030 (Cavalcanti et al., 2025)", "publisher": "The Lancet", "type": "academic", "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01186-9/fulltext"},
+      {"label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations (R48624)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-002",
+    "case_against": "Deep cuts to the foreign affairs budget fall hard on health and emergency aid that keeps people alive. The U.S. had provided more than 40% of the world's humanitarian funding, so other donors cannot easily fill the gap. Researchers projected millions of extra deaths from the 2025 aid cuts. The President's 2026 request would have cut this budget by 41%, and Congress canceled about $7.9 billion in aid that had already been approved.",
+    "harms": [
+      {"who": "People in war zones and disasters", "what": "With the largest donor pulling back, aid groups have less money for food, shelter and medicine."},
+      {"who": "Children under 5 in poor countries", "what": "The Lancet study projected about 4.5 million extra deaths among young children by 2030 if USAID cuts continue."}
+    ],
+    "sources": [
+      {"label": "Research finds more than 14 million preventable deaths by 2030 if USAID defunding continues", "publisher": "UCLA Fielding School of Public Health", "type": "academic", "url": "https://ph.ucla.edu/news-events/news/research-finds-more-14-million-preventable-deaths-2030-if-usaid-defunding"},
+      {"label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations (R48624)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"},
+      {"label": "Senate clears amended bill to claw back billions in foreign aid and public media funding", "publisher": "Government Executive", "type": "news", "url": "https://www.govexec.com/management/2025/07/senate-clears-amended-bill-claw-back-billions-foreign-aid-and-public-media-funding/406793"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-023",
+    "case_against": "Expanding the Mexico City Policy to all foreign aid, including emergency aid, puts more health services at risk without reducing abortions. A Stanford study of 26 African countries found that abortions rose about 40% in the most affected countries the last time the policy was broadly in force, as women lost access to birth control. The 2026 rules reach most non-military aid and even foreign governments and international groups.",
+    "harms": [
+      {"who": "Women in poor and crisis-hit countries", "what": "Researchers found birth control use fell and unplanned pregnancies rose when clinics lost U.S. funding under the policy."},
+      {"who": "Aid groups, including those doing emergency work", "what": "Groups that refuse the conditions lose U.S. money for all their work, not just reproductive health."}
+    ],
+    "history": [
+      {"when": "2001-2008, sub-Saharan Africa", "what": "Stanford researchers found abortion rates rose about 40% in countries most exposed to the Mexico City Policy while it was in force, compared with years when it was not.", "lesson": "The policy did not reduce abortions before. Applying it to far more aid is likely to reach even more clinics."}
+    ],
+    "sources": [
+      {"label": "U.S. foreign policy to restrict abortion funding results in more abortions", "publisher": "Stanford University", "type": "academic", "url": "https://news.stanford.edu/stories/2019/06/u-s-foreign-policy-restrict-abortion-funding-results-abortions"},
+      {"label": "USA aid policy and induced abortion in sub-Saharan Africa: an analysis of the Mexico City Policy (Brooks, Bendavid, Miller)", "publisher": "The Lancet Global Health (via DOAJ)", "type": "academic", "url": "https://doaj.org/article/7ce1e807f4e84717b4fcf461b97c6ab3"},
+      {"label": "Protecting Life in Foreign Assistance rule", "publisher": "Federal Register", "type": "government", "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-27/pdf/2026-01519.pdf"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-024",
+    "case_against": "The UN Population Fund helps women give birth safely and get family planning, including in war zones and disasters. In May 2025, UNFPA said the U.S. had ended more than 40 of its humanitarian projects worth about $335 million. CRS notes that decisions to cut UNFPA funding under the Kemp-Kasten law have mostly followed party lines. The cost of these decisions falls on women in crises who rely on UNFPA care.",
+    "harms": [
+      {"who": "Pregnant women in humanitarian crises", "what": "UNFPA says its work, such as training midwives, helps prevent deaths during childbirth. More than 40 of its humanitarian projects lost U.S. funding."}
+    ],
+    "sources": [
+      {"label": "UNFPA statement on U.S. funding decision (May 9, 2025)", "publisher": "UNFPA", "type": "advocacy", "url": "https://china.unfpa.org/en/news/statement-25050901"},
+      {"label": "The United Nations Population Fund (UNFPA): Background and U.S. Funding (R46962)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R46962.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-047",
+    "case_against": "Ending emergency food aid in places run by hostile groups punishes ordinary people who have no say over who controls their country. When the U.S. ended World Food Programme emergency funding in 14 countries in April 2025, including Afghanistan, Yemen and Syria, the WFP warned it could be a death sentence for millions facing extreme hunger. Funding was later restored in some countries but not in Afghanistan or Yemen.",
+    "harms": [
+      {"who": "Hungry families in Afghanistan and Yemen", "what": "They lost U.S.-funded emergency food aid, and it was not restored."},
+      {"who": "People in disaster zones worldwide", "what": "Congress's 2026 spending law made the combined humanitarian account about 26% smaller."}
+    ],
+    "sources": [
+      {"label": "US ends life-saving food aid for millions; World Food Program calls it a 'death sentence'", "publisher": "WSMV (Associated Press)", "type": "news", "url": "https://www.wsmv.com/2025/04/07/us-ends-life-saving-food-aid-millions-world-food-program-calls-it-death-sentence/"},
+      {"label": "Report on the U.S. restoring WFP funding in some countries (April 2025)", "publisher": "Arab News", "type": "news", "url": "https://www.arabnews.com/node/2596361/world"},
+      {"label": "State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations (R48624)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/files/2026-07-15_R48624_48cf729af75f7e8e8c710d63e39078520bd54f59.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch09-060",
+    "case_against": "Schedule F, now called Schedule Policy/Career, strips away the usual right of fired federal workers to appeal to the Merit Systems Protection Board. That makes it easier to fire career experts for political reasons rather than poor work. Aid work depends on technical experts in health, farming and disasters whose knowledge outlasts any one administration. In 2026 the new rule moved about 8,000 employees into the category, and unions have sued to block it.",
+    "harms": [
+      {"who": "Career federal employees", "what": "Workers placed in the new category lose the regular notice and appeal rights other civil servants have."},
+      {"who": "The public", "what": "Expert advice can give way to political loyalty when experts can be fired more easily."}
+    ],
+    "history": [
+      {"when": "1883, United States", "what": "Under the spoils system of the country's first century, federal jobs went to party supporters and changed with each administration. Unhappy with the corruption and waste, Congress passed the Pendleton Act in 1883 to hire federal workers based on merit.", "lesson": "The merit system was built to stop political firing and hiring. Schedule F moves back toward the system the Pendleton Act replaced."}
+    ],
+    "sources": [
+      {"label": "Schedule Policy/Career final rule (LSB11412)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB11412.html"},
+      {"label": "Merit Systems Protection Board (MSPB): A Legal Overview (R45630)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R45630.html"},
+      {"label": "Employee groups revive lawsuit to block Schedule F", "publisher": "Government Executive", "type": "news", "url": "https://www.govexec.com/workforce/2026/03/employee-groups-revive-lawsuit-block-schedule-f/411962/"}
+    ],
+    "as_of": "2026-10-27"
+  }
+]

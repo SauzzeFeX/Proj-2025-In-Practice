@@ -1,0 +1,993 @@
+[
+  {
+    "id": "ch10-001",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no law narrowing USDA's mission to farming, research and safety. The House-passed 2026 farm bill (H.R. 7567, April 30, 2026) and the Senate Agriculture Committee's bill both keep SNAP and other nutrition programs at USDA (see ch10-014). Neither had become law as of October 2026.",
+    "closeness": "No matching action found. The pending farm bills keep USDA's broad role.",
+    "uncertain": "I checked CRS's July 2026 comparison of the House and Senate farm bills and the local copy of 119th-Congress laws. I did not find any USDA mission-statement change; I did not review every USDA reorganization memo.",
+    "sources": [
+      {
+        "label": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law (R48918, July 29, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-002",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On January 20, 2025, President Trump ordered withdrawal from the Paris climate agreement. On March 4, 2025, a U.S. diplomat told the U.N. General Assembly that the U.S. \"rejects and denounces\" the 2030 Agenda and its Sustainable Development Goals. A January 7, 2026 memo ordered the U.S. to leave 66 international bodies, including the U.N. climate treaty, U.N. Water, U.N. Oceans and the U.N. economic and social affairs department.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Order to withdraw from the Paris Agreement."
+      },
+      {
+        "date": "2025-03-04",
+        "event": "U.S. tells the U.N. it rejects the 2030 Agenda and Sustainable Development Goals."
+      },
+      {
+        "date": "2026-01-07",
+        "event": "Memo on leaving 66 international organizations."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Same direction: the U.S. formally rejected the U.N. sustainable-development agenda and left several related bodies. But no food-specific body was on the list; the U.N. Food and Agriculture Organization, IFAD and the World Food Programme were not included.",
+    "uncertain": "I did not check U.S. positions inside the Food and Agriculture Organization. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Withdrawing the United States From International Organizations, Conventions, and Treaties That Are Contrary to the Interests of the United States (Jan. 16, 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/01/16/2026-00976/withdrawing-the-united-states-from-international-organizations-conventions-and-treaties-that-are"
+      },
+      {
+        "label": "US denounces UN sustainable development goals, quits climate damage fund",
+        "publisher": "ESG Dive",
+        "type": "news",
+        "url": "https://www.esgdive.com/news/us-denounces-un-sustainable-development-goals-quits-climate-damage-fund/742199/"
+      },
+      {
+        "label": "Putting America First in International Environmental Agreements",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-003",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On September 4, 2026, President Trump signed Executive Order 14425, Supporting America's Ranchers. It sets a policy of supporting domestic beef production and orders reviews of rules that burden ranchers. In 2025, USDA also ended several local food programs started under the previous administration's food system plan, including the Regional Food Business Centers, which it ended on July 15, 2025.",
+    "key_dates": [
+      {
+        "date": "2025-07-15",
+        "event": "USDA ends the Regional Food Business Centers program"
+      },
+      {
+        "date": "2026-09-04",
+        "event": "Executive Order 14425 signed."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "An agriculture executive order with pro-production goals, but it covers ranching, not a full set of farm principles. USDA ended some programs tied to 'food system' goals, but removal of that wording from its websites was not confirmed.",
+    "uncertain": "USDA's website blocked automated checks, so whether 'transforming the food system' wording was removed is not known. No broader farm-principles order was found. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Supporting America's Ranchers (Executive Order 14425)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18571/supporting-americas-ranchers"
+      },
+      {
+        "label": "USDA cancels more support for regional food systems",
+        "publisher": "Civil Eats",
+        "type": "news",
+        "url": "https://civileats.com/2025/07/15/usda-cancels-more-support-for-regional-food-systems/"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "USDA web pages could not be checked; confirm whether 'food system transformation' wording was removed."
+  },
+  {
+    "id": "ch10-004",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On April 14, 2025, Agriculture Secretary Brooke Rollins canceled the $3.1 billion Partnerships for Climate-Smart Commodities program after a project-by-project review. USDA replaced it with \"Advancing Markets for Producers,\" which requires at least 65 percent of funds to reach producers and kept some projects that met new criteria.",
+    "key_dates": [
+      {
+        "date": "2025-04-14",
+        "event": "USDA cancels Partnerships for Climate-Smart Commodities."
+      },
+      {
+        "date": "2026-02-10",
+        "event": "USDA notice describes the renamed Advancing Markets for Producers program."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "USDA reviewed and ended its main climate-smart program, as recommended. I did not check other programs, such as those favoring organic methods.",
+    "uncertain": "I did not check whether other USDA programs were reviewed for preferred practices. Newest source: February 2026.",
+    "sources": [
+      {
+        "label": "USDA cancels Climate-Smart Commodities program, launches new farmer-focused initiative",
+        "publisher": "WAGM-TV",
+        "type": "news",
+        "url": "https://www.wagmtv.com/2025/04/14/usda-cancels-climate-smart-commodities-program-launches-new-farmer-focused-initiative/"
+      },
+      {
+        "label": "USDA pulls the plug on climate-smart farming grants",
+        "publisher": "E&E News",
+        "type": "news",
+        "url": "https://www.eenews.net/articles/usda-pulls-the-plug-on-climate-smart-farming-grants/"
+      },
+      {
+        "label": "Information Collection Request; Advancing Markets for Producers (Formerly Partnerships for Climate-Smart Commodities)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/10/2026-02625/information-collection-request-advancing-markets-for-producers-formerly-partnerships-for"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-005",
+    "status": "not-done",
+    "match": "none",
+    "happened": "USDA used the Commodity Credit Corporation's section 5 authority instead of avoiding it. In February 2026 it created an $11 billion Farmer Bridge Assistance program, and in June 2026 a $1.625 billion specialty crop program, both citing section 5 of the CCC Charter Act.",
+    "closeness": "Not done; the action went the other way.",
+    "uncertain": "Searched the Federal Register for CCC programs since 2025. I did not total all CCC section 5 spending. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "Farmer Bridge Assistance (FBA) Program (final rule, Feb. 23, 2026)",
+        "publisher": "Federal Register (Commodity Credit Corporation)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/23/2026-03456/farmer-bridge-assistance-fba-program"
+      },
+      {
+        "label": "Assistance for Specialty Crop Farmers (ASCF) Program (final rule, June 1, 2026)",
+        "publisher": "Federal Register (Commodity Credit Corporation)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10930/assistance-for-specialty-crop-farmers-ascf-program"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-006",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress did not repeal or limit the Agriculture Secretary's section 5 spending power under the CCC Charter Act. The July 2025 reconciliation law and the FY2026 agriculture spending law (P.L. 119-37) did not change it, and USDA used it for bridge payments in 2026. The House-passed 2026 farm bill would only require CCC reports to Congress to name the section 5 authority used; it had not become law as of October 2026.",
+    "closeness": "No matching action found. The House bill's reporting rule is far smaller than repeal or prior approval.",
+    "uncertain": "I checked P.L. 119-21, P.L. 119-37 and the other 119th-Congress laws, and CRS's July 2026 farm bill comparison. The final farm bill could still change.",
+    "sources": [
+      {
+        "label": "Farmer Bridge Assistance (FBA) Program (final rule, Feb. 23, 2026)",
+        "publisher": "Federal Register (Commodity Credit Corporation)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/23/2026-03456/farmer-bridge-assistance-fba-program"
+      },
+      {
+        "label": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law (R48918, July 29, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      },
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), Title I agriculture and nutrition provisions",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-007",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress did not limit CCC money to real, temporary emergencies or allow court challenges to its use. USDA used it in 2026 for bridge payments tied to trade disruptions and higher costs. Neither the House-passed nor the Senate committee 2026 farm bill includes such a limit.",
+    "closeness": "No matching action found.",
+    "uncertain": "I checked the enacted 119th-Congress laws, including the FY2026 agriculture spending law, and CRS's July 2026 comparison of the farm bills. The final farm bill could still change.",
+    "sources": [
+      {
+        "label": "Farmer Bridge Assistance (FBA) Program (final rule, Feb. 23, 2026)",
+        "publisher": "Federal Register (Commodity Credit Corporation)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/23/2026-03456/farmer-bridge-assistance-fba-program"
+      },
+      {
+        "label": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law (R48918, July 29, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-008",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The federal sugar program was not repealed. The July 2025 reconciliation law raised the sugar loan rate to 24 cents per pound for raw cane sugar and extended the program through the 2031 crop year.",
+    "closeness": "Not done; the law went the other way.",
+    "uncertain": "Checked the law's sugar section. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), Title I agriculture and nutrition provisions",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-009",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress did not repeal the Agriculture Risk Coverage (ARC) and Price Loss Coverage (PLC) programs. The July 2025 One Big Beautiful Bill Act did the opposite: it raised PLC reference prices and expanded these programs, adding about $54 billion in spending over 10 years.",
+    "legal": "None.",
+    "closeness": "Opposite direction. The recommendation was to repeal ARC and PLC; the 2025 law kept and enlarged them, and also increased crop insurance spending.",
+    "uncertain": "I checked the 2025 reconciliation law, where farm program changes were made, and USDA rulemaking. Spending estimates come from summaries of CBO figures. A new farm bill could still change these programs.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-010",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law bars farmers from getting ARC or PLC payments in a year they also get a crop insurance payout. The July 2025 reconciliation law expanded ARC and PLC instead (see ch10-009).",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked the reconciliation law's commodity and crop insurance sections. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), Title I agriculture and nutrition provisions",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-011",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The taxpayer share of crop insurance premiums was not cut. The July 2025 reconciliation law raised premium subsidy rates, for example from 64% to 69% and from 59% to 64% for some coverage levels.",
+    "closeness": "Not done; the law went the other way.",
+    "uncertain": "Checked the law's premium support section. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), Title I agriculture and nutrition provisions",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-013",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Farm programs and SNAP were not split into separate laws. The July 2025 reconciliation law changed both farm subsidies and SNAP in the same bill, and the 2026 farm bill passed by the House on April 30, 2026 and the Senate Agriculture Committee's bill both include a nutrition title extending SNAP through 2031.",
+    "closeness": "Not done. Farm and food programs stayed together.",
+    "uncertain": "The 2026 farm bill had not become law as of October 2026; the 2018 farm bill's extension lapsed September 30, 2026.",
+    "sources": [
+      {
+        "label": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law (R48918, July 29, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      },
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), Title I agriculture and nutrition provisions",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-014",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no law or plan that moved SNAP, WIC or other USDA nutrition programs to the Department of Health and Human Services. USDA's Food and Nutrition Service still runs these programs and issued SNAP and WIC notices in 2026.",
+    "legal": "None.",
+    "closeness": "No match. The 2025 reconciliation law changed SNAP rules and costs (see ch10-015) but left the program at USDA.",
+    "uncertain": "I checked the 2025 reconciliation law and USDA Food and Nutrition Service Federal Register notices through mid-2026. My web searches ran out before a dedicated news search, so a bill that was introduced but not passed may have been missed.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-015",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "The One Big Beautiful Bill Act, signed July 4, 2025, expanded SNAP work requirements. Adults up to age 64, and parents whose youngest child is 14 or older, must now work or train about 20 hours a week to keep benefits beyond three months. The law also ended exemptions for veterans, homeless people and former foster youth, and narrowed when states can get waivers.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "One Big Beautiful Bill Act signed (P.L. 119-21)."
+      }
+    ],
+    "legal": "No court ruling found on the new work rules.",
+    "closeness": "Very close: stricter work requirements and tighter limits on state waivers, as recommended. It was done by Congress, which goes further than reviving the blocked Trump-era rule.",
+    "uncertain": "CBO estimated millions could lose benefits; actual effects are still being measured. USDA data show SNAP enrollment fell from 42.2 million (May 2025) to 36.6 million (May 2026), but not all of that is due to work rules. I could not reach USDA's implementation pages.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-016",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no USDA rule clarifying states' use of SNAP's general work requirement or requiring job training slots for those who ask. Congress changed SNAP's separate time-limit work rule in July 2025 (see ch10-015).",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for FNS work requirement rules since 2025; none found. Newest source: 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), Title I agriculture and nutrition provisions",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-017",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no law or USDA rule ending or narrowing broad-based categorical eligibility for SNAP in 2025 or 2026.",
+    "legal": "None.",
+    "closeness": "No match found. The 2025 reconciliation law tightened SNAP in other ways, such as work rules and state cost sharing (see ch10-015).",
+    "uncertain": "I checked summaries of the 2025 reconciliation law and all USDA Food and Nutrition Service Federal Register documents from January 2025 to mid-2026; none addressed categorical eligibility. My web searches ran out before a dedicated news search, so a proposal or a provision I did not see in summaries could have been missed.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-018",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The July 2025 One Big Beautiful Bill Act limits future updates to the Thrifty Food Plan, which sets SNAP benefit amounts. Future changes must not raise costs beyond inflation. The law did not undo the 2021 increase.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "One Big Beautiful Bill Act signed (P.L. 119-21)."
+      }
+    ],
+    "legal": "None found.",
+    "closeness": "Same concern, different action. The recommendation was to re-evaluate the 2021 increase; Congress instead locked in limits on future increases and left the 2021 level in place.",
+    "uncertain": "I did not find a USDA re-evaluation of the Thrifty Food Plan in 2025-2026. Details of the law's limits come from summaries.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-019",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The July 2025 reconciliation law limits the practice. Small energy aid payments now unlock the larger SNAP utility deduction only for households with an elderly or disabled member.",
+    "key_dates": [
+      {
+        "date": "2025-07-04",
+        "event": "One Big Beautiful Bill Act signed (section 10103)."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Mostly matches: the \"heat and eat\" practice ended for most households. It still works for households with an elderly or disabled member.",
+    "uncertain": "I did not check how USDA guided states on putting this into effect. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), Title I agriculture and nutrition provisions",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-021",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "In 2025, FDA launched \"Operation Stork Speed\" to review infant formula. On May 14, 2025, FDA asked the public for information to start its first full review of infant formula nutrient requirements in decades. In May 2026, FDA also finalized guidance on the protein-quality animal studies that makers of new formulas must run.",
+    "key_dates": [
+      {
+        "date": "2025-05-14",
+        "event": "FDA request for information on infant formula nutrient requirements."
+      },
+      {
+        "date": "2026-05-22",
+        "event": "FDA finalizes guidance on protein-quality studies for new infant formulas"
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "A review of formula rules is under way, but it focuses on nutrients and safety. I did not confirm changes to labeling or other rules that slow production.",
+    "uncertain": "A Federal Register search through October 2026 found no proposed or final rule from the nutrient review. Whether the new guidance speeds approvals is not known. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "Infant Formula Nutrient Requirements; Request for Information",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/14/2025-08419/infant-formula-nutrient-requirements-request-for-information"
+      },
+      {
+        "label": "Protein Efficiency Ratio Rat Bioassay Studies for New Infant Formula; Guidance for Industry",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10284/protein-efficiency-ratio-rat-bioassay-studies-to-demonstrate-that-a-new-infant-formula-supports-the"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-022",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no USDA rule limiting the Community Eligibility Provision to whole schools or whole districts. Groups of schools can still qualify.",
+    "closeness": "No matching action found; see ch10-023.",
+    "uncertain": "Searched the Federal Register for community eligibility rules since 2025; none found.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-023",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or USDA rule eliminated the Community Eligibility Provision, which lets high-need schools give free meals to all students. A March 2025 House Budget Committee proposal would have raised the eligibility threshold from 25% to 60% of students, but CRS found the July 2025 reconciliation law made no direct changes to school meal programs.",
+    "legal": "None.",
+    "closeness": "No match found. The provision is still in place, and a record number of schools used it in the 2025-2026 school year. SNAP cuts in the 2025 law may reduce the number of students who qualify automatically, which could indirectly affect some schools.",
+    "uncertain": "Searched the 2025 reconciliation law (with CRS's December 2025 analysis), USDA Federal Register documents, and news through July 2026. No change was found. A future spending bill or USDA rule could still change the provision.",
+    "sources": [
+      {
+        "label": "FY2025 Budget Reconciliation: Implications for USDA's Child Nutrition Efforts (IN12629)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12629.html"
+      },
+      {
+        "label": "House Republicans float plan to cut Community Eligibility Provision",
+        "publisher": "K-12 Dive",
+        "type": "news",
+        "url": "https://www.k12dive.com/news/house-republicans-float-plan-to-cut-community-eligibility-provision/739212/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-024",
+    "status": "not-done",
+    "match": "none",
+    "happened": "USDA did not limit summer meals to students in summer school. A June 2025 USDA rule simplified planning rules for Summer EBT and rural summer meals, and 2026 income guidelines still cover Summer EBT.",
+    "closeness": "Not done.",
+    "uncertain": "Searched the Federal Register for summer meal rules since 2025. Some states chose not to run Summer EBT, which is a state choice, not this policy. Newest source: April 2026.",
+    "sources": [
+      {
+        "label": "Child Nutrition: Streamlining Plan Requirements for the Summer EBT Program and the Rural Non-Congregate Option (final rule, June 6, 2025)",
+        "publisher": "Federal Register (Food and Nutrition Service)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/06/2025-10342/child-nutrition-streamlining-plan-requirements-for-the-summer-ebt-program-and-the-rural"
+      },
+      {
+        "label": "Child Nutrition Programs: Income Eligibility Guidelines (2026-2027)",
+        "publisher": "Federal Register (Food and Nutrition Service)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/09/2026-06842/child-nutrition-programs-income-eligibility-guidelines"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-025",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Federal school meals were not limited further. No federal law made meals universal, and the Community Eligibility Provision, which lets high-need schools serve all students free, remains (see ch10-023).",
+    "closeness": "No matching action found to narrow eligibility.",
+    "uncertain": "Searched the Federal Register for school meal eligibility rules since 2025.",
+    "sources": [
+      {
+        "label": "Child Nutrition Programs: Income Eligibility Guidelines (2026-2027)",
+        "publisher": "Federal Register (Food and Nutrition Service)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/04/09/2026-06842/child-nutrition-programs-income-eligibility-guidelines"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-027",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law ended the Conservation Reserve Program. Both the House-passed 2026 farm bill and the Senate Agriculture Committee's bill would renew it at its current 27 million acres through 2031. When the 2018 farm bill's extension lapsed on September 30, 2026, USDA lost authority to sign new CRP contracts until Congress acts, but existing contracts continue.",
+    "closeness": "Not done. Both pending bills would keep the program; the lapse in new enrollment comes from the farm bill expiring, not a decision to end it.",
+    "uncertain": "The lapse detail comes from a news report; I did not find a USDA notice. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law (R48918, July 29, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      },
+      {
+        "label": "Farm bill expired: what it means for US farmers and USDA programs",
+        "publisher": "AgroLatam",
+        "type": "news",
+        "url": "https://www.agrolatam.com/usa/news/farm-bill-expired-us-farmers-usda-programs-2026/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-028",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no change removing NRCS power to prescribe specific farm practices or adding farmer appeal protections. NRCS kept revising its national conservation practice standards in 2026. The pending 2026 farm bills do not make this change; the Senate committee bill only adjusts guidelines for practice standards.",
+    "closeness": "No matching action found.",
+    "uncertain": "I checked the Federal Register and CRS's July 2026 comparison of the House and Senate farm bills. Neither bill had become law as of October 2026.",
+    "sources": [
+      {
+        "label": "Proposed Revisions to the National Handbook of Conservation Practices (Sept. 2026)",
+        "publisher": "Federal Register (NRCS)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17863/proposed-revisions-to-the-national-handbook-of-conservation-practices"
+      },
+      {
+        "label": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law (R48918, July 29, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-029",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no law or pending farm bill provision moving authority over erodible land and wetland conservation rules to the states. The House-passed and Senate committee 2026 farm bills keep the federal conservation compliance rules.",
+    "closeness": "No matching action found.",
+    "uncertain": "I checked CRS's July 2026 comparison of the House and Senate farm bills and the local copy of 119th-Congress laws. Neither bill had become law as of October 2026.",
+    "sources": [
+      {
+        "label": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law (R48918, July 29, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-030",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no limit on permanent conservation easements or a ban on new ones. The July 2025 reconciliation law set funding for the Agricultural Conservation Easement Program at $625 million to $700 million a year for 2026-2031. The pending 2026 farm bills keep permanent easements and change only some easement terms.",
+    "closeness": "No matching action found; easement funding was extended instead.",
+    "uncertain": "I checked P.L. 119-21, the Federal Register and CRS's July 2026 farm bill comparison. I did not check whether USDA slowed new easement signings in practice.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), sec. 10601 conservation funding",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      },
+      {
+        "label": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law (R48918, July 29, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-031",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "On September 4, 2026, President Trump signed an order telling USDA to expand interstate shipment of state-inspected meat, including through the existing Cooperative Interstate Shipment program. USDA must report within 60 days on legal barriers to selling state-inspected meat across state lines. No law has passed.",
+    "key_dates": [
+      {
+        "date": "2026-09-04",
+        "event": "Executive Order 14424 signed."
+      }
+    ],
+    "legal": "No court ruling.",
+    "closeness": "Same goal, but through outreach and a report rather than the law change the text calls for.",
+    "uncertain": "The USDA report and any bill were not found. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14424, Promoting Fair Competition in Livestock Markets and Expanding Market Access for American Meat Producers",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18567/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-032",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no USDA policy rejecting new marketing orders or checkoffs or making them easier to end. Changes in 2025-2026 followed industry votes: a proposed sod checkoff was dropped after producers voted it down, and the paper packaging checkoff ended after a vote. USDA kept amending other orders.",
+    "closeness": "No matching action found; the changes followed routine industry referendums.",
+    "uncertain": "Searched the Federal Register for marketing order and checkoff rules since 2025. Newest source: October 2026.",
+    "sources": [
+      {
+        "label": "Natural Grass Sod Promotion, Research, and Information Order: Withdrawal of Proposed Rule (May 29, 2025)",
+        "publisher": "Federal Register (Agricultural Marketing Service)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09696/natural-grass-sod-promotion-research-and-information-order-withdrawal-of-proposed-rule"
+      },
+      {
+        "label": "Paper and Paper-Based Packaging Promotion, Research and Information Order Termination (final rule, Mar. 9, 2026)",
+        "publisher": "Federal Register (Agricultural Marketing Service)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04570/paper-and-paper-based-packaging-promotion-research-and-information-order-termination"
+      },
+      {
+        "label": "Raisins Produced From Grapes Grown in California; Order Amending Marketing Order No. 989 (Oct. 9, 2026)",
+        "publisher": "Federal Register (Agricultural Marketing Service)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20792/raisins-produced-from-grapes-grown-in-california-order-amending-marketing-order-no-989"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-033",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress did not eliminate marketing orders or checkoff programs. The House-passed 2026 farm bill would extend the dairy checkoff through 2031 and require USDA to publish checkoff boards' budgets and audits, and both farm bills keep marketing orders.",
+    "closeness": "No matching action found. The House bill adds transparency rules rather than ending the programs.",
+    "uncertain": "I checked the enacted 119th-Congress laws and CRS's July 2026 farm bill comparison. I did not review every stand-alone bill introduced on checkoffs.",
+    "sources": [
+      {
+        "label": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law (R48918, July 29, 2026)",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-035",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Market development programs were not repealed. The July 2025 reconciliation law added a new $285 million-a-year trade promotion program, paid from CCC funds, starting in fiscal 2027.",
+    "closeness": "Not done; the law went the other way.",
+    "uncertain": "Checked the law's trade promotion section. Newest source: July 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-21 (One Big Beautiful Bill Act), Title I agriculture and nutrition provisions",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/link/plaw/119/public/21?link-type=html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-036",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "In May 2026, USDA asked the public for input on \"potential risk-based deregulation\" of genetically modified plants and other organisms. Earlier, in June 2025, USDA updated its rules to reflect a December 2024 court ruling that threw out its 2020 biotech rule, which put older rules back in place.",
+    "key_dates": [
+      {
+        "date": "2025-06-16",
+        "event": "USDA rule reflects court vacatur of 2020 biotech rule."
+      },
+      {
+        "date": "2026-05-15",
+        "event": "USDA requests information on risk-based deregulation."
+      }
+    ],
+    "legal": "A federal court vacated USDA's 2020 biotech rule in December 2024.",
+    "closeness": "Same goal of removing barriers to biotech approvals, but only at the information-gathering stage.",
+    "uncertain": "No proposed rule had been found as of the newest source (May 2026).",
+    "sources": [
+      {
+        "label": "Request for Information on Modified Organisms Subject to the Plant Protection Act (May 15, 2026)",
+        "publisher": "Federal Register (USDA)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09833/request-for-information-on-modified-organisms-subject-to-the-plant-protection-act"
+      },
+      {
+        "label": "Movement of Certain Genetically Engineered Organisms (rule reflecting court vacatur, June 16, 2025)",
+        "publisher": "Federal Register (APHIS)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/16/2025-10797/movement-of-certain-genetically-engineered-organisms"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-037",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress did not repeal the federal law requiring labels on bioengineered food. Instead, a federal appeals court (Ninth Circuit) struck parts of USDA's labeling rule, a district court set a January 1, 2028 deadline for fixes, and USDA planned a new rule.",
+    "closeness": "No matching action found. The labeling law still stands.",
+    "uncertain": "I searched for 2025-2026 repeal bills and checked the local copy of 119th-Congress laws; I found none. I did not confirm whether USDA has published its new proposed rule.",
+    "sources": [
+      {
+        "label": "UPDATE: Court Sets January 1, 2028 Deadline to Address Key USDA Bioengineered Rule Disclosure Provisions",
+        "publisher": "Wiley Rein LLP",
+        "type": "law-firm",
+        "url": "https://www.wiley.law/alert-UPDATE-Court-Sets-January-1-2028-Deadline-to-Address-Key-USDA-Bioengineered-Rule-Disclosure-Provisions"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-038",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "After a USMCA panel ruled against Mexico's limits on genetically engineered corn, Mexico canceled those measures on February 6, 2025, and USTR welcomed the step. In 2025 and 2026, USTR signed reciprocal trade agreements that it says remove non-tariff barriers to U.S. farm goods.",
+    "key_dates": [
+      {
+        "date": "2025-02-06",
+        "event": "Mexico declares its GE corn measures ineffective."
+      },
+      {
+        "date": "2026-03",
+        "event": "USTR and USDA describe new trade agreements opening farm markets."
+      }
+    ],
+    "legal": "A USMCA dispute panel ruled for the United States in December 2024.",
+    "closeness": "Same goal. The corn dispute is a direct biotech case; the newer agreements cover farm barriers in general, and I did not confirm biotech-specific terms in each.",
+    "uncertain": "I did not read the agreement texts for biotech approval terms. Newest source: March 2026.",
+    "sources": [
+      {
+        "label": "United States Welcomes Mexico's Actions Towards Resolving USMCA Biotech Corn Dispute",
+        "publisher": "Office of the U.S. Trade Representative",
+        "type": "government",
+        "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2025/february/united-states-welcomes-mexicos-actions-towards-resolving-usmca-biotech-corn-dispute"
+      },
+      {
+        "label": "Op-ed: Ambassador Jamieson Greer and Secretary Brooke Rollins on U.S. agriculture",
+        "publisher": "Office of the U.S. Trade Representative",
+        "type": "government",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/op-ed-ambassador-jamieson-greer-and-secretary-brooke-rollins-us-agriculture-back-top-and-world"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-039",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In March 2025, President Trump ordered more timber production and faster forest management approvals. A June 2025 order called for more fuel reduction, including vegetation management and removing hazardous fuels. In August 2026, USDA proposed repealing the 2001 Roadless Rule, which limits road building and logging in some national forests.",
+    "key_dates": [
+      {
+        "date": "2025-03-01",
+        "event": "Executive Order 14225 on timber production."
+      },
+      {
+        "date": "2025-06-12",
+        "event": "Executive Order 14308 on wildfire prevention."
+      },
+      {
+        "date": "2026-08-20",
+        "event": "USDA proposes repealing the Roadless Rule."
+      }
+    ],
+    "legal": "No court ruling found on these orders; the Roadless Rule repeal is still a proposal.",
+    "closeness": "Same direction: more active management and fewer regulatory hurdles. No new law from Congress was found.",
+    "uncertain": "I did not measure how many acres were thinned or treated. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14225, Immediate Expansion of American Timber Production",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/03/06/2025-03695/immediate-expansion-of-american-timber-production"
+      },
+      {
+        "label": "Executive Order 14308, Empowering Commonsense Wildfire Prevention and Response",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/18/2025-11358/empowering-commonsense-wildfire-prevention-and-response"
+      },
+      {
+        "label": "Special Areas; Roadless Area Conservation (proposed rule, Aug. 20, 2026)",
+        "publisher": "Federal Register (USDA)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16965/special-areas-roadless-area-conservation"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-040",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "A March 1, 2025 order told the Interior and Agriculture secretaries to set a target for timber sales and speed up approvals. The Forest Service reported selling 2.94 billion board feet of timber in fiscal 2025, above its target, and set a goal of 4 billion board feet a year by fiscal 2028.",
+    "key_dates": [
+      {
+        "date": "2025-03-01",
+        "event": "Executive Order 14225 on timber production."
+      },
+      {
+        "date": "2025-09-30",
+        "event": "Fiscal 2025 ends with 2.94 billion board feet sold, per the Forest Service."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Same goal. The fiscal 2025 volume beat the agency target; GAO found the Forest Service had missed its timber-sold targets every year from 2014 to 2023, averaging about 90 percent of target. I did not confirm how much 2025 sales rose over earlier years.",
+    "uncertain": "The fiscal 2025 figure comes from the Forest Service own summary. I did not find fiscal 2026 totals or an independent year-over-year comparison.",
+    "sources": [
+      {
+        "label": "Executive Order 14225, Immediate Expansion of American Timber Production",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/03/06/2025-03695/immediate-expansion-of-american-timber-production"
+      },
+      {
+        "label": "2025 Forest Service Accomplishments",
+        "publisher": "U.S. Forest Service",
+        "type": "government",
+        "url": "https://www.fs.usda.gov/es/node/773896459"
+      },
+      {
+        "label": "GAO-26-107993 Highlights: Forest Service, Opportunities Exist to Improve Timber Sale Management (June 2026)",
+        "publisher": "U.S. Government Accountability Office",
+        "type": "government",
+        "url": "https://www.gao.gov/assets/gao-26-107993-highlights.pdf"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch10-041",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Dietary Guidelines for Americans were not repealed. USDA and HHS issued a new edition, the Dietary Guidelines for Americans, 2025-2030, in January 2026.",
+    "closeness": "Not done; a new edition was issued.",
+    "uncertain": "Confirmed through a 2026 FDA rule that cites the January 2026 edition.",
+    "sources": [
+      {
+        "label": "FDA final rule on salt substitutes citing the Dietary Guidelines for Americans, 2025-2030 (10th ed., January 2026)",
+        "publisher": "Federal Register (FDA)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20848/use-of-salt-substitutes-to-reduce-the-sodium-content-in-standardized-foods"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-042",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 7, 2026, HHS and USDA released the Dietary Guidelines for Americans, 2025-2030. The guidelines focus on whole foods and limiting highly processed foods and added sugars, and do not address environmental sustainability. Observers said the process differed from past editions.",
+    "key_dates": [
+      {
+        "date": "2026-01-07",
+        "event": "Dietary Guidelines for Americans, 2025-2030 released."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "The new guidelines focus on nutrition, as recommended. I found no law writing a nutrition-only or more transparent process into statute.",
+    "uncertain": "I did not confirm how transparent the new process was, and sources on it are mostly secondary. Newest source: January 2026.",
+    "sources": [
+      {
+        "label": "Current Dietary Guidelines",
+        "publisher": "HHS Office of Disease Prevention and Health Promotion",
+        "type": "government",
+        "url": "https://odphp.health.gov/our-work/food-nutrition/current-dietary-guidelines"
+      },
+      {
+        "label": "USDA and HHS update dietary guidelines to encourage real food, less sugar",
+        "publisher": "AJMC",
+        "type": "news",
+        "url": "https://www.ajmc.com/view/usda-and-hhs-update-dietary-guidelines-to-encourage-real-food-less-sugar"
+      },
+      {
+        "label": "NPI response to the new Dietary Guidelines for Americans",
+        "publisher": "Nutrition Policy Institute, University of California",
+        "type": "academic",
+        "url": "https://ucanr.edu/sites/default/files/2026-01/NPI%20Response%20to%20the%20New%20Dietary%20Guidelines%20for%20Americans.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-012",
+    "status": "under-review",
+    "match": "broader",
+    "happened": "The House passed a new farm bill, the Farm, Food, and National Security Act of 2026 (H.R. 7567), on April 30, 2026, by a vote of 224-200, after taking up 57 floor amendments. The Senate Agriculture Committee released its own draft in June 2026. No White House or USDA statement demanding an open amendment process was found.",
+    "key_dates": [
+      {
+        "date": "2026-04-30",
+        "event": "House passes H.R. 7567 after considering 57 amendments."
+      },
+      {
+        "date": "2026-06-23",
+        "event": "Senate Agriculture chairman releases a discussion draft."
+      }
+    ],
+    "closeness": "The chapter asked the White House and USDA to insist on an open process with time for amendments, including from members outside the Agriculture Committees. The House did allow dozens of floor amendments, but no push by the White House or USDA for this was found.",
+    "uncertain": "The House rule's terms and whether it limited amendments were not checked. The final bill had not passed both chambers as of the newest sources (July to September 2026).",
+    "sources": [
+      {
+        "label": "CRS R48918: The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      },
+      {
+        "label": "Farm Bill Debate Shifts to Senate Following House Passage",
+        "publisher": "California Farm Bureau",
+        "type": "advocacy",
+        "url": "https://www.cfbf.com/ag-advocacy/advocacy-updates/newsletter-content/may-8-2026/farm-bill-debate-shifts-to-senate-following-house-passage"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "No White House or USDA statement on the farm bill process was found; check the House floor rule for H.R. 7567 and any administration statement of policy."
+  },
+  {
+    "id": "ch10-020",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No change to the WIC system in which one infant formula maker wins each state's contract was found. USDA's only WIC formula rule in this period, in December 2025, corrected errors in a 2023 rule. The fiscal 2026 farm spending law, signed November 12, 2025, again says WIC money may be used for formula only under the existing cost-containment and competitive bidding rules.",
+    "closeness": "The chapter wanted the single-brand state contract system changed. Congress kept it in place for fiscal 2026, and USDA made no policy change.",
+    "uncertain": "I searched the Federal Register for WIC and infant formula actions and checked the fiscal 2026 spending law (P.L. 119-37). A WIC change in a pending child nutrition or farm bill could have been missed. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "WIC: Implementation of the Access to Baby Formula Act of 2022; Correcting Amendments",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/17/2025-23089/special-supplemental-nutrition-program-for-women-infants-and-children-wic-implementation-of-the"
+      },
+      {
+        "label": "Public Law 119-37 (continuing and FY2026 agriculture appropriations)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/html/PLAW-119publ37.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch10-034",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or rule requiring producers to vote at least every five years on keeping checkoff programs was found. The House-passed 2026 farm bill would instead require USDA to publish checkoff boards' audits, budgets and evaluations.",
+    "closeness": "The chapter wanted regular producer votes on checkoff programs and marketing orders. The farm bill's transparency provision is a different, smaller step and has not become law.",
+    "uncertain": "I searched the Federal Register for checkoff referendum rules, searched all 119th Congress laws, and read the CRS comparison of the House and Senate farm bills (July 2026). Final farm bill text was not available.",
+    "sources": [
+      {
+        "label": "CRS R48918: The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law",
+        "publisher": "Congressional Research Service (via EveryCRSReport)",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-07-29_R48918_299f24f270e4b3d15cd60dff43559c9e3cbe2a02.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

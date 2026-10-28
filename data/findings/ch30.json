@@ -1,0 +1,271 @@
+[
+  {
+    "id": "ch30-001",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "In April 2025 President Trump signed an executive order, \"Reducing Anti-Competitive Regulatory Barriers,\" directing agencies to review their regulations, together with the FTC Chairman and the Attorney General, to find rules that limit competition. The order also called for seeking public input to identify such rules.",
+    "key_dates": [
+      {
+        "date": "2025-04-15",
+        "event": "Executive order on anti-competitive regulatory barriers published in the Federal Register"
+      }
+    ],
+    "closeness": "The order asks the FTC to help look at how government rules keep markets concentrated, which is the chapter's point. It covers regulations across government rather than the specific industries the chapter names, and this finding did not confirm what the review produced.",
+    "uncertain": "The results of the review (lists of rules identified or rescinded) were not checked. Newest source: April 2025.",
+    "sources": [
+      {
+        "label": "Reducing Anti-Competitive Regulatory Barriers (executive order)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/15/2025-06463/reducing-anti-competitive-regulatory-barriers"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch30-003",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Congress has not moved antitrust enforcement to the Justice Department; the FTC still enforces antitrust law. President Trump removed the FTC's two Democratic commissioners in March 2025. On June 29, 2026, the Supreme Court ruled 6-3 in Trump v. Slaughter that FTC commissioners can be removed without cause, overruling Humphrey's Executor (1935).",
+    "key_dates": [
+      {
+        "date": "2025-03",
+        "event": "President removes two FTC commissioners."
+      },
+      {
+        "date": "2026-06-29",
+        "event": "Supreme Court decides Trump v. Slaughter (6-3)."
+      }
+    ],
+    "legal": "Supreme Court, Trump v. Slaughter (No. 25-332, June 29, 2026): the FTC's for-cause removal protection is unconstitutional.",
+    "closeness": "Partial. The FTC's independent status ended through the removal ruling, but its antitrust role was not moved to the Justice Department. The chapter itself argued against giving up FTC power for now.",
+    "uncertain": "Whether any bill to merge FTC antitrust work into the Justice Department is moving. Ruling details come from the Court's case listing and law-firm summaries, not a full reading of the opinion.",
+    "sources": [
+      {
+        "label": "Trump v. Slaughter (opinion)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/25pdf/609us2r62_g314.pdf"
+      },
+      {
+        "label": "Supreme Court overrules Humphrey's Executor",
+        "publisher": "Venable LLP",
+        "type": "law-firm",
+        "url": "https://www.venable.com/insights/publications/2026/06/supreme-court-overrules-humphreys-executor"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch30-004",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "No FTC task force on ESG or DEI collusion was found. On May 22, 2025, the FTC and Justice Department filed a joint statement of interest backing a Texas-led antitrust suit claiming that BlackRock, State Street and Vanguard conspired to cut coal output through climate-focused investing; a federal court in Texas let the case proceed on August 1, 2025. In June 2025 the FTC's Omnicom and Interpublic merger order barred coordinating ad spending based on political or ideological views.",
+    "key_dates": [
+      {
+        "date": "2025-05-22",
+        "event": "FTC and DOJ file statement of interest in Texas v. BlackRock"
+      },
+      {
+        "date": "2025-06-26",
+        "event": "FTC publishes proposed Omnicom/IPG consent order"
+      },
+      {
+        "date": "2025-08-01",
+        "event": "Court denies the asset managers' motion to dismiss"
+      }
+    ],
+    "closeness": "The FTC is treating ESG-related coordination as possible collusion, as the chapter urged, but through filings in individual cases, not a task force, and not focused on private equity.",
+    "uncertain": "The Texas case's 2026 status was not checked. Newest source is August 2025.",
+    "sources": [
+      {
+        "label": "FTC and DOJ support Republican state attorneys general",
+        "publisher": "Hogan Lovells",
+        "type": "law-firm",
+        "url": "https://www.hoganlovells.com/en/publications/ftc-and-doj-support-republican-state-attorneys-general"
+      },
+      {
+        "label": "Omnicom Group and Interpublic Group: Analysis of Agreement Containing Consent Order",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/06/26/2025-11760/omnicom-group-inc-omnicom-and-the-interpublic-group-of-companies-inc-ipg-analysis-of-agreement"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch30-006",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On February 20, 2025, the FTC opened a public inquiry into how tech platforms deny or limit service based on users' speech or affiliations. On August 7, 2025, President Trump signed an executive order directing bank regulators to stop banks from denying service based on political or religious beliefs.",
+    "key_dates": [
+      {
+        "date": "2025-02-20",
+        "event": "FTC launches inquiry into tech platform censorship"
+      },
+      {
+        "date": "2025-08-07",
+        "event": "Executive order on fair access to banking"
+      }
+    ],
+    "closeness": "Both target refusals of service based on views, in banks and platforms. The bank order works through bank regulators, not FTC unfair-practice law, and the FTC step is an inquiry, not a finding.",
+    "uncertain": "Results of the FTC inquiry and any bank regulator rules under the order were not checked.",
+    "sources": [
+      {
+        "label": "FTC launches inquiry into tech censorship",
+        "publisher": "Federal Trade Commission",
+        "type": "government",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/02/federal-trade-commission-launches-inquiry-tech-censorship"
+      },
+      {
+        "label": "Guaranteeing Fair Banking for All Americans",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/08/12/2025-15341/guaranteeing-fair-banking-for-all-americans"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch30-007",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "In April 2025 the FTC published amendments to its Children's Online Privacy Protection Rule, strengthening parental consent rules for collecting and sharing children's data online.",
+    "key_dates": [
+      {
+        "date": "2025-04-22",
+        "event": "Amended children's online privacy rule published"
+      }
+    ],
+    "closeness": "The rule tightens parental consent for data use, but it is not a review of platforms' advertising and contracts with children as the chapter described.",
+    "uncertain": "Other FTC studies of platforms and children in 2025-2026 were not reviewed.",
+    "sources": [
+      {
+        "label": "Children's Online Privacy Protection Rule (final rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch30-008",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 17, 2025, before the new administration took office, the FTC settled with Cognosphere, maker of the game Genshin Impact, for $20 million; the company agreed to stop children under 16 from making in-game purchases without parental consent. No FTC case since January 20, 2025 targeting contracts with children without parental consent was found.",
+    "key_dates": [
+      {
+        "date": "2025-01-17",
+        "event": "FTC settles with Cognosphere (Genshin Impact), before January 20, 2025"
+      }
+    ],
+    "closeness": "Close in effect but older and narrower: one settlement, reached before January 20, 2025, based on children's privacy and deception claims rather than a general unfair-practice theory about contracts with minors. See ch30-007 for other children's cases.",
+    "uncertain": "Searched the Federal Register and the web for 2025-2026 FTC cases on contracts with minors; none after January 20, 2025 was found.",
+    "sources": [
+      {
+        "label": "United States v. Cognosphere, LLC (case page)",
+        "publisher": "Federal Trade Commission",
+        "type": "government",
+        "url": "https://www.ftc.gov/node/87285"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch30-011",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No step giving more authority back to FTC regional offices was found. In September 2026 the FTC updated its rules to reflect a new American Competition Enforcement (ACE) Division in its Bureau of Competition, which it describes as \"a nationally integrated division with employees across the United States.\" The regional offices are now described as under the general supervision of the Bureau of Consumer Protection.",
+    "key_dates": [
+      {
+        "date": "2026-09-24",
+        "event": "FTC revises its description of regional offices to reflect the new ACE Division"
+      }
+    ],
+    "closeness": "The change reorganizes regional competition work under a national division rather than giving regional offices more independent authority. Some contributors to the chapter opposed expanding the regional offices.",
+    "uncertain": "How much decision-making the regional offices actually have in practice is not shown in the rule. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Rules of Practice (FTC, September 2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19597/rules-of-practice"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch30-002",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On February 18, 2025, FTC Chairman Andrew Ferguson told staff that the 2023 Merger Guidelines, issued jointly with the Justice Department under the prior administration, stay in effect. He said guidelines that change with every administration lose their value to businesses and courts, and left room for a later careful review. The guidelines look at effects beyond price, such as on quality, innovation and workers.",
+    "key_dates": [
+      {
+        "date": "2025-02-18",
+        "event": "Ferguson memo keeps the 2023 Merger Guidelines in effect."
+      }
+    ],
+    "closeness": "The FTC kept a framework that looks past price alone, which fits part of the recommendation. No FTC statement was found that sets the same standard of proof for claimed efficiencies as for claimed harms, as the recommendation asks.",
+    "uncertain": "No revision of the 2023 guidelines was found through October 2026, but a review could be under way without public notice. Federal Register searches and a web search were used.",
+    "sources": [
+      {
+        "label": "FTC Chairman Andrew N. Ferguson Announces that the FTC and DOJ's Joint 2023 Merger Guidelines Are in Effect",
+        "publisher": "Federal Trade Commission",
+        "type": "government",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/02/ftc-chairman-andrew-n-ferguson-announces-ftc-dojs-joint-2023-merger-guidelines-are-effect"
+      },
+      {
+        "label": "Here to Stay? FTC and DOJ Announce that 2023 Merger Guidelines Remain in Effect",
+        "publisher": "WilmerHale",
+        "type": "law-firm",
+        "url": "https://www.wilmerhale.com/en/insights/client-alerts/20250228-here-to-stay-ftc-and-doj-announce-that-2023-merger-guidelines-remain-in-effect"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch30-005",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "Before January 20, 2025, in the 118th Congress, the House Judiciary Committee investigated whether ESG investing groups such as Climate Action 100+ broke antitrust laws. It sent document demands to more than 130 companies and pension funds, subpoenaed some, and released majority staff reports in June and December 2024 saying it found evidence of collusion.",
+    "key_dates": [
+      {
+        "date": "2024-06-11",
+        "event": "Committee majority releases the \"Climate Control\" interim report."
+      },
+      {
+        "date": "2024-12",
+        "event": "Second interim report released."
+      }
+    ],
+    "closeness": "Same idea: a congressional investigation of ESG practices as possible anticompetitive conduct. It took place in 2023-2024, before the current administration, and no new 2025-2026 report was found.",
+    "uncertain": "Whether the investigation continued in 2025-2026 was not confirmed; an October 2026 web search found nothing newer than 2025. The reports state the committee majority's conclusions; groups named in them, such as Climate Action 100+, disputed them. Newest source: December 2024.",
+    "sources": [
+      {
+        "label": "New Report Reveals Evidence of ESG Collusion Among Left-Wing Activists and Major Financial Institutions",
+        "publisher": "House Judiciary Committee (majority)",
+        "type": "government",
+        "url": "https://judiciary.house.gov/media/press-releases/new-report-reveals-evidence-esg-collusion-among-left-wing-activists-and-major"
+      },
+      {
+        "label": "House Judiciary ESG probe: More than 70 investors have left Climate Action 100+",
+        "publisher": "ESG Dive",
+        "type": "news",
+        "url": "https://www.esgdive.com/news/house-judiciary-esg-probe-more-than-70-investors-have-left-climate-action-100/735805/"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "No 2025-2026 House or Senate ESG antitrust action was found; confirm on judiciary.house.gov before counting this as in effect for the current period."
+  },
+  {
+    "id": "ch30-010",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No dedicated role for working with state attorneys general was found in the FTC Chairman's office. The FTC continued to bring some cases jointly with groups of states, as it had before.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for FTC notices and the web for an announced state attorney general liaison through October 2026. An unannounced staff assignment would not appear in these sources.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  }
+]

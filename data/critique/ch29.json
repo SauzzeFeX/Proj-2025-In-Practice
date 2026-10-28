@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ch29-012",
+    "case_against": "Contribution limits exist to stop big donors from buying favors. Congress set them in 1974 in response to the Watergate scandal, and the Supreme Court has generally upheld them as a way to prevent quid pro quo corruption, a direct exchange of money for official acts. Raising them much higher would let the wealthiest donors give far more directly to candidates, giving them more access and influence than ordinary voters. The Court already struck down limits on party spending coordinated with candidates in June 2026.",
+    "harms": [
+      {"who": "Ordinary voters and small donors", "what": "Would have less relative influence as large donors give more directly to candidates."},
+      {"who": "The public", "what": "Faces greater risk that officials favor big donors in their decisions."}
+    ],
+    "history": [
+      {"when": "1972-1974, Watergate", "what": "After the Watergate scandal, Congress substantially amended the Federal Election Campaign Act in 1974, setting limits on contributions and creating the Federal Election Commission. In Buckley v. Valeo (1976), the Supreme Court upheld contribution limits while striking down spending limits.", "lesson": "Limits were a direct response to a corruption scandal. Raising them sharply weakens a safeguard born from that experience."}
+    ],
+    "sources": [
+      {"label": "Campaign Finance Law: An Analysis of Key Issues (R45320)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R45320.html"},
+      {"label": "NRSC v. FEC (opinion)", "publisher": "Supreme Court of the United States", "type": "court", "url": "https://www.supremecourt.gov/opinions/25pdf/609us2r67_g3bi.pdf"}
+    ],
+    "as_of": "2026-10-27"
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "id": "ch17-001",
+    "case_against": "Having political appointees comb through every major FBI case and shut down those 'contrary to the national interest' invites a president to end investigations of allies and protect friends. 'National interest' is not a legal standard, so the test can easily become political. Independent investigations are meant to protect against exactly that kind of interference.",
+    "harms": [
+      {
+        "who": "Crime victims and witnesses",
+        "what": "Cases could be dropped for political reasons rather than on the evidence."
+      },
+      {
+        "who": "FBI agents and prosecutors",
+        "what": "Knowing their work can be ended by political review may discourage them from pursuing powerful targets."
+      }
+    ],
+    "history": [
+      {
+        "when": "1975 to 1976, United States",
+        "what": "The Senate's Church Committee investigated U.S. intelligence agencies and found a wide range of abuses, including the FBI's COINTELPRO program, which for years tried to disrupt and discredit civil rights and anti-war groups.",
+        "lesson": "When the FBI's work was steered by political goals instead of the law, it was turned against Americans. Guardrails on political control of investigations grew out of those findings."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Executive Order 14147: Ending the Weaponization of the Federal Government",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01900/ending-the-weaponization-of-the-federal-government"
+      },
+      {
+        "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (The Church Committee)",
+        "publisher": "U.S. Senate",
+        "type": "government",
+        "url": "https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch17-003",
+    "case_against": "Before the 2020 election and 2022 midterms, the FBI talked with social media companies about election-related false information, including efforts by foreign governments. A broad ban on this work would leave platforms without warnings about foreign influence campaigns. When challengers argued in Murthy v. Missouri that such contacts were censorship, the Supreme Court in 2024 ruled they had not shown standing to sue.",
+    "harms": [
+      {
+        "who": "Voters",
+        "what": "Foreign influence campaigns could spread more easily if the FBI stops flagging them to platforms."
+      },
+      {
+        "who": "State and local election officials",
+        "what": "They rely on federal partners to warn about false claims about when and how to vote."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Murthy v. Missouri (2024)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/23pdf/23-411_3dq3.pdf"
+      },
+      {
+        "label": "Executive Order 14149: Restoring Freedom of Speech and Ending Federal Censorship",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01902/restoring-freedom-of-speech-and-ending-federal-censorship"
+      }
+    ],
+    "recheck": "The claim that FBI contacts included foreign influence efforts is widely reported but the cited court syllabus describes only 'election-related misinformation'; add a direct source.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch17-012",
+    "case_against": "The death penalty cannot be undone if the courts get it wrong, and they do. The Death Penalty Information Center counts at least 203 people sentenced to death in the U.S. since 1973 who were later exonerated, about one for every eight people executed. Pushing for more death sentences and faster executions raises the chance that an innocent person is killed.",
+    "harms": [
+      {
+        "who": "People wrongly convicted",
+        "what": "Faster appeals and more death sentences leave less time to find evidence of innocence."
+      },
+      {
+        "who": "Victims' families",
+        "what": "Long capital cases can keep families in court for decades, and wrongful convictions mean the real offender may go free."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Innocence",
+        "publisher": "Death Penalty Information Center",
+        "type": "advocacy",
+        "url": "https://deathpenaltyinfo.org/policy-issues/innocence"
+      },
+      {
+        "label": "Executive Order 14164: Restoring the Death Penalty and Protecting Public Safety",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02012/restoring-the-death-penalty-and-protecting-public-safety"
+      },
+      {
+        "label": "Certification Process for State Capital Counsel Systems (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05134/certification-process-for-state-capital-counsel-systems"
+      }
+    ],
+    "recheck": "Exoneration counts come from an advocacy group's database; add a government or academic source if possible.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch17-015",
+    "case_against": "Finishing the wall depends on emergency waivers that let DHS set aside 'certain laws, regulations, and other legal requirements' to build faster, as it has done repeatedly since April 2025. That means skipping protections that normally apply to big federal construction projects, such as environmental reviews and public input. CRS has documented years of disputes and unspent money in past wall building, a sign that a wall is a slow and costly answer to cartels.",
+    "harms": [
+      {
+        "who": "Border landowners and communities",
+        "what": "Waivers can cut short the usual reviews and comment periods that let residents raise concerns about construction near their homes."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Money spent on barriers is not available for other border tools, such as port-of-entry screening."
+      }
+    ],
+    "sources": [
+      {
+        "label": "DHS determination under Section 102 of IIRIRA (New Mexico)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20233/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility"
+      },
+      {
+        "label": "DHS Border Barrier Funding Developments: FY2021-FY2024 (R47979)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47979.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch17-016",
+    "case_against": "Using soldiers to arrest people blurs a line Americans have drawn for nearly 150 years. The Posse Comitatus Act of 1878 makes it a crime to use the Army or Air Force to enforce the law unless the Constitution or Congress allows it. Calling border areas 'military zones' to get around that limit has already run into trouble in court, where a judge dismissed trespass charges against migrants caught in a New Mexico zone.",
+    "harms": [
+      {
+        "who": "Migrants and border residents",
+        "what": "They could be detained by soldiers who lack police training in arrests and civil rights."
+      },
+      {
+        "who": "Service members",
+        "what": "Troops pulled into policing face legal risk and are taken away from military training."
+      }
+    ],
+    "history": [
+      {
+        "when": "1878, United States",
+        "what": "Congress passed the Posse Comitatus Act in 1878 after disputes over the Army's role in Southern politics after the Civil War, including claims that troops influenced the contested 1876 Hayes-Tilden election. The law bans using the Army to execute the law unless the Constitution or Congress expressly allows it.",
+        "lesson": "The law's origins are tangled up in Reconstruction politics, but for nearly 150 years it has kept soldiers out of everyday law enforcement. Workarounds like border 'military zones' wear down that line."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Posse Comitatus Act and Related Matters: The Use of the Military to Execute Civilian Law (R42659)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R42659.html"
+      },
+      {
+        "label": "Federal judge dismisses trespass charges against migrants caught in NM military zone",
+        "publisher": "Source NM",
+        "type": "news",
+        "url": "https://sourcenm.com/2025/05/15/federal-judge-dismisses-trespass-charges-against-migrants-caught-in-nm-military-zone/"
+      },
+      {
+        "label": "Justice Department expands military's power to detain migrants accused of trespassing (CBS News)",
+        "publisher": "KWTX (CBS News)",
+        "type": "news",
+        "url": "https://www.kwtx.com/2026/08/16/justice-department-expands-militarys-power-detain-migrants-accused-trespassing/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch17-019",
+    "case_against": "Planning to end any case 'contrary to Administration policies' treats law enforcement as a tool of the party in power. Laws are passed by Congress and should be enforced evenly, not switched on and off by each new administration. The February 2025 pause on Foreign Corrupt Practices Act cases, for example, signaled to companies that bribing foreign officials might go unpunished.",
+    "harms": [
+      {
+        "who": "Honest businesses",
+        "what": "Pausing anti-bribery enforcement puts companies that follow the law at a disadvantage against those that pay bribes."
+      },
+      {
+        "who": "The public",
+        "what": "Selective enforcement weakens trust that the law applies to everyone the same way."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Executive Order 14209: Pausing FCPA Enforcement",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/14/2025-02736/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security"
+      },
+      {
+        "label": "Executive Order 14147: Ending the Weaponization of the Federal Government",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01900/ending-the-weaponization-of-the-federal-government"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch17-024",
+    "case_against": "Humphrey's Executor let Congress create agencies like the Federal Trade Commission, run by boards whose members could be removed only for good cause, not just for disagreeing with the president. Overturning it, as the Supreme Court did in June 2026, puts those agencies under direct White House control. Decisions about competition, labor disputes and other matters can then shift with each election and be bent toward the president's allies.",
+    "harms": [
+      {
+        "who": "Consumers and workers",
+        "what": "Agencies that police unfair business practices and labor disputes could be steered by politics instead of evidence."
+      },
+      {
+        "who": "Businesses",
+        "what": "Rules and enforcement that change with each president make long-term planning harder."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Supreme Court overrules Humphrey's Executor",
+        "publisher": "Venable",
+        "type": "law-firm",
+        "url": "https://www.venable.com/insights/publications/2026/06/supreme-court-overrules-humphreys-executor"
+      },
+      {
+        "label": "Supreme Court decides Trump v. Slaughter",
+        "publisher": "Faegre Drinker",
+        "type": "law-firm",
+        "url": "https://www.faegredrinker.com/en/insights/publications/2026/6/supreme-court-decides-trump-v-slaughter"
+      },
+      {
+        "label": "The President's Removal Power: The Constitutional Convention and the First Congress (R48999)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48999.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch17-025",
+    "case_against": "Civil rights laws already ban illegal discrimination. A government-wide campaign against 'DEI' goes further, threatening schools, employers and grantees over programs that may be lawful. CRS reports that some organizations say the uncertainty is having a 'chilling effect' on lawful practices, and federal courts have blocked some DEI-related funding conditions, finding agencies pointed to no law allowing them.",
+    "harms": [
+      {
+        "who": "Women and people of color",
+        "what": "Lawful mentoring, recruiting and outreach programs that help them may be dropped out of fear."
+      },
+      {
+        "who": "Schools, nonprofits and contractors",
+        "what": "Vague rules about what counts as illegal DEI expose them to legal risk and loss of federal money."
+      }
+    ],
+    "sources": [
+      {
+        "label": "False Claims Act Enforcement Involving Diversity, Equity, and Inclusion Programs (LSB11410)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11410.html"
+      },
+      {
+        "label": "Executive Order 14173: Ending Illegal Discrimination and Restoring Merit-Based Opportunity",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02097/ending-illegal-discrimination-and-restoring-merit-based-opportunity"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch17-026",
+    "case_against": "Turning the Civil Rights Division into a force to prosecute colleges, companies and local governments over diversity programs flips its historic job of protecting minorities from discrimination. DOJ now uses the False Claims Act, a fraud law with heavy penalties, against fund recipients. CRS notes that uncertainty about which practices could trigger liability may chill lawful activity, and courts have blocked some related funding conditions.",
+    "harms": [
+      {
+        "who": "Colleges and nonprofits that receive federal funds",
+        "what": "The threat of fraud penalties may push them to end lawful programs rather than risk a lawsuit."
+      },
+      {
+        "who": "Victims of traditional discrimination",
+        "what": "Shifting staff and attention could leave fewer resources for cases like housing, voting and police misconduct."
+      }
+    ],
+    "sources": [
+      {
+        "label": "False Claims Act Enforcement Involving Diversity, Equity, and Inclusion Programs (LSB11410)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11410.html"
+      },
+      {
+        "label": "Justice Department Establishes Civil Rights Fraud Initiative",
+        "publisher": "U.S. Department of Justice",
+        "type": "government",
+        "url": "https://www.justice.gov/opa/pr/justice-department-establishes-civil-rights-fraud-initiative"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch17-027",
+    "case_against": "Enforcing the 1873 Comstock Act against people who mail abortion pills would revive a law that has not been used to prosecute mailing abortion materials in about 50 years. The Justice Department's own legal office concluded in 2022 that the law does not bar mailing these drugs without intent that they be used illegally. KFF notes a literal reading could reach supplies used for all abortion care and some miscarriage care, effectively creating a national ban without a vote in Congress.",
+    "harms": [
+      {
+        "who": "Patients in every state, including where abortion is legal",
+        "what": "Mail-order and pharmacy access to FDA-approved drugs could be cut off nationwide."
+      },
+      {
+        "who": "Doctors, pharmacists and shipping companies",
+        "what": "They could face federal criminal charges for sending legal medicine."
+      }
+    ],
+    "history": [
+      {
+        "when": "1873 to 1971, United States",
+        "what": "The Comstock Act banned mailing anything meant to prevent pregnancy or cause an abortion. Courts narrowed it for contraception in the 1930s, and Congress removed the contraception language in 1971 after the Supreme Court's 1965 Griswold ruling.",
+        "lesson": "The law's ban on birth control came to be seen as an overreach and was dropped. Reviving its long-unused abortion language would apply a 19th-century rule to modern medicine."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Application of the Comstock Act to the Mailing of Prescription Drugs That Can Be Used for Abortions",
+        "publisher": "U.S. Department of Justice, Office of Legal Counsel",
+        "type": "government",
+        "url": "https://www.justice.gov/olc/opinion/application-comstock-act-mailing-prescription-drugs-can-be-used-abortions"
+      },
+      {
+        "label": "The Comstock Act: Implications for Abortion Care Nationwide",
+        "publisher": "KFF",
+        "type": "academic",
+        "url": "https://www.kff.org/womens-health-policy/issue-brief/the-comstock-act-implications-for-abortion-care-nationwide/"
+      },
+      {
+        "label": "Anti-abortion groups urge attorney general to halt mailing of abortion pills",
+        "publisher": "Stateline",
+        "type": "news",
+        "url": "https://stateline.org/2026/08/10/anti-abortion-groups-urge-attorney-general-to-halt-mailing-of-abortion-pills/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch17-036",
+    "case_against": "Reissuing 'every' Trump-era immigration rule would bring back rules regardless of how they worked or whether courts struck them down, rather than judging each on its merits. Recent changes already make it harder to get a fair hearing: the Board of Immigration Appeals was cut to 15 members, and in February 2026 its review of appeals became discretionary. People facing deportation, including asylum seekers fleeing danger, could lose their chance to have a mistake corrected.",
+    "harms": [
+      {
+        "who": "Asylum seekers",
+        "what": "Stricter bars and less appeal review raise the risk of being sent back to danger by mistake."
+      },
+      {
+        "who": "Immigrants with long ties to the U.S.",
+        "what": "Fewer chances to appeal mean errors by immigration judges are less likely to be caught."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Appellate Procedures for the Board of Immigration Appeals",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/06/2026-02326/appellate-procedures-for-the-board-of-immigration-appeals"
+      },
+      {
+        "label": "Reducing the Size of the Board of Immigration Appeals",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/04/14/2025-06294/reducing-the-size-of-the-board-of-immigration-appeals"
+      },
+      {
+        "label": "Security Bars and Processing; Confirmation of Effective Date; Partial Withdrawal",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/30/2025-23970/security-bars-and-processing-confirmation-of-effective-date-partial-withdrawal"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

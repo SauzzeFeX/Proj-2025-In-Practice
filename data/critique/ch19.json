@@ -1,0 +1,61 @@
+[
+  {
+    "id": "ch19-011",
+    "case_against": "Weaker fuel economy rules mean new cars and trucks burn more gas over their lives. The Transportation Department's own final rule says its chosen option increases fuel use by about 204 billion gallons of gasoline-equivalent through 2050, compared with keeping the old standards. Commenters, including clean-air agencies and the U.S. Conference of Catholic Bishops, warned that lower sticker prices would be more than offset by higher fuel bills, which hit lower-income families hardest. The agency calls the increase marginal compared with total fuel use.",
+    "harms": [
+      {"who": "Drivers, especially lower-income households", "what": "Would likely spend more on gas over the life of a vehicle, since new vehicles would be less efficient."},
+      {"who": "People living near busy roads", "what": "Burning more fuel adds air pollution, which commenters on the rule said would harm public health."}
+    ],
+    "sources": [
+      {"label": "The SAFE Vehicles Rule III for Model Years 2022 to 2031 (final rule)", "publisher": "Federal Register", "type": "government", "url": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger"},
+      {"label": "Corporate Average Fuel Economy Standards (R49361)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R49361.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-012",
+    "case_against": "Putting fuel economy rules ahead of Clean Air Act limits has, in practice, meant removing the federal limits on climate pollution from cars and trucks. EPA repealed those standards in 2026 along with the 2009 finding that greenhouse gases endanger public health. The United States is the world's second-largest emitter of greenhouse gases, so dropping vehicle limits makes it harder to slow climate change. Health and environmental groups have sued.",
+    "harms": [
+      {"who": "Communities facing heat, floods and wildfires", "what": "Would likely face greater climate risks as vehicle emissions stay higher."},
+      {"who": "Future generations", "what": "Inherit the long-term costs of more greenhouse gas in the air."}
+    ],
+    "sources": [
+      {"label": "EPA rescinds 2009 endangerment finding, eliminates federal vehicle GHG standards", "publisher": "Morgan Lewis", "type": "law-firm", "url": "https://www.morganlewis.com/pubs/2026/02/epa-rescinds-2009-endangerment-finding-eliminates-federal-vehicle-greenhouse-gas-standards"},
+      {"label": "Groups sue Trump's EPA over repeal", "publisher": "PBS NewsHour", "type": "news", "url": "https://www.pbs.org/newshour/amp/politics/groups-sue-trumps-epa-over-repeal-of-rule-that-supported-climate-protections"},
+      {"label": "U.S. Withdrawal from the Paris Agreement: Process and Potential Effects (R48504)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R48504.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-013",
+    "case_against": "California was regulating car pollution before the federal Clean Air Act existed, and Congress chose to let it keep setting tougher rules. Seventeen other states and Washington, D.C. have adopted some of California's standards, and together these states made up about 40 percent of new car registrations in 2023. Revoking the waivers takes away a tool these states used to fight smog and climate pollution. A federal judge blocked a 2026 attempt to revoke four more waivers.",
+    "harms": [
+      {"who": "People in California and states that follow its rules", "what": "Could breathe dirtier air if tougher state car standards are thrown out."},
+      {"who": "States", "what": "Lose a long-standing power Congress gave them to protect their own residents' health."}
+    ],
+    "history": [
+      {"when": "1960s, California", "what": "California set its own vehicle emission standards before Congress passed the federal air law. When Congress took over car standards in 1967, it made an exception so California could keep stricter rules, and in 1990 it let other states adopt them.", "lesson": "For nearly 60 years, Congress let states with the worst air go further. Revoking the waivers reverses that long, bipartisan choice."}
+    ],
+    "sources": [
+      {"label": "California and the Clean Air Act (CAA) Waiver: Frequently Asked Questions (R48168)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R48168.html"},
+      {"label": "Judge bars EPA effort to send California vehicle emissions rules to Congress", "publisher": "Insurance Journal", "type": "news", "url": "https://amp.insurancejournal.com/news/west/2026/09/03/883831.htm"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch19-038",
+    "case_against": "Ending federal transit funding would put the full cost of buses and trains on cities and states, many of which could not make up the gap. Before federal help began in 1964, many private transit companies were sinking into debt as riders fell, and cities had to take them over. Most transit trips are on buses, which serve many people who cannot drive or cannot afford a car.",
+    "harms": [
+      {"who": "Bus and train riders who do not drive", "what": "Could face fewer routes, longer waits or higher fares, making it harder to reach jobs, school and doctors."},
+      {"who": "Seniors and people with disabilities", "what": "Rely on federally supported transit and paratransit services that could shrink."}
+    ],
+    "history": [
+      {"when": "1945-1964, U.S. cities", "what": "After World War II, transit ridership fell and many private transit companies piled up debt. Many were turned into public agencies, and Congress began federal transit aid with the Urban Mass Transportation Act of 1964.", "lesson": "Transit has rarely paid for itself. Federal aid came after the private model failed, so removing it risks repeating that decline."}
+    ],
+    "sources": [
+      {"label": "Federal Public Transportation Program: In Brief (R47002)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R47002.html"},
+      {"label": "DOT Secretary Duffy reiterates surface transportation reauthorization priorities", "publisher": "Holland & Knight", "type": "law-firm", "url": "https://www.hklaw.com/en/insights/publications/2026/07/dot-secretary-duffy-reiterates-surface-transportation-reauthorization"}
+    ],
+    "as_of": "2026-10-27"
+  }
+]

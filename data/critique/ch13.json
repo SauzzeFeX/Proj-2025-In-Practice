@@ -1,0 +1,169 @@
+[
+  {
+    "id": "ch13-013",
+    "case_against": "Pausing and redoing EPA rules in bulk throws out protections that EPA's own studies found save lives and money. EPA's long-running review of the Clean Air Act found that the 1990 amendments alone would prevent more than 230,000 early deaths in 2020, with benefits more than 30 times the costs. Rolling back power plant, vehicle and water rules all at once puts those gains at risk, and leaves companies and states unsure which rules will apply next year.",
+    "harms": [
+      {"who": "People with asthma, heart disease or lung disease", "what": "Weaker air rules would likely mean more of the soot and smog that EPA has linked to hospital visits and early deaths."},
+      {"who": "Families living near power plants and highways", "what": "They breathe the most pollution, so they lose the most when limits are paused or loosened."},
+      {"who": "Businesses that already invested in cleaner equipment", "what": "Rules that flip with each administration make long-term planning harder."}
+    ],
+    "history": [
+      {"when": "October 1948, Donora, Pennsylvania", "what": "Air pollution trapped over the mill town of Donora contributed to the deaths of 19 people within 24 hours, and about 500 residents became ill. At the time there was no federal air pollution law.", "lesson": "Federal air rules grew out of disasters like Donora. Today's rollbacks are far smaller than a return to 1948, but they move in the direction of fewer limits rather than more."}
+    ],
+    "sources": [
+      {"label": "Benefits and Costs of the Clean Air Act 1990-2020, the Second Prospective Study", "publisher": "U.S. Environmental Protection Agency", "type": "government", "url": "https://www.epa.gov/clean-air-act-overview/benefits-and-costs-clean-air-act-1990-2020-second-prospective-study"},
+      {"label": "EPA Announces 31 Sweeping Regulatory Reforms", "publisher": "McGuireWoods", "type": "law-firm", "url": "https://www.mcguirewoods.com/client-resources/alerts/2025/3/epa-announces-31-sweeping-regulatory-reforms/"},
+      {"label": "The Donora Smog Disaster, October 30-31, 1948", "publisher": "Pennsylvania Historical and Museum Commission", "type": "government", "url": "https://www.phmc.state.pa.us/portal/communities/documents/1946-1979/donora-smog-disaster.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch13-017",
+    "case_against": "Cutting EPA in half and stopping any work without 'clear and current' approval from Congress would gut the agency that checks polluters. Congress itself refused the deep cut: the President asked for $4.16 billion for 2026, and Congress passed $8.82 billion. EPA still planned to shrink its staff by about a quarter, from about 16,155 to 12,448 workers. Fewer inspectors and scientists would likely mean slower permits, fewer inspections and less information for the public about what is in their air and water.",
+    "harms": [
+      {"who": "Communities near factories, landfills and Superfund sites", "what": "Fewer EPA staff would likely mean fewer inspections and slower cleanups where pollution is worst."},
+      {"who": "State and local environmental agencies", "what": "They rely on EPA grants, data and science, and would have to fill gaps with their own money or go without."},
+      {"who": "Businesses waiting on permits", "what": "Staff cuts can slow the reviews that companies need before they build or expand."}
+    ],
+    "sources": [
+      {"label": "U.S. Environmental Protection Agency FY2026 Appropriations (IF13191)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF13191.html"},
+      {"label": "EPA Announces Workforce Cuts, $748M in Projected Savings", "publisher": "Occupational Health & Safety", "type": "news", "url": "https://eponline.com/articles/2025/07/18/epa-announces-workforce-cuts-748m-in-projected-savings.aspx"},
+      {"label": "Benefits and Costs of the Clean Air Act 1990-2020, the Second Prospective Study", "publisher": "U.S. Environmental Protection Agency", "type": "government", "url": "https://www.epa.gov/clean-air-act-overview/benefits-and-costs-clean-air-act-1990-2020-second-prospective-study"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch13-018",
+    "case_against": "Changing the math behind rules can make real health benefits disappear on paper. In January 2026, EPA said it would stop putting a dollar value on the health benefits of cutting fine particles and ozone in some air rules, even though EPA's own Clean Air Act study found that the 1990 amendments would prevent more than 230,000 early deaths in 2020 alone. If the biggest benefits are left out, almost any pollution limit can be made to look too costly.",
+    "harms": [
+      {"who": "Children, older adults and people with lung or heart disease", "what": "They gain the most from cleaner air, and their health gains would no longer be counted in dollars when rules are weighed."},
+      {"who": "The public and lawmakers", "what": "Cost-benefit reviews that leave out major benefits give a skewed picture of what a rule does."}
+    ],
+    "sources": [
+      {"label": "EPA says it will stop calculating the economic savings to health in key air pollution rules (AP)", "publisher": "Bangor Daily News (Associated Press)", "type": "news", "url": "https://www.bangordailynews.com/2026/01/13/nation/epa-says-it-will-stop-calculating-the-economic-savings-to-health-in-key-air-pollution-rules/"},
+      {"label": "Benefits and Costs of the Clean Air Act 1990-2020, the Second Prospective Study", "publisher": "U.S. Environmental Protection Agency", "type": "government", "url": "https://www.epa.gov/clean-air-act-overview/benefits-and-costs-clean-air-act-1990-2020-second-prospective-study"},
+      {"label": "M-25-27 Guidance Implementing Section 6 of Executive Order 14154", "publisher": "White House Office of Management and Budget", "type": "government", "url": "https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-27-Guidance-Implementing-Section-6-of-Executive-Order-14154-Entitled-Unleashing-American-Energy.pdf"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch13-034",
+    "case_against": "Air quality standards set the most basic limit on how much soot, smog and lead people should breathe. The law now asks EPA to set them based on science about health, and to review them regularly. Moving that job to Congress would likely make the limits depend on votes and lobbying instead, and could leave outdated standards in place for years because Congress often struggles to act at all.",
+    "harms": [
+      {"who": "People in areas with dirty air", "what": "Standards could fall behind new science on how pollution harms health if updates required an act of Congress."},
+      {"who": "Children and older adults", "what": "They are most sensitive to air pollution and depend most on limits that keep up with health research."}
+    ],
+    "history": [
+      {"when": "October 1948, Donora, Pennsylvania", "what": "A pollution-filled fog in Donora contributed to 19 deaths in one day and sickened about 500 people. Congress did not pass the modern Clean Air Act until 1970.", "lesson": "Leaving air protection to slow political action has a real human cost. The national standards were created so that health science, not politics, sets the limit."}
+    ],
+    "sources": [
+      {"label": "National Ambient Air Quality Standards and Selected Issues for Congress (R49350)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R49350.html"},
+      {"label": "The Donora Smog Disaster, October 30-31, 1948", "publisher": "Pennsylvania Historical and Museum Commission", "type": "government", "url": "https://www.phmc.state.pa.us/portal/communities/documents/1946-1979/donora-smog-disaster.html"},
+      {"label": "Smog Deaths In 1948 Led To Clean Air Laws", "publisher": "NPR", "type": "news", "url": "https://www.npr.org/2009/04/22/103359330/smog-deaths-in-1948-led-to-clean-air-laws"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch13-036",
+    "case_against": "The 2009 endangerment finding is EPA's official conclusion that greenhouse gases threaten public health, through heat, worse air, disease spread and extreme weather. The Supreme Court ruled in 2007 that these gases count as air pollutants EPA can regulate. Repealing the finding removes the legal base for limiting them. The Congressional Research Service notes that EPA's 2024 analyses found the vehicle rules would deliver net benefits, including health benefits from less soot, while the 2026 repeal analysis left out health effects of those other pollutants.",
+    "harms": [
+      {"who": "People in places hit by heat waves, floods and wildfires", "what": "Without limits on greenhouse gases, the risks EPA described in 2009 would likely grow."},
+      {"who": "People living near busy roads", "what": "Vehicle rules also cut soot and smog; losing them would likely mean dirtier air near traffic."},
+      {"who": "States and cities", "what": "Two dozen states and 10 cities sued, saying they will bear the costs of climate damage."}
+    ],
+    "sources": [
+      {"label": "Clean Air Act: EPA's Greenhouse Gas Endangerment Finding and Repeal (R49024)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R49024.html"},
+      {"label": "Rescission of the Greenhouse Gas Endangerment Finding and Motor Vehicle Greenhouse Gas Emission Standards", "publisher": "Federal Register", "type": "government", "url": "https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission"},
+      {"label": "Two dozen states, 10 cities sue EPA over repeal of 'endangerment' finding (AP)", "publisher": "WILX (Associated Press)", "type": "news", "url": "https://www.wilx.com/2026/03/20/two-dozen-states-10-cities-sue-epa-over-repeal-endangerment-finding-central-climate-fight/"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch13-040",
+    "case_against": "Handing car climate rules to the Department of Transportation means using a fuel economy law built to save fuel, not to protect health. After EPA dropped its vehicle greenhouse gas standards, DOT's new fuel economy rule set a lower target of about 34.9 mpg by 2031. EPA's 2024 analyses found its vehicle rules would bring net benefits, including health benefits from cutting soot and smog. Shifting the job to DOT lets those health gains drop out of the picture.",
+    "harms": [
+      {"who": "Drivers", "what": "Looser efficiency rules would likely mean higher fuel spending over the life of a car."},
+      {"who": "People living near highways", "what": "Weaker vehicle rules would likely mean more tailpipe pollution in their neighborhoods."}
+    ],
+    "sources": [
+      {"label": "Clean Air Act: EPA's Greenhouse Gas Endangerment Finding and Repeal (R49024)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R49024.html"},
+      {"label": "Corporate Average Fuel Economy Standards / Greenhouse Gas Standards (tracker)", "publisher": "Harvard Environmental & Energy Law Program", "type": "academic", "url": "https://eelp.law.harvard.edu/tracker/corporate-average-fuel-economy-standards-greenhouse-gas-standards/"},
+      {"label": "CAFE standards for model years 2022-2031, final rule (pre-publication)", "publisher": "National Highway Traffic Safety Administration", "type": "government", "url": "https://www.nhtsa.gov/sites/nhtsa.gov/files/2026-09/CAFE%20SAFE%20MY%202022-2031%20Final%20FRN.pdf"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch13-042",
+    "case_against": "For decades the Clean Air Act has let California set tougher car pollution limits with EPA's approval, and other states can adopt them. Canceling those waivers takes away states' power to protect their own residents. Eleven states sued over the canceled waivers, and in September 2026 a federal judge blocked EPA's attempt to treat four older waivers the same way.",
+    "harms": [
+      {"who": "Residents of California and states that adopted its rules", "what": "They lose stronger car pollution limits their own governments chose."},
+      {"who": "Companies that planned for cleaner cars", "what": "Sudden reversals make it harder to plan investments in new vehicles and charging."}
+    ],
+    "sources": [
+      {"label": "Clearing the Air: California and EPA Clash Over Reclassified Waivers", "publisher": "Jones Day", "type": "law-firm", "url": "https://www.jonesday.com/en/insights/2026/09/clearing-the-air-california-and-epa-clash-over-reclassified-waivers"},
+      {"label": "Eleven AGs Sued the Federal Government for California Clean Vehicle Program Repeal", "publisher": "State Energy & Environmental Impact Center", "type": "advocacy", "url": "https://stateimpactcenter.org/ag-work/ag-actions/eleven-ags-sued-the-federal-government-for-california-clean-vehicle-program-repeal"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch13-059",
+    "case_against": "A narrow definition of which waters the Clean Water Act covers would leave many streams and wetlands without federal protection. The September 2026 proposal would generally require year-round flow, which would exclude streams that run only part of the year. Seasonal streams and wetlands flow into larger rivers and lakes, so pollution put into them does not stay put.",
+    "harms": [
+      {"who": "Communities that get drinking water from rivers and lakes", "what": "Pollution dumped into unprotected streams and wetlands can flow downstream into their water supply."},
+      {"who": "Homeowners in flood-prone areas", "what": "Losing wetlands that soak up storm water could raise flood risk."},
+      {"who": "Hunters, anglers and outdoor businesses", "what": "Wetlands and seasonal streams support the fish and birds they depend on."}
+    ],
+    "history": [
+      {"when": "June 22, 1969, Cleveland, Ohio", "what": "The Cuyahoga River, polluted by industrial waste, caught fire. It was at least the 13th fire on the river. The National Park Service says the fire helped lead to the creation of EPA and the passage of the Clean Water Act in 1972.", "lesson": "Before broad federal protection, states and cities let rivers become dumping grounds. Narrowing protection is not the same as repealing the law, but it moves some waters back toward that older, weaker system."}
+    ],
+    "sources": [
+      {"label": "Waters of the United States (WOTUS): Frequently Asked Questions (R47408)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R47408.html"},
+      {"label": "Federal Agencies Propose Additional Revisions to the Definition of Waters of the United States", "publisher": "Bracewell", "type": "law-firm", "url": "https://www.bracewell.com/resources/federal-agencies-propose-additional-revisions-to-the-definition-of-waters-of-the-united-states/"},
+      {"label": "Cuyahoga National Heritage River", "publisher": "National Park Service", "type": "government", "url": "https://home.nps.gov/articles/000/cuyahoga-national-heritage-river.htm"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch13-075",
+    "case_against": "PFAS are 'forever chemicals' that stay in the environment, and EPA says exposure to certain levels may cause harmful health effects. Listing the two most studied PFAS under the Superfund law lets the government make polluters pay for cleanup. Undoing the listing would shift those costs to taxpayers and water customers. EPA itself decided to keep the listing in 2025, and a federal appeals court upheld it in 2026.",
+    "harms": [
+      {"who": "Families near military bases, airports and factories", "what": "These are common PFAS sites; without the listing, cleanup could be slower or never happen."},
+      {"who": "Water customers", "what": "If polluters do not pay, local utilities and their customers would likely pay to remove PFAS."}
+    ],
+    "sources": [
+      {"label": "Our Current Understanding of the Human Health and Environmental Risks of PFAS", "publisher": "U.S. Environmental Protection Agency", "type": "government", "url": "https://www.epa.gov/pfas/our-current-understanding-human-health-and-environmental-risks-pfas"},
+      {"label": "Trump EPA Announces Next Steps on Regulatory PFOA and PFOS Cleanup Efforts", "publisher": "U.S. Environmental Protection Agency", "type": "government", "url": "https://www.epa.gov/newsreleases/trump-epa-announces-next-steps-regulatory-pfoa-and-pfos-cleanup-efforts-provides"},
+      {"label": "D.C. Circuit Upholds EPA Designation of PFOA and PFOS Under CERCLA", "publisher": "Jones Day", "type": "law-firm", "url": "https://www.jonesday.com/en/insights/2026/08/dc-circuit-upholds-epa-designation-of-pfoa-and-pfos-under-cercla"},
+      {"label": "Environmental Remediation of Per- and Polyfluoroalkyl Substances (PFAS) (R49479)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R49479.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch13-103",
+    "case_against": "The social cost of carbon is a way to count the damage from climate change, like crop losses, flooding and heat deaths, when weighing a rule. Dropping it does not make the damage go away; it just counts it as zero. The National Academies of Sciences recommended in 2017 that the estimate be improved, not abandoned. Without it, rules that cut greenhouse gases will look less worthwhile than they are.",
+    "harms": [
+      {"who": "Farmers, coastal homeowners and outdoor workers", "what": "Climate damage to crops, property and health would be left out when the government weighs new rules."},
+      {"who": "Future generations", "what": "Long-term harms fall mostly on people not yet born, who have no voice in today's cost-benefit math."}
+    ],
+    "sources": [
+      {"label": "Social Cost of Greenhouse Gases: Background and Recent Developments (IF12916)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF12916.html"},
+      {"label": "M-25-27 Guidance Implementing Section 6 of Executive Order 14154", "publisher": "White House Office of Management and Budget", "type": "government", "url": "https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-27-Guidance-Implementing-Section-6-of-Executive-Order-14154-Entitled-Unleashing-American-Energy.pdf"},
+      {"label": "EPA leaves social cost of carbon on the cutting-room floor", "publisher": "E&E News", "type": "news", "url": "https://www.eenews.net/articles/epa-leaves-social-cost-of-carbon-on-the-cutting-room-floor"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch13-109",
+    "case_against": "EPA's Office of Research and Development and its IRIS program give the government one shared, peer-reviewed estimate of how toxic a chemical is. Closing the research office and pushing risk work out to separate program offices could lead to slower, less consistent answers. IRIS has real problems: GAO found in 2021 that its assessments were not timely, and one took 17 years. But GAO also found EPA had not identified the resources IRIS needed, which points to fixing and funding the program rather than taking it apart.",
+    "harms": [
+      {"who": "Communities exposed to toxic chemicals", "what": "Without shared toxicity values, cleanup and safety limits may be weaker or take longer to set."},
+      {"who": "EPA program offices and the public", "what": "Separate offices doing their own risk estimates could reach different answers for the same chemical, making rules harder to trust."}
+    ],
+    "sources": [
+      {"label": "EPA's Integrated Risk Information System (IRIS): Toxicity Assessment of Chemicals (IF11680)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF11680.html"},
+      {"label": "EPA Moves to Dismantle the IRIS Centralized Chemical Risk Assessment", "publisher": "Holland & Knight", "type": "law-firm", "url": "https://www.hklaw.com/en/insights/publications/2026/06/epa-moves-to-dismantle-the-iris-centralized-chemical-risk-assessment"},
+      {"label": "EPA directed a shift away from using IRIS values (tracker)", "publisher": "Harvard Environmental & Energy Law Program", "type": "academic", "url": "https://eelp.law.harvard.edu/tracker/epa-directed-a-shift-away-from-using-iris-values/"}
+    ],
+    "as_of": "2026-10-27"
+  }
+]

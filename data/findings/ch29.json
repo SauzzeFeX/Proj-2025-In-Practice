@@ -1,0 +1,284 @@
+[
+  {
+    "id": "ch29-003",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No presidential directive telling the Justice Department to prosecute only clear campaign finance violations was found. In 2025 the department cut the staff of its Public Integrity Section, which handles election crimes, and said it was reviewing parts of the Justice Manual, but no new campaign finance charging policy was announced.",
+    "closeness": "No matching action found. Staff cuts and a manual review are different from a directive on how to read campaign finance law.",
+    "uncertain": "Checked the Federal Register for presidential documents and ran a web search; internal Justice Department guidance may not be public. Newest source is mid-2025.",
+    "sources": [
+      {
+        "label": "Justice Department office that prosecutes public corruption slashed in size, sources say",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcnews.com/politics/justice-department/justice-department-office-prosecutes-public-corruption-slashed-size-so-rcna195928"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch29-004",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No Justice Department policy barring campaign finance prosecutions based on readings the FEC does not share was found.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked the Federal Register and ran a web search on 2025-2026 Justice Department election crimes policy; reports described a review of Justice Manual sections but no final change tying prosecutions to FEC views. Internal guidance may not be public.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch29-005",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No instruction telling the Justice Department to consult official FEC interpretations, such as advisory opinions and past enforcement actions, before prosecuting was found. The Justice Manual's campaign-finance section does not mention FEC rulings, and since June 2025 its separate requirement to consult the Public Integrity Section before such cases has been suspended \"while revisions are ongoing.\"",
+    "closeness": "No action matched. The June 2025 suspension concerns internal consultation, not consideration of FEC interpretations. See ch29-003 and ch29-004.",
+    "uncertain": "The revised Justice Manual section had not been posted as of this check, so its final content is unknown. The suspension notice is dated June 2025.",
+    "sources": [
+      {
+        "label": "Justice Manual 9-85.000, Protection of Government Integrity",
+        "publisher": "U.S. Department of Justice",
+        "type": "government",
+        "url": "https://www.justice.gov/jm/jm-9-85000-protection-government-integrity"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch29-007",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law removing the FEC's power to go to court on its own was found among laws enacted through October 2026. A February 18, 2025 executive order (EO 14215) said the President's and Attorney General's legal views bind independent agencies, including the FEC, but it did not take away the FEC's litigating authority. A Democratic Party lawsuit against the order's effect on the FEC was dismissed on June 3, 2025 for lack of standing.",
+    "closeness": "No matching action found. The 2025 order increases presidential control over the FEC's legal positions, which is related but different.",
+    "uncertain": "A web search found no 2025-2026 bill or presidential request to end the FEC's independent litigating authority.",
+    "sources": [
+      {
+        "label": "District court issues opinion and order in DNC v. Trump (June 2025)",
+        "publisher": "Federal Election Commission",
+        "type": "government",
+        "url": "https://www.fec.gov/updates/district-court-issues-opinion-and-order-in-democratic-national-committee-et-al-v-donald-j-trump-et-al-case-no-25-587"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch29-009",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The FEC lost its four-member quorum on April 30, 2025. On February 11, 2026, President Trump nominated two Republicans, Ashley Stow and Andrew Woodson, to the commission; they had not been confirmed as of October 2026, when the FEC listed only two sitting commissioners. No law ending or limiting how long commissioners may serve after their terms expire has passed.",
+    "key_dates": [
+      {
+        "date": "2025-04-30",
+        "event": "FEC loses its policymaking quorum"
+      },
+      {
+        "date": "2026-02-11",
+        "event": "President nominates two FEC commissioners"
+      }
+    ],
+    "closeness": "The President did nominate replacements, but about nine months after the quorum was lost, and the nominees are not yet confirmed. The other half of the recommendation, a law limiting holdover service, has not happened.",
+    "uncertain": "Whether the Senate Rules Committee has acted on the nominations was not confirmed; the newest news found is from March 2026. Checked the list of laws enacted through October 2026, the FEC's leadership page and a March 2026 CRS report.",
+    "sources": [
+      {
+        "label": "Leadership and structure",
+        "publisher": "Federal Election Commission",
+        "type": "government",
+        "url": "https://www.fec.gov/about/leadership-and-structure/"
+      },
+      {
+        "label": "Federal Election Commission: Membership and Policymaking Quorum, In Brief (R45160, March 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-03-02_R45160_e64878f666318626489a9bbc59380f35ba6972bd.html"
+      },
+      {
+        "label": "Trump nominates two Republicans to FEC, paving path to end monthslong 'shutdown'",
+        "publisher": "NOTUS",
+        "type": "news",
+        "url": "https://www.notus.org/money/federal-election-commission-donald-trump-commissioner-nomination-quorum"
+      }
+    ],
+    "as_of": "2026-10-28",
+    "recheck": "Check the Senate Rules Committee for action on the Stow and Woodson FEC nominations."
+  },
+  {
+    "id": "ch29-010",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law changing the FEC from six commissioners to an odd number was passed through October 2026, so there was no such change to oppose.",
+    "closeness": "The FEC kept its six-seat structure, which is what the chapter wanted, but no specific action by the President on this was found.",
+    "uncertain": "Whether bills to change the FEC's size were introduced in 2025-2026 was not checked.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch29-011",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On June 30, 2026, the Supreme Court ruled in NRSC v. FEC that federal limits on how much political parties can spend in coordination with their candidates violate the First Amendment.",
+    "key_dates": [
+      {
+        "date": "2026-06-30",
+        "event": "Supreme Court decides NRSC v. FEC"
+      }
+    ],
+    "legal": "Supreme Court final ruling in NRSC v. FEC (June 30, 2026) struck down the coordinated party expenditure limits.",
+    "closeness": "The limits the chapter wanted loosened were removed, through a court ruling rather than a new law or FEC rule. Same ruling as ch29-012.",
+    "uncertain": "How the FEC has applied the ruling since June 2026 was not checked.",
+    "sources": [
+      {
+        "label": "NRSC v. FEC (opinion)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/25pdf/609us2r67_g3bi.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch29-012",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "Congress has not raised contribution limits. On June 30, 2026, the Supreme Court ruled in NRSC v. FEC that federal limits on political party spending coordinated with candidates violate the First Amendment, removing one type of limit on parties.",
+    "key_dates": [
+      {
+        "date": "2026-06-30",
+        "event": "Supreme Court decides NRSC v. FEC (No. 24-621)."
+      }
+    ],
+    "legal": "Supreme Court, NRSC v. FEC, No. 24-621 (June 30, 2026), 6-3. Justice Kavanaugh wrote for the Court, joined by Chief Justice Roberts and Justices Thomas, Alito, Gorsuch, and Barrett; Justice Kagan dissented, joined by Justices Sotomayor and Jackson. The Court held the party coordinated-expenditure limits in 52 U.S.C. 30116(d) violate the First Amendment and overruled its 2001 Colorado II decision.",
+    "closeness": "Partial. The ruling removed limits on party spending coordinated with candidates, which the chapter also criticizes, but limits on contributions to candidates and parties remain in place. The change came from a court, not Congress or the administration.",
+    "uncertain": "How the FEC has put the ruling into practice was not checked. The vote and holding were confirmed from the Court's preliminary print.",
+    "sources": [
+      {
+        "label": "NRSC v. FEC (opinion)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/25pdf/609us2r67_g3bi.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch29-013",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Campaign finance reporting thresholds, such as the dollar level at which contributions must be itemized, have not been indexed to inflation. The FEC's March 2026 inflation notice adjusted only the party coordinated spending limits and the lobbyist bundling disclosure threshold, which the law already indexes.",
+    "closeness": "No action matched. Changing reporting thresholds requires a law, and none passed.",
+    "uncertain": "Checked the FEC's 2026 price index notice and the list of laws enacted through October 2026.",
+    "sources": [
+      {
+        "label": "Price Index Adjustments for Contribution and Expenditure Limitations and Lobbyist Bundling Disclosure Threshold (2026)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/03/03/2026-04137/price-index-adjustments-for-contribution-and-expenditure-limitations-and-lobbyist-bundling"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch29-001",
+    "status": "under-review",
+    "match": "partial",
+    "happened": "Three Republican commissioners left the FEC: Sean Cooksey (January 2025), Allen Dickerson (April 2025) and Trey Trainor (October 2025). This left the commission without a quorum. On February 11, 2026, President Trump nominated two Republicans, Andrew Woodson and Ashley Stow, to replace Dickerson and Trainor. In late October 2026 the FEC's website still listed only two commissioners, so the nominees had not taken office.",
+    "key_dates": [
+      {
+        "date": "2025-04-30",
+        "event": "Dickerson leaves; the FEC loses its four-member quorum."
+      },
+      {
+        "date": "2025-10-03",
+        "event": "Trainor resigns, leaving two commissioners."
+      },
+      {
+        "date": "2026-02-11",
+        "event": "President Trump nominates Andrew Woodson and Ashley Stow."
+      }
+    ],
+    "closeness": "Matches the step of naming Republican replacements. Whether the nominees share the departing commissioners' views on regulating political activity was not confirmed, and no nominee for Cooksey's former seat was found.",
+    "uncertain": "No Senate hearing or vote was found; the newest detailed source is a March 2026 CRS report, and the FEC's commissioner page was checked in October 2026. Woodson works at the Wiley Rein law firm and Stow worked with Trainor, according to news reports.",
+    "sources": [
+      {
+        "label": "Federal Election Commission: Membership and Policymaking Quorum, In Brief (R45160, March 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-03-02_R45160_e64878f666318626489a9bbc59380f35ba6972bd.html"
+      },
+      {
+        "label": "All Commissioners",
+        "publisher": "Federal Election Commission",
+        "type": "government",
+        "url": "https://www.fec.gov/about/leadership-and-structure/commissioners/"
+      },
+      {
+        "label": "Trump Nominates Two Republicans to FEC, Paving Path to End Monthslong 'Shutdown'",
+        "publisher": "NOTUS",
+        "type": "news",
+        "url": "https://www.notus.org/money/federal-election-commission-donald-trump-commissioner-nomination-quorum"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch29-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No Democratic FEC nominee was named in 2025-2026, so there was no nominee to negotiate over. On February 11, 2026, President Trump nominated two Republicans, and Senate Democrats objected that no Democrat was paired with them. Democratic Commissioner Ellen Weintraub left the commission in February 2025; CRS calls that vacancy disputed.",
+    "closeness": "No matching action found. The administration nominated only Republicans instead of negotiating over a Democratic pick.",
+    "uncertain": "Searched a March 2026 CRS report, the FEC's commissioner list (October 2026) and news for any Democratic nominee or talks with the Senate Democratic leader. Private talks would not show up in these sources.",
+    "sources": [
+      {
+        "label": "Federal Election Commission: Membership and Policymaking Quorum, In Brief (R45160, March 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-03-02_R45160_e64878f666318626489a9bbc59380f35ba6972bd.html"
+      },
+      {
+        "label": "Padilla, Schumer, Colleagues Blast Trump for Nominating Only Republican Commissioners to Bipartisan FEC",
+        "publisher": "Office of Sen. Alex Padilla",
+        "type": "government",
+        "url": "https://www.padilla.senate.gov/?p=87606"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch29-006",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No case was found in which the Justice Department stepped in to defend the FEC. In Senate Majority PAC v. FEC, filed in February 2026, the FEC told the court in April 2026 that it lacked a quorum to defend the case. The National Republican Senatorial Committee joined as a defendant and won dismissal in federal district court in Washington, D.C., on September 15, 2026.",
+    "closeness": "No matching action found. In at least one case the FEC could not defend itself and a private party, not the Justice Department, took on the defense.",
+    "uncertain": "Searched the FEC's litigation press releases and the web for Justice Department filings on the FEC's behalf. Court dockets in other cases were not reviewed one by one. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Court grants dismissal in SMP v. FEC (26-336)",
+        "publisher": "Federal Election Commission",
+        "type": "government",
+        "url": "https://www.fec.gov/updates/court-grants-dismissal-in-smp-v-fec-26-336/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch29-008",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No FEC or Justice Department guidance listing campaign finance laws or rules that courts have struck down or changed was found. The FEC has lacked a policymaking quorum since April 30, 2025. On June 30, 2026, the Supreme Court ruled in NRSC v. FEC that limits on political parties' coordinated spending violate the First Amendment.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for FEC and Justice Department notices and the FEC's press releases (through October 2026). Guidance posted only on a web page might have been missed.",
+    "sources": [
+      {
+        "label": "Supreme Court issues opinion in National Republican Senatorial Committee, et al. v. FEC, et al.",
+        "publisher": "Federal Election Commission",
+        "type": "government",
+        "url": "https://www.fec.gov/updates/supreme-court-issues-opinion-in-national-republican-senatorial-committee-et-al-v-fec-et-al/"
+      },
+      {
+        "label": "Federal Election Commission: Membership and Policymaking Quorum, In Brief (R45160, March 2026)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/files/2026-03-02_R45160_e64878f666318626489a9bbc59380f35ba6972bd.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

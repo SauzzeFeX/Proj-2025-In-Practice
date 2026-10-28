@@ -1,0 +1,885 @@
+[
+  {
+    "id": "schedule-f",
+    "topic": "Government & Workforce",
+    "title": "Making more federal jobs easier to fire",
+    "plain": "Project 2025 wanted tens of thousands of federal workers moved into a job category with fewer firing protections. A 2026 rule did that for about 8,000 employees. Lawsuits are pending.",
+    "proposal": {
+      "summary": "Bring back a 2020 plan (\"Schedule F\") that would treat workers who influence policy as at-will, so the president could remove them more easily.",
+      "chapter": "Chapter 3: Central Personnel Agencies, p. 81 (\"It should be reinstated\")",
+      "check": "page-verified"
+    },
+    "happened": {
+      "summary": "The administration created \"Schedule Policy/Career.\" OPM finalized the rule in early 2026, and a June 2026 executive order moved roughly 8,000 employees (about 4,800 positions) into it.",
+      "key_dates": [
+        {
+          "date": "Mar 8-9, 2026",
+          "event": "OPM's final rule took effect (sources differ on the exact day)."
+        },
+        {
+          "date": "Jun 3, 2026",
+          "event": "Executive order moved about 8,000 employees into the new category."
+        }
+      ]
+    },
+    "legal": "At least three lawsuits are pending: NTEU in D.C., a Protect Democracy case, and a union and watchdog case in Maryland. I found no merits ruling or injunction.",
+    "status": "in-effect-challenged",
+    "match": "direct",
+    "closeness": "Very close. It is the same idea with a new name. The final rule includes procedural details Project 2025 did not spell out.",
+    "uncertain": "How many people are affected in practice, and whether courts will let it stand. Court status was gathered from news and CRS summaries, not the dockets.",
+    "sources": [
+      {
+        "label": "Schedule Policy/Career: 2026 Final Rule, Legal Challenges",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11412.html"
+      },
+      {
+        "label": "10 things to know about the new Schedule Policy/Career",
+        "publisher": "FedWeek",
+        "type": "news",
+        "url": "https://www.fedweek.com/careers/10-things-to-know-about-the-new-schedule-policy-career/"
+      },
+      {
+        "label": "Employee groups revive lawsuit to block Schedule F",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/workforce/2026/03/employee-groups-revive-lawsuit-block-schedule-f/411962/"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch03-015",
+      "ch01-007",
+      "ch09-060",
+      "ch16-015"
+    ]
+  },
+  {
+    "id": "workforce-size",
+    "topic": "Government & Workforce",
+    "title": "Shrinking the federal workforce",
+    "plain": "Project 2025 wanted a smaller, more controllable federal government. The civilian workforce shrank about 12% in sixteen months. Most of the cuts did not come from Project 2025's specific methods.",
+    "proposal": {
+      "summary": "Put performance first when deciding who leaves, and \"be wary of costly types of reductions-in-force\" (p. 79). It does not propose a government-wide cut of a set size.",
+      "chapter": "Chapter 3: Central Personnel Agencies, p. 79",
+      "check": "page-verified"
+    },
+    "happened": {
+      "summary": "Through buyouts (deferred resignation), layoffs, and hiring limits, the civilian workforce fell about 12% from September 2024 to January 2026. The OPM itself shrank 35% by March 2026, per GAO.",
+      "key_dates": [
+        {
+          "date": "Sep 2024 - Jan 2026",
+          "event": "Civilian workforce down about 12% (OPM data as reported by Fox Business)."
+        },
+        {
+          "date": "Jan 2025 - Jan 2026",
+          "event": "10,436 employees separated through layoffs (reductions in force), per Partnership for Public Service."
+        }
+      ]
+    },
+    "legal": "Many individual layoff and reorganization cases exist. This entry does not track them one by one.",
+    "status": "in-effect",
+    "match": "broader",
+    "closeness": "Same broad direction (a smaller, more presidentially controlled workforce), but the method largely ran against the chapter's own advice: it warned against costly layoffs, while the cuts relied heavily on buyouts and reductions in force. The temporary \"DOGE\" effort is not a named Project 2025 proposal.",
+    "uncertain": "Exact totals depend on how you count (buyouts, layoffs, retirements, hiring freezes). Counts here come from secondary reporting of OPM data.",
+    "sources": [
+      {
+        "label": "OPM workforce changes (GAO-26-108916)",
+        "publisher": "U.S. Government Accountability Office",
+        "type": "government",
+        "url": "https://www.gao.gov/products/gao-26-108916"
+      },
+      {
+        "label": "Numbers show how much Trump has slashed the government workforce",
+        "publisher": "Fox Business",
+        "type": "news",
+        "url": "https://foxbusiness.com/politics/numbers-show-how-much-trump-has-slashed-government-workforce"
+      },
+      {
+        "label": "The Federal Workforce One Year into the Trump Administration",
+        "publisher": "Partnership for Public Service",
+        "type": "advocacy",
+        "url": "https://archive.ourpublicservice.org/fed-figures/the-federal-workforce-one-year-into-the-trump-administration/"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch03-013"
+    ]
+  },
+  {
+    "id": "independent-agencies",
+    "topic": "Courts & Power",
+    "title": "Presidential control of independent agencies",
+    "plain": "Project 2025 argued the president should control agencies that were set up to be independent. In June 2026 the Supreme Court agreed for the FTC. It protected the Federal Reserve.",
+    "proposal": {
+      "summary": "The Justice Department should \"formally take the position that Humphrey's Executor violates the Constitution's separation of powers\" (p. 560), so the president can remove leaders of independent agencies.",
+      "chapter": "Chapter 17: Department of Justice, p. 560",
+      "check": "page-verified"
+    },
+    "happened": {
+      "summary": "The president fired members of several independent agencies. On June 29, 2026 the Supreme Court ruled 6-3 in Trump v. Slaughter that the FTC firings were allowed, overruling the 1935 case Humphrey's Executor.",
+      "key_dates": [
+        {
+          "date": "Jun 29, 2026",
+          "event": "Trump v. Slaughter: FTC commissioners can be removed without cause (6-3)."
+        },
+        {
+          "date": "Jun 29, 2026",
+          "event": "Trump v. Cook: Fed governor Lisa Cook stays; the Fed's \"for cause\" protection was left in place (reported 5-4)."
+        }
+      ]
+    },
+    "legal": "Settled for the FTC by the Supreme Court. The Court left open some other bodies, including certain specialized courts.",
+    "status": "in-effect",
+    "match": "direct",
+    "closeness": "Very close on the legal theory. The Court drew a line at the Federal Reserve, which Project 2025 did not carve out in the text I reviewed.",
+    "uncertain": "How the ruling applies to other agencies, and to the specialized courts the opinion did not decide. Sources here are law-firm and news summaries, not the opinions.",
+    "sources": [
+      {
+        "label": "Supreme Court overrules Humphrey's Executor",
+        "publisher": "Venable LLP",
+        "type": "law-firm",
+        "url": "https://www.venable.com/insights/publications/2026/06/supreme-court-overrules-humphreys-executor"
+      },
+      {
+        "label": "Supreme Court decides Trump v. Slaughter",
+        "publisher": "Faegre Drinker",
+        "type": "law-firm",
+        "url": "https://www.faegredrinker.com/en/insights/publications/2026/6/supreme-court-decides-trump-v-slaughter"
+      },
+      {
+        "label": "Supreme Court rules on Lisa Cook and the Fed",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcwashington.com/news/national-international/supreme-court-rules-lisa-cook-federal-reserve-trump/4078939/"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch17-024"
+    ]
+  },
+  {
+    "id": "tariffs",
+    "topic": "Economy & Trade",
+    "title": "Using tariffs as a main trade tool",
+    "plain": "The plan's Trade chapter has two authors who disagree: one wants more tariffs, one wants fewer. The administration followed the pro-tariff side using an emergency law, which the Supreme Court said does not allow tariffs. Other tariff laws are now in use.",
+    "proposal": {
+      "summary": "The Trade chapter is split. Peter Navarro's half calls for a \"Reciprocal Trade Act\" with mirror tariffs and much higher tariffs on Chinese goods (pp. 782-789). Kent Lassman's half argues the opposite: end Section 232, 201 and 301 tariffs and repeal the laws that allow them (p. 800).",
+      "chapter": "Chapter 26: Trade, pp. 782-800 (two authors who disagree)",
+      "check": "page-verified"
+    },
+    "happened": {
+      "summary": "Broad tariffs were imposed under a 1977 emergency-powers law (IEEPA). The Supreme Court struck those down 6-3 on Feb 20, 2026. A 10% tariff under a different law (Section 122) ran Feb 24 to Jul 24, 2026, and new Section 301 duties took effect the same moment it expired. Steel, aluminum and auto-parts tariffs (Section 232) were not affected.",
+      "key_dates": [
+        {
+          "date": "Feb 20, 2026",
+          "event": "Supreme Court: IEEPA does not authorize tariffs (Learning Resources v. Trump)."
+        },
+        {
+          "date": "May 7, 2026",
+          "event": "Court of International Trade ruled the Section 122 tariff unlawful (on appeal)."
+        },
+        {
+          "date": "Jul 24, 2026",
+          "event": "Section 122 tariff expired; Section 301 duties began."
+        }
+      ]
+    },
+    "legal": "Refunds of IEEPA tariffs are still being worked out. The Section 122 ruling is on appeal. The new Section 301 duties are already being challenged.",
+    "status": "partly-blocked",
+    "match": "partial",
+    "closeness": "Matches Navarro's side in goal but not in method: he wanted Congress to pass a reciprocal-tariff law, while the administration used emergency powers, then Sections 122 and 301. It runs directly against Lassman's side, which wanted those tariff powers repealed.",
+    "uncertain": "Refund amounts and timing, the appeal outcome, and the final legal basis for the current tariffs. Sources disagree on some details such as rates.",
+    "sources": [
+      {
+        "label": "Supreme Court invalidates IEEPA tariffs",
+        "publisher": "Jones Day",
+        "type": "law-firm",
+        "url": "https://www.jonesday.com/en/insights/2026/02/united-states-supreme-court-invalidates-ieepa-tariffs"
+      },
+      {
+        "label": "Supreme Court strikes down IEEPA tariffs: key takeaways",
+        "publisher": "Ropes & Gray",
+        "type": "law-firm",
+        "url": "https://www.ropesgray.com/en/insights/alerts/2026/02/supreme-court-strikes-down-ieepa-tariffs-key-takeaways-and-implications-for-importers"
+      },
+      {
+        "label": "Life after IEEPA: the tariffs that replaced the tariffs",
+        "publisher": "Freeman Law",
+        "type": "law-firm",
+        "url": "https://freemanlaw.com/?p=34493"
+      },
+      {
+        "label": "IEEPA tariff refund process: where things stand",
+        "publisher": "Plante Moran",
+        "type": "law-firm",
+        "url": "https://plantemoran.com/explore-our-thinking/insight/2026/03/us-tariffs-what-comes-next"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch26-001",
+      "ch26-004",
+      "ch26-006",
+      "ch26-025",
+      "ch26-026"
+    ]
+  },
+  {
+    "id": "education-dept",
+    "topic": "Education",
+    "title": "Shutting down the Department of Education",
+    "plain": "Project 2025 wanted the Education Department eliminated. It cannot be closed without Congress. Instead its programs are being moved to other agencies, and lawsuits say that goes too far.",
+    "proposal": {
+      "summary": "Work with Congress to pass a \"Department of Education Reorganization Act to reform, eliminate, or move the department's programs and offices\" (p. 325), sending programs to other agencies or the states.",
+      "chapter": "Chapter 11: Department of Education, p. 325",
+      "check": "page-verified"
+    },
+    "happened": {
+      "summary": "A March 2025 executive order told the department to wind down as far as the law allows. Large layoffs followed. By July 1, 2026 the department had published 14 agreements moving the day-to-day running of nearly 150 programs to six other agencies, with the Labor Department handling the $18.4 billion Title I program.",
+      "key_dates": [
+        {
+          "date": "Mar 2025",
+          "event": "Executive order and mass layoffs begin."
+        },
+        {
+          "date": "Nov 18, 2025",
+          "event": "Six interagency agreements announced."
+        },
+        {
+          "date": "Jul 1, 2026",
+          "event": "14 agreements published, covering nearly 150 programs."
+        }
+      ]
+    },
+    "legal": "Unions, school districts, a disability-rights group, the NAACP, and about 20 states have sued. I did not confirm whether any court has ruled on the agreements.",
+    "status": "in-effect-challenged",
+    "match": "direct",
+    "closeness": "Close in goal. Congress has not abolished the department, so it still legally exists. Moving programs out is the workaround.",
+    "uncertain": "Whether courts will treat the transfers as legal, and what happens to service quality. Court status unconfirmed.",
+    "sources": [
+      {
+        "label": "Suit to block Education Department closure expanded",
+        "publisher": "Kentucky Lantern",
+        "type": "news",
+        "url": "https://kentuckylantern.com/2025/11/25/repub/suit-to-block-education-department-closure-expanded-amid-agency-transfers-plans/"
+      },
+      {
+        "label": "20 states push back as Ed Dept hands programs to other agencies",
+        "publisher": "Education Week",
+        "type": "news",
+        "url": "https://www.edweek.org/policy-politics/20-states-push-back-as-ed-dept-hands-programs-to-other-agencies/2025/12"
+      },
+      {
+        "label": "Amended lawsuit over interagency agreements",
+        "publisher": "Higher Ed Dive",
+        "type": "news",
+        "url": "https://www.highereddive.com/news/amended-lawsuit-Education-Department-interagency-agreements-McMahon/806651/"
+      },
+      {
+        "label": "NAACP supplemental complaint (14 agreements)",
+        "publisher": "Court filing via Thompson Coburn",
+        "type": "court",
+        "url": "https://www.thompsoncoburn.com/wp-content/uploads/2026/08/NAACP-Supplemental-Complaint202012331.1.pdf"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch11-004"
+    ]
+  },
+  {
+    "id": "endangerment-finding",
+    "topic": "Environment & Energy",
+    "title": "Ending the climate pollution finding",
+    "plain": "Project 2025 asked the EPA to update the finding that lets it limit greenhouse gases. In February 2026 the EPA went further and repealed it. The repeal is being challenged in court.",
+    "proposal": {
+      "summary": "\"Establish a system, with an appropriate deadline, to update the 2009 endangerment finding\" (p. 425). The finding is the legal basis for federal greenhouse-gas rules.",
+      "chapter": "Chapter 13: Environmental Protection Agency, p. 425",
+      "check": "page-verified"
+    },
+    "happened": {
+      "summary": "On Feb 12, 2026 the EPA rescinded the 2009 finding.",
+      "key_dates": [
+        {
+          "date": "Feb 12, 2026",
+          "event": "EPA rescinds the endangerment finding."
+        },
+        {
+          "date": "Feb 18, 2026",
+          "event": "Health and environmental groups file suit in the D.C. Circuit."
+        },
+        {
+          "date": "Mar 19, 2026",
+          "event": "Two dozen states and more than ten cities sue."
+        }
+      ]
+    },
+    "legal": "Multiple challenges are pending in the D.C. Circuit. Industry groups were allowed to join to defend the repeal. I found no ruling.",
+    "status": "in-effect-challenged",
+    "match": "partial",
+    "closeness": "Same target, bigger step. The plan asked for an update on a deadline; the EPA rescinded the finding outright.",
+    "uncertain": "The likely end point is a Supreme Court review years away.",
+    "sources": [
+      {
+        "label": "Groups sue Trump's EPA over repeal",
+        "publisher": "PBS NewsHour",
+        "type": "news",
+        "url": "https://www.pbs.org/newshour/amp/politics/groups-sue-trumps-epa-over-repeal-of-rule-that-supported-climate-protections"
+      },
+      {
+        "label": "Advocacy groups sue over endangerment finding's repeal",
+        "publisher": "Al Jazeera",
+        "type": "news",
+        "url": "https://www.aljazeera.com/news/2026/2/19/advocacy-groups-sue-trump-administration-over-endangerment-findings-repeal"
+      },
+      {
+        "label": "Two dozen states, 10 cities sue EPA",
+        "publisher": "Upper Michigan's Source (AP)",
+        "type": "news",
+        "url": "https://www.uppermichiganssource.com/2026/03/20/two-dozen-states-10-cities-sue-epa-over-repeal-endangerment-finding-central-climate-fight/"
+      },
+      {
+        "label": "Case page: industry intervention in support of EPA",
+        "publisher": "Texas Public Policy Foundation",
+        "type": "advocacy",
+        "url": "https://www.texaspolicy.com/?p=63179"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch13-036"
+    ]
+  },
+  {
+    "id": "offshore-wind",
+    "topic": "Environment & Energy",
+    "title": "Halting offshore wind projects",
+    "plain": "Project 2025 favored more oil and gas and less support for wind. In December 2025 the government ordered five wind projects to stop. Courts let all five resume.",
+    "proposal": {
+      "summary": "Count the cost of backup power when comparing wind and solar, and require wind and solar to arrange backup power in grid markets (pp. 387, 402). It does not call for stopping specific projects already under construction.",
+      "chapter": "Chapter 12: Energy and Related Commissions, pp. 387-402",
+      "check": "page-verified"
+    },
+    "happened": {
+      "summary": "Interior ordered work stopped on five projects under construction in December 2025, citing unspecified national-security concerns. By Feb 2, 2026 judges had blocked each stop-work order.",
+      "key_dates": [
+        {
+          "date": "Dec 2025",
+          "event": "Stop-work orders issued on five projects."
+        },
+        {
+          "date": "Feb 2, 2026",
+          "event": "Fifth court loss for the administration (Sunrise Wind)."
+        }
+      ]
+    },
+    "legal": "Preliminary injunctions in all five cases. The Interior Secretary said the department would fight the rulings. I found no later reporting.",
+    "status": "blocked",
+    "match": "broader",
+    "closeness": "General direction matches, but stopping individual built projects is not in the chapter. Treat this as an overlap, not an implementation.",
+    "uncertain": "Whether the appeals were filed and how they ended. Search coverage stopped in early February 2026.",
+    "sources": [
+      {
+        "label": "Judge hands Trump a fifth loss on wind projects",
+        "publisher": "Boston Globe",
+        "type": "news",
+        "url": "https://www.bostonglobe.com/2026/02/02/nation/judge-trump-fifth-loss-wind-projects/"
+      },
+      {
+        "label": "Offshore wind stoppage hits more legal snags",
+        "publisher": "Axios",
+        "type": "news",
+        "url": "https://www.axios.com/2026/01/15/trump-offshore-wind-court"
+      },
+      {
+        "label": "Burgum: Interior will fight its offshore wind court losses",
+        "publisher": "E&E News",
+        "type": "news",
+        "url": "https://www.eenews.net/articles/burgum-interior-will-fight-its-offshore-wind-court-losses"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch12-041",
+      "ch12-070"
+    ]
+  },
+  {
+    "id": "mifepristone",
+    "topic": "Health",
+    "title": "Restricting the abortion pill mifepristone",
+    "plain": "Project 2025 wanted the FDA to reverse or restrict access to the abortion pill. The FDA says it is reviewing safety, but the existing rules have not changed.",
+    "proposal": {
+      "summary": "The FDA should \"reverse its approval of chemical abortion drugs\" (p. 458), or at least bring back pre-2016 limits and stop approving mail-order pills (p. 459). The Justice chapter also calls for enforcing the Comstock Act against mailing abortion pills (p. 562).",
+      "chapter": "Chapter 14: Health and Human Services, pp. 458-459; Chapter 17: Justice, p. 562",
+      "check": "page-verified"
+    },
+    "happened": {
+      "summary": "The FDA began a safety review of the drug's rules. As of late July 2026 no final decision had been reported and the 2023 rules (which allow mail access) still applied.",
+      "key_dates": [
+        {
+          "date": "Apr 2026",
+          "event": "A Louisiana federal judge ordered the FDA to report on its review."
+        },
+        {
+          "date": "May 2026",
+          "event": "Supreme Court paused a lower-court order that would have ended mail access nationwide."
+        },
+        {
+          "date": "Jul 2026",
+          "event": "A Virginia judge sent the 2023 rules back to the FDA without striking them down."
+        }
+      ]
+    },
+    "legal": "Several cases are active (Louisiana, Virginia, Hawaii). Louisiana planned to appeal to the Fifth Circuit. One report says the FDA update was due Oct 7, 2026; I found no coverage of it.",
+    "status": "under-review",
+    "match": "direct",
+    "closeness": "The proposal is stronger than what has happened. A review has started but no restriction has been put in place.",
+    "uncertain": "What the FDA review will conclude and when. This is the most time-sensitive entry on the page.",
+    "sources": [
+      {
+        "label": "Virginia court rules FDA unlawfully restricted pill access",
+        "publisher": "Georgetown O'Neill Institute",
+        "type": "academic",
+        "url": "https://oneill.law.georgetown.edu/virginia-district-court-rules-fda-unlawfully-restricted-abortion-pill-access/"
+      },
+      {
+        "label": "Mifepristone safety review",
+        "publisher": "Spectrum News",
+        "type": "news",
+        "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/06/05/mifepristone-safety-review-food-and-drug-administration-fda-abortion-drug-"
+      },
+      {
+        "label": "Federal judge says certain abortion drug restrictions are unlawful",
+        "publisher": "Florida Phoenix",
+        "type": "news",
+        "url": "https://floridaphoenix.com/2026/07/27/repub/federal-judge-says-certain-abortion-drug-restrictions-are-unlawful/"
+      },
+      {
+        "label": "Health Affairs Forefront on mifepristone litigation",
+        "publisher": "Health Affairs",
+        "type": "academic",
+        "url": "https://www.healthaffairs.org/doi/full/10.1377/forefront.20251102.201973"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch14-026",
+      "ch14-027",
+      "ch14-028",
+      "ch14-031",
+      "ch17-027"
+    ]
+  },
+  {
+    "id": "planned-parenthood",
+    "topic": "Health",
+    "title": "Cutting Medicaid money to Planned Parenthood",
+    "plain": "Project 2025 wanted federal money kept from abortion providers. A 2025 law did this for one year. The one-year block ended in July 2026, and Congress has not renewed it.",
+    "proposal": {
+      "summary": "\"End taxpayer funding of Planned Parenthood and all other abortion providers and redirect funding to health centers\" (p. 471).",
+      "chapter": "Chapter 14: Health and Human Services, p. 471",
+      "check": "page-verified"
+    },
+    "happened": {
+      "summary": "The 2025 budget law (\"One Big Beautiful Bill Act\") barred Medicaid payments to Planned Parenthood for one year. Reports say it expired in July 2026. Anti-abortion groups are pushing Congress to renew it.",
+      "key_dates": [
+        {
+          "date": "Jul 2025",
+          "event": "Law passed with a one-year funding bar (the House version had 10 years)."
+        },
+        {
+          "date": "Jul 2026",
+          "event": "The bar lapsed, per OSV News and Evangelist reporting."
+        }
+      ]
+    },
+    "legal": "A Massachusetts judge blocked the provision in 2025. One source says an appeals court reversed that and the case was dropped. Sources conflict on timing.",
+    "status": "ended",
+    "match": "direct",
+    "closeness": "Close in goal, but the law was shorter and narrower than what was proposed.",
+    "uncertain": "The exact sequence of the appeal and the lapse. Two of the three sources here are religious or advocacy outlets. A neutral wire-service source should replace them.",
+    "sources": [
+      {
+        "label": "Planned Parenthood to receive Medicaid funds again as defunding expires",
+        "publisher": "The Evangelist",
+        "type": "advocacy",
+        "url": "https://evangelist.org/news/2026/jul/22/planned-parenthood-to-receive-medicaid-funds-again-as-defunding-provision-expires/"
+      },
+      {
+        "label": "Federal judge sides with Planned Parenthood",
+        "publisher": "AZFamily",
+        "type": "news",
+        "url": "https://www.azfamily.com/2025/07/29/federal-judge-sides-with-planned-parenthood-lawsuit-against-trump-administration"
+      },
+      {
+        "label": "The battle to defund Planned Parenthood hits roadblocks",
+        "publisher": "Denver Gazette",
+        "type": "news",
+        "url": "https://www.denvergazette.com/2025/08/03/the-battle-to-defund-planned-parenthood-hits-roadblocks-that-will-extend-to-2026-midterms-5205f155-bbcc-5db3-9109-a39026fb89a5/"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch14-077",
+      "ch14-078",
+      "ch14-079"
+    ]
+  },
+  {
+    "id": "childhood-vaccines",
+    "topic": "Health",
+    "title": "Changing the childhood vaccine schedule",
+    "plain": "In January 2026 federal health officials cut the number of routinely recommended childhood vaccines. A judge paused that in March 2026. This is not a clear Project 2025 proposal.",
+    "proposal": {
+      "summary": "No proposal to change the childhood vaccine schedule. Related items: stop treating CDC guidance as a requirement, move vaccine-safety monitoring from CDC to FDA (p. 454), and stop enforcing the COVID vaccine mandate for hospitals (p. 475).",
+      "chapter": "Chapter 14: Health and Human Services (related items on pp. 454-475)",
+      "check": "not-found"
+    },
+    "happened": {
+      "summary": "HHS replaced members of the vaccine advisory committee (ACIP) and in January 2026 reduced the routine childhood schedule from 17-18 diseases to 11. On March 16, 2026 a federal judge in Massachusetts paused those changes and the new members' appointments.",
+      "key_dates": [
+        {
+          "date": "Jan 2026",
+          "event": "Childhood schedule cut from about 17-18 diseases to 11."
+        },
+        {
+          "date": "Mar 16, 2026",
+          "event": "Judge Brian Murphy issues a partial preliminary injunction."
+        }
+      ]
+    },
+    "legal": "The ruling found the changes likely broke the Administrative Procedure Act and effectively restored the earlier schedule. An appeal was expected; I did not confirm one.",
+    "status": "blocked",
+    "match": "none",
+    "closeness": "No clear counterpart in Project 2025 found. It is included to show that not every major action traces to the plan.",
+    "uncertain": "Whether the injunction is still in force. Sources disagree on the disease counts (17 vs 18) and the number of appointees affected.",
+    "sources": [
+      {
+        "label": "The State of US Vaccine Policy, March 17, 2026",
+        "publisher": "CIDRAP",
+        "type": "academic",
+        "url": "https://www.cidrap.umn.edu/childhood-vaccines/state-us-vaccine-policy-special-edition-mar-17-2026"
+      },
+      {
+        "label": "Court order pauses new ACIP committee and schedule changes",
+        "publisher": "Georgetown Center for Children and Families",
+        "type": "academic",
+        "url": "https://ccf.georgetown.edu/2026/03/31/court-order-presses-pause-on-new-acip-committee-and-changes-to-childhood-vaccination-schedule/"
+      },
+      {
+        "label": "Federal judge blocks immunization schedule changes",
+        "publisher": "American College of Physicians",
+        "type": "advocacy",
+        "url": "https://www.acponline.org/sites/default/files/acp-policy-library/statements/federal_judge_blocks_immunization_schedule_changes_2026.pdf"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch14-007",
+      "ch14-010",
+      "ch14-090"
+    ]
+  },
+  {
+    "id": "immigration-enforcement",
+    "topic": "Immigration",
+    "title": "Large-scale deportations and detention",
+    "plain": "Project 2025 called for a big increase in immigration enforcement. Detention hit a record about 68,000 in February 2026. Courts have ruled against the government's detention practices thousands of times.",
+    "proposal": {
+      "summary": "Expand ICE arrests nationwide, use expedited removal \"to its full legal extent,\" and fund 100,000 detention beds plus 20,000 ICE officers (pp. 142-143).",
+      "chapter": "Chapter 5: Department of Homeland Security, pp. 140-143",
+      "check": "page-verified"
+    },
+    "happened": {
+      "summary": "ICE detention peaked at 68,289 in early February 2026. ICE reported 356,389 removals so far in fiscal year 2026. In May 2026 the border czar acknowledged deportations had slowed, citing court rulings, sanctuary-city resistance and a 75-day DHS shutdown.",
+      "key_dates": [
+        {
+          "date": "Early Feb 2026",
+          "event": "Detention peaks at 68,289 people."
+        },
+        {
+          "date": "May 2026",
+          "event": "Tom Homan concedes the pace of deportations has declined."
+        }
+      ]
+    },
+    "legal": "A Reuters analysis counted at least 4,421 rulings by more than 400 judges that ICE held people illegally, mostly over the mandatory-detention position. Other datasets count more than 10,000. Some appeals courts have lifted parts of those rulings.",
+    "status": "in-effect-challenged",
+    "match": "direct",
+    "closeness": "Close in direction. Actual numbers are shaped heavily by court rulings, funding and local resistance.",
+    "uncertain": "Counts come from ICE's own releases and secondary reports, and rulings counts differ by method. The Alien Enemies Act and Temporary Protected Status were not researched here.",
+    "sources": [
+      {
+        "label": "ICE reports 350,000+ removals in fiscal year 2026",
+        "publisher": "Good Morning America",
+        "type": "news",
+        "url": "https://www.goodmorningamerica.com/news/story/ice-350000-individuals-removed-fiscal-year-2026-134948878"
+      },
+      {
+        "label": "Courts have ruled 4,400 times that ICE jailed people illegally",
+        "publisher": "Minnesota Lawyer (Reuters analysis)",
+        "type": "news",
+        "url": "https://minnlawyer.com/2026/02/16/over-4400-court-rulings-ice-illegal-detention/"
+      },
+      {
+        "label": "Trump's aggressive ICE tactics often checked by federal courts",
+        "publisher": "Bloomberg Law",
+        "type": "news",
+        "url": "https://news.bloomberglaw.com/litigation/trumps-aggressive-ice-tactics-often-checked-by-federal-courts"
+      },
+      {
+        "label": "TRAC Immigration reports",
+        "publisher": "Syracuse University TRAC",
+        "type": "academic",
+        "url": "https://tracreports.org/whatsnew/index.html"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch05-031",
+      "ch05-038",
+      "ch05-041",
+      "ch05-043",
+      "ch05-047",
+      "ch05-048"
+    ]
+  },
+  {
+    "id": "birthright-citizenship",
+    "topic": "Immigration",
+    "title": "Ending birthright citizenship",
+    "plain": "A 2025 executive order tried to deny citizenship to some children born in the U.S. The Supreme Court struck it down on June 30, 2026. Project 2025 does not propose this anywhere.",
+    "proposal": {
+      "summary": "No proposal to end birthright citizenship. A full-text search of the document found the word \"birthright\" only once, in an unrelated sentence in the Trade chapter.",
+      "chapter": "Not in the plan (full-text search of all 30 chapters)",
+      "check": "not-found"
+    },
+    "happened": {
+      "summary": "Executive Order 14160 told agencies to deny citizenship to children unless a parent was a citizen or permanent resident. The Supreme Court held 6-3 in Trump v. Barbara that it is unconstitutional, reaffirming a 1898 precedent.",
+      "key_dates": [
+        {
+          "date": "Apr 1, 2026",
+          "event": "Oral argument."
+        },
+        {
+          "date": "Jun 30, 2026",
+          "event": "Supreme Court strikes down the order, 6-3."
+        }
+      ]
+    },
+    "legal": "The ruling is final on the constitutional question for this order.",
+    "status": "blocked",
+    "match": "none",
+    "closeness": "No clear counterpart found. Included so the page does not credit Project 2025 with things it did not say.",
+    "uncertain": "Nothing about the plan itself: the absence was confirmed by a full-text search.",
+    "sources": [
+      {
+        "label": "Trump v. Barbara: Supreme Court holds EO 14160 unconstitutional",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11468.html"
+      },
+      {
+        "label": "Supreme Court protects birthright citizenship",
+        "publisher": "ACLU",
+        "type": "advocacy",
+        "url": "https://www.aclu.org/news/immigrants-rights/supreme-court-rules-to-protect-birthright-citizenship-in-landmark-case"
+      },
+      {
+        "label": "Supreme Court decides Trump v. Barbara",
+        "publisher": "Faegre Drinker",
+        "type": "law-firm",
+        "url": "https://www.faegredrinker.com/en/insights/publications/2026/6/supreme-court-decides-trump-v-barbara"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "cfpb",
+    "topic": "Money & Finance",
+    "title": "Shutting down the consumer finance watchdog (CFPB)",
+    "plain": "Project 2025 called for Congress to abolish the Consumer Financial Protection Bureau. Congress has not. The administration tried to shrink it to almost nothing, and courts have blocked the mass layoffs and the refusal to request funding.",
+    "proposal": {
+      "summary": "\"Congress should abolish the CFPB\" and return its consumer-protection work to banking regulators (p. 839). Until then, limit its enforcement and funding.",
+      "chapter": "Chapter 27: Financial Regulatory Agencies, p. 839",
+      "check": "page-verified"
+    },
+    "happened": {
+      "summary": "In 2025 acting director Russell Vought halted most of the bureau's work, closed regional offices, moved to lay off most staff, and argued he could not request operating money from the Federal Reserve. Courts blocked the mass layoffs, and three district courts have ruled the director must request funding. In September 2026 a House committee approved a bill to fund the bureau through yearly appropriations; it would not abolish it.",
+      "key_dates": [
+        {
+          "date": "Mar 2025",
+          "event": "Judge Amy Berman Jackson blocks mass layoffs (preliminary injunction)."
+        },
+        {
+          "date": "Feb 24, 2026",
+          "event": "The full D.C. Circuit hears the appeal."
+        },
+        {
+          "date": "Jun 19, 2026",
+          "event": "The full court sends the case back to Judge Jackson to consider a revised plan keeping about 556 staff."
+        },
+        {
+          "date": "Sep 16, 2026",
+          "event": "House committee approves H.R. 10184 (28-21) to put the bureau under yearly appropriations."
+        },
+        {
+          "date": "Sep 25, 2026",
+          "event": "A third district court (Oregon) rules the director must request funding."
+        }
+      ]
+    },
+    "legal": "NTEU v. Vought: the layoff injunction remains in place while the full D.C. Circuit keeps the appeal and the district court reviews the revised staffing plan. Funding rulings against the administration: D.D.C. (Dec 2025), N.D. Cal. (Mar 2026), D. Or. (Sep 2026).",
+    "status": "partly-blocked",
+    "match": "direct",
+    "closeness": "Same goal. The bureau still legally exists because only Congress can abolish it.",
+    "uncertain": "The final appellate ruling, how many staff remain, and whether the layoff case stays paused until a new director is confirmed (reported, not confirmed). Newest sources are from October 2026.",
+    "sources": [
+      {
+        "label": "D.C. Circuit sends CFPB restructuring dispute back to district court",
+        "publisher": "Consumer Finance Monitor (Ballard Spahr)",
+        "type": "law-firm",
+        "url": "https://www.consumerfinancemonitor.com/2026/06/23/d-c-circuit-sends-cfpb-restructuring-dispute-back-to-district-court-while-retaining-jurisdiction-over-en-banc-appeal/"
+      },
+      {
+        "label": "Third district court rejects OLC's interpretation of CFPB funding statute",
+        "publisher": "Consumer Finance Monitor (Ballard Spahr)",
+        "type": "law-firm",
+        "url": "https://www.consumerfinancemonitor.com/2026/09/30/third-district-court-rejects-olcs-interpretation-of-cfpb-funding-statute/"
+      },
+      {
+        "label": "House committee approves bill to place CFPB under appropriations",
+        "publisher": "Consumer Finance Monitor (Ballard Spahr)",
+        "type": "law-firm",
+        "url": "https://www.consumerfinancemonitor.com/2026/09/22/house-financial-services-committee-approves-legislation-to-place-cfpb-under-congressional-appropriations-process/"
+      },
+      {
+        "label": "Full D.C. Circuit will review Trump's bid to dismantle CFPB",
+        "publisher": "Bloomberg Law",
+        "type": "news",
+        "url": "https://news.bgov.com/banking-law/full-dc-circuit-will-review-trumps-efforts-to-dismantle-cfpb"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch27-047",
+      "ch27-048",
+      "ch27-049"
+    ]
+  },
+  {
+    "id": "national-guard",
+    "topic": "Safety & Military",
+    "title": "Sending the National Guard into U.S. cities",
+    "plain": "The administration sent National Guard troops to several cities. In December 2025 the Supreme Court refused, for now, to allow it in Illinois. This is not a clear Project 2025 proposal.",
+    "proposal": {
+      "summary": "No proposal to deploy troops into cities. The Justice chapter does suggest using active-duty troops and the National Guard \"to assist in arrest operations along the border\" (p. 555).",
+      "chapter": "Chapter 17: Justice, p. 555 (border only)",
+      "check": "not-found"
+    },
+    "happened": {
+      "summary": "In a 6-3 interim order on Dec 23, 2025 the Supreme Court declined to let the administration deploy Guard troops in Illinois. The reasoning was that the law relied on likely requires the military to be allowed to \"execute the laws\" first.",
+      "key_dates": [
+        {
+          "date": "Dec 23, 2025",
+          "event": "Supreme Court interim order against the Illinois deployment (Thomas, Alito, Gorsuch dissenting)."
+        }
+      ]
+    },
+    "legal": "Interim ruling, not a final one. It may affect deployments in other cities (Los Angeles, Portland, San Francisco, Washington DC). I did not research 2026 developments or any Insurrection Act use.",
+    "status": "blocked",
+    "match": "none",
+    "closeness": "No counterpart for city deployments. The nearest item is about the border, which is a different setting and legal question.",
+    "uncertain": "Anything that happened after December 2025.",
+    "sources": [
+      {
+        "label": "Supreme Court rules against Trump in National Guard case",
+        "publisher": "NPR",
+        "type": "news",
+        "url": "https://npr.org/2025/12/23/nx-s1-5641959/supreme-court-chicago-national-guard"
+      },
+      {
+        "label": "Supreme Court, 6-3, rejects Trump's effort to deploy Guard in Illinois",
+        "publisher": "Law Dork",
+        "type": "news",
+        "url": "https://www.lawdork.com/p/supreme-court-illinois-national-guard-order?open=false"
+      },
+      {
+        "label": "Four takeaways from the National Guard ruling",
+        "publisher": "Steve Vladeck",
+        "type": "academic",
+        "url": "https://www.stevevladeck.com/i/182848773/on-the-docket"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch17-016"
+    ]
+  },
+  {
+    "id": "election-order",
+    "topic": "Elections",
+    "title": "Requiring proof of citizenship to vote",
+    "plain": "A 2025 executive order tried to require proof of citizenship and change mail-ballot rules. A federal judge permanently blocked most of it in June 2026.",
+    "proposal": {
+      "summary": "No proposal for a proof-of-citizenship voting rule or a presidential elections order. Related items: require states to share DMV and voter data with DHS to get grants (p. 138), move election-crime prosecutions within DOJ (p. 562), and narrow DOJ campaign-finance prosecutions (p. 863).",
+      "chapter": "Chapters 5, 17 and 29: DHS, Justice, Federal Election Commission",
+      "check": "not-found"
+    },
+    "happened": {
+      "summary": "A March 2025 executive order set a proof-of-citizenship requirement and barred counting mail ballots that arrive after Election Day. Courts blocked parts of it, and on June 24, 2026 Judge Denise Casper made her block permanent for most of the order.",
+      "key_dates": [
+        {
+          "date": "Jan 9, 2026",
+          "event": "Judge John H. Chun (Seattle) blocks most of the order in a suit by Oregon and Washington."
+        },
+        {
+          "date": "Jun 24, 2026",
+          "event": "Judge Casper issues a permanent injunction against most of the order."
+        }
+      ]
+    },
+    "legal": "The White House said it could appeal. The House passed the SAVE America Act in February 2026 to require proof of citizenship by law. A Supreme Court case on mail-ballot deadlines was pending in June 2026 and I did not check the result.",
+    "status": "blocked",
+    "match": "broader",
+    "closeness": "Overlaps only in the general concern about voter rolls. The specific mechanism, a presidential order setting voting rules, is not in the plan.",
+    "uncertain": "Appeals, the Supreme Court mail-ballot ruling, and the SAVE America Act's fate in the Senate.",
+    "sources": [
+      {
+        "label": "Federal court bars proof-of-citizenship requirement",
+        "publisher": "WBUR",
+        "type": "news",
+        "url": "https://www.wbur.org/news/2026/06/24/federal-court-proof-of-citizenzhip-vote-trump-ruling"
+      },
+      {
+        "label": "Federal judge blocks Trump election order, siding with Oregon, Washington",
+        "publisher": "Oregon Capital Chronicle",
+        "type": "news",
+        "url": "https://oregoncapitalchronicle.com/?p=19648"
+      },
+      {
+        "label": "Judge blocks Trump's elections order in lawsuit by vote-by-mail states",
+        "publisher": "Bangor Daily News (AP)",
+        "type": "news",
+        "url": "https://www.bangordailynews.com/2026/01/09/nation/judge-blocks-trumps-elections-order-in-lawsuit-by-vote-by-mail-states-oregon-and-washington/"
+      },
+      {
+        "label": "Federal judge bars Trump from implementing proof-of-citizenship requirement",
+        "publisher": "WLRN",
+        "type": "news",
+        "url": "https://www.wlrn.org/government-politics/2026-06-24/federal-judge-bars-trump-from-implementing-proof-of-citizenship-requirement-to-vote"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "proposal_ids": [
+      "ch05-020",
+      "ch17-028",
+      "ch29-003"
+    ]
+  }
+]

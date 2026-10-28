@@ -1,0 +1,25 @@
+{
+  "name": "project2025-in-practice",
+  "version": "1.0.0",
+  "description": "Plain-language tracker comparing Project 2025 proposals with U.S. federal actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && serve site -l 4173",
+    "links": "node scripts/check-links.mjs",
+    "lint": "html-validate site/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "html-validate": "^11.17.0",
+    "linkinator": "^8.1.0",
+    "puppeteer-core": "^23.11.1",
+    "serve": "^14.2.6"
+  }
+}

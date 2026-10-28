@@ -1,0 +1,219 @@
+[
+  {
+    "id": "ch24-001",
+    "case_against": "Since 1977, Congress has told the Federal Reserve to pursue both maximum employment and stable prices. Dropping the jobs goal would let the Fed focus on inflation alone, even when its choices push millions of people out of work. During downturns like the Great Recession, when unemployment hit 10 percent, the jobs mandate gave the Fed a clear duty to help. Removing it would make it easier to ignore job losses.",
+    "harms": [
+      {
+        "who": "Workers and job seekers",
+        "what": "Could face longer, deeper unemployment if the Fed no longer has to weigh jobs when setting interest rates."
+      },
+      {
+        "who": "Lower-wage and newer workers",
+        "what": "Are often the first laid off in downturns and would lose a policy goal aimed at protecting them."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Full Employment and Balanced Growth Act of 1978 (Humphrey-Hawkins)",
+        "publisher": "Federal Reserve History",
+        "type": "government",
+        "url": "https://www.federalreservehistory.org/essays/humphrey-hawkins-act"
+      },
+      {
+        "label": "Monetary Policy: What Are Its Goals? How Does It Work?",
+        "publisher": "Federal Reserve Board",
+        "type": "government",
+        "url": "https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm"
+      },
+      {
+        "label": "The Great Recession",
+        "publisher": "Federal Reserve History",
+        "type": "government",
+        "url": "https://www.federalreservehistory.org/essays/great-recession-of-200709"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-002",
+    "case_against": "The Fed's role as lender of last resort exists to stop bank panics from spreading. In the early 1930s Fed officials largely chose not to step in as banks failed, which helped drive a collapse in the money supply, Ben Bernanke, then a Fed governor, explained in 2004. Research on that era found that in Fed districts that refused to lend broadly, more banks failed and the economy shrank more. Limiting this role would make the next panic harder to stop.",
+    "harms": [
+      {
+        "who": "Bank customers and small businesses",
+        "what": "Could see banks fail and credit dry up in a panic if the Fed is barred from lending freely."
+      },
+      {
+        "who": "Workers",
+        "what": "Lose jobs when bank failures spread through the economy."
+      }
+    ],
+    "history": [
+      {
+        "when": "1930-1933, United States",
+        "what": "Waves of bank runs forced many banks to close. Fed officials largely decided not to intervene, and the St. Louis Fed refused to lend to help nonmember banks, while the Atlanta Fed lent more freely. Its district held up better than St. Louis's, where hundreds of banks failed.",
+        "lesson": "When the central bank holds back in a panic, failures spread. Limiting emergency lending risks repeating that mistake."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Money, Gold, and the Great Depression (speech by Ben Bernanke, 2004)",
+        "publisher": "Federal Reserve Board",
+        "type": "government",
+        "url": "https://www.federalreserve.gov/boarddocs/speeches/2004/200403022/default.htm"
+      },
+      {
+        "label": "Banking Panics of 1930-31",
+        "publisher": "Federal Reserve History",
+        "type": "government",
+        "url": "https://www.federalreservehistory.org/essays/banking-panics-1930-31"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-003",
+    "case_against": "Shrinking the Fed's balance sheet quickly can drain the cash reserves banks need to keep money markets working. In September 2019, after reserves had fallen, overnight lending rates suddenly spiked far more than expected. In late 2025 the Fed itself stopped shrinking and began buying Treasury bills again to keep reserves ample. A rule forcing a return to pre-2008 size would risk more of these breakdowns.",
+    "harms": [
+      {
+        "who": "Borrowers and businesses",
+        "what": "Could face sudden jumps in borrowing costs if money markets seize up."
+      },
+      {
+        "who": "Financial system stability",
+        "what": "Would be at greater risk if the Fed cannot keep enough reserves in the system."
+      }
+    ],
+    "history": [
+      {
+        "when": "September 2019, U.S. money markets",
+        "what": "After bank reserves fell, a corporate tax date and new Treasury debt drained about $120 billion more in two days. Overnight lending rates spiked well beyond what the Fed expected.",
+        "lesson": "Reserves can get too scarce before anyone notices. Forcing a fast shrink makes such shocks more likely."
+      }
+    ],
+    "sources": [
+      {
+        "label": "What Happened in Money Markets in September 2019?",
+        "publisher": "Federal Reserve Board (FEDS Notes)",
+        "type": "government",
+        "url": "https://www.federalreserve.gov/econres/notes/feds-notes/what-happened-in-money-markets-in-september-2019-20200227.html"
+      },
+      {
+        "label": "Can Warsh shrink the Fed's balance sheet?",
+        "publisher": "First Trust",
+        "type": "news",
+        "url": "https://www.ftportfolios.com/Commentary/EconomicResearch/2026/8/13/can-warsh-shrink-the-feds-balance-sheet"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-007",
+    "case_against": "Before the Federal Reserve, the U.S. had no central lender to stop bank panics. In the Panic of 1907, the country had to rely on banker J.P. Morgan to organize private money to steady the system. Congress created the Fed in 1913 because it decided the nation could not keep depending on wealthy individuals in a crisis. \"Free banking\" would bring back that risk.",
+    "harms": [
+      {
+        "who": "Savers and depositors",
+        "what": "Could face bank runs with no central lender to stop them."
+      },
+      {
+        "who": "Workers and businesses",
+        "what": "Would be exposed to repeated financial panics that cause sharp recessions."
+      }
+    ],
+    "history": [
+      {
+        "when": "1907, New York",
+        "what": "The Panic of 1907 was the first worldwide financial crisis. With no central bank, J.P. Morgan organized private funds and credit to steady the banks. Congress then created a commission to study reform and, in 1913, created the Federal Reserve.",
+        "lesson": "Leaving crisis response to private bankers proved too risky; the Fed was the answer. Abolishing it would undo that lesson."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Panic of 1907",
+        "publisher": "Federal Reserve History",
+        "type": "government",
+        "url": "https://www.federalreservehistory.org/essays/panic-of-1907"
+      },
+      {
+        "label": "Federal Reserve Act Signed into Law",
+        "publisher": "Federal Reserve History",
+        "type": "government",
+        "url": "https://www.federalreservehistory.org/essays/federal-reserve-act-signed"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-008",
+    "case_against": "Tying the dollar to gold would stop the Fed from responding to recessions, because the money supply would depend on gold reserves instead of the economy's needs. In the Great Depression, the gold standard spread deflation from country to country. Nations that left gold early, like Britain in 1931, recovered much sooner than those that stayed on it, like France. Fed research treats that experience as a key lesson of the Depression.",
+    "harms": [
+      {
+        "who": "Workers and borrowers",
+        "what": "Could face falling prices and wages, deeper recessions and heavier real debt burdens."
+      },
+      {
+        "who": "The whole economy",
+        "what": "Would be tied to swings in the gold market rather than to its own needs."
+      }
+    ],
+    "history": [
+      {
+        "when": "1929-1936, worldwide",
+        "what": "Countries on the gold standard had to keep money tight to protect their gold. Britain and the Scandinavian countries left gold in 1931 and recovered much earlier than France and Belgium, which stayed on gold into 1935-1936. Roosevelt's 1933 break from gold is credited by scholars with speeding U.S. recovery.",
+        "lesson": "The gold standard made the Depression deeper and longer; leaving it helped countries recover."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Money, Gold, and the Great Depression (speech by Ben Bernanke, 2004)",
+        "publisher": "Federal Reserve Board",
+        "type": "government",
+        "url": "https://www.federalreserve.gov/boarddocs/speeches/2004/200403022/default.htm"
+      },
+      {
+        "label": "Exchange Rates and Economic Recovery in the 1930s (Eichengreen and Sachs)",
+        "publisher": "National Bureau of Economic Research",
+        "type": "academic",
+        "url": "https://www.nber.org/papers/w1498"
+      },
+      {
+        "label": "Roosevelt's Gold Program",
+        "publisher": "Federal Reserve History",
+        "type": "government",
+        "url": "https://www.federalreservehistory.org/essays/roosevelts-gold-program"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-010",
+    "case_against": "A fixed money-growth rule only works if the link between money and the economy stays steady, and it has not. The Fed tried targeting reserves and money growth from 1979 but dropped that method in 1982. Later, as Fed Chair Ben Bernanke explained, the relationships behind money-supply models broke down. Locking in a rule would leave the Fed unable to respond when those links shift.",
+    "harms": [
+      {
+        "who": "Workers and businesses",
+        "what": "Could face bigger swings in interest rates and jobs if policy follows a fixed rule that no longer fits the economy."
+      }
+    ],
+    "history": [
+      {
+        "when": "1979-1982, United States",
+        "what": "Under Paul Volcker, the Fed shifted in October 1979 to controlling bank reserves to slow money growth and fight high inflation, accepting that interest rates would swing more. The Fed discontinued that procedure in 1982.",
+        "lesson": "Even a determined Fed found money targets unreliable; inflation came down, but the method was dropped."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Monetary Aggregates and Monetary Policy at the Federal Reserve: A Historical Perspective (Bernanke, 2006)",
+        "publisher": "Federal Reserve Board",
+        "type": "government",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bernanke20061110a.htm"
+      },
+      {
+        "label": "Volcker's Announcement of Anti-Inflation Measures",
+        "publisher": "Federal Reserve History",
+        "type": "government",
+        "url": "https://www.federalreservehistory.org/essays/anti-inflation-measures"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

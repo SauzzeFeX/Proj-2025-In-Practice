@@ -1,0 +1,344 @@
+[
+  {
+    "id": "ch24-001",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress has not removed maximum employment from the Federal Reserve's goals. On September 16, 2025, House Financial Services Chairman French Hill introduced the Price Stability Act (H.R. 5396), which would do this. It was referred to committee.",
+    "closeness": "A bill matching the recommendation was introduced, but no committee or floor vote was found, so the dual mandate still stands.",
+    "uncertain": "Whether the bill had a markup in 2026; one report says it was revived in May 2026, but no vote was found. Newest source: May 2026.",
+    "sources": [
+      {
+        "label": "H.R. 5396, Price Stability Act of 2025 (bill text)",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/119/bills/hr5396/BILLS-119hr5396ih.htm"
+      },
+      {
+        "label": "House lawmakers introduce bill to end Fed's dual mandate",
+        "publisher": "ABA Banking Journal",
+        "type": "news",
+        "url": "https://bankingjournal.aba.com/2025/09/house-lawmakers-introduce-bill-to-end-feds-dual-mandate/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No limit on the Fed's role as emergency lender was found. Instead, Fed officials in 2026 described work to modernize the discount window and make it easier to use. In May 2026 Senators Warner and Kennedy introduced a bill requiring large banks to test-borrow from it.",
+    "closeness": "The action ran opposite to the recommendation: officials and some lawmakers moved to make emergency lending more ready and less stigmatized, not more limited.",
+    "uncertain": "Two searches found no 2025-2026 bill or rule to limit the Fed's emergency lending, and no such law is in the project's copy of 2025-2026 laws. Final rules on discount window changes and a reported plan to let banks count discount window access toward liquidity rules were not confirmed. Newest source: September 2026.",
+    "sources": [
+      {
+        "label": "Discount window modernization and Treasury market functioning (speech by Vice Chair Jefferson)",
+        "publisher": "Federal Reserve Board",
+        "type": "government",
+        "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm"
+      },
+      {
+        "label": "Kennedy, Warner introduce bill to modernize the discount window",
+        "publisher": "Office of Sen. John Kennedy",
+        "type": "government",
+        "url": "https://www.kennedy.senate.gov/public/2026/5/kennedy-warner-introduce-bipartisan-legislation-to-modernize-the-federal-reserve-discount-window"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-003",
+    "status": "ended",
+    "match": "broader",
+    "happened": "The Fed kept shrinking its holdings through 2025, from a peak near $9 trillion in 2022 to about $6.5 trillion. It ended this in late 2025 and began buying about $40 billion of Treasury bills a month to keep bank reserves ample. Holdings were back to about $6.75 trillion by August 2026. New Chair Kevin Warsh favors a smaller balance sheet, but no new reduction plan was found.",
+    "key_dates": [
+      {
+        "date": "2022",
+        "event": "Fed balance sheet peaks near $9 trillion."
+      },
+      {
+        "date": "Late 2025",
+        "event": "Shrinking ends; Fed starts reserve management purchases."
+      },
+      {
+        "date": "2026-05",
+        "event": "Kevin Warsh becomes Fed Chair."
+      }
+    ],
+    "closeness": "Some shrinking happened, but it began before 2025 and has stopped. Holdings remain more than seven times pre-2008 levels, and Congress did not limit asset purchases.",
+    "uncertain": "The FOMC's latest balance sheet decisions (September-October 2026) were not found. Sources are analyst notes, not Fed statements. Newest source: August 2026.",
+    "sources": [
+      {
+        "label": "Can Warsh shrink the Fed's balance sheet?",
+        "publisher": "First Trust Advisors",
+        "type": "news",
+        "url": "https://www.ftportfolios.com/Commentary/EconomicResearch/2026/8/13/can-warsh-shrink-the-feds-balance-sheet"
+      },
+      {
+        "label": "Warshing the balance sheet",
+        "publisher": "Advisor Perspectives",
+        "type": "news",
+        "url": "https://www.advisorperspectives.com/commentaries/2026/07/02/warshing-balance-sheet"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-004",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "No rule or law limits future Fed purchases to Treasury debt. In practice, all new Fed buying since December 2025 has been Treasury bills: \"reserve management purchases\" that began at about $40 billion a month and slowed in 2026, plus reinvesting mortgage-bond paydowns into Treasury bills. The Fed has not bought corporate or municipal debt since its 2020 emergency programs ended.",
+    "key_dates": [
+      {
+        "date": "2025-10-29",
+        "event": "Fed says mortgage-bond paydowns will be reinvested in Treasury bills from December 1"
+      },
+      {
+        "date": "2025-12-10",
+        "event": "Fed begins Treasury bill reserve management purchases"
+      }
+    ],
+    "closeness": "The Fed's current buying matches the recommendation in practice, but there is no binding limit, which is what the chapter asked for.",
+    "uncertain": "Later 2026 purchase sizes come from news and research reports, not Fed documents. Newest source is August 2026.",
+    "sources": [
+      {
+        "label": "Implementation Note issued December 10, 2025",
+        "publisher": "Federal Reserve Board",
+        "type": "government",
+        "url": "https://federalreserve.gov/newsevents/pressreleases/monetary20251210a1.htm"
+      },
+      {
+        "label": "Implementation Note issued October 29, 2025",
+        "publisher": "Federal Reserve Board",
+        "type": "government",
+        "url": "https://federalreserve.gov/newsevents/pressreleases/monetary20251029a1.htm"
+      },
+      {
+        "label": "The implementation of reserve management purchases to maintain ample reserves (March 2026)",
+        "publisher": "Federal Reserve Bank of New York (Teller Window)",
+        "type": "government",
+        "url": "https://tellerwindow.newyorkfed.org/2026/03/31/the-implementation-of-reserve-management-purchases-to-maintain-ample-reserves/"
+      },
+      {
+        "label": "Can Warsh shrink the Fed's balance sheet?",
+        "publisher": "First Trust",
+        "type": "news",
+        "url": "https://www.ftportfolios.com/Commentary/EconomicResearch/2026/8/13/can-warsh-shrink-the-feds-balance-sheet"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch24-005",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The Fed has not been barred from buying mortgage-backed securities. It has kept letting them run off as they are paid down, and since December 1, 2025 it puts those paydowns into Treasury bills instead of new mortgage bonds. Its holdings fell to about $1.93 trillion by August 2026. It has not sold them.",
+    "key_dates": [
+      {
+        "date": "2025-10-29",
+        "event": "Fed says mortgage-bond paydowns will be reinvested in Treasury bills from December 1"
+      }
+    ],
+    "closeness": "The holdings are shrinking by letting them mature, which is one of the two methods the chapter named, and the Fed is not buying new ones. There is no legal bar on future purchases.",
+    "uncertain": "The August 2026 holdings figure comes from a research note. Newest source is August 2026.",
+    "sources": [
+      {
+        "label": "Implementation Note issued October 29, 2025",
+        "publisher": "Federal Reserve Board",
+        "type": "government",
+        "url": "https://federalreserve.gov/newsevents/pressreleases/monetary20251029a1.htm"
+      },
+      {
+        "label": "Can Warsh shrink the Fed's balance sheet?",
+        "publisher": "First Trust",
+        "type": "news",
+        "url": "https://www.ftportfolios.com/Commentary/EconomicResearch/2026/8/13/can-warsh-shrink-the-feds-balance-sheet"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch24-006",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Fed still pays interest on bank reserves; it set the rate at 3.65% in December 2025. An August 2026 analysis says it relies heavily on that rate to steer short-term interest rates. Bills to end the payments were introduced in 2025 (S. 2499 and H.R. 4789 by Sens. Scott and Cruz and Rep. Davidson, S. 2113 by Sen. Paul, and H.R. 146) but none has passed.",
+    "closeness": "No change yet. Bills in the same direction are pending in committee, and the new Fed chair has voiced related views, but the system has not been changed.",
+    "uncertain": "No floor vote on the bills was found, and no ending of the payments appears in the 119th Congress laws through October 2026. Newest source is August 2026.",
+    "sources": [
+      {
+        "label": "Implementation Note issued December 10, 2025",
+        "publisher": "Federal Reserve Board",
+        "type": "government",
+        "url": "https://federalreserve.gov/newsevents/pressreleases/monetary20251210a1.htm"
+      },
+      {
+        "label": "Sens. Cruz, Scott lead bill to stop Federal Reserve from paying interest on bank reserves",
+        "publisher": "Office of Sen. Ted Cruz",
+        "type": "government",
+        "url": "https://www.cruz.senate.gov/newsroom/press-releases/sens-cruz-scott-lead-bill-to-stop-federal-reserve-from-paying-interest-on-bank-reserves"
+      },
+      {
+        "label": "Can Warsh shrink the Fed's balance sheet?",
+        "publisher": "First Trust",
+        "type": "news",
+        "url": "https://www.ftportfolios.com/Commentary/EconomicResearch/2026/8/13/can-warsh-shrink-the-feds-balance-sheet"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch24-007",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Federal Reserve has not been abolished. In March 2025 Sen. Mike Lee and Rep. Thomas Massie introduced the Federal Reserve Board Abolition Act (S. 869 and H.R. 1846). No committee or floor action was found.",
+    "closeness": "A bill in this direction exists, but nothing moved. The chapter itself called this option politically difficult.",
+    "uncertain": "Bill trackers and searches in October 2026 show H.R. 1846 referred to the House Financial Services Committee and S. 869 to the Senate Banking Committee, with no markup or vote. Newest source: March 2025 (bill text and sponsor release).",
+    "sources": [
+      {
+        "label": "Sen. Mike Lee and Rep. Thomas Massie introduce bill to end the Fed",
+        "publisher": "Office of Sen. Mike Lee",
+        "type": "government",
+        "url": "https://www.lee.senate.gov/2025/3/sen-mike-lee-and-rep-thomas-massie-introduce-bill-to-end-the-fed"
+      },
+      {
+        "label": "H.R. 1846 (119th Congress), Federal Reserve Board Abolition Act, introduced text",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr1846ih"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-008",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No move to back the dollar with gold was found. Earlier gold-standard bills (2022 and 2023) stayed in committee.",
+    "closeness": "No matching action found.",
+    "uncertain": "Two searches found no 2025-2026 gold-standard bill; the last one found was the 2023 Gold Standard Restoration Act (H.R. 2435), which stayed in committee. A 2025 Senate bill (S. 3218) deals with audits of gold reserves, not a gold standard.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-009",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No federal law allowing commodity-backed money to be used alongside the dollar was found.",
+    "closeness": "No matching federal action found.",
+    "uncertain": "Earlier gold-standard bills stayed in committee (see ch24-008). A web search for 2025-2026 federal bills on commodity-backed money found none; the 2025 activity found was in states (such as Texas and Louisiana), which is not a federal action.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch24-010",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or Fed policy setting a fixed yearly growth rate for the money supply was found.",
+    "closeness": "No matching action found. The Fed continues to set an interest rate target.",
+    "uncertain": "Two searches (October 2026) on money-growth or \"monetary rule\" bills and related Fed bills found none in the 119th Congress, and no such law is in the project's copy of 2025-2026 laws.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-011",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In August 2025 the Fed revised its policy framework. Chair Jerome Powell said on August 22, 2025 that the Fed dropped flexible average inflation targeting and its \"makeup\" strategy and returned to flexible inflation targeting. It kept its 2 percent inflation goal.",
+    "key_dates": [
+      {
+        "date": "2025-08-22",
+        "event": "Powell announces revised framework ending average inflation targeting"
+      }
+    ],
+    "closeness": "The Fed ended flexible average inflation targeting, as the chapter wanted. It did this on its own; elected officials did not require a target range or a planned growth path.",
+    "uncertain": "Whether Congress considered a bill requiring an inflation target range was not checked.",
+    "sources": [
+      {
+        "label": "Monetary Policy and the Fed's Framework Review (speech by Chair Powell)",
+        "publisher": "Federal Reserve",
+        "type": "government",
+        "url": "https://www.federalreserve.gov/newsevents/speech/powell20250822a.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-012",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In November 2025 the Fed, the OCC and the FDIC rescinded their joint climate risk management principles for large banks. In February 2026 the Fed proposed a rule to remove reputation risk from bank supervision and bar using supervision to push banks toward or away from customers for political reasons.",
+    "key_dates": [
+      {
+        "date": "2025-11-18",
+        "event": "Climate risk principles for large banks rescinded"
+      },
+      {
+        "date": "2026-02-26",
+        "event": "Fed proposes rule removing reputation risk from supervision"
+      }
+    ],
+    "closeness": "These steps remove climate and other non-financial factors from Fed supervision, which matches part of the goal. The Fed's financial stability mandate was not changed by law, and its supervision is not limited to capital alone.",
+    "uncertain": "Whether the February 2026 proposal has been finalized was not confirmed.",
+    "sources": [
+      {
+        "label": "Rescission of Principles for Climate-Related Financial Risk Management for Large Financial Institutions",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/11/18/2025-20213/rescission-of-principles-for-climate-related-financial-risk-management-for-large-financial"
+      },
+      {
+        "label": "Prohibition on Use of Reputation Risk or Other Supervisory Tools (proposed rule)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/26/2026-03818/prohibition-on-use-of-reputation-risk-or-other-supervisory-tools-to-encourage-or-compel-banking"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch24-013",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No commission to study the Federal Reserve and its alternatives was found to have been created.",
+    "closeness": "No matching action found.",
+    "uncertain": "A Federal Register search and a web search found no such commission. The Centennial Monetary Commission bills that would have created one date from 2015 and died in committee; no 2025-2026 version was found.",
+    "sources": [],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch24-014",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On January 23, 2025, Executive Order 14178 barred federal agencies from creating or promoting a central bank digital currency. In June 2026 Congress passed the 21st Century ROAD to Housing Act, which bars the Federal Reserve from issuing one through December 31, 2030. It became law on July 11, 2026 without the President's signature.",
+    "key_dates": [
+      {
+        "date": "2025-01-23",
+        "event": "Executive Order 14178 prohibits agency action on a CBDC."
+      },
+      {
+        "date": "2026-06-23",
+        "event": "House clears housing bill with CBDC ban, 358-32."
+      },
+      {
+        "date": "2026-07-11",
+        "event": "Bill becomes law without signature."
+      }
+    ],
+    "closeness": "Direct match. The law's ban is time-limited (through 2030) rather than permanent.",
+    "uncertain": "Whether Congress will extend the ban past 2030. Sources are news reports, not the enacted text. Newest source: July 2026.",
+    "sources": [
+      {
+        "label": "Strengthening American Leadership in Digital Financial Technology (EO 14178)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/"
+      },
+      {
+        "label": "Housing bill that includes a CBDC ban passed into law without Trump's signature",
+        "publisher": "The Block",
+        "type": "news",
+        "url": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

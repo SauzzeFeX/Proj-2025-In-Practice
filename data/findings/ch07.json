@@ -1,0 +1,1078 @@
+[
+  {
+    "id": "ch07-001",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On August 20, 2025, Director of National Intelligence Tulsi Gabbard announced \"ODNI 2.0,\" a plan to shrink her office by more than 40% by the end of September 2025 and save over $700 million a year. It merged or refocused several centers and ended two research groups that ODNI said had pushed partisan priorities.",
+    "key_dates": [
+      {
+        "date": "2025-08-20",
+        "event": "DNI announces ODNI 2.0 staff and budget cuts."
+      }
+    ],
+    "legal": "No court ruling found on the ODNI 2.0 cuts.",
+    "closeness": "The cuts to positions and spending match closely. The other half, giving the DNI more power to drive changes across intelligence agencies, was not found. See also ch07-024.",
+    "uncertain": "Final staff numbers after September 2025 were not confirmed. Jay Clayton replaced Gabbard as DNI in August 2026; later plans were not checked. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "DNI Gabbard Launches ODNI 2.0",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://www.odni.gov/3547/pr-24-25/"
+      },
+      {
+        "label": "US spy chief announces plans to shrink ODNI",
+        "publisher": "Nextgov/FCW",
+        "type": "news",
+        "url": "https://www.nextgov.com/people/2025/08/us-spy-chief-announces-plans-shrink-odni/407594"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no published executive order amending Executive Order 12333 since January 2025.",
+    "closeness": "No matching action found. Other 2025-2026 orders dealt with cybersecurity and space but did not revise EO 12333.",
+    "uncertain": "Searched the Federal Register for presidential documents mentioning 12333 or \"United States Intelligence Activities\" since January 20, 2025; none found. A classified change would not appear there.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-005",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No public step giving the DNI more power to move National Intelligence Program money or staff was found. The fiscal 2026 Intelligence Authorization Act, part of the December 2025 defense law (P.L. 119-60), changed some DNI duties, such as ending the DNI's power to create new national intelligence centers, but did not add budget transfer powers.",
+    "closeness": "No matching action found. The 2025 law trimmed some DNI authorities rather than expanding budget control.",
+    "uncertain": "Checked the text of the fiscal 2026 Intelligence Authorization Act (Division F of P.L. 119-60). Classified budget rules are not public.",
+    "sources": [
+      {
+        "label": "Public Law 119-60, Division F, sec. 6402 (Intelligence Authorization Act for Fiscal Year 2026)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-007",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No DNI order requiring agencies to honor each other's security clearances within 48 hours was found. The December 2025 intelligence law told the DNI to study letting recently retired officers regain clearances faster and to assess continuous vetting of inactive clearances. In June 2026, ODNI published a report to Congress on personnel vetting \"trust determinations.\"",
+    "closeness": "No matching action found. The 2025 law orders studies on inactive clearances, not a 48-hour reciprocity rule.",
+    "uncertain": "Checked the Federal Register and the fiscal 2026 Intelligence Authorization Act. The June 2026 ODNI report could not be opened in this check. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-60, Division F, sec. 6310 (reforms relating to inactive security clearances)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      },
+      {
+        "label": "Personnel vetting trust determinations report",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://www.odni.gov/13524/personnel-vetting-trust-determinations/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-009",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The December 2025 defense law (P.L. 119-60) told the DNI to write, within 60 days, a strategy for sharing intelligence on critical and emerging technologies with federal agencies that handle export controls and screening. No announced plan to give the Commerce Department's Bureau of Industry and Security secure facilities or clearances for private experts was found.",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "Law requires a DNI strategy on sharing technology intelligence, including with export-control agencies."
+      }
+    ],
+    "closeness": "Smaller than recommended. The law requires a sharing strategy that covers export-control agencies in general, not added resources, facilities or clearances for Commerce.",
+    "uncertain": "Whether the DNI finished the strategy, and what it says about Commerce, is not public. Checked the laws passed by the 119th Congress and the Federal Register.",
+    "sources": [
+      {
+        "label": "Public Law 119-60, Division F, sec. 6623 (strategy on intelligence coordination and sharing relating to critical and emerging technologies)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-010",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In February 2025, after Director John Ratcliffe took over, the CIA paused hiring, including for some applicants who already had conditional job offers, and offered buyouts to its workforce.",
+    "key_dates": [
+      {
+        "date": "2025-02-04",
+        "event": "Reports say the CIA offers buyouts and pauses hiring."
+      }
+    ],
+    "legal": "No court ruling found on the hiring pause.",
+    "closeness": "The hiring halt matches. Who served as CIA deputy director, and whether that person could act without Senate confirmation, was not confirmed with a source.",
+    "uncertain": "Reports name Michael Ellis as CIA deputy director in 2025, but this was not confirmed with a source. How long the hiring pause lasted is not known. Newest source: early 2025.",
+    "sources": [
+      {
+        "label": "CIA offers buyouts to workforce as new director aims to align with Trump's priorities",
+        "publisher": "Sinclair National Desk (WEAR-TV)",
+        "type": "news",
+        "url": "https://weartv.com/news/nation-world/cia-central-intelligence-agency-offers-buyouts-to-entire-workforce-as-new-director-john-ratcliffe-aims-to-align-with-president-donald-trumps-priorities-national-security-freezing-hire"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Find a source for the 2025 CIA deputy director appointment (reportedly Michael Ellis) and the length of the hiring pause; web search ran out in this pass."
+  },
+  {
+    "id": "ch07-011",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no public report that new CIA leaders stopped specific programs or operations as inconsistent with the President's agenda.",
+    "closeness": "No matching action found in public sources.",
+    "uncertain": "Most CIA operations are classified, so such decisions may not be public. No targeted search was done.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "No targeted search done yet (web search ran out again); check for reporting on CIA programs halted by new leadership in 2025."
+  },
+  {
+    "id": "ch07-013",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no public announcement of new leaders for the CIA's directorates and mission centers.",
+    "closeness": "No matching action found.",
+    "uncertain": "No targeted search was done; CIA personnel moves are often not public.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "No targeted search done yet (web search ran out again); check for reporting on 2025 CIA directorate leadership changes."
+  },
+  {
+    "id": "ch07-015",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no plan to move CIA directorates out of Virginia or open campuses outside the Washington area.",
+    "closeness": "No matching action found.",
+    "uncertain": "No targeted search was done.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only a Federal Register check so far (no results); still needs a news search for any CIA relocation plan in 2025-2026."
+  },
+  {
+    "id": "ch07-016",
+    "status": "in-effect-challenged",
+    "match": "partial",
+    "happened": "Under President Trump's January 2025 orders ending federal DEI programs, the CIA and ODNI closed DEI offices and moved to fire officers assigned to DEI work. In April 2025, a federal judge in Virginia temporarily barred firing 19 of these officers so they could appeal and seek other jobs.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive order ends federal DEI programs."
+      },
+      {
+        "date": "2025-04-02",
+        "event": "Judge temporarily blocks firing of 19 intelligence DEI officers."
+      }
+    ],
+    "legal": "U.S. District Court for the Eastern District of Virginia (Judge Anthony Trenga) issued a preliminary injunction for 19 plaintiffs in April 2025; later rulings in the case were not confirmed.",
+    "closeness": "Same direction: resources were moved away from DEI programs. The text speaks more broadly of \"divisive ideological or cultural agendas,\" and the action came from a government-wide order, not a CIA-only decision.",
+    "uncertain": "Reports of later rulings in the case conflict, and I could not confirm the current court status. Newest source: April 2025.",
+    "sources": [
+      {
+        "label": "Judge blocks firing of intelligence agency employees who worked on DEI programs",
+        "publisher": "Associated Press via WBTV",
+        "type": "news",
+        "url": "https://www.wbtv.com/2025/04/02/judge-blocks-firing-intelligence-agency-employees-who-worked-dei-programs"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs later rulings in the CIA/ODNI DEI officer case (Eastern District of Virginia and Fourth Circuit); web search ran out in this pass."
+  },
+  {
+    "id": "ch07-018",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no public decision to use the Defense Department's full capabilities to support covert actions.",
+    "closeness": "No matching action found in public sources.",
+    "uncertain": "Such decisions are usually classified. No targeted search was done.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "No targeted search done yet (web search ran out again); check for public reporting on DOD support to covert action in 2025-2026."
+  },
+  {
+    "id": "ch07-020",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no public report that the National Security Council reviewed all covert action findings within 60 days.",
+    "closeness": "No matching action found in public sources.",
+    "uncertain": "Covert action findings are classified, so a review may have happened without public notice. No targeted search was done.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "No targeted search done yet (web search ran out again); check for reporting on an NSC review of covert action findings."
+  },
+  {
+    "id": "ch07-022",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no rule requiring senior intelligence officers to sign mobility agreements.",
+    "closeness": "No matching action found.",
+    "uncertain": "No targeted search was done.",
+    "sources": [],
+    "as_of": "2026-10-27",
+    "recheck": "Only a Federal Register check so far (no results); still needs a search for ODNI or CIA mobility agreements for senior officers."
+  },
+  {
+    "id": "ch07-024",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In February 2025, the CIA offered buyouts to its whole workforce, using the same deferred resignation offer made to other federal workers. Reports later said CIA and other spy agencies planned to cut over 1,200 jobs, partly through early retirement and less hiring. In August 2025, ODNI said it would shrink by more than 40%.",
+    "key_dates": [
+      {
+        "date": "2025-02-04",
+        "event": "CIA offers buyouts to its workforce."
+      },
+      {
+        "date": "2025-08-20",
+        "event": "ODNI announces it will shrink by more than 40%."
+      }
+    ],
+    "legal": "No court ruling found blocking the buyouts. (A separate case on DEI staff is covered in ch07-016.)",
+    "closeness": "Closely matches: voluntary buyouts and staff cuts at both ODNI and CIA. The buyout offer came through the government-wide OPM program, as the text suggested.",
+    "uncertain": "The CIA did not confirm the reported 1,200 figure. Final numbers who left were not confirmed. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "CIA offers buyouts to workforce as new director aims to align with Trump's priorities",
+        "publisher": "Sinclair National Desk (WEAR-TV)",
+        "type": "news",
+        "url": "https://weartv.com/news/nation-world/cia-central-intelligence-agency-offers-buyouts-to-entire-workforce-as-new-director-john-ratcliffe-aims-to-align-with-president-donald-trumps-priorities-national-security-freezing-hire"
+      },
+      {
+        "label": "Trump administration to cut more than 1,000 staff at CIA, intel agencies",
+        "publisher": "Yahoo News (syndicated report)",
+        "type": "news",
+        "url": "https://www.yahoo.com/news/trump-administration-cut-more-1-172111256.html"
+      },
+      {
+        "label": "DNI Gabbard Launches ODNI 2.0",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://www.odni.gov/3547/pr-24-25/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-025",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In May 2025, DNI Gabbard fired the acting chair and deputy chair of the National Intelligence Council. In August 2025, she revoked the security clearances of 37 current and former officials, saying they had politicized intelligence.",
+    "key_dates": [
+      {
+        "date": "2025-05",
+        "event": "DNI fires top National Intelligence Council officials."
+      },
+      {
+        "date": "2025-08-19",
+        "event": "DNI revokes 37 security clearances."
+      }
+    ],
+    "legal": "No court ruling found on these actions.",
+    "closeness": "Same direction: removals and clearance losses for people leaders said had abused their roles. I found nothing on stopping people from retiring before investigations end, which the text raised.",
+    "uncertain": "Both actions are known from news reports (Nextgov and Fox News); the ODNI website could not be reached for its own statements. The reasons given were not tested in court. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "US spy chief announces plans to shrink ODNI",
+        "publisher": "Nextgov/FCW",
+        "type": "news",
+        "url": "https://www.nextgov.com/people/2025/08/us-spy-chief-announces-plans-shrink-odni/407594"
+      },
+      {
+        "label": "Gabbard fires heads of National Intelligence Council",
+        "publisher": "Fox News",
+        "type": "news",
+        "url": "https://www.foxnews.com/politics/gabbard-fires-deep-state-heads-national-intelligence-council-root-out-politicization-intel"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-026",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In July 2025, CIA Director Ratcliffe released an internal review of how the 2016 assessment on Russian election interference was made. DNI Gabbard then declassified a 2020 House report and sent a criminal referral to the Justice Department about Obama-era officials. Attorney General Bondi later told staff to open a grand jury investigation.",
+    "key_dates": [
+      {
+        "date": "2025-07-02",
+        "event": "CIA releases tradecraft review of the 2016 assessment."
+      },
+      {
+        "date": "2025-07",
+        "event": "DNI sends criminal referral to the Justice Department."
+      },
+      {
+        "date": "2025-08-04",
+        "event": "Reports say the Attorney General ordered a grand jury probe."
+      }
+    ],
+    "legal": "Grand jury proceedings are secret; outcomes were not confirmed here.",
+    "closeness": "Same goal, an audit of past politicization of intelligence. But it was done by the CIA's analysis office, the DNI and prosecutors, not mainly through inspectors general and the analytic ombudsman as the text proposed.",
+    "uncertain": "I did not confirm the results of the grand jury or any related charges. Dates are from news reports. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "Gabbard threatens Obama officials with criminal referral over 2016 election assessment",
+        "publisher": "CNN via KTVZ",
+        "type": "news",
+        "url": "https://ktvz.com/politics/cnn-us-politics/2025/07/19/gabbard-threatens-obama-officials-with-criminal-referral-over-2016-election-assessment/"
+      },
+      {
+        "label": "DOJ to launch grand jury investigation into Russiagate: report",
+        "publisher": "Sinclair National Desk (CBS12)",
+        "type": "news",
+        "url": "https://cbs12.com/news/nation-world/doj-to-launch-grand-jury-investigation-into-russiagate-report-president-donald-trump-vladimir-putin-barack-obama-hillary-clinton-kash-patel-fbi-department-of-justice-pam-bondi-2016-presidential-election-burn-bags-politics"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs primary sources (CIA, ODNI, DOJ) and the latest status of the grand jury and related prosecutions; web search ran out in this pass."
+  },
+  {
+    "id": "ch07-027",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On March 22, 2025, President Trump signed a memo telling agencies to revoke the security clearances of named people, including former President Biden, Kamala Harris, Hillary Clinton and former Biden national security officials. The intelligence office (ODNI) said in May 2025 that, at the President's direction, it had revoked clearances for these people and for the 51 former officials who signed a 2020 letter about the Hunter Biden laptop.",
+    "key_dates": [
+      {
+        "date": "2025-03-22",
+        "event": "Presidential memo revokes clearances of named former officials."
+      },
+      {
+        "date": "2025-05-02",
+        "event": "ODNI reports revoking clearances, including the 51 signers of the 2020 letter."
+      }
+    ],
+    "legal": "No court ruling found on these revocations.",
+    "closeness": "Same tool: the President and DNI revoked clearances of former officials, including many former intelligence officials who had spoken publicly. But the group was wider, including politicians and lawyers, and the stated reasons varied.",
+    "uncertain": "News reports say the DNI revoked 37 more clearances in August 2025; I did not find that in ODNI's 2025 press releases. No court ruling found. Newest source: May 2025.",
+    "sources": [
+      {
+        "label": "Rescinding Security Clearances and Access to Classified Information from Specified Individuals",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/03/rescinding-security-clearances-and-access-to-classified-information-from-specified-individuals/"
+      },
+      {
+        "label": "First 100 Days: DNI Gabbard ... Revokes Security Clearances",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://www.odni.gov/3530/pr-08-25/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-028",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In April 2025, DNI Gabbard said she had referred intelligence employees to the Justice Department for prosecution over alleged leaks to the press; by May 2025 she had made three referrals. Some staff involved were reported fired.",
+    "key_dates": [
+      {
+        "date": "2025-04-23",
+        "event": "DNI announces leak referrals to the Justice Department."
+      }
+    ],
+    "legal": "No charges from these referrals were confirmed.",
+    "closeness": "Firing and referral match the text. Loss of pension for those found guilty would need a law or conviction, and I found neither.",
+    "uncertain": "The people referred were not named, and I could not confirm whether any were charged. Newest source: May 2025.",
+    "sources": [
+      {
+        "label": "DNI Tulsi Gabbard making 3 criminal referrals to DOJ for alleged leaking",
+        "publisher": "Straight Arrow News",
+        "type": "news",
+        "url": "https://san.com/cc/dni-tulsi-gabbard-making-3-criminal-referrals-to-doj-for-alleged-leaking/"
+      },
+      {
+        "label": "Tulsi Gabbard targets press leakers as national intelligence director",
+        "publisher": "U.S. Press Freedom Tracker (Freedom of the Press Foundation)",
+        "type": "advocacy",
+        "url": "https://pressfreedomtracker.us/all-incidents/tulsi-gabbard-targets-press-leakers-as-national-intelligence-director/"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs whether any of the 2025 leak referrals led to charges, and any pension-forfeiture change; web search ran out in this pass."
+  },
+  {
+    "id": "ch07-029",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "On April 25, 2025, Attorney General Pam Bondi rescinded Attorney General Garland's 2021-2022 policy that limited getting reporters' records in leak cases. A Justice Department rule published May 2, 2025, rewrote the regulation to make subpoenas, court orders and warrants for news media records easier to approve.",
+    "key_dates": [
+      {
+        "date": "2025-04-25",
+        "event": "Attorney General rescinds the Garland news media policy."
+      },
+      {
+        "date": "2025-05-02",
+        "event": "Revised Justice Department news media rule published."
+      }
+    ],
+    "legal": "No court ruling found on the new rule.",
+    "closeness": "Direct match: the Garland guidance was canceled and leak investigations were made a stated priority.",
+    "uncertain": "How often the new rule has been used was not checked. Newest source: May 2025.",
+    "sources": [
+      {
+        "label": "Policy Regarding Obtaining Information From, or Records of, Members of the News Media (final rule)",
+        "publisher": "Federal Register (Department of Justice)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/05/02/2025-07566/policy-regarding-obtaining-information-from-or-records-of-members-of-the-news-media-and-regarding"
+      },
+      {
+        "label": "Justice Dept. rescinds rules safeguarding media from government seizures",
+        "publisher": "Government Executive",
+        "type": "news",
+        "url": "https://www.govexec.com/management/2025/04/justice-dept-rescinds-rules-safeguarding-media-government-seizures/404871/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-032",
+    "status": "ended",
+    "match": "partial",
+    "happened": "Section 702 was set to expire in April 2026. Congress passed two short extensions, to April 30 and then June 12, 2026, but the House failed to pass a longer renewal. The law's authority lapsed on June 12, 2026, for the first time since 2008. A court approval issued earlier lets the program keep running until March 2027.",
+    "key_dates": [
+      {
+        "date": "2026-04-17",
+        "event": "Congress extends Section 702 to April 30, 2026 (H.R. 8322)."
+      },
+      {
+        "date": "2026-04-30",
+        "event": "Congress extends Section 702 to June 12, 2026 (S. 4465)."
+      },
+      {
+        "date": "2026-06-11",
+        "event": "House rejects a longer renewal (H.R. 9238)."
+      },
+      {
+        "date": "2026-06-12",
+        "event": "Section 702 authority lapses."
+      }
+    ],
+    "legal": "No court ruling. The Foreign Intelligence Surveillance Court approved the program's yearly certifications in March 2026, which reportedly allow it to continue until March 2027.",
+    "closeness": "The recommendation was to keep Section 702 and let Congress weigh reforms. Congress debated reforms, including warrant rules, and kept the law alive briefly, but did not renew it, so the statute lapsed.",
+    "uncertain": "The project's copy of every law passed by the 119th Congress (through October 20, 2026) contains only the two short extensions (P.L. 119-84 and P.L. 119-87) and no later renewal; news searches found none either. I did not check what Congress did with the privacy board's 2023 report. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "S. 4465 (119th Congress): Section 702 extension to June 12, 2026",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4465"
+      },
+      {
+        "label": "H.R. 8322 (119th Congress): Section 702 extension to April 30, 2026",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/8322"
+      },
+      {
+        "label": "House roll call vote on H.R. 9238, June 11, 2026",
+        "publisher": "Clerk of the U.S. House",
+        "type": "government",
+        "url": "https://clerk.house.gov/Votes/2026221"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-033",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or rule added stiffer penalties or required investigations for leaks that target domestic political figures. Congress did not pass a FISA reform package; Section 702 lapsed on June 12, 2026 (see ch07-032).",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the laws passed by the 119th Congress through October 2026 and presidential documents in the Federal Register; no law, order or rule on penalties for leaks about domestic political figures was found. A DOJ internal policy could exist without public notice.",
+    "sources": [
+      {
+        "label": "S. 4465 (119th Congress): Section 702 extension to June 12, 2026",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4465"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-034",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The December 2025 defense law (P.L. 119-60) requires the FBI director to tell top congressional leaders within 15 days whenever the FBI opens a counterintelligence assessment or investigation of a federal candidate or officeholder. No new rule specifically tightening how surveillance that picks up political figures' communications is handled was found. Section 702 lapsed on June 12, 2026 without a reform law (see ch07-032).",
+    "key_dates": [
+      {
+        "date": "2025-12-18",
+        "event": "Law requires notice to Congress of FBI counterintelligence probes of federal candidates and officeholders."
+      },
+      {
+        "date": "2026-06-12",
+        "event": "Section 702 lapses."
+      }
+    ],
+    "closeness": "Partial. The law adds oversight of investigations involving political figures, but it does not change the rules for handling intercepted communications.",
+    "uncertain": "Internal FBI or DOJ querying rules may have changed without public notice. Checked the laws passed by the 119th Congress through October 2026.",
+    "sources": [
+      {
+        "label": "Public Law 119-60, Division F, sec. 6521 (notice of counterintelligence assessments and investigations of federal candidates or officeholders)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      },
+      {
+        "label": "S. 4465 (119th Congress): Section 702 extension to June 12, 2026",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4465"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-035",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "No law or order explicitly bans using intelligence powers for political purposes in the future. A January 20, 2025 executive order, \"Ending the Weaponization of the Federal Government,\" made it U.S. policy to find and correct past political misuse of the intelligence community and told the DNI to review its activities over the prior four years.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14147 on ending weaponization signed."
+      }
+    ],
+    "closeness": "Only the general direction matches. The order looks back at past misuse rather than setting a standing ban. See also ch07-026 and ch07-038.",
+    "uncertain": "Searched presidential documents in the Federal Register and the laws passed by the 119th Congress. Whether the DNI's review led to new internal rules is not public.",
+    "sources": [
+      {
+        "label": "Executive Order 14147, Ending the Weaponization of the Federal Government",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01900/ending-the-weaponization-of-the-federal-government"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-036",
+    "status": "not-done",
+    "match": "none",
+    "happened": "Congress passed no FISA reform law making the Justice Department or the FISA court more accountable. Section 702 lapsed on June 12, 2026 after the House rejected a longer renewal (see ch07-032).",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked the local copy of all laws passed by the 119th Congress through October 2026: the only FISA laws were short extensions in April 2026 (P.L. 119-84 and 119-87), and none passed after June 12, 2026.",
+    "sources": [
+      {
+        "label": "S. 4465 (119th Congress): Section 702 extension to June 12, 2026",
+        "publisher": "Congress.gov",
+        "type": "government",
+        "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4465"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-037",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No law or rule keeps former intelligence officials with clearances under the Hatch Act. Instead, a January 20, 2025 order revoked the clearances of 51 former officials who signed a 2020 letter on the Hunter Biden laptop.",
+    "closeness": "Not done. The 2025 order used clearance revocation, a different tool, against a specific group (see ch07-027).",
+    "uncertain": "Searched the Federal Register for Hatch Act rules tied to clearances and the laws passed by the 119th Congress for Hatch Act changes; none found. Bills that were introduced but not passed were not checked.",
+    "sources": [
+      {
+        "label": "Holding Former Government Officials Accountable for Election Interference and Improper Disclosure of Sensitive Governmental Information",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01954/holding-former-government-officials-accountable-for-election-interference-and-improper-disclosure-of"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-038",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On January 20, 2025, President Trump signed an order saying no federal agency or employee may take part in limiting Americans' protected speech, and told the Attorney General to review past federal efforts to get social media companies to remove posts. In August 2025, the Director of National Intelligence announced that ODNI's Foreign Malign Influence Center, which tracked foreign election interference, would be folded into other offices as part of large staff cuts.",
+    "key_dates": [
+      {
+        "date": "2025-01-20",
+        "event": "Executive Order 14149, Restoring Freedom of Speech and Ending Federal Censorship."
+      },
+      {
+        "date": "2025-08-20",
+        "event": "ODNI announces \"ODNI 2.0\" cuts, including folding the Foreign Malign Influence Center into other offices."
+      }
+    ],
+    "legal": "No court ruling found.",
+    "closeness": "Same goal, different tool. The order bars federal actions that limit protected speech, and ODNI wound down its influence center, but there is no explicit ban on intelligence agencies monitoring \"domestic disinformation,\" and no law was passed.",
+    "uncertain": "The Foreign Malign Influence Center was created by Congress and is set by law to end in 2028, so it may still exist on paper. No public Attorney General report under EO 14149 was found in October 2026 searches. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "Restoring Freedom of Speech and Ending Federal Censorship",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/"
+      },
+      {
+        "label": "DNI Gabbard Launches ODNI 2.0",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://www.odni.gov/3547/pr-24-25/"
+      },
+      {
+        "label": "Gabbard slashing intelligence office workforce and cutting budget by over $700 million",
+        "publisher": "Associated Press (via NewsChannel 5)",
+        "type": "news",
+        "url": "https://www.newschannel5.com/politics/gabbard-slashing-intelligence-office-workforce-and-cutting-budget-by-over-700-million"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-040",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no change to the Foreign Agents Registration Act aimed at Chinese economic spying. Federal Register entries on the law since 2025 are routine form renewals.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the Federal Register for FARA rules and proposed rules and the laws passed by the 119th Congress; none changed the law. Reports say a February 2025 Attorney General memo narrowed criminal FARA charges, which was not confirmed here.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-043",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no law giving the FBI significantly more counterintelligence resources or authority.",
+    "closeness": "No matching action found.",
+    "uncertain": "Checked the fiscal 2026 appropriations laws and the fiscal 2026 defense and intelligence authorization law; none gave the FBI significant new counterintelligence authority. Exact FBI counterintelligence funding is classified or not broken out.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-044",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no amendment to the Counterintelligence Enhancement Act covering espionage at universities.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched the laws passed by the 119th Congress through October 2026, including the fiscal 2026 Intelligence Authorization Act; none amends the Counterintelligence Enhancement Act.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-048",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No \"obligation to share\" policy requiring cyber threat intelligence to be shared within 48 hours was found. Congress kept the 2015 Cybersecurity Information Sharing Act, a voluntary sharing law, alive through short extensions, most recently to December 11, 2026.",
+    "closeness": "No matching action found. Extending the voluntary 2015 sharing law is not a 48-hour duty to share.",
+    "uncertain": "Searched the Federal Register and the laws passed by the 119th Congress. The March 2026 national cyber strategy's action plan was not yet public. Classified directives could exist.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-050",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no new order revising the classification system, which is set by Executive Order 13526.",
+    "closeness": "No matching action found.",
+    "uncertain": "Searched presidential documents in the Federal Register since January 2025 and the laws passed by the 119th Congress; none revised Executive Order 13526. Bills introduced but not passed were not checked.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-054",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no order suspending parts of Executive Order 14086. The EU-U.S. Data Privacy Framework that relies on it was still running in 2026, with Commerce Department notices about company sign-ups.",
+    "closeness": "Not done; the framework built on EO 14086 continues.",
+    "uncertain": "Searched the Federal Register for 14086 (no results) and for the Data Privacy Framework (2026 notices show it operating). An internal study may have happened without public notice.",
+    "sources": [
+      {
+        "label": "Commerce notice: Self-Certifications Under the Data Privacy Framework Program (2026)",
+        "publisher": "Federal Register (Commerce Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/23/2026-03469/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-055",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no public U.S. demand that the EU resolve the data privacy dispute or lose intelligence sharing. The Data Privacy Framework stayed in place in 2026.",
+    "closeness": "No matching action found.",
+    "uncertain": "No targeted search was done beyond Federal Register notices showing the framework still operating.",
+    "sources": [
+      {
+        "label": "Commerce notice: Self-Certifications Under the Data Privacy Framework Program (2026)",
+        "publisher": "Federal Register (Commerce Department)",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/02/23/2026-03469/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs a check of State Department or White House statements on EU data transfers; web search ran out in this pass."
+  },
+  {
+    "id": "ch07-058",
+    "status": "not-done",
+    "match": "none",
+    "happened": "I found no rule requiring that half of the National Intelligence Council come from outside the CIA. DNI Gabbard fired the council's acting chair and deputy in May 2025, but who replaced them was not checked.",
+    "closeness": "No matching action found; the 2025 firings are a different step (see ch07-025).",
+    "uncertain": "No targeted search was done on NIC staffing rules.",
+    "sources": [
+      {
+        "label": "Gabbard fires heads of National Intelligence Council",
+        "publisher": "Fox News",
+        "type": "news",
+        "url": "https://www.foxnews.com/politics/gabbard-fires-deep-state-heads-national-intelligence-council-root-out-politicization-intel"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs NIC leadership and staffing changes in 2025-2026; web search ran out in this pass."
+  },
+  {
+    "id": "ch07-060",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On June 22, 2026, President Trump signed Executive Order 14412 on quantum-resistant encryption. It tells agencies to move high-value and high-impact systems to post-quantum encryption for key exchange by the end of 2030 and for digital signatures by the end of 2031.",
+    "key_dates": [
+      {
+        "date": "2026-06-22",
+        "event": "Executive Order 14412 signed."
+      }
+    ],
+    "legal": "No court ruling.",
+    "closeness": "Same goal: the order moves deadlines earlier than the 2035 goal for many civilian systems. It came about 17 months into the term, not immediately, and it excludes national security systems.",
+    "uncertain": "I did not check whether the 2022 national security memo itself was revised, or whether agencies are on schedule. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "Executive Order 14412, Securing the Nation Against Advanced Cryptographic Attacks",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12909/securing-the-nation-against-advanced-cryptographic-attacks"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-064",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "On January 27, 2025, President Trump ordered a next-generation missile defense shield, later called Golden Dome, including space-based parts. A December 18, 2025 order on space superiority tells the defense secretary, working with the DNI, to report on gaps in air and missile defense and to counter threats in space.",
+    "key_dates": [
+      {
+        "date": "2025-01-27",
+        "event": "Iron Dome for America order signed."
+      },
+      {
+        "date": "2025-12-18",
+        "event": "Executive Order 14369 on space superiority signed."
+      }
+    ],
+    "legal": "No court ruling.",
+    "closeness": "Only the general direction matches: more space defense with some intelligence role. I found no specific joint intelligence-DOD space programs or combined use of authorities as the text describes.",
+    "uncertain": "Joint intelligence and defense space programs are often classified. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Executive Order: The Iron Dome for America",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02182/the-iron-dome-for-america"
+      },
+      {
+        "label": "Executive Order 14369, Ensuring American Space Superiority",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23845/ensuring-american-space-superiority"
+      }
+    ],
+    "as_of": "2026-10-27",
+    "recheck": "Still needs public details on joint NRO/Space Force or intelligence-DOD space programs started in 2025-2026; web search ran out in this pass."
+  },
+  {
+    "id": "ch07-003",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No revised version of Executive Order 12333, the order that sets intelligence agencies' roles, was published, so no new order spelled out federal cyber roles as recommended (see ch07-002).",
+    "closeness": "Nothing matching found. The recommendation depends on a revised order that was not issued.",
+    "uncertain": "Searched the Federal Register for presidential documents mentioning Executive Order 12333 since January 2025. Classified guidance on cyber roles, if any, would not be public.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-031",
+    "status": "not-done",
+    "match": "none",
+    "happened": "No required political neutrality course for National Intelligence University programs was found. In August 2025 the DNI announced plans to close the university as a standalone school. The Defense Secretary approved moving it to the National Defense University on March 11, 2026, and it became NDU's National Intelligence College on July 1, 2026.",
+    "closeness": "Nothing matching found. The school the chapter wanted to add a course to was moved into the National Defense University and renamed instead.",
+    "uncertain": "Searched for the university's 2025-2026 status; no new required neutrality course was found in the earlier pass or in sources on the move. A course added inside an agency's own training would not necessarily be public. Newest source: June 2026.",
+    "sources": [
+      {
+        "label": "Fact Sheet: ODNI 2.0 Launch",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
+      },
+      {
+        "label": "National Intelligence College joins National Defense University",
+        "publisher": "National Defense University",
+        "type": "government",
+        "url": "https://www.ndu.edu/News/Article-View/Article/4530659/national-intelligence-college-joins-national-defense-university/"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch07-045",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The National Security Higher Education Advisory Board, which the FBI ended in 2018, was not brought back, and no revived National Security Business Alliance Council was found.",
+    "closeness": "Nothing matching found.",
+    "uncertain": "Searched the Federal Register and the web for 2025-2026 notices or announcements about either board. A board could meet informally without a public notice.",
+    "sources": [],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-051",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In June 2025 DNI Tulsi Gabbard said her office had used artificial intelligence tools to review tens of thousands of pages before releasing the John F. Kennedy assassination files, saying it greatly sped up declassification.",
+    "key_dates": [
+      {
+        "date": "2025-06-10",
+        "event": "DNI says ODNI used AI to speed declassification of the JFK files"
+      }
+    ],
+    "closeness": "Matches the idea of faster, AI-assisted declassification run by ODNI, but only for specific document releases. No permanent, intelligence-community-wide automated declassification system was found.",
+    "uncertain": "ODNI has not published a formal policy on AI-assisted declassification. How much the AI tools decided, and what safeguards were used, is not public. Newest source is from June 2025.",
+    "sources": [
+      {
+        "label": "Gabbard says AI is speeding up intel work, including the release of the JFK assassination files (AP)",
+        "publisher": "WSLS / Associated Press",
+        "type": "news",
+        "url": "https://www.wsls.com/news/politics/2025/06/10/gabbard-says-ai-is-speeding-up-intel-work-including-the-release-of-the-jfk-assassination-files/"
+      },
+      {
+        "label": "Gabbard says AI is speeding up intel work (AP)",
+        "publisher": "Boston Globe",
+        "type": "news",
+        "url": "https://www.bostonglobe.com/2025/06/10/nation/gabbard-ai-jfk-files-trump/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-062",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On February 11, 2025, President Trump named Devin Nunes chair of the President's Intelligence Advisory Board and appointed 11 other members. The White House said the board would advise the President on the nation's most important security challenges.",
+    "key_dates": [
+      {
+        "date": "2025-02-11",
+        "event": "President names the chair and members of the Intelligence Advisory Board"
+      }
+    ],
+    "closeness": "The board was staffed and given an advisory role. The announcement does not say it would focus on independent, long-term advice, and nothing was found about the Intelligence Oversight Board.",
+    "uncertain": "The board's actual work is mostly not public. Newest source is from February 2025.",
+    "sources": [
+      {
+        "label": "President Trump Announces the President's Intelligence Advisory Board",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/02/president-trump-announces-the-presidents-intelligence-advisory-board"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-063",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "On August 20, 2025, DNI Tulsi Gabbard announced 'ODNI 2.0,' a plan to cut her office's size by more than 40 percent. It folded three centers (foreign malign influence, counterproliferation and biosecurity, and cyber threat intelligence) into existing offices, ended the Strategic Futures Group and the External Research Council, and planned to close the National Intelligence University.",
+    "key_dates": [
+      {
+        "date": "2025-08-20",
+        "event": "DNI announces ODNI 2.0, shrinking the office and folding or ending several centers"
+      }
+    ],
+    "closeness": "Goes further than the chapter: instead of only refusing new centers, ODNI removed existing ones and shrank. Whether ODNI turned down specific calls from Congress for new centers was not found.",
+    "uncertain": "How much of the plan was completed by the end of fiscal 2025, and whether Congress later required any new centers, was not confirmed. Newest source is from August 2025.",
+    "sources": [
+      {
+        "label": "DNI Gabbard Launches ODNI 2.0 (News Release 24-25)",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://www.odni.gov/3547/pr-24-25/"
+      },
+      {
+        "label": "Fact Sheet: ODNI 2.0 Launch",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
+      },
+      {
+        "label": "US spy chief announces plans to shrink ODNI",
+        "publisher": "Nextgov/FCW",
+        "type": "news",
+        "url": "https://www.nextgov.com/people/2025/08/us-spy-chief-announces-plans-shrink-odni/407594"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-042",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "On August 20, 2025, Director of National Intelligence Tulsi Gabbard announced a reorganization called \"ODNI 2.0.\" It said the National Counterintelligence and Security Center would focus on security clearance reform, deterring counterintelligence threats, and overseeing investigations of leaks of classified information. No executive order or change to the Counterintelligence Enhancement Act on the center's role was found.",
+    "key_dates": [
+      {
+        "date": "2025-08-20",
+        "event": "ODNI 2.0 announced, including a new focus for the counterintelligence center."
+      }
+    ],
+    "closeness": "The center's role was reset by an internal DNI reorganization, not by an executive order or law as the chapter suggested. Its new focus is on clearances, threats and leak cases rather than strategy, policy and outreach. No new agency was created, which matches the chapter. Same reorganization as ch07-001.",
+    "uncertain": "How far the changes have been carried out is not public. I searched the Federal Register and the fiscal 2026 intelligence authorization law (in P.L. 119-60) and found no executive order or statutory change to the center's role. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "DNI Gabbard Launches ODNI 2.0",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://www.odni.gov/index.php/newsroom/press-releases/press-releases-2025/4100-pr-24-25"
+      },
+      {
+        "label": "Fact Sheet: ODNI 2.0 Launch",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-046",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The August 2025 \"ODNI 2.0\" fact sheet said the National Counterterrorism Center is building ways to increase two-way information sharing between federal, state and local law enforcement. No public statement was found that the center stopped analysis that overlaps with the FBI or CIA.",
+    "key_dates": [
+      {
+        "date": "2025-08-20",
+        "event": "ODNI 2.0 fact sheet describes the counterterrorism center's information-sharing focus."
+      }
+    ],
+    "closeness": "Information sharing is a kind of integration work, which the chapter favors. But the chapter's main point, cutting analysis that duplicates other agencies, was not publicly addressed. Same reorganization as ch07-001 and ch07-042.",
+    "uncertain": "Internal changes to the center's analytic work are not public. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "Fact Sheet: ODNI 2.0 Launch",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-047",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "The fiscal 2026 Intelligence Authorization Act, part of the defense law signed December 18, 2025, requires yearly surveys of intelligence analysts about bias and politicization, including whether they raised concerns with an analytic ombudsman. It also requires yearly training on analytic standards. Separately, in August 2025 the DNI eliminated the Strategic Futures Group, which wrote the long-range \"Global Trends\" reports.",
+    "key_dates": [
+      {
+        "date": "2025-08-20",
+        "event": "ODNI 2.0 eliminates the Strategic Futures Group."
+      },
+      {
+        "date": "2025-12-18",
+        "event": "Law requiring analytic objectivity surveys and training is signed (P.L. 119-60, sections 6305-6306)."
+      }
+    ],
+    "closeness": "The objectivity surveys and training match part of the chapter's call to act on the ombudsman's work. Closing the long-range forecasting group points away from the chapter's call for more strategic analysis. No change to the priorities framework or Daily Brief to signal demand for strategic work was found.",
+    "uncertain": "Whether the surveys have been done, and what replaced the Strategic Futures Group's work, is not known. Newest source: December 2025.",
+    "sources": [
+      {
+        "label": "Public Law 119-60 (NDAA FY2026; Division F, Intelligence Authorization Act)",
+        "publisher": "GovInfo",
+        "type": "government",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      },
+      {
+        "label": "Fact Sheet: ODNI 2.0 Launch",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-056",
+    "status": "in-effect",
+    "match": "direct",
+    "happened": "In April 2025, CNN reported that the administration had tightly limited who receives the President's Daily Brief. At first White House Chief of Staff Susie Wiles personally approved each person with access; later DNI Tulsi Gabbard took over that decision.",
+    "key_dates": [
+      {
+        "date": "2025-04-10",
+        "event": "CNN reports tight limits on who receives the President's Daily Brief."
+      }
+    ],
+    "closeness": "This matches the chapter's call for much narrower distribution and a review of who gets the brief.",
+    "uncertain": "The recipient list is classified, so the number of recipients is not public. Details come from news reports citing unnamed officials. Newest source: April 2025.",
+    "sources": [
+      {
+        "label": "Trump administration has tightly restricted access to president's daily intelligence brief",
+        "publisher": "CNN (via KTVZ)",
+        "type": "news",
+        "url": "https://ktvz.com/politics/cnn-us-politics/2025/04/10/trump-administration-has-tightly-restricted-access-to-presidents-daily-intelligence-brief/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-057",
+    "status": "partly-done",
+    "match": "partial",
+    "happened": "In May 2025, DNI Tulsi Gabbard moved the staff who produce the President's Daily Brief from CIA headquarters to the ODNI campus, Fox News reported. The same week she also moved the National Intelligence Council.",
+    "key_dates": [
+      {
+        "date": "2025-05",
+        "event": "Daily Brief staff physically moved from CIA to ODNI."
+      }
+    ],
+    "closeness": "Moving Daily Brief staff to ODNI matches half of the chapter's idea. No report was found on whether briefers now come from agencies other than the CIA.",
+    "uncertain": "Whether the staff were formally transferred or only relocated, and who now delivers the brief, are not confirmed. Details come from news reports. Newest source: May 2025.",
+    "sources": [
+      {
+        "label": "Gabbard moves presidential daily intelligence brief staff from CIA to ODNI",
+        "publisher": "Fox News",
+        "type": "news",
+        "url": "https://www.foxnews.com/politics/gabbard-moves-presidential-daily-intelligence-brief-staff-from-cia-odni.amp"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch07-061",
+    "status": "partly-done",
+    "match": "broader",
+    "happened": "The August 2025 \"ODNI 2.0\" fact sheet said DNI Tulsi Gabbard told the Intelligence Advanced Research Projects Activity (IARPA) to invest in solutions to near-term gaps in the intelligence community rather than long-term concepts. It also said the DNI issued guidance to speed purchases of commercially available technology.",
+    "key_dates": [
+      {
+        "date": "2025-08-20",
+        "event": "ODNI 2.0 fact sheet describes new direction for IARPA."
+      }
+    ],
+    "closeness": "Leaning on commercial technology fits the chapter's wish not to duplicate private-sector work. But the chapter wants research focused on hard problems, while the new direction stresses near-term needs. No change at the CIA's science and technology directorate was found.",
+    "uncertain": "Which IARPA programs changed is not public. Newest source: August 2025.",
+    "sources": [
+      {
+        "label": "Fact Sheet: ODNI 2.0 Launch",
+        "publisher": "Office of the Director of National Intelligence",
+        "type": "government",
+        "url": "https://archive.dni.gov/files/ODNI/documents/ODNI-20-Fact-Sheet.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

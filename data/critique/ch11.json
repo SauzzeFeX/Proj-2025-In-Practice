@@ -1,0 +1,318 @@
+[
+  {
+    "id": "ch11-001",
+    "case_against": "Federal school money comes with rules for a reason: it is meant to reach poor children, students with disabilities and others who might otherwise be overlooked. Turning it into no-strings block grants removes that guarantee. History shows block grants tend to shrink over time. When Congress folded 37 education programs into a block grant in 1981, overall funding for the combined programs was cut.",
+    "harms": [
+      {"who": "Students in high-poverty schools", "what": "Without targeting rules, money meant for the poorest districts could be spread to wealthier ones."},
+      {"who": "Students with disabilities and English learners", "what": "Programs written for their needs could lose dedicated funding once money is pooled."}
+    ],
+    "history": [
+      {"when": "1981, Omnibus Budget Reconciliation Act", "what": "Congress combined 75 grant programs, including 37 education programs, into nine block grants. Overall funding for the programs bundled together was cut 12%, about $1 billion.", "lesson": "Block grants have been used to cut spending. CRS also cites studies finding block grants' inflation-adjusted funding fell over time."}
+    ],
+    "sources": [
+      {"label": "Block Grants: Perspectives and Controversies (R40486)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R40486.html"},
+      {"label": "Senate appropriations rejects K-12 grant consolidations in FY26 bill", "publisher": "K-12 Dive", "type": "news", "url": "https://www.k12dive.com/news/senate-appropriations-rejects-k-12-grant-consolidations-in-fy-26-bill/756504/"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-002",
+    "case_against": "The U.S. already tried running student loans through private banks. Under the old guaranteed loan program, banks made the loans, but the government paid them extra subsidies to take part and repaid them when borrowers defaulted. Taxpayers carried most of the risk. Congress ended that program in 2010. Going back would bring in a middleman without lowering the risk to taxpayers.",
+    "harms": [
+      {"who": "Taxpayers", "what": "The government would again pay lenders subsidies and cover their losses on defaults."},
+      {"who": "Student borrowers", "what": "Borrowers would deal with many private lenders again, adding complexity to a system already hard to navigate."}
+    ],
+    "history": [
+      {"when": "1994-2010, Federal Family Education Loan program", "what": "From 1994 to 2010, guaranteed private loans and direct federal loans ran side by side. In the guaranteed program, lenders received special allowance payments and were repaid by the government when loans defaulted. Congress ended new guaranteed loans as of July 1, 2010.", "lesson": "The government bore the risk under both systems, but the guaranteed system added extra payments to private lenders."}
+    ],
+    "sources": [
+      {"label": "Federal Student Loan Program Models (IF12804)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF12804.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-004",
+    "case_against": "Closing the Education Department scatters school and college programs across agencies that were not built to run them. The department is already being taken apart without a law from Congress. About a third of staff were laid off in 2025, and 20 states sued, saying federal law requires the department to run its own programs. GAO found the department spent up to $38 million on months of paid leave for civil rights staff it later brought back.",
+    "harms": [
+      {"who": "Students and families", "what": "Programs moved to Labor, HHS and other agencies may face delays and confusion, and expertise is lost as staff leave."},
+      {"who": "State and local school systems", "what": "States say the transfers upend decades of work on programs like career and technical education."},
+      {"who": "Taxpayers", "what": "GAO found up to $38 million was spent on paid leave for civil rights employees before they were reinstated."}
+    ],
+    "sources": [
+      {"label": "Education Department shutdown plans face new hurdle", "publisher": "Government Executive", "type": "news", "url": "https://www.govexec.com/management/2026/09/education-department-shutdown-plans-face-new-hurdle/416003/"},
+      {"label": "20 states push back as Ed. Dept. hands programs to other agencies", "publisher": "Education Week", "type": "news", "url": "https://www.edweek.org/policy-politics/20-states-push-back-as-ed-dept-hands-programs-to-other-agencies/2025/12"},
+      {"label": "Department of Education Interagency Agreements (LSB11392)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB11392.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-006",
+    "case_against": "Title I sends about $18.4 billion a year to schools with many low-income children. Turning it into a no-strings block grant would remove the rules that make sure the money reaches those schools. Block grants have often lost value over time. Moving Title I out of the Education Department has already drawn a lawsuit from 20 states, which argue the law does not allow it.",
+    "harms": [
+      {"who": "Low-income students", "what": "Without targeting rules, Title I money could be spread to schools with fewer poor children."},
+      {"who": "High-poverty school districts", "what": "Districts that depend most on Title I could see their share shrink if the block grant loses value, as other block grants have."}
+    ],
+    "sources": [
+      {"label": "Block Grants: Perspectives and Controversies (R40486)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R40486.html"},
+      {"label": "Department of Education Interagency Agreements (LSB11392)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB11392.html"},
+      {"label": "20 states push back as Ed. Dept. hands programs to other agencies", "publisher": "Education Week", "type": "news", "url": "https://www.edweek.org/policy-politics/20-states-push-back-as-ed-dept-hands-programs-to-other-agencies/2025/12"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-007",
+    "case_against": "Ending federal Title I money would pull about $18.4 billion a year from schools that serve low-income children. Title I's formulas are based on counts of children in poverty, so more help goes where more poor children live. Asking every state to replace that money on its own means poorer states would struggle most to fill the gap.",
+    "harms": [
+      {"who": "Students in high-poverty schools", "what": "Schools could lose staff, tutoring and other services now paid for with Title I money."},
+      {"who": "Poorer states", "what": "States with less tax base would have the hardest time replacing federal money."}
+    ],
+    "sources": [
+      {"label": "FY2025 State Grants Under Title I-A of the ESEA (R48953)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R48953.html"},
+      {"label": "Congress rejects deep cuts, safeguards key K-12 funding in FY26 deal", "publisher": "National Association of Elementary School Principals", "type": "advocacy", "url": "https://www.naesp.org/blog/congress-rejects-deep-cuts-safeguards-key-k-12-funding-in-fy26-deal/"}
+    ],
+    "recheck": "No source found estimating how much each state would need to raise to replace Title I.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-012",
+    "case_against": "The special education law exists because states once left children with disabilities out. When Congress passed it in 1975, it found that 1 million children with disabilities were shut out of public schools entirely. A no-strings block grant run by a health agency would weaken the rights and rules that changed that. Disability groups warn that moving special education to HHS treats it as a medical issue instead of an education right.",
+    "harms": [
+      {"who": "Students with disabilities", "what": "Advocates such as The Arc warn students would be more likely to be segregated or treated as separate from their school community."},
+      {"who": "Parents of children with disabilities", "what": "Rights to a free appropriate public education and to challenge schools could weaken if federal rules are removed."}
+    ],
+    "history": [
+      {"when": "1975, United States", "what": "Congress passed the Education for All Handicapped Children Act, now called IDEA, after finding that more than half of children with disabilities were not getting a proper education and 1 million were excluded from public schools.", "lesson": "Federal rules were added because states, left on their own, often failed these children. Removing those rules risks going backward."}
+    ],
+    "sources": [
+      {"label": "The Individuals with Disabilities Education Act (IDEA) (R43631)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R43631.html"},
+      {"label": "Takeaways from the Ed Dept-HHS special education agreement", "publisher": "K-12 Dive", "type": "news", "url": "https://www.k12dive.com/news/takeaways-from-the-ed-dept-hhs-special-education-agreement/823287/"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-019",
+    "case_against": "Federal student aid is a huge, complicated system, and a hasty move risks mistakes that land on borrowers. About 7.8 million borrowers, owing $179 billion, are in default, and Treasury's debt collection office would have to take on all of them. CRS notes critics argue Treasury lacks expertise in student loans and may not be staffed for the job. GAO has agreed to look into the transfer.",
+    "harms": [
+      {"who": "Borrowers in default", "what": "Millions could face collection by an office new to student loans, with risk of errors and lost relief options."},
+      {"who": "Students applying for aid", "what": "Later phases would move FAFSA support too, risking disruption in getting aid for college."}
+    ],
+    "sources": [
+      {"label": "Transition of Servicing Defaulted Federal Student Loans to the Department of the Treasury (R48962)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R48962.html"},
+      {"label": "GAO to probe federal student loan portfolio transfer to Treasury", "publisher": "Bloomberg Government", "type": "news", "url": "https://news.bgov.com/bloomberg-government-news/gao-to-probe-federal-student-loan-portfolio-transfer-to-treasury"},
+      {"label": "Student loans move to Treasury", "publisher": "NPR", "type": "news", "url": "https://www.npr.org/2026/03/19/nx-s1-5753906/student-loans-trump-treasury"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-020",
+    "case_against": "The Office for Civil Rights usually fixes problems by reaching agreements with schools; cutting off funds or going to court is rare. Limiting enforcement to court cases would make help slower, costlier and rarer for students facing discrimination. The Supreme Court ruled in 2001 that private people cannot sue to enforce Title VI's disparate impact rules, so cutting back agency enforcement leaves some kinds of discrimination with no one to enforce against it.",
+    "harms": [
+      {"who": "Students facing discrimination", "what": "Families would have fewer ways to get quick fixes, such as a school agreement to change a policy."},
+      {"who": "Students harmed by unfair but neutral-sounding policies", "what": "Private lawsuits over disparate impact are barred, so if the agency steps back, no one may enforce these rules."}
+    ],
+    "sources": [
+      {"label": "Race Discrimination at School: Title VI and the Department of Education's Office for Civil Rights (IF12455)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF12455.html"},
+      {"label": "Enforcing the Antidiscrimination Mandates of Title VI and Title IX (LSB11316)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB11316.html"},
+      {"label": "New DOE-DOJ interagency agreement marks a meaningful shift in civil rights enforcement", "publisher": "Littler", "type": "law-firm", "url": "https://www.littler.com/news-analysis/asap/new-doe-doj-interagency-agreement-meaningful-shift-civil-rights-enforcement"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-025",
+    "case_against": "These rules help borrowers who were cheated by their colleges, whose schools closed mid-program, or who spent 10 years in public service. Rolling them back puts the cost of a college's misconduct or collapse on students. Public Service Loan Forgiveness alone had helped about 1.25 million borrowers, totaling $93.4 billion, through April 2026. Two federal courts struck down the 2025 rule that narrowed it, finding it went beyond the law.",
+    "harms": [
+      {"who": "Students defrauded by their colleges", "what": "Delaying the 2022 borrower defense rule brings back older, harder rules for getting loans canceled."},
+      {"who": "Students whose schools close", "what": "The older closed-school rules give less automatic relief to students left with debt and no degree."},
+      {"who": "Public service workers", "what": "Nurses, teachers and others at nonprofits or government jobs could lose credit toward forgiveness if their employer is disqualified."}
+    ],
+    "sources": [
+      {"label": "Public Service Loan Forgiveness: Recent Legal Developments (LSB11472)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB11472.html"},
+      {"label": "Federal student loan program provisions effective upon enactment under the One Big Beautiful Bill Act", "publisher": "U.S. Department of Education, FSA Partner Connect", "type": "government", "url": "https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-07-18/federal-student-loan-program-provisions-effective-upon-enactment-under-one-big-beautiful-bill-act"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-028",
+    "case_against": "The 2020 rule narrowed what counts as sexual harassment to conduct that is severe, pervasive and objectively offensive, a higher bar that can leave students without help until harassment becomes extreme. Defining sex only as sex at birth also strips transgender students of federal protection. Before this change, two federal appeals courts had ruled that barring transgender students from the bathroom that matches their gender identity can violate Title IX.",
+    "harms": [
+      {"who": "Students who are sexually harassed", "what": "Schools must act only once harassment meets a high bar, so some students may not get help early."},
+      {"who": "Transgender students", "what": "They lose federal recourse when schools exclude them from facilities or activities."}
+    ],
+    "sources": [
+      {"label": "Education Department Proposes New Title IX Regulations: Responding to Sex Discrimination and Harassment (LSB10804)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB10804.html"},
+      {"label": "Transgender Students and School Bathroom Policies: Title IX Challenges Divide Appellate Courts (LSB10953)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB10953.html"},
+      {"label": "Education Department reinstates Trump Title IX rules from 2020", "publisher": "Chalkbeat", "type": "news", "url": "https://www.chalkbeat.org/2026/09/29/education-department-reinstates-trump-title-ix-rules-from-2020/"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-029",
+    "case_against": "Writing a sex-at-birth definition into Title IX would permanently remove transgender students from the law's protection, ending an issue courts were still deciding. Two federal appeals courts had found that Title IX can protect transgender students from exclusion at school, while another disagreed. A law passed by Congress would close that question for every school in the country, no matter the facts of a student's case.",
+    "harms": [
+      {"who": "Transgender students", "what": "They would have no Title IX claim when excluded or treated differently because they are transgender."}
+    ],
+    "sources": [
+      {"label": "Transgender Students and School Bathroom Policies: Title IX Challenges Divide Appellate Courts (LSB10953)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB10953.html"},
+      {"label": "H.R. 8781, Title IX Clarification Act of 2026 (reported in House)", "publisher": "GovInfo", "type": "government", "url": "https://www.govinfo.gov/app/details/BILLS-119hr8781rh"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-030",
+    "case_against": "Dropping gender identity from the meaning of sex across the whole government leaves transgender students and workers without a federal place to turn when they face discrimination. Federal appeals courts in two circuits had ruled that Title IX can protect transgender students. Courts have been split on the question, but this policy ends federal help for these students everywhere at once.",
+    "harms": [
+      {"who": "Transgender students", "what": "Federal agencies no longer investigate complaints that they were treated unfairly because of their gender identity."},
+      {"who": "Schools", "what": "Schools face mixed signals as federal policy, state laws and court rulings point in different directions."}
+    ],
+    "sources": [
+      {"label": "Transgender Students and School Bathroom Policies: Title IX Challenges Divide Appellate Courts (LSB10953)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB10953.html"},
+      {"label": "Executive order rolls back Title IX to pre-Biden rules, effective immediately", "publisher": "Ballard Spahr", "type": "law-firm", "url": "https://www.ballardspahr.com/insights/alerts-and-articles/2025/02/executive-order-rolls-back-title-ix-to-pre-biden-rules-effective-immediately"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-036",
+    "case_against": "Disparate impact rules catch policies that look neutral but fall much harder on one group without a good reason, such as school discipline rules. The Supreme Court ruled in 2001 that private people cannot sue to enforce these rules, so federal agencies are the only ones who can. If agencies stop investigating them, these kinds of unfair policies go unchecked.",
+    "harms": [
+      {"who": "Students of color", "what": "A neutral-sounding discipline policy that falls much harder on one race could no longer be challenged under these rules."},
+      {"who": "Families who file complaints", "what": "With private lawsuits already barred, they would have nowhere to take this type of claim."}
+    ],
+    "sources": [
+      {"label": "Race Discrimination at School: Title VI and the Department of Education's Office for Civil Rights (IF12455)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF12455.html"},
+      {"label": "U.S. Department of Education removes disparate impact Title VI regulations", "publisher": "U.S. Department of Education", "type": "government", "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-removes-disparate-impact-title-vi-regulations"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-037",
+    "case_against": "Writing a rule that Title VI has no disparate impact standard erases protections agencies have used against policies that unfairly harm one race. Because the Supreme Court bars private lawsuits under these rules, removing them ends enforcement completely. Both the Justice and Education departments made the change without taking public comment.",
+    "harms": [
+      {"who": "Students and communities of color", "what": "Policies in schools and other federally funded programs that fall much harder on one race without good reason could no longer be challenged on that basis."}
+    ],
+    "sources": [
+      {"label": "Race Discrimination at School: Title VI and the Department of Education's Office for Civil Rights (IF12455)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF12455.html"},
+      {"label": "DOJ promulgates final rule removing disparate impact regulations under Title VI", "publisher": "McGuireWoods", "type": "law-firm", "url": "https://www.mcguirewoods.com/client-resources/alerts/2025/12/doj-promulgates-final-rule-removing-disparate-impact-regulations-under-title-vi/"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-041",
+    "case_against": "Income-driven plans keep payments affordable for borrowers with low earnings. The new Repayment Assistance Plan replaces several of them and charges a $10 monthly minimum, while older plans could set a payment of zero for borrowers below a poverty-based cutoff. CRS calls the new plan considerably different from existing ones. Delinquencies have already jumped since payments resumed, and higher minimums could push more borrowers into default.",
+    "harms": [
+      {"who": "Low-income borrowers", "what": "Borrowers whose income is near or below the poverty line now owe at least $10 a month under the new plan."},
+      {"who": "Borrowers already behind on payments", "what": "CRS reports the share of borrowers 31-270 days delinquent rose from 0% to 16% in one quarter after relief ended."}
+    ],
+    "sources": [
+      {"label": "Direct Loan Program: Student Loan Repayment Plans (IF13243)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF13243.html"},
+      {"label": "Student Loans: Late Payment Trends, Servicing Practices, and Credit Reporting Issues (IF13335)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF13335.html"},
+      {"label": "Reimagining and Improving Student Education: final regulations", "publisher": "Federal Register", "type": "government", "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08556/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-045",
+    "case_against": "The payment pause and forgiveness programs were relief that Congress and past administrations created for people in hard times. Ending them abruptly has real costs. CRS reports that after relief ended, the share of borrowers 31 to 270 days late jumped from 0% to 16% in one quarter, and defaults rose after that. Public Service Loan Forgiveness, which this item calls abuse, is a program Congress wrote into law in 2007.",
+    "harms": [
+      {"who": "Borrowers who were on the SAVE plan", "what": "Millions who had been in a payment pause were told to pick a new plan after the agreement to end SAVE."},
+      {"who": "Borrowers falling behind", "what": "Loans more than 90 days late are reported to credit bureaus, and loans become defaulted after 270 days of missed payments."}
+    ],
+    "sources": [
+      {"label": "Student Loans: Late Payment Trends, Servicing Practices, and Credit Reporting Issues (IF13335)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF13335.html"},
+      {"label": "Public Service Loan Forgiveness: Recent Legal Developments (LSB11472)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB11472.html"},
+      {"label": "Agreement with Missouri to end the SAVE plan", "publisher": "U.S. Department of Education", "type": "government", "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-agreement-missouri-end-biden-administrations-illegal-save-plan"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-046",
+    "case_against": "A single loan program with no interest subsidies and no forgiveness would make college costlier for the students with the least money. Subsidized loans spare low-income undergraduates from interest while in school. Removing forgiveness means borrowers with low earnings could pay for decades without ever clearing their debt. Even the 2025 law kept subsidized loans and forgiveness after 30 years, which shows how far this goes.",
+    "harms": [
+      {"who": "Low-income undergraduates", "what": "They would pay interest while in school if subsidized loans ended."},
+      {"who": "Borrowers with low lifetime earnings", "what": "Without any forgiveness, some could keep paying for decades without clearing their debt."}
+    ],
+    "sources": [
+      {"label": "Student Loan Types and Limits in the FY2025 Budget Reconciliation Act (IN12585)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IN12585.html"},
+      {"label": "Direct Loan Program: Student Loan Repayment Plans (IF13243)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF13243.html"}
+    ],
+    "recheck": "No source found estimating how many borrowers would never repay in full without forgiveness.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-065",
+    "case_against": "Letting states opt out of federal K-12 programs and spend the money on any lawful education purpose removes the rules that send help to poor children, English learners and other groups. It also weakens the reporting that shows whether those students are learning. Past block grants show that once money is pooled without targets, its value tends to shrink over time.",
+    "harms": [
+      {"who": "Disadvantaged students", "what": "Money meant for them could be spent on other priorities."},
+      {"who": "Parents and the public", "what": "Without federal reporting rules, it is harder to see whether struggling groups of students are falling behind."}
+    ],
+    "sources": [
+      {"label": "Block Grants: Perspectives and Controversies (R40486)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R40486.html"},
+      {"label": "Federal education waivers give Iowa more funding flexibility", "publisher": "Chalkbeat", "type": "news", "url": "https://www.chalkbeat.org/2026/01/08/federal-education-waivers-give-iowa-more-funding-flexibility/"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-071",
+    "case_against": "Grad PLUS and Parent PLUS loans help students pay for programs when other federal loans run out. Ending Grad PLUS, as the 2025 law did for new borrowers, leaves graduate students with new lifetime limits of $100,000, or $200,000 for professional programs. Students in costly fields like medicine may have to turn to private loans, which lack federal protections such as income-driven repayment and Public Service Loan Forgiveness.",
+    "harms": [
+      {"who": "Graduate and professional students", "what": "Those whose costs exceed the new limits must find other money, often private loans."},
+      {"who": "Families of undergraduates", "what": "Parent PLUS is now capped at $20,000 a year and $65,000 per student, which may not cover costs at some schools."}
+    ],
+    "sources": [
+      {"label": "Student Loan Types and Limits in the FY2025 Budget Reconciliation Act (IN12585)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IN12585.html"}
+    ],
+    "recheck": "That affected students will turn to private loans is a likely outcome, not a measured one; no study was sourced.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-072",
+    "case_against": "Public Service Loan Forgiveness rewards people who spend 10 years in public service jobs, like teaching, law enforcement and work at nonprofits. Congress created it in 2007 to draw people into these jobs. Through April 2026, about 1.25 million borrowers had received forgiveness totaling $93.4 billion. Ending it would break a promise to workers who took lower-paying jobs counting on it.",
+    "harms": [
+      {"who": "Teachers, police, nonprofit staff and other public workers", "what": "They would lose forgiveness they planned their careers around."},
+      {"who": "Public agencies and nonprofits", "what": "They could find it harder to hire and keep workers without this benefit."}
+    ],
+    "sources": [
+      {"label": "Public Service Loan Forgiveness: Recent Legal Developments (LSB11472)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB11472.html"},
+      {"label": "AG Campbell prevents U.S. Department of Education from imposing new restrictions on PSLF", "publisher": "Massachusetts Attorney General", "type": "government", "url": "https://www.mass.gov/news/ag-campbell-prevents-us-department-of-education-from-imposing-new-restrictions-on-public-service-loan-forgiveness"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-073",
+    "case_against": "The Education Secretary's power to change loan terms has been used in emergencies. In March 2020, as COVID-19 hit, the department set interest to 0% and let borrowers pause payments, and Congress then wrote a pause into law. Stripping this power would leave borrowers waiting on Congress during the next crisis. The Supreme Court already limited broad cancellation in 2023, so the change is not needed to stop that.",
+    "harms": [
+      {"who": "Borrowers during emergencies", "what": "Quick relief like the March 2020 payment pause could be delayed or blocked."}
+    ],
+    "sources": [
+      {"label": "Student Loans: A Timeline of Actions Taken in Light of the COVID-19 Pandemic (IF12136)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/IF12136.html"},
+      {"label": "Supreme Court Invalidates Student Loan Cancellation Policy Under the HEROES Act (LSB10997)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/LSB10997.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-075",
+    "case_against": "Indirect costs pay for the labs, safety systems and support staff that research needs but that cannot be tied to one project. Rates are negotiated and range from 30% to 70%. Capping them low would shift costs to universities, and CRS notes the hit could fall hardest on public and smaller universities without big endowments. When NIH tried a 15% cap in 2025, a federal court blocked it and an appeals court agreed.",
+    "harms": [
+      {"who": "Public and smaller universities", "what": "They have less private support to cover research costs the government would no longer pay."},
+      {"who": "Patients and the public", "what": "Less research capacity could slow medical and scientific discoveries that federal grants pay for."}
+    ],
+    "sources": [
+      {"label": "Universities and Indirect Costs for Federally Funded Research (R48540)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/reports/R48540.html"},
+      {"label": "NIH Indirect Costs Policy for Research Grants: Recent Developments (IN12516)", "publisher": "Congressional Research Service", "type": "government", "url": "https://www.everycrsreport.com/files/2026-04-17_IN12516_be9b78de7dbbb7220ddf69779afc193119178fe5.html"}
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch11-099",
+    "case_against": "Competitive grants pay for targeted work like training new teachers. In 2025 the department canceled 104 of 109 grants in two teacher-training programs, about $600 million. A 10% cut to large formula grants would also hit Title I and special education, which serve low-income students and students with disabilities. Congress rejected these cuts in 2026 and raised both programs slightly.",
+    "harms": [
+      {"who": "Teacher-preparation programs and future teachers", "what": "Most grants in two teacher-training programs were canceled in 2025."},
+      {"who": "Low-income students and students with disabilities", "what": "A 10% cut to Title I and special education grants would reduce services for them."}
+    ],
+    "sources": [
+      {"label": "Supreme Court allows Trump to halt millions in teacher-training grants", "publisher": "SCOTUSblog", "type": "news", "url": "https://www.scotusblog.com/2025/04/supreme-court-allows-trump-to-halt-millions-in-teacher-training-grants/"},
+      {"label": "Judge vacates anti-DEI directive that led to teacher-training grant cuts", "publisher": "K-12 Dive", "type": "news", "url": "https://www.k12dive.com/news/judge-vacates-anti-dei-directive-that-led-to-teacher-training-grant-cuts/830931/"},
+      {"label": "Congress rejects deep cuts, safeguards key K-12 funding in FY26 deal", "publisher": "National Association of Elementary School Principals", "type": "advocacy", "url": "https://www.naesp.org/blog/congress-rejects-deep-cuts-safeguards-key-k-12-funding-in-fy26-deal/"}
+    ],
+    "as_of": "2026-10-27"
+  }
+]

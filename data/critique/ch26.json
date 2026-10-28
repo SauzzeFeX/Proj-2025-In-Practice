@@ -1,0 +1,199 @@
+[
+  {
+    "id": "ch26-001",
+    "case_against": "\"Mirror\" tariffs are taxes paid by Americans, not by foreign countries. Federal Reserve Bank of New York economists found that nearly 90 percent of the cost of the 2025 tariffs fell on U.S. firms and consumers. Matching every country's tariffs also invites retaliation, as in 2018-2019, when trading partners hit U.S. farm exports and USDA paid about $25.7 billion to help farmers. The Supreme Court ruled in 2026 that the emergency law used for the 2025 \"reciprocal\" tariffs did not allow them.",
+    "harms": [
+      {
+        "who": "Shoppers and families",
+        "what": "Pay higher prices on imported goods and on products made with imported parts."
+      },
+      {
+        "who": "Farmers and exporters",
+        "what": "Are the usual targets of retaliation and can lose overseas customers."
+      }
+    ],
+    "history": [
+      {
+        "when": "1930, Smoot-Hawley Tariff Act",
+        "what": "A farm-relief bill grew into broad tariff increases across the economy. Many countries adopted similar \"beggar-thy-neighbor\" policies, and U.S. exports to Europe fell from $2.3 billion in 1929 to $784 million in 1932. Historians debate how much the tariff itself deepened the Depression.",
+        "lesson": "Tit-for-tat tariffs shrank trade for everyone. Starting in 1934, the U.S. turned to negotiated tariff cuts instead."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Who is paying for the 2025 U.S. tariffs?",
+        "publisher": "Federal Reserve Bank of New York, Liberty Street Economics",
+        "type": "government",
+        "url": "https://libertystreeteconomics.newyorkfed.org/2026/02/who-is-paying-for-the-2025-u-s-tariffs/"
+      },
+      {
+        "label": "Retaliatory Tariffs on U.S. Agriculture and USDA's Responses: FAQ (R48548)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48548.html"
+      },
+      {
+        "label": "Protectionism in the Interwar Period",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "type": "government",
+        "url": "https://history.state.gov/milestones/1921-1936/protectionism"
+      },
+      {
+        "label": "Supreme Court invalidates IEEPA tariffs",
+        "publisher": "Jones Day",
+        "type": "law-firm",
+        "url": "https://www.jonesday.com/en/insights/2026/02/united-states-supreme-court-invalidates-ieepa-tariffs"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-003",
+    "case_against": "Fully cutting economic ties with China would raise costs for American families and businesses that rely on Chinese goods and parts, and would invite retaliation against U.S. exporters. After the U.S. raised tariffs on Chinese goods in 2018, China put tariffs on U.S. soybeans, and soybean exports to China fell 74 percent by value that year, according to the Congressional Research Service. USDA then paid farmers billions in aid. The administration itself has moved between tariff hikes and trade truces, showing how costly a full break would be.",
+    "harms": [
+      {
+        "who": "Farmers",
+        "what": "Lost sales when China targeted soybeans and other U.S. crops in past trade fights, and would face that risk again."
+      },
+      {
+        "who": "Shoppers and manufacturers",
+        "what": "Would pay more for goods and parts that are hard to source elsewhere."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Retaliatory Tariffs on U.S. Agriculture and USDA's Responses: FAQ (R48548)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48548.html"
+      },
+      {
+        "label": "The Impact of the 2018 Tariffs on Prices and Welfare (Amiti, Redding and Weinstein)",
+        "publisher": "Journal of Economic Perspectives (American Economic Association)",
+        "type": "academic",
+        "url": "https://www.aeaweb.org/articles?id=10.1257/jep.33.4.187"
+      },
+      {
+        "label": "Trump and Xi conclude talks but no deals confirmed",
+        "publisher": "The Star (Kenya)",
+        "type": "news",
+        "url": "https://www.the-star.co.ke/news/world/2026-05-15-trump-and-xi-conclude-very-successful-talks-but-no-deals-confirmed"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-004",
+    "case_against": "Tariffs high enough to block all Chinese goods would be paid mostly by Americans. Studies of the 2018 tariffs found they were fully passed on to U.S. prices, costing Americans about $1.4 billion a month in real income by the end of 2018. New York Fed economists found U.S. firms and consumers bore nearly 90 percent of the 2025 tariffs. China answered earlier U.S. tariffs with its own, raising them to 125 percent on U.S. goods in April 2025.",
+    "harms": [
+      {
+        "who": "Families buying everyday goods",
+        "what": "Pay more for electronics, clothing, toys and other products when tariffs are passed on."
+      },
+      {
+        "who": "U.S. exporters and farmers",
+        "what": "Face retaliation that closes off one of their largest markets."
+      }
+    ],
+    "history": [
+      {
+        "when": "1930, Smoot-Hawley Tariff Act",
+        "what": "Broad U.S. tariff increases were followed by similar moves abroad. World trade fell by about 66 percent between 1929 and 1934. Historians debate how much retaliation the tariff itself caused.",
+        "lesson": "Very high tariffs and the responses they provoke can shrink trade sharply, hurting exporters along with importers."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Impact of the 2018 Tariffs on Prices and Welfare (Amiti, Redding and Weinstein)",
+        "publisher": "Journal of Economic Perspectives (American Economic Association)",
+        "type": "academic",
+        "url": "https://www.aeaweb.org/articles?id=10.1257/jep.33.4.187"
+      },
+      {
+        "label": "Who is paying for the 2025 U.S. tariffs?",
+        "publisher": "Federal Reserve Bank of New York, Liberty Street Economics",
+        "type": "government",
+        "url": "https://libertystreeteconomics.newyorkfed.org/2026/02/who-is-paying-for-the-2025-u-s-tariffs/"
+      },
+      {
+        "label": "Retaliatory Tariffs on U.S. Agriculture and USDA's Responses: FAQ (R48548)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48548.html"
+      },
+      {
+        "label": "Protectionism in the Interwar Period",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "type": "government",
+        "url": "https://history.state.gov/milestones/1921-1936/protectionism"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-009",
+    "case_against": "Banning all Chinese social media apps would cut off platforms that tens of millions of Americans use to speak, work and stay in touch; TikTok alone had more than 170 million U.S. users. When the government tried in 2020 to restrict TikTok and WeChat by executive order, courts blocked those orders. Congress later chose a narrower law requiring a sale of TikTok, and a sale is what happened, showing a full ban was not necessary.",
+    "harms": [
+      {
+        "who": "App users",
+        "what": "Could lose a main way to talk with friends, family and communities, including people overseas."
+      },
+      {
+        "who": "Creators and small businesses",
+        "what": "Could lose audiences and income built on these platforms."
+      }
+    ],
+    "history": [
+      {
+        "when": "2020, United States",
+        "what": "Executive orders 13942 and 13943 sought to restrict TikTok and WeChat. Court injunctions blocked them, and they were later replaced.",
+        "lesson": "Sweeping app bans ran into legal limits; narrower, law-based approaches were used instead."
+      }
+    ],
+    "sources": [
+      {
+        "label": "TikTok and China's Digital Platforms: Issues for Congress (IF12640)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12640.html"
+      },
+      {
+        "label": "TikTok Inc. v. Garland (2025)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/24pdf/604us1r07_k536.pdf"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch26-020",
+    "case_against": "Broad visa cuts for Chinese students and researchers would push scientific talent to other countries. The Congressional Research Service notes that research security rules can slow scientific progress, which itself can hurt national and economic security, and cites scientists warning of a \"chilling effect\" on international collaboration. Targeted screening of real security risks is possible without shutting out a whole nationality, a point the chapter's free-trade author also makes.",
+    "harms": [
+      {
+        "who": "U.S. universities and labs",
+        "what": "Could lose researchers and tuition, slowing work in science and engineering."
+      },
+      {
+        "who": "Chinese and Chinese American scholars",
+        "what": "Could face suspicion and lost opportunities because of nationality rather than conduct."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Federal Research Security Policies: Background and Issues for Congress (R48541)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R48541.html"
+      },
+      {
+        "label": "Secretary Rubio pledges to aggressively revoke visas from Chinese students",
+        "publisher": "WSHU / NPR",
+        "type": "news",
+        "url": "https://www.wshu.org/2025-05-29/secretary-rubio-pledges-to-aggressively-revoke-visas-from-chinese-students"
+      }
+    ],
+    "recheck": "No fetched source gave current numbers of Chinese students or their share of U.S. science graduate programs.",
+    "as_of": "2026-10-27"
+  }
+]

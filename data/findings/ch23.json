@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ch23-001",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Export-Import Bank was not shut down. It kept operating through October 2026, publishing notices of new loan and guarantee applications over $100 million and holding advisory committee meetings. A Senate bill introduced in February 2026 (S. 3772) would renew it for 10 years.",
+    "closeness": "The action ran opposite to this recommendation: the Bank continued operating. Its current legal authority runs through December 31, 2026, and a renewal bill is pending.",
+    "uncertain": "S. 3772 was referred to the Senate Banking Committee; no renewal law was found in the 119th Congress laws through October 2026. Whether Congress renews the charter or lets it lapse at the end of 2026 is not yet known.",
+    "sources": [
+      {
+        "label": "Application for Final Commitment for a Long-Term Loan or Financial Guarantee in Excess of $100 Million: AP300185XX",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20933/application-for-final-commitment-for-a-long-term-loan-or-financial-guarantee-in-excess-of-100"
+      },
+      {
+        "label": "Warner, Cramer introduce legislation reauthorizing EXIM for 10 years (February 5, 2026)",
+        "publisher": "Office of Sen. Mark Warner",
+        "type": "government",
+        "url": "https://www.warner.senate.gov/public/index.cfm/2026/2/warner-cramer-introduce-legislation-reauthorizing-exim-for-10-years"
+      }
+    ],
+    "as_of": "2026-10-28"
+  },
+  {
+    "id": "ch23-002",
+    "status": "not-done",
+    "match": "none",
+    "happened": "The Export-Import Bank was not wound down, and it has been used more, not less, to compete with China. In October 2025 it issued over $2.2 billion in letters of interest for Australian critical-mineral projects, describing them as allied cooperation \"to counter China's export dominance.\" In February 2026 it approved a loan of up to $10 billion for Project Vault, a U.S. critical-minerals reserve.",
+    "key_dates": [
+      {
+        "date": "2025-10-20",
+        "event": "EXIM announces $2.2 billion in critical-minerals letters of interest with Australia"
+      },
+      {
+        "date": "2026-02-03",
+        "event": "EXIM chairman announces up to $10 billion loan for Project Vault"
+      }
+    ],
+    "closeness": "The action went the opposite way from this section: the Bank is being pointed at competition with China, which is what the other section of the chapter (ch23-003) favored. See ch23-001 (Bank not abolished).",
+    "uncertain": "This finding records the Bank's stated aims and deals, not whether they succeed against China. Newest source: February 2026.",
+    "sources": [
+      {
+        "label": "EXIM Powers America First with $2.2 Billion in Critical Minerals Commitments",
+        "publisher": "Export-Import Bank of the United States",
+        "type": "government",
+        "url": "https://exim.gov/news/exim-powers-america-first-22-billion-critical-minerals-commitments-secure-supply-chains"
+      },
+      {
+        "label": "Critical mineral stockpile project wins 'largest ever' US Exim loan",
+        "publisher": "Global Trade Review",
+        "type": "news",
+        "url": "https://www.gtreview.com/?p=121242"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch23-003",
+    "status": "in-effect",
+    "match": "partial",
+    "happened": "The Export-Import Bank kept operating through 2025 and 2026. Federal Register notices show it continued to take applications for large long-term loans and guarantees and to run its advisory committees in 2026. In February 2026 Senators Cramer and Warner introduced a bill (S. 3772) to renew the Bank for 10 years.",
+    "key_dates": [
+      {
+        "date": "2026-02-04",
+        "event": "S. 3772, a 10-year Export-Import Bank renewal bill, introduced in the Senate"
+      },
+      {
+        "date": "2026-09-04",
+        "event": "Notice of 2026-2027 EXIM advisory committee meetings"
+      },
+      {
+        "date": "2026-10-14",
+        "event": "Notice of a new application over $100 million"
+      }
+    ],
+    "closeness": "The Bank was kept, as this section recommended. Its existing program aimed at competing with China predates 2025; new China-focused activity was not reviewed.",
+    "uncertain": "The Bank's charter expires December 31, 2026; the renewal bill was in committee as of the newest source, and no renewal law was found through October 2026.",
+    "sources": [
+      {
+        "label": "Application for Final Commitment for a Long-Term Loan or Financial Guarantee in Excess of $100 Million: AP300185XX",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20933/application-for-final-commitment-for-a-long-term-loan-or-financial-guarantee-in-excess-of-100"
+      },
+      {
+        "label": "Notice of Open Meeting for the 2026-2027 EXIM Advisory and Sub-Saharan Africa Advisory Committees",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18186/notice-of-open-meeting-for-the-2026-2027-exim-advisory-and-sub-saharan-africa-advisory-committees"
+      },
+      {
+        "label": "Warner, Cramer introduce legislation reauthorizing EXIM for 10 years (February 5, 2026)",
+        "publisher": "Office of Sen. Mark Warner",
+        "type": "government",
+        "url": "https://www.warner.senate.gov/public/index.cfm/2026/2/warner-cramer-introduce-legislation-reauthorizing-exim-for-10-years"
+      }
+    ],
+    "as_of": "2026-10-28"
+  }
+]

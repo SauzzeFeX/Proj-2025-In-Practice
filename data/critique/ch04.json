@@ -1,0 +1,384 @@
+[
+  {
+    "id": "ch04-001",
+    "case_against": "Using the military for border work pulls money and troops away from their main job of defending the country, and blurs the long-standing line between soldiers and police. GAO found the Defense Department had committed $2.64 billion to southern border operations by March 2026, partly by shifting $1.74 billion of other 2025 defense funds and $608 million from its counterdrug account. Only $305 million of that was eligible to be paid back by Homeland Security, so most of the cost came out of the military's own budget.",
+    "harms": [
+      {
+        "who": "Service members",
+        "what": "Troops sent to guard the border spend time on civilian law enforcement support instead of training for combat missions."
+      },
+      {
+        "who": "Taxpayers and other defense programs",
+        "what": "Billions of dollars were moved from other defense accounts, including counterdrug funds, to pay for border work."
+      }
+    ],
+    "sources": [
+      {
+        "label": "DOD southern border operations: costs and funding (GAO-26-108437)",
+        "publisher": "U.S. Government Accountability Office",
+        "type": "government",
+        "url": "https://www.gao.gov/products/gao-26-108437"
+      },
+      {
+        "label": "Clarifying the Military's Role in Protecting the Territorial Integrity of the United States",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/clarifying-the-militarys-role-in-protecting-the-territorial-integrity-of-the-united-states/"
+      },
+      {
+        "label": "The Posse Comitatus Act and Related Matters: The Use of the Military to Execute Civilian Law (R42659)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R42659.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-009",
+    "case_against": "Building a bigger nuclear force to match Russia and China at the same time invites both countries to build more too, which is the kind of arms race that makes everyone less safe. The Congressional Research Service notes that some members of Congress worry new U.S. strategic systems could feed \"a competition in nuclear-armed missiles.\" Modernization is already running over budget: the Sentinel missile had a \"critical\" cost breach and has slipped to the early 2030s, so expanding the force would add even more cost to programs struggling to deliver.",
+    "harms": [
+      {
+        "who": "Taxpayers",
+        "what": "The 2025 reconciliation law already gave about $14.7 billion for nuclear forces; a larger arsenal would require far more."
+      },
+      {
+        "who": "Everyone, worldwide",
+        "what": "More nuclear weapons on all sides would raise the risk that a crisis or mistake leads to nuclear use."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Golden Dome: Potential Strategic Stability Considerations for Congress (IN12568)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12568.html"
+      },
+      {
+        "label": "Defense Primer: LGM-35A Sentinel Intercontinental Ballistic Missile (IF11681)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11681.html"
+      },
+      {
+        "label": "Defense funding in the 2025 reconciliation law (IN12580)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12580.html"
+      },
+      {
+        "label": "US Air Force sees early 2030s rollout for revamped Sentinel nuclear missile",
+        "publisher": "Defense News",
+        "type": "news",
+        "url": "https://www.defensenews.com/air/2026/02/17/us-air-force-sees-early-2030s-rollout-for-revamped-sentinel-nuclear-missile/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-039",
+    "case_against": "Barring everyone with a history of gender dysphoria from enlisting turns away willing recruits based on a diagnosis rather than on whether each person can meet the military's standards. The ban replaced a 2021 policy that let transgender people serve openly. A blanket rule like this shuts out people who might be fully fit to serve, and the Supreme Court has let it take effect only while lawsuits continue.",
+    "harms": [
+      {
+        "who": "Transgender Americans who want to serve",
+        "what": "Since a February 2025 Defense Department memo, people with a history of gender dysphoria cannot enlist."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Prioritizing Military Excellence and Readiness (EO 14183)",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/prioritizing-military-excellence-and-readiness/"
+      },
+      {
+        "label": "Pentagon bans trans people from joining military, pauses gender transition procedures",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/pentagon-ban-trans-people-joining-military-pauses-gender-transition-pr-rcna191569"
+      },
+      {
+        "label": "Supreme Court allows Trump to implement transgender military service ban",
+        "publisher": "ABC News",
+        "type": "news",
+        "url": "https://abcnews.com/Politics/supreme-court-allows-trump-implement-transgender-military-service/story?id=121528698"
+      }
+    ],
+    "recheck": "The HIV part of the recommendation is not addressed because no source was found in this session.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-040",
+    "case_against": "Expelling transgender troops removes trained service members, some with years of experience, because of who they are rather than how they perform. Officials put the number in the \"low thousands,\" while advocates estimate up to 15,000. Replacing trained people costs money and time, and a federal appeals court has blocked discharges of the service members who sued while their case continues.",
+    "harms": [
+      {
+        "who": "Transgender service members",
+        "what": "Face being forced out of careers, losing pay, benefits and the chance to serve, after the military trained them."
+      },
+      {
+        "who": "Military units",
+        "what": "Lose trained members, including people in specialized jobs, who must be replaced."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Pentagon bans trans people from joining military, pauses gender transition procedures",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/pentagon-ban-trans-people-joining-military-pauses-gender-transition-pr-rcna191569"
+      },
+      {
+        "label": "Supreme Court allows Trump to implement transgender military service ban",
+        "publisher": "ABC News",
+        "type": "news",
+        "url": "https://abcnews.com/Politics/supreme-court-allows-trump-implement-transgender-military-service/story?id=121528698"
+      },
+      {
+        "label": "Federal appellate court blocks Trump's military ban, stopping discharge of transgender service members (NCLR and GLAD Law press release)",
+        "publisher": "Windy City Times",
+        "type": "advocacy",
+        "url": "https://windycitytimes.com/2026/06/01/federal-appellate-court-blocks-trumps-military-ban-stopping-discharge-of-transgender-service-members/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-045",
+    "case_against": "The order told the Defense Secretary to abolish every diversity office in the department and barred the military and its schools from promoting \"divisive concepts.\" Critics argue that terms like \"divisive concepts\" are vague, so a ban can chill honest teaching and discussion at military schools well beyond any single bad training. Closing every office at once, rather than fixing specific programs, also removes staff who handled fairness concerns in a force drawn from every background.",
+    "harms": [
+      {
+        "who": "Service members of color and women in uniform",
+        "what": "May have fewer places to raise concerns about fair treatment once every diversity office is closed."
+      },
+      {
+        "who": "Cadets, midshipmen and military students",
+        "what": "Teachers may avoid topics that could be seen as \"divisive,\" narrowing what is taught."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Restoring America's Fighting Force",
+        "publisher": "The White House",
+        "type": "government",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-americas-fighting-force/"
+      },
+      {
+        "label": "Recent Executive Actions on Diversity, Equity, and Inclusion (DEI) (IN12497)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12497.html"
+      }
+    ],
+    "recheck": "No source in this session documents specific course or office changes; the argument relies on the order's text.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-048",
+    "case_against": "Service members do not choose where they are stationed, and many states now ban or sharply limit abortion. Without help from the military, a service member's access to legal care can depend on orders she cannot refuse. Pausing all gender transition care also stopped treatment that doctors had already scheduled for service members.",
+    "harms": [
+      {
+        "who": "Women in the military stationed in states with abortion bans",
+        "what": "Without military support, may have to arrange and pay for travel and leave on their own to get care that is legal elsewhere."
+      },
+      {
+        "who": "Transgender service members",
+        "what": "Had scheduled and planned medical care paused by a February 2025 memo."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Enforcing the Hyde Amendment (EO 14182)",
+        "publisher": "Federal Register",
+        "type": "government",
+        "url": "https://www.federalregister.gov/documents/2025/01/31/2025-02175/enforcing-the-hyde-amendment"
+      },
+      {
+        "label": "State Laws Restricting or Prohibiting Abortion (R47595)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R47595.html"
+      },
+      {
+        "label": "Pentagon bans trans people from joining military, pauses gender transition procedures",
+        "publisher": "NBC News",
+        "type": "news",
+        "url": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/pentagon-ban-trans-people-joining-military-pauses-gender-transition-pr-rcna191569"
+      }
+    ],
+    "recheck": "Confirm with a direct source whether and when the Defense Department ended its 2022 abortion travel policy; the cited executive order revoked two 2022 orders but is not the DoD memo itself.",
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-097",
+    "case_against": "Building weapons to attack satellites risks a space arms race, and some kinds can create clouds of debris that threaten every country's satellites, including the GPS, weather and communications satellites Americans use daily. In 2022 the U.S. announced a moratorium on destructive anti-satellite missile tests to promote safer behavior in space. Pushing to field offensive space weapons could undercut that effort and invite China and Russia to expand their own.",
+    "harms": [
+      {
+        "who": "Everyone who uses GPS, weather forecasts or satellite communications",
+        "what": "Debris from attacks or tests in orbit could damage satellites that daily life depends on."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Counterspace Capabilities (IN12420)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12420.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-120",
+    "case_against": "Rushing nuclear programs that are already in trouble tends to raise costs further. The Sentinel missile triggered a \"critical\" cost breach under the Nunn-McCurdy law, the Pentagon now estimates about $141 billion for a modified program, and it needs new silos and will not be ready until the early 2030s. Speeding up timelines on programs like this can lock in design problems and push costs higher before they are solved.",
+    "harms": [
+      {
+        "who": "Taxpayers",
+        "what": "Pay for cost overruns on programs that are already billions over early estimates."
+      },
+      {
+        "who": "Other defense needs",
+        "what": "Money spent on overruns is not available for other priorities."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Defense Primer: LGM-35A Sentinel Intercontinental Ballistic Missile (IF11681)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11681.html"
+      },
+      {
+        "label": "Sentinel nuclear missiles will need new silos, Air Force says",
+        "publisher": "Defense News",
+        "type": "news",
+        "url": "https://www.defensenews.com/air/2025/05/06/sentinel-nuclear-missiles-will-need-new-silos-air-force-says/"
+      },
+      {
+        "label": "US Air Force sees early 2030s rollout for revamped Sentinel nuclear missile",
+        "publisher": "Defense News",
+        "type": "news",
+        "url": "https://www.defensenews.com/air/2026/02/17/us-air-force-sees-early-2030s-rollout-for-revamped-sentinel-nuclear-missile/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-124",
+    "case_against": "Buying more nuclear missiles than planned, and preparing to load extra warheads, signals a buildup that Russia and China are likely to answer with their own. The Congressional Research Service describes \"strategic stability\" as a state where neither side feels pressure to build more weapons or strike first; adding weapons on all sides works against that. It would also add cost to programs, like Sentinel, that are already far over budget.",
+    "harms": [
+      {
+        "who": "Everyone, worldwide",
+        "what": "A three-way nuclear buildup raises the danger of accidents, mistakes or escalation in a crisis."
+      },
+      {
+        "who": "Taxpayers",
+        "what": "Would pay for extra missiles on top of programs already facing cost breaches."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Golden Dome: Potential Strategic Stability Considerations for Congress (IN12568)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12568.html"
+      },
+      {
+        "label": "Defense Primer: LGM-35A Sentinel Intercontinental Ballistic Missile (IF11681)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11681.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-126",
+    "case_against": "The U.S. has not set off a nuclear test since 1992, and its weapons experts say they don't need to: the head of the agency that maintains the arsenal said in 2024 there are \"no technical reasons\" to test. Critics warn that restarting tests would give Russia, China and others an excuse to test too, helping them develop new weapons. And past testing in Nevada left real harm; Congress set up a program in 1990 to compensate people whose health may have been hurt by it.",
+    "harms": [
+      {
+        "who": "People living downwind of test sites",
+        "what": "Past U.S. testing exposed nearby residents to fallout; Congress created a compensation program for those who may have been harmed."
+      },
+      {
+        "who": "Global security",
+        "what": "A U.S. test could free other countries to test and develop new nuclear weapons."
+      }
+    ],
+    "history": [
+      {
+        "when": "1945-1992, mainly at the Nevada test site",
+        "what": "The U.S. carried out 1,054 nuclear explosive tests, 928 of them at the Nevada site, including 100 in the open air. In 1990 Congress created a program to pay people whose health may have been harmed by the testing.",
+        "lesson": "Testing had human and environmental costs that took decades to address. Under a 1963 treaty the U.S. may no longer test in the open air, so new tests would be underground, but they would still restart a practice the U.S. stopped more than 30 years ago."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Nuclear Weapons Tests (IF11662)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF11662.html"
+      },
+      {
+        "label": "Trump says he wants to resume nuclear testing. Here's what that would mean",
+        "publisher": "NPR via KJZZ",
+        "type": "news",
+        "url": "https://www.kjzz.org/npr-top-stories/2025-10-30/trump-says-he-wants-to-resume-nuclear-testing-heres-what-that-would-mean"
+      },
+      {
+        "label": "Titus, Rosen blast Trump plan to resume nuclear weapons testing",
+        "publisher": "Nevada Current",
+        "type": "news",
+        "url": "https://nevadacurrent.com/2025/10/30/titus-rosen-blast-trump-plan-to-resume-nuclear-weapons-testing/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch04-132",
+    "case_against": "Trying to shield the whole country from Russian and Chinese missiles is hugely expensive and may make the world less stable. The Congressional Budget Office estimated that even a limited space-based interceptor system, sized only for rogue states, would cost more than $500 billion, and CRS notes missile defense programs have usually gone over budget and schedule. Russia and China may respond by building more and newer missiles to overwhelm the defense, which is the arms race worry that has followed missile defense since the 1980s.",
+    "harms": [
+      {
+        "who": "Taxpayers",
+        "what": "Congress has already provided about $24.4 billion in 2025 and $13.4 billion more in 2026 for Golden Dome, with total costs estimated far higher."
+      },
+      {
+        "who": "Arms control efforts",
+        "what": "A defense aimed at Russia and China could push them to build up their forces, making future arms limits harder."
+      }
+    ],
+    "history": [
+      {
+        "when": "1983-1991, United States and Soviet Union",
+        "what": "President Reagan's Strategic Defense Initiative aimed to stop Soviet missiles with space-based defenses. Soviet leaders pushed in arms talks to keep the U.S. bound by the ABM Treaty and to limit space-based defenses.",
+        "lesson": "Plans to defend against a major nuclear power's missiles have long been seen by that power as a threat and become a sticking point in arms talks. Technology today is more advanced, but the strategic reaction is likely to be similar."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Defense Primer: The Golden Dome for America (IF13115)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF13115.html"
+      },
+      {
+        "label": "Golden Dome: Potential Strategic Stability Considerations for Congress (IN12568)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12568.html"
+      },
+      {
+        "label": "Golden Dome funding in the 2025 reconciliation law (IN12576)",
+        "publisher": "Congressional Research Service via EveryCRSReport",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IN12576.html"
+      },
+      {
+        "label": "Congress passes $839 billion budget for defense",
+        "publisher": "Air & Space Forces Magazine",
+        "type": "news",
+        "url": "https://www.airandspaceforces.com/congress-passes-839-billion-budget-defense/"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ch28-001",
+    "case_against": "Congress wrote Section 230 in 1996 so websites could make their own decisions about removing harmful posts without being treated as the publisher of everything users say. Having the FCC, a government agency, reinterpret the law to strip that protection would give officials leverage over what platforms allow online. The First Amendment can protect a private forum's editorial choices about others' speech, as the Supreme Court discussed in a 2024 case on state social media laws. Some conservative contributors to the chapter itself oppose regulating platforms' moderation.",
+    "harms": [
+      {
+        "who": "Internet users",
+        "what": "Could see platforms remove more lawful posts to avoid lawsuits, or stop removing spam and abuse."
+      },
+      {
+        "who": "Small websites and forums",
+        "what": "Could face legal costs they cannot afford if their protection is narrowed."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Section 230: An Overview (R46751)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R46751.html"
+      },
+      {
+        "label": "Moody v. NetChoice, LLC: The Supreme Court Addresses Facial Challenges to State Social Media Laws (LSB11224)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11224.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-004",
+    "case_against": "Section 230 is why sites with user posts, from big platforms to small forums and review sites, can operate without being sued over every comment. Courts have read it as broad protection for claims based on what others post. Scrapping its approach could push sites to delete far more lawful speech, or to stop moderating at all, and would hit small sites hardest because they cannot afford lawsuits.",
+    "harms": [
+      {
+        "who": "Small online businesses and community sites",
+        "what": "Could face lawsuits over user posts and shut down comment sections or entire services."
+      },
+      {
+        "who": "People sharing views online",
+        "what": "Could see more posts removed as platforms try to limit legal risk."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Section 230: An Overview (R46751)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R46751.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-005",
+    "case_against": "Applying anti-discrimination rules to tech companies' decisions about content would force private sites, and even web hosts, to carry speech they object to. The Supreme Court has said the First Amendment protects a private forum's editorial choices, just as it protects a newspaper deciding what to print or parade organizers deciding who marches. Such rules could make it hard for sites to remove hate speech, scams or harassment.",
+    "harms": [
+      {
+        "who": "Users targeted by harassment or scams",
+        "what": "Could see platforms unable to remove harmful content without risking legal claims."
+      },
+      {
+        "who": "Private companies",
+        "what": "Would lose control over what their own services host."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Moody v. NetChoice, LLC (LSB11224)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/LSB11224.html"
+      },
+      {
+        "label": "Section 230: An Overview (R46751)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/R46751.html"
+      }
+    ],
+    "as_of": "2026-10-27"
+  },
+  {
+    "id": "ch28-009",
+    "case_against": "Banning TikTok outright would cut off a platform with more than 170 million U.S. users who use it to speak, learn and earn money. The 2024 law, which the Supreme Court upheld in January 2025 against a free-speech challenge, required a sale rather than an immediate ban. A sale to a U.S.-controlled venture closed in January 2026, showing the security concerns could be addressed without silencing users. Earlier attempts to restrict the app by executive order in 2020 were blocked by courts.",
+    "harms": [
+      {
+        "who": "TikTok users and creators",
+        "what": "Would lose a main platform for expression and, for many creators, income."
+      }
+    ],
+    "sources": [
+      {
+        "label": "TikTok Inc. v. Garland (2025)",
+        "publisher": "Supreme Court of the United States",
+        "type": "court",
+        "url": "https://www.supremecourt.gov/opinions/24pdf/604us1r07_k536.pdf"
+      },
+      {
+        "label": "TikTok and China's Digital Platforms: Issues for Congress (IF12640)",
+        "publisher": "Congressional Research Service",
+        "type": "government",
+        "url": "https://www.everycrsreport.com/reports/IF12640.html"
+      },
+      {
+        "label": "TikTok divestiture deal closes",
+        "publisher": "Axios",
+        "type": "news",
+        "url": "https://axios.com/2026/01/23/tiktok-deal-trump-app-ban"
+      }
+    ],
+    "as_of": "2026-10-27"
+  }
+]
